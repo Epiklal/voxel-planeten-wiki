@@ -1,0 +1,55 @@
+# Leben, Schaden und Teams
+
+**Lebenspunkte** (beim Überleben und im Abenteuer): 10 Herzen über der
+Schnellleiste. Wer eine Weile nichts abbekommt, erholt sich. Schaden gibt es durch:
+
+- **Fallen**: ein Lebenspunkt je Block über 3, den man auf der Erde fallen müsste,
+  um so schnell aufzuschlagen. Es zählt die Aufprallgeschwindigkeit wie in echt –
+  auf dem Mond (wenig Schwerkraft) fällt man viel weiter ohne Schaden. Ins Wasser
+  fallen tut nicht weh.
+- **Keine Luft**: Unter Wasser hält man 15 Sekunden die Luft an (blaue Blasen
+  rechts über der Schnellleiste), danach ertrinkt man langsam. Atemluft gibt es nur
+  auf der Erde und nur bis 8 km Höhe – im Weltall und auf allen anderen
+  Himmelskörpern braucht man einen **Raumanzug**, sonst erstickt man nach 15
+  Sekunden (schneller als beim Ertrinken). Der Anzug ist luftdicht, schützt also
+  auch unter Wasser. Angezogen wird er im Inventar: auf den Platz "A" rechts oben
+  legen oder mit Shift anklicken – er kommt über die Rüstung (siehe unten).
+- **Ersticken im Block** (Kopf in einem festen Block) und **Kakteen** (anfassen).
+- **Stromschläge** (blanke Kabel unter Spannung, siehe Strom).
+- **Schläge** anderer Spieler (Linksklick auf sie): Faust 1, Spitzhacke 2–4, Axt 3–6,
+  **Schwert** 4–7 Lebenspunkte (Stein, Eisen, Titan), der Getroffene fliegt ein Stück
+  zurück. Nur in **PvP-Welten** (beim Anlegen wählbar, später `/pvp an|aus`; alte
+  Welten haben PvP an).
+
+**Teams**: `/team gründen Name` legt ein Team an, `/team einladen Spieler` lädt
+ein, der Eingeladene tritt mit `/team beitreten Name` bei; `/team verlassen`,
+`/team rauswerfen Spieler` (nur wer gegründet hat), `/team` zeigt die Mitglieder.
+Im selben Team sieht man immer, wo die anderen sind (grünes Zeichen mit Name und
+Entfernung, auch durch Wände und auf anderen Himmelskörpern), und wo sie zuletzt
+gestorben sind (rotes Kreuz; den eigenen Todesort sieht man auch ohne Team – er
+verschwindet, wenn man dort ankommt). Wer seinen **Standort teilt** (Taste L oder
+`/standort`), ist für alle zu sehen (blau). **Admins** sehen alle (orange) – in
+einer PvP-Welt aber nur im Kreativmodus. Mit **G markiert** man, was unter dem
+Fadenkreuz ist (gelb, 30 Sekunden): Das sieht das eigene Team, ohne Team alle.
+Teams stehen in `teams.txt` im Weltordner. Wer zu sehen ist, steht auch auf der
+**Planetenkarte** (M) als Raute mit Namen. Taste **N** blendet alle Zeichen für
+Mitspieler aus und wieder ein. Über den Figuren der Mitspieler in der Nähe (bis
+64 m) steht ihr **Name** – auch durch Wände, wie in Minecraft; wer schleicht, dessen
+Namen sieht man nur von nah.
+
+**Animationen**: Beim Zuschlagen, Abbauen und Bauen holt der Arm aus – in der
+Ich-Ansicht sieht man die eigene Hand mit dem, was man hält (Werkzeuge und andere
+Gegenstände als kleine 3D-Modelle aus ihren Bildchen, Blöcke als Würfel), die
+anderen sehen den Schlag und den Gegenstand an der Figur.
+- **Strahlung** (gelbes Zeichen rechts über der Schnellleiste: Sv/h und die
+  angesammelte Dosis): Der Körper sammelt sie an und baut sie langsam wieder ab
+  (in etwa 10 Minuten auf ein Drittel). Ab 1 Sievert wird man strahlenkrank und
+  verliert Lebenspunkte. Wie in echt schützen auf der Erde Atmosphäre und Magnetfeld;
+  im Weltall gibt es kosmische Strahlung und die der Sonne (je näher, desto mehr),
+  in den Van-Allen-Gürteln um die Erde mehr und in den Strahlungsgürteln des
+  Jupiters sehr viel: Io ist der strahlendste Ort im Sonnensystem, auf Europa
+  noch heftig, auf Kallisto ruhig. Auf dem Boden verdeckt der Himmelskörper den
+  halben Himmel, jeder feste Block über dem Kopf halbiert die Strahlung (Höhle,
+  Bunker). Uran strahlt auch: Uranerz in der Nähe, und vor allem Uranzellen und
+  Brennstäbe im Inventar (30 Brennstäbe: 12 Sv/h). Die Stärken sind fürs Spiel
+  verstärkt (in echt dauert es Tage), die Verhältnisse stimmen ungefähr.

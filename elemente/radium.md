@@ -1,0 +1,38 @@
+# Radium
+
+![Radium](../bilder/elemente/radium.png)
+
+Leuchtet im Dunkeln. In den 1920ern malten Arbeiterinnen damit Zifferblätter und leckten die Pinsel spitz – viele starben.
+
+| Eigenschaft | Wert |
+|---|---|
+| Symbol | Ra |
+| Ordnungszahl | 88 |
+| Gruppe | Erdalkalimetall |
+| Zustand (20 °C) | fest |
+| Dichte | 5,5 g/cm³ |
+| Schmilzt bei | 700 °C |
+| Härte (Mohs) | 1,5 |
+| Radioaktiv | ja, Halbwertszeit 1600 Jahre |
+| Ausrüstung daraus | ja |
+
+## Herstellen
+
+- 16 × [Uranerz](../bloecke/uranerz.md) → 1 × [Radium](../elemente/radium.md) (Trennanlage, 60 s)
+
+## Ausrüstung
+
+Aus Radium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
+
+- ![](../bilder/ausruestung/radiumspitzhacke.png) Radiumspitzhacke: 3 × Radium + 2 × Bretter
+- ![](../bilder/ausruestung/radiumaxt.png) Radiumaxt: 3 × Radium + 2 × Bretter
+- ![](../bilder/ausruestung/radiumschwert.png) Radiumschwert: 2 × Radium + 1 × Bretter
+- ![](../bilder/ausruestung/radiumhelm.png) Radiumhelm: 5 × Radium
+- ![](../bilder/ausruestung/radiumharnisch.png) Radiumharnisch: 8 × Radium
+- ![](../bilder/ausruestung/radiumbeinschutz.png) Radiumbeinschutz: 7 × Radium
+- ![](../bilder/ausruestung/radiumstiefel.png) Radiumstiefel: 4 × Radium
+
+## Verwendet für
+
+[Radon](../elemente/radon.md), [Actinium](../elemente/actinium.md)
+

@@ -1,0 +1,17 @@
+# Förderbänder
+
+**Förderbänder** (jedes ein Block): Beim Aufstellen zeigt ein Band vom Spieler
+weg – in diese Richtung wird gefördert, 1 Block pro Sekunde, höchstens 2
+Gegenstände pro Block (120 pro Minute). Bänder nehmen von hinten und von der
+Seite an, so baut man Kurven. Ein **Förderaufzug** hebt senkrecht: Aufzüge
+übereinander stapeln, der oberste gibt nach vorne auf ein Band ab. Der
+**Fallschacht** (blau) ist das Gegenstück nach unten: oben von einem Band
+hineinfahren lassen, Schächte untereinander stapeln, der unterste gibt nach vorne
+ab. Das **schnelle Förderband** (blaue Wangen) fährt 2 Blöcke pro Sekunde
+(240 pro Minute) und passt überall, wo ein normales Band passt. Der
+**Verteiler** (orange) gibt reihum nach links, vorne und rechts ab (wer voll ist,
+wird übersprungen), der **Zusammenführer** (blau) nimmt von links, hinten und
+rechts. Zeigt ein Band auf einen Ofen oder eine Kiste, kommt dort alles hinein
+(beim Ofen Erz oben, Kohle und Holz ins Feuer). Ein Band, das an einem Ofen
+oder einer Kiste anfängt, holt heraus: Barren bzw. was in der Kiste liegt.
+Beim Abbauen bekommt man auch zurück, was gerade darauf fährt.

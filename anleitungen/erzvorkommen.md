@@ -1,0 +1,11 @@
+# Erzvorkommen
+
+**Erzvorkommen**: Neben den Erzadern im Gestein (die man von Hand abbaut) gibt es
+an der Oberfläche unerschöpfliche Vorkommen – etwa alle 100 m eins, je nach
+Himmelskörper andere Erze (auf der Erde vor allem Eisen, Kohle, Kupfer, Kalkstein).
+Ein Vorkommen ist ein Feld von 3 × 3 dunklen, kräftig gesprenkelten Blöcken auf
+einem eingeebneten Platz; 5, 7 oder 9 der Felder sind Erz (unrein, normal, rein).
+Von Hand lassen sie sich nicht abbauen. Eine **Bergbaumaschine** (3×3, 4 hoch,
+5 MW) darauf gestellt (auf das mittlere Feld zielen) fördert für immer – 10 pro
+Minute je Erzfeld darunter, ein reines Vorkommen also 90 pro Minute. Das Erz
+kommt vorne in der Mitte heraus, ideal für ein Band zum Schmelzer.

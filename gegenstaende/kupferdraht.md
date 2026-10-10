@@ -1,0 +1,12 @@
+# Kupferdraht
+
+![Kupferdraht](../bilder/gegenstaende/kupferdraht.png)
+
+## Herstellen
+
+- 1 × [Kupferbarren](../elemente/kupferbarren.md) → 2 × [Kupferdraht](../gegenstaende/kupferdraht.md) (Werkbank, 4 s)
+
+## Verwendet für
+
+[Strommast](../gegenstaende/strommast.md), [Biomasse-Brenner](../gegenstaende/biomasse_brenner.md), [Schmelzer](../gegenstaende/schmelzer.md), [Planetenkarte](../gegenstaende/planetenkarte.md), [Kabel](../gegenstaende/kabel.md), [Transformator](../gegenstaende/transformator.md), [Kupferkabel](../gegenstaende/kupferkabel.md), [Akku](../gegenstaende/akku.md), [Solarmodul](../gegenstaende/solarmodul.md), [Ionentriebwerk](../bloecke/ionentriebwerk.md), [Schiffsgenerator](../bloecke/schiffsgenerator.md), [Plasmaröhre](../bloecke/plasmaroehre.md), [Bauplan: Mondfähre](../gegenstaende/bauplan_mondfaehre.md), [Bauplan: Plasmakreuzer](../gegenstaende/bauplan_plasmakreuzer.md), [Bauplan: Rakete](../gegenstaende/bauplan_rakete.md), [Bauplan: Raumstation](../gegenstaende/bauplan_raumstation.md), [Bauplan: Drehring](../gegenstaende/bauplan_drehring.md), [Elektromotor](../bloecke/elektromotor.md), [Induktionsofen](../gegenstaende/induktionsofen.md), [Elektrolyseanlage](../gegenstaende/elektrolyseanlage.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md), [Rotor](../gegenstaende/rotor.md)
+
