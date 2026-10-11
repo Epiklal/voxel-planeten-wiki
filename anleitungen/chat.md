@@ -1,27 +1,10 @@
 # Chat und Befehle
 
-T oder Enter öffnet den Chat (wie in Minecraft, `/` öffnet ihn gleich mit `/`). Was
-man schreibt, lesen alle; neue Zeilen stehen ein paar Sekunden links unten. Befehle
-fangen mit `/` an und gehen auch unter ihrem englischen Minecraft-Namen
-(`/gamemode`, `/give`, `/tp`, `/time`, `/kill`, `/op`, `/clear`, `/gamerule` …).
-`/hilfe` zeigt, welche man selbst darf.
+T oder Enter öffnet den Chat (wie in Minecraft, `/` öffnet ihn gleich mit `/`). Was man schreibt, lesen alle; neue Zeilen stehen ein paar Sekunden links unten. Befehle fangen mit `/` an und gehen auch unter ihrem englischen Minecraft-Namen (`/gamemode`, `/give`, `/tp`, `/time`, `/kill`, `/op`, `/clear`, `/gamerule` …). `/hilfe` zeigt, welche man selbst darf.
 
-**Wie in Minecraft**: Über der Eingabe stehen Vorschläge – Befehle (nur die, die
-man darf), danach je nach Stelle Spieler, Gegenstände, Spielmodi, an/aus …; **Tab**
-übernimmt den ersten, weiteres Tab blättert. Ohne Vorschlag steht dort, wie der
-Befehl geht. **Pfeil hoch/runter** holt frühere Eingaben zurück (Enter führt den
-letzten Befehl noch einmal aus). Statt eines Spielernamens geht **@s** (ich), **@p**
-(der Nächste), **@r** (ein zufälliger) und **@a** (alle – der Befehl gilt dann für
-jeden), z. B. `/give @a Eisenschwert 2`. **Koordinaten** wie bei `/tp 100 64 200`
-sind x und z auf der Würfelseite, auf der man steht, und y die Höhe (wie
-"Block … Schicht" in F3); `~` heißt "hier", `~5` "5 weiter", z. B. `/tp ~ ~10 ~`.
+**Wie in Minecraft**: Über der Eingabe stehen Vorschläge – Befehle (nur die, die man darf), danach je nach Stelle Spieler, Gegenstände, Spielmodi, an/aus …; **Tab** übernimmt den ersten, weiteres Tab blättert. Ohne Vorschlag steht dort, wie der Befehl geht. **Pfeil hoch/runter** holt frühere Eingaben zurück (Enter führt den letzten Befehl noch einmal aus). Statt eines Spielernamens geht **@s** (ich), **@p** (der Nächste), **@r** (ein zufälliger) und **@a** (alle – der Befehl gilt dann für jeden), z. B. `/give @a Eisenschwert 2`. **Koordinaten** wie bei `/tp 100 64 200` sind x und z auf der Würfelseite, auf der man steht, und y die Höhe (wie "Block … Schicht" in F3); `~` heißt "hier", `~5` "5 weiter", z. B. `/tp ~ ~10 ~`.
 
-Jeder Spieler hat einen **Rang**: Spieler, Unterstützer, Moderator oder Admin. Wer
-einen höheren Rang hat, darf alles, was die darunter dürfen. Wer einem anderen etwas
-tut (stummschalten, rauswerfen, sperren), braucht einen höheren Rang als dieser. Der
-Gastgeber einer eigenen Welt ist immer Admin; auf einem Server vergibt man Ränge mit
-`/setzerang` (oder in der Server-Konsole). Gespeichert wird in `raenge.txt` im
-Weltordner, Sperren in `gesperrt.txt`.
+Jeder Spieler hat einen **Rang**: Spieler, Unterstützer, Moderator oder Admin. Wer einen höheren Rang hat, darf alles, was die darunter dürfen. Wer einem anderen etwas tut (stummschalten, rauswerfen, sperren), braucht einen höheren Rang als dieser. Der Gastgeber einer eigenen Welt ist immer Admin; auf einem Server vergibt man Ränge mit `/setzerang` (oder in der Server-Konsole). Gespeichert wird in `raenge.txt` im Weltordner, Sperren in `gesperrt.txt`.
 
 | Befehl                                         | Wer                  | Was                                                                                |                                              |                            |                                                                                           |
 | ---------------------------------------------- | ------------         | ----------------------------------------------------------------------             |                                              |                            |                                                                                           |

@@ -1,13 +1,6 @@
 # Himmelskörper
 
-Sonne, 8 Planeten, 9 Zwergplaneten und alle 466 bekannten Monde – vom Erdmond bis
-zu Brocken von 700 m Durchmesser. Alle Größen, Bahnen, Umlaufzeiten, Massen und
-Drehachsen sind echt; wo ein Körper am 1. Januar 2000 stand, steht er auch zu
-Spielbeginn. **Schwerkraft** ist im Verhältnis zur Erde angegeben; die **Sprunghöhe** gilt
-im Spiel (dort ist die Schwerkraft überall 2,45-mal so stark wie echt, damit sich
-Springen auf der Erde wie in Blockspielen anfühlt). Start mit `--planet <Name>`
-(Groß-/Kleinschreibung egal; englische Namen wie `earth`, `ganymede` gehen auch;
-Monde ohne Namen heißen wie ihre vorläufige Bezeichnung, z. B. `--planet "S/2003 J 2"`).
+Sonne, 8 Planeten, 9 Zwergplaneten und alle 466 bekannten Monde – vom Erdmond bis zu Brocken von 700 m Durchmesser. Alle Größen, Bahnen, Umlaufzeiten, Massen und Drehachsen sind echt; wo ein Körper am 1. Januar 2000 stand, steht er auch zu Spielbeginn. **Schwerkraft** ist im Verhältnis zur Erde angegeben; die **Sprunghöhe** gilt im Spiel (dort ist die Schwerkraft überall 2,45-mal so stark wie echt, damit sich Springen auf der Erde wie in Blockspielen anfühlt).
 
 ## Planeten
 
@@ -25,99 +18,37 @@ Monde ohne Namen heißen wie ihre vorläufige Bezeichnung, z. B. `--planet "S/20
  
 ## Karte des Planeten
 
-Oben rechts ist immer eine **kleine Karte** (Taste K blendet sie aus): Norden oben,
-man selbst als roter Pfeil in Blickrichtung, dazu Bauwerke, Mitspieler, Todesorte
-und Markierungen; je höher man ist, desto weiter reicht sie. Mit **M** öffnet sich
-die **große Karte**: Ziehen verschiebt, das Mausrad zoomt – von einzelnen Blöcken
-bis zur ganzen Kugel. Das Gelände kommt aus dem Weltgenerator: Meere (tiefes Wasser
-dunkler), Strände, Wüsten, Steppen, Wälder, Gebirge mit Schatten, Eis und Schnee.
+Oben rechts ist immer eine **kleine Karte** (Taste K blendet sie aus): Norden oben, man selbst als roter Pfeil in Blickrichtung, dazu Bauwerke, Mitspieler, Todesorte und Markierungen; je höher man ist, desto weiter reicht sie. Mit **M** öffnet sich die **große Karte**: Ziehen verschiebt, das Mausrad zoomt – von einzelnen Blöcken bis zur ganzen Kugel. Das Gelände kommt aus dem Weltgenerator: Meere (tiefes Wasser dunkler), Strände, Wüsten, Steppen, Wälder, Gebirge mit Schatten, Eis und Schnee.
 
-**Zu sehen ist nur, wo man schon war**: am Boden ein paar hundert Meter um einen
-herum, je höher man fliegt, desto mehr (aus dem Orbit ein großes Stück des
-Planeten); der Rest ist dunkel. Im Kreativ- und Zuschauermodus sieht man alles. Was
-man aufgedeckt hat, merkt sich der Client je Welt (`karten/<seed>.txt` neben den
-Einstellungen).
+**Zu sehen ist nur, wo man schon war**: am Boden ein paar hundert Meter um einen herum, je höher man fliegt, desto mehr (aus dem Orbit ein großes Stück des Planeten); der Rest ist dunkel. Im Kreativ- und Zuschauermodus sieht man alles. Was man aufgedeckt hat, merkt sich der Client je Welt (`karten/<seed>.txt` neben den Einstellungen).
 
-Zoomt man ganz hinaus und dreht das Mausrad weiter, wird daraus die
-**Weltall-Karte** (wenn man darf, siehe unten) – und umgekehrt: Zoomt man in der
-Weltall-Karte an einen Planeten oder Mond heran, wird er zur Kugel mit seinem
-Gelände und ganz nah zu genau derselben Karte.
+Zoomt man ganz hinaus und dreht das Mausrad weiter, wird daraus die **Weltall-Karte** (wenn man darf, siehe unten) – und umgekehrt: Zoomt man in der Weltall-Karte an einen Planeten oder Mond heran, wird er zur Kugel mit seinem Gelände und ganz nah zu genau derselben Karte.
 
 ## Wegpunkte
 
-Benannte Stellen auf einem Planeten oder Mond – im Bild als Fähnchen mit Name und
-Entfernung (auch durch Wände und über den Horizont), auf der kleinen und der großen
-Karte in ihrer Farbe. Gespeichert werden sie **auf dem Server beim Spieler** (je
-Welt, mit dem Himmelskörper): Wer auf einem Server spielt, hat sie auf jedem Rechner.
+Benannte Stellen auf einem Planeten oder Mond – im Bild als Fähnchen mit Name und Entfernung (auch durch Wände und über den Horizont), auf der kleinen und der großen Karte in ihrer Farbe. Gespeichert werden sie **auf dem Server beim Spieler** (je Welt, mit dem Himmelskörper): Wer auf einem Server spielt, hat sie auf jedem Rechner.
 
-- **Setzen**: in der großen Karte (M) links einen Namen eintippen und Enter bzw.
-  "Hier" (wo man steht) – oder **Rechtsklick auf die Karte** (dort, auf dem Boden).
-  Oder im Chat `/wegpunkt setzen <Name>`.
-- **Liste je Planet**: Links in der Karte stehen die Wegpunkte des Himmelskörpers,
-  auf dem man ist (ein Klick auf den Namen fährt hin), darunter, wie viele auf
-  anderen Körpern liegen; `/wegpunkt liste` zeigt alle, nach Himmelskörper.
+- **Setzen**: in der großen Karte (M) links einen Namen eintippen und Enter bzw. "Hier" (wo man steht) – oder **Rechtsklick auf die Karte** (dort, auf dem Boden). Oder im Chat `/wegpunkt setzen <Name>`.
+- **Liste je Planet**: Links in der Karte stehen die Wegpunkte des Himmelskörpers, auf dem man ist (ein Klick auf den Namen fährt hin), darunter, wie viele auf anderen Körpern liegen; `/wegpunkt liste` zeigt alle, nach Himmelskörper.
 - **an/aus**: im Bild zeigen oder nicht (auf der Karte bleibt er), **x** löscht.
-- **Teilen**: "teilen" schickt ihn an das eigene Team (ohne Team: an alle), oder
-  `/wegpunkt teilen <Name> <Spieler|team|alle>`. Bei den anderen steht er dann mit
-  "(von …)" in der Liste; noch einmal geteilt, ersetzt er den alten.
-- `/wegpunkt umbenennen <Name> <Neu>`, `/wegpunkt löschen <Name>` – Leerzeichen im
-  Namen schreibt man in Befehlen als `_`.
+- **Teilen**: "teilen" schickt ihn an das eigene Team (ohne Team: an alle), oder `/wegpunkt teilen <Name> <Spieler|team|alle>`. Bei den anderen steht er dann mit "(von …)" in der Liste; noch einmal geteilt, ersetzt er den alten.
+- `/wegpunkt umbenennen <Name> <Neu>`, `/wegpunkt löschen <Name>` – Leerzeichen im Namen schreibt man in Befehlen als `_`.
 
 ## Planetenkarte (Weltall-Karte)
 
-Ein Gegenstand (Werkbank: 2 Eisenplatten, 4 Kupferdraht, 1 Quarzkristall), der das
-Sonnensystem in 3D zeigt – in echtem Maßstab, mit allen Bahnen und wo jeder
-Körper gerade steht. **Ziehen** (linke Maustaste) dreht die Ansicht um die Mitte,
-mit der **rechten Maustaste** verschiebt man sie; "Von oben" bzw. "Schräg" oben
-rechts springt zurück. Planeten und Zwergplaneten stehen auf dünnen Stielen zur
-Ebene der Erdbahn – so sieht man, wie weit z. B. Pluto darüber oder darunter ist. Rot markiert: wo man selbst ist. Rechts stehen alle Planeten
-und Zwergplaneten mit ihrer Entfernung von einem; ein Klick auf einen Namen fährt
-hin und zoomt so weit, dass man seine großen Monde sieht. Darunter Angaben zum
-ausgewählten Körper: Entfernung, wie lange Licht bis dorthin braucht, Radius,
-Abstand zur Sonne bzw. zum Planeten, Umlaufzeit, wie lange ein Tag dauert,
-Schwerkraft, Zahl der Monde. Entfernungen stehen in km, Mio. km, Mrd. km und
-Bio. km. Der Tag geht von Sonnenaufgang zu Sonnenaufgang und ist darum nicht ganz
-gleich der Drehung in den Tabellen: Die Erde dreht sich in 23 h 56 min, ein Tag
-dauert 24 h; auf der Venus 117 Tage statt 243, auf dem Mond 29,5 Tage.
-Mausrad zoomt (vom ganzen Sonnensystem bis zu einzelnen Monden), ein Klick auf
-einen Punkt wählt ihn aus (die Karte dreht sich dann um ihn). Ein roter Pfeil an
-der eigenen Position zeigt, wohin man gerade schaut.
+Ein Gegenstand (Werkbank: 2 Eisenplatten, 4 Kupferdraht, 1 Quarzkristall), der das Sonnensystem in 3D zeigt – in echtem Maßstab, mit allen Bahnen und wo jeder Körper gerade steht. **Ziehen** (linke Maustaste) dreht die Ansicht um die Mitte, mit der **rechten Maustaste** verschiebt man sie; "Von oben" bzw. "Schräg" oben rechts springt zurück. Planeten und Zwergplaneten stehen auf dünnen Stielen zur Ebene der Erdbahn – so sieht man, wie weit z. B. Pluto darüber oder darunter ist. Rot markiert: wo man selbst ist. Rechts stehen alle Planeten und Zwergplaneten mit ihrer Entfernung von einem; ein Klick auf einen Namen fährt hin und zoomt so weit, dass man seine großen Monde sieht. Darunter Angaben zum ausgewählten Körper: Entfernung, wie lange Licht bis dorthin braucht, Radius, Abstand zur Sonne bzw. zum Planeten, Umlaufzeit, wie lange ein Tag dauert, Schwerkraft, Zahl der Monde. Entfernungen stehen in km, Mio. km, Mrd. km und Bio. km. Der Tag geht von Sonnenaufgang zu Sonnenaufgang und ist darum nicht ganz gleich der Drehung in den Tabellen: Die Erde dreht sich in 23 h 56 min, ein Tag dauert 24 h; auf der Venus 117 Tage statt 243, auf dem Mond 29,5 Tage. Mausrad zoomt (vom ganzen Sonnensystem bis zu einzelnen Monden), ein Klick auf einen Punkt wählt ihn aus (die Karte dreht sich dann um ihn). Ein roter Pfeil an der eigenen Position zeigt, wohin man gerade schaut.
 
-Solange man die Karte **in der Hand** hält, stehen im Bild Wegweiser: wo am Himmel
-Sonne, Planeten, Zwergplaneten und die großen Monde in der Nähe sind, mit Name und
-Entfernung – so weiß man, wohin man fliegen muss. Was außerhalb des Bildes liegt,
-zeigt ein Punkt am Rand in seiner Richtung; was hinter dem eigenen Planeten liegt
-(unter dem Horizont), ist blasser. Mit **P** (umbelegbar) schaltet man dieselben
-Wegweiser dauerhaft an und aus – das geht im Kreativmodus, wenn man die Karte
-irgendwo im Inventar hat, oder im Cockpit eines Schiffs.
+Solange man die Karte **in der Hand** hält, stehen im Bild Wegweiser: wo am Himmel Sonne, Planeten, Zwergplaneten und die großen Monde in der Nähe sind, mit Name und Entfernung – so weiß man, wohin man fliegen muss. Was außerhalb des Bildes liegt, zeigt ein Punkt am Rand in seiner Richtung; was hinter dem eigenen Planeten liegt (unter dem Horizont), ist blasser. Mit **P** (umbelegbar) schaltet man dieselben Wegweiser dauerhaft an und aus – das geht im Kreativmodus, wenn man die Karte irgendwo im Inventar hat, oder im Cockpit eines Schiffs.
 
-Im **Kreativmodus** bringt der Knopf „Hinreisen“ einen sofort zum ausgewählten
-Körper – auf den Boden, wo dort gerade Vormittag ist (zur Sonne: in sicherem
-Abstand). Kreativ-Spieler haben die Karte von Anfang an in der Schnellleiste.
+Im **Kreativmodus** bringt der Knopf „Hinreisen“ einen sofort zum ausgewählten Körper – auf den Boden, wo dort gerade Vormittag ist (zur Sonne: in sicherem Abstand). Kreativ-Spieler haben die Karte von Anfang an in der Schnellleiste.
 
 ## Teleskop
 
-Ein **Teleskop** (Werkbank: 3 Kupferbarren + 2 Glas) in der Hand: **rechte
-Maustaste halten** zoomt weich heran, das **Mausrad** stellt die Vergrößerung ein
-(2× bis 1000×, Start 8×), Loslassen zoomt zurück. Rundherum ein schwarzer Rand wie
-beim echten Fernrohr, die Maus dreht entsprechend langsamer. Die Landschaft im
-Bild wird beim Zoomen feiner berechnet – bei 12× sieht man auf einem Berghang in
-2 km Entfernung einzelne Kakteen und Erzflecken; Mond und Planeten werden bis zur
-vollen Vergrößerung feiner (auf dem eigenen Himmelskörper höchstens 6-mal, sonst
-würde auch alles hinter Bergen fein berechnet). Geht auch als Zuschauer.
+Ein **Teleskop** (Werkbank: 3 Kupferbarren + 2 Glas) in der Hand: **rechte Maustaste halten** zoomt weich heran, das **Mausrad** stellt die Vergrößerung ein (2× bis 1000×, Start 8×), Loslassen zoomt zurück. Rundherum ein schwarzer Rand wie beim echten Fernrohr, die Maus dreht entsprechend langsamer. Die Landschaft im Bild wird beim Zoomen feiner berechnet – bei 12× sieht man auf einem Berghang in 2 km Entfernung einzelne Kakteen und Erzflecken; Mond und Planeten werden bis zur vollen Vergrößerung feiner (auf dem eigenen Himmelskörper höchstens 6-mal, sonst würde auch alles hinter Bergen fein berechnet). Geht auch als Zuschauer.
 
 ## Saturns Ringe
 
-Eine flache Scheibe in Saturns Äquatorebene, 66 900–141 000 km vom Mittelpunkt,
-mit echtem Aufbau: der fast undurchsichtige, cremefarbene **B-Ring**, außen der
-**A-Ring** mit der Encke- und der Keeler-Lücke, dazwischen die dunkle
-**Cassini-Teilung**, innen der dünne graue **C-Ring** (durch ihn sieht man Sterne),
-ganz außen der schmale **F-Ring**. Der Saturn wirft seinen Schatten auf die Ringe,
-die Ringe werfen Schattenbänder auf den Saturn. Von der beleuchteten Seite leuchten
-die dichten Ringe hell; von der anderen Seite scheint Licht nur durch die dünnen
-Stellen. Vom Saturn aus spannen sie sich als Bogen über den Himmel (am Tag blass,
-nachts hell). Man kann durch sie hindurchfliegen – sie bestehen (noch) nicht aus
-Brocken, aus der Nähe sind sie eine flache Fläche.
+Eine flache Scheibe in Saturns Äquatorebene, 66 900–141 000 km vom Mittelpunkt, mit echtem Aufbau: der fast undurchsichtige, cremefarbene **B-Ring**, außen der **A-Ring** mit der Encke- und der Keeler-Lücke, dazwischen die dunkle **Cassini-Teilung**, innen der dünne graue **C-Ring** (durch ihn sieht man Sterne), ganz außen der schmale **F-Ring**. Der Saturn wirft seinen Schatten auf die Ringe, die Ringe werfen Schattenbänder auf den Saturn. Von der beleuchteten Seite leuchten die dichten Ringe hell; von der anderen Seite scheint Licht nur durch die dünnen Stellen. Vom Saturn aus spannen sie sich als Bogen über den Himmel (am Tag blass, nachts hell). Man kann durch sie hindurchfliegen – sie bestehen (noch) nicht aus Brocken, aus der Nähe sind sie eine flache Fläche.
 
 ## Zwergplaneten
 
@@ -146,13 +77,9 @@ Brocken, aus der Nähe sind sie eine flache Fläche.
 | Pluto         |     5 | Charon                                                                                     |
 | Zwergplaneten |     7 | Dysnomia, Hiʻiaka, Vanth                                                                   |
 
-Die meisten kleinen Monde sind dunkle, eingefangene Brocken auf weiten, schrägen
-und oft rückläufigen Bahnen; ihre Größe ist aus ihrer Helligkeit geschätzt. Die
-großen Monde und ihr Aussehen im Spiel:
+Die meisten kleinen Monde sind dunkle, eingefangene Brocken auf weiten, schrägen und oft rückläufigen Bahnen; ihre Größe ist aus ihrer Helligkeit geschätzt. Die großen Monde und ihr Aussehen im Spiel:
 
-Fast alle Monde sind gebunden rotierend: Sie zeigen ihrem Planeten immer dieselbe
-Seite, ein Tag dauert dort so lange wie ein Umlauf. Wo nicht anders angegeben,
-kreisen sie in der Äquatorebene ihres Planeten.
+Fast alle Monde sind gebunden rotierend: Sie zeigen ihrem Planeten immer dieselbe Seite, ein Tag dauert dort so lange wie ein Umlauf. Wo nicht anders angegeben, kreisen sie in der Äquatorebene ihres Planeten.
 
 | Mond       | Planet  |   Radius | Abstand zum Planeten | Schwerkraft | Sprung | Im Spiel                                                                                       |
 | ---------- | ------- | -------: | -------------------: | ----------: | -----: | ---------------------------------------------------------------------------------------------- |
@@ -191,5 +118,4 @@ kreisen sie in der Äquatorebene ihres Planeten.
 | Galatea    | Neptun  |    88 km |            61 953 km |      0,19 % |  670 m | dunkler Brocken                                                                                |
 | Despina    | Neptun  |    75 km |            52 526 km |      0,25 % |  490 m | dunkler Brocken                                                                                |
    
-Die Uranusmonde kreisen um den um 98° gekippten Äquator des Uranus, also fast
-senkrecht zu seiner Bahn um die Sonne.
+Die Uranusmonde kreisen um den um 98° gekippten Äquator des Uranus, also fast senkrecht zu seiner Bahn um die Sonne.

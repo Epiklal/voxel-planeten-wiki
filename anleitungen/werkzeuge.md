@@ -1,16 +1,5 @@
 # Werkzeuge
 
-**Werkzeuge**: Eine Spitzhacke baut Gestein und Erz 3-mal (Stein), 6-mal (Eisen)
-bzw. 9-mal (Titan) so schnell ab wie die Hand, eine Axt Holz. Kohle, Eisen, Kupfer,
-Bauxit, Schwefel, Titanerz, Graphit und Hämatit brauchen mindestens eine
-Steinspitzhacke, Gold, Quarz und Uran eine Eisenspitzhacke. Kohleerz gibt Kohle;
-Graphiterz bleibt Erz (im Ofen 2 Graphit, im Induktionsofen Merkur-Diamant). Ein
-Schwert schneidet Blätter schneller und schlägt am härtesten. Werkzeuge nutzen sich
-nicht ab. **Nano- und Quantenwerkzeuge** (Spitzhacke, Axt, Nanosäbel, Quantenschwert)
-brauchen Strom wie die Tech-Rüstung (Speicher 1 bzw. 10 kWh, 10 bzw. 20 kJ je Block,
-das 2,5-Fache je Schlag): Sie bauen 20- bzw. 40-mal so schnell ab wie die Hand und
-schlagen mit 11 bzw. 15 Lebenspunkten zu – leer sind sie nicht besser als die Faust.
+**Werkzeuge**: Eine Spitzhacke baut Gestein und Erz 3-mal (Stein), 6-mal (Eisen) bzw. 9-mal (Titan) so schnell ab wie die Hand, eine Axt Holz. Kohle, Eisen, Kupfer, Bauxit, Schwefel, Titanerz, Graphit und Hämatit brauchen mindestens eine Steinspitzhacke, Gold, Quarz und Uran eine Eisenspitzhacke. Kohleerz gibt Kohle; Graphiterz bleibt Erz (im Ofen 2 Graphit, im Induktionsofen Merkur-Diamant). Ein Schwert schneidet Blätter schneller und schlägt am härtesten. Werkzeuge nutzen sich nicht ab. **Nano- und Quantenwerkzeuge** (Spitzhacke, Axt, Nanosäbel, Quantenschwert) brauchen Strom wie die Tech-Rüstung (Speicher 1 bzw. 10 kWh, 10 bzw. 20 kJ je Block, das 2,5-Fache je Schlag): Sie bauen 20- bzw. 40-mal so schnell ab wie die Hand und schlagen mit 11 bzw. 15 Lebenspunkten zu – leer sind sie nicht besser als die Faust.
 
-Welten von vor dem Spielmodus sind Kreativ-Welten. Das Inventar gehört dem
-Server: Er prüft jedes Abbauen, Setzen und Umsortieren und speichert es mit dem
-Spieler. Der Client rechnet mit demselben Code vorab, damit nichts ruckelt.
+Welten von vor dem Spielmodus sind Kreativ-Welten. Das Inventar gehört dem Server: Er prüft jedes Abbauen, Setzen und Umsortieren und speichert es mit dem Spieler. Der Client rechnet mit demselben Code vorab, damit nichts ruckelt.

@@ -1,9 +1,6 @@
 # Herstellen, Ofen und Glas
 
-**Herstellen** (wie an der Werkbank in Satisfactory): Im Inventar (E) steht rechts
-die Liste der Rezepte – anklicken, "Herstellen" oder "5 Stück", ein Balken zeigt,
-wie lange es dauert. Mit der Hand gehen nur Bretter (1 Stamm → 4) und die
-Werkbank (8 Bretter); alles andere an einer Werkbank (Rechtsklick darauf):
+**Herstellen** (wie an der Werkbank in Satisfactory): Im Inventar (E) steht rechts die Liste der Rezepte – anklicken, "Herstellen" oder "5 Stück", ein Balken zeigt, wie lange es dauert. Mit der Hand gehen nur Bretter (1 Stamm → 4) und die Werkbank (8 Bretter); alles andere an einer Werkbank (Rechtsklick darauf):
 
 | Was                                           | Woraus                                                                                                                  |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -88,17 +85,9 @@ Werkbank (8 Bretter); alles andere an einer Werkbank (Rechtsklick darauf):
 | 5 Uranzellen                                  | 10 Uranerz + 3 Beton (12 s)                                                                                             |
 | Uranbrennstab                                 | 20 Uranzellen + 2 modulare Rahmen (60 s)                                                                                |
 
-**Ofen**: Erz schmilzt man im Ofen (aufstellen mit Rechtsklick, öffnen mit
-Rechtsklick): oben Erz, unten Brennstoff, rechts kommen die Barren heraus –
-wie in Minecraft. Eisen und Kupfer brauchen 5 s pro Barren, Gold 8 s. Kohle
-brennt 40 s (8 Barren), ein Holzstamm 15 s, ein Brett 5 s. Nachgelegt wird nur,
-solange es etwas zu schmelzen gibt. Der Ofen arbeitet weiter, auch wenn man
-weggeht; man sieht das Feuer. **Kiste**: 27 Plätze zum Lagern.
+**Ofen**: Erz schmilzt man im Ofen (aufstellen mit Rechtsklick, öffnen mit Rechtsklick): oben Erz, unten Brennstoff, rechts kommen die Barren heraus – wie in Minecraft. Eisen und Kupfer brauchen 5 s pro Barren, Gold 8 s. Kohle brennt 40 s (8 Barren), ein Holzstamm 15 s, ein Brett 5 s. Nachgelegt wird nur, solange es etwas zu schmelzen gibt. Der Ofen arbeitet weiter, auch wenn man weggeht; man sieht das Feuer. **Kiste**: 27 Plätze zum Lagern.
 
-**Glas**: Sand im Ofen (4 s) wird zu Glas – fest, aber durchsichtig (mit
-hellem Rahmen und Schlieren). **Farbiges Glas** (halb durchsichtig) an der
-Werkbank: 8 Glas + 1 Färbemittel → 8 farbige Gläser. Wie in echt färben vor
-allem Metalle das Glas:
+**Glas**: Sand im Ofen (4 s) wird zu Glas – fest, aber durchsichtig (mit hellem Rahmen und Schlieren). **Farbiges Glas** (halb durchsichtig) an der Werkbank: 8 Glas + 1 Färbemittel → 8 farbige Gläser. Wie in echt färben vor allem Metalle das Glas:
 
 | Farbe    | Färbemittel        | Farbe    | Färbemittel                |
 | -------- | ------------------ | -------- | -------------------------- |
@@ -111,8 +100,7 @@ allem Metalle das Glas:
 | Rosa     | Quarzkristall      | Rot      | Goldbarren (Goldrubinglas) |
 | Grau     | Kies               | Schwarz  | Graphit                    |
 
-**Glas mischen** wie Farben (ohne Werkbank): 1 + 1 farbiges Glas → 2 in der
-Mischfarbe.
+**Glas mischen** wie Farben (ohne Werkbank): 1 + 1 farbiges Glas → 2 in der Mischfarbe.
 
 | Mischung    | ergibt   | Mischung       | ergibt   |
 | ----------- | -------- | -------------- | -------- |
@@ -123,5 +111,4 @@ Mischfarbe.
 | Rot + Weiß  | Rosa     | Grau + Weiß    | Hellgrau |
 | Rot + Grün  | Braun    |                |          |
 
-**Blätter** sind durchsichtig: Durch die Löcher sieht man in die Krone und den
-Himmel dahinter (Grafikeinstellung "Blätter", bei Retro und Niedrig voll).
+**Blätter** sind durchsichtig: Durch die Löcher sieht man in die Krone und den Himmel dahinter (Grafikeinstellung "Blätter", bei Retro und Niedrig voll).

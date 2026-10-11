@@ -1,33 +1,10 @@
 # Strom
 
 **Strom** (wie bei Satisfactory, aber mit echter Elektrik – Volt, Ampere, Ohm, Watt):
-- **Biomasse-Brenner** (1 Block, 30 MW): verbrennt Holzstämme und Bretter. **Kohlekraftwerk**
-  (3×3×3, 75 MW): verbrennt Kohle – per Band hinten in der Mitte oder von Hand.
-  **Kernkraftwerk** (7 × 7, 9 hoch, mit zwei Kühltürmen, 2500 MW): verbrennt
-  Uranbrennstäbe – per Band vorne in der Mitte oder von Hand. Es liefert **380 kV**
-  (alles andere arbeitet mit 10 kV) – man braucht also einen Transformator. Uranerz liegt tief
-  (mehr als 80 Blöcke unter dem Meeresspiegel) oder selten in einem Vorkommen; im Monteur wird es mit Beton zu
-  Uranzellen, die mit modularen Rahmen zu Brennstäben.
-  Kraftwerke verbrennen nur so viel, wie gebraucht wird (ein Stamm reicht bei
-  voller Last 5 s, ein Stück Kohle 4 s, ein Brennstab 5 Minuten).
-- **Wasser** (ein Bonus): Eine **Wasserpumpe** (3 × 3, 20 MW) gehört ins Wasser – in
-  einen See, Fluss oder ins Meer – und pumpt 120 m³ pro Minute. **Rohre** (je ein
-  Block) verbinden sich von selbst mit allem daneben, auch nach oben und unten:
-  anderen Rohren, Pumpen und Kohlekraftwerken. Was so zusammenhängt, ist ein
-  Wassernetz. Bekommt ein Kohlekraftwerk seine 45 m³ pro Minute, liefert es aus
-  derselben Kohle **120 statt 75 MW** (bei weniger Wasser entsprechend weniger mehr).
-  Ohne Wasser läuft es wie bisher. Eine Pumpe reicht für zwei Kohlekraftwerke.
-- **Kabel**: Kabel (aus Kupferdraht) in die Hand nehmen, erst das eine Ende
-  anklicken (Kraftwerk, Strommast oder Maschine), dann das andere. Pro angefangene
-  5 m ein Kabel; beim Abbauen gibt es die Kabel zurück. Ein **Strommast** (2 Blöcke
-  hoch) nimmt 4 Kabel, Maschinen und Kraftwerke 2.
-- **Kabel als Blöcke** (wie in IndustrialCraft 2 für Minecraft 1.12.2): statt
-  Kabel zu ziehen, legt man sie Block für Block – sie verbinden sich von selbst mit
-  allem daneben (auch nach oben und unten), das dieselbe Spannung hat: Kabeln,
-  Kraftwerken, Masten, Maschinen. Der Transformator nimmt beide (380-kV-Kabel oben,
-  10-kV-Kabel unten). Mit einem Kabel in der Hand legt Rechtsklick auf ein Kabel
-  das nächste daneben; mit etwas anderem in der Hand öffnet es sein Fenster
-  (Spannung, Strom, Belastung als Balken, Temperatur, Verlust im Block).
+- **Biomasse-Brenner** (1 Block, 30 MW): verbrennt Holzstämme und Bretter. **Kohlekraftwerk** (3×3×3, 75 MW): verbrennt Kohle – per Band hinten in der Mitte oder von Hand. **Kernkraftwerk** (7 × 7, 9 hoch, mit zwei Kühltürmen, 2500 MW): verbrennt Uranbrennstäbe – per Band vorne in der Mitte oder von Hand. Es liefert **380 kV** (alles andere arbeitet mit 10 kV) – man braucht also einen Transformator. Uranerz liegt tief (mehr als 80 Blöcke unter dem Meeresspiegel) oder selten in einem Vorkommen; im Monteur wird es mit Beton zu Uranzellen, die mit modularen Rahmen zu Brennstäben. Kraftwerke verbrennen nur so viel, wie gebraucht wird (ein Stamm reicht bei voller Last 5 s, ein Stück Kohle 4 s, ein Brennstab 5 Minuten).
+- **Wasser** (ein Bonus): Eine **Wasserpumpe** (3 × 3, 20 MW) gehört ins Wasser – in einen See, Fluss oder ins Meer – und pumpt 120 m³ pro Minute. **Rohre** (je ein Block) verbinden sich von selbst mit allem daneben, auch nach oben und unten: anderen Rohren, Pumpen und Kohlekraftwerken. Was so zusammenhängt, ist ein Wassernetz. Bekommt ein Kohlekraftwerk seine 45 m³ pro Minute, liefert es aus derselben Kohle **120 statt 75 MW** (bei weniger Wasser entsprechend weniger mehr). Ohne Wasser läuft es wie bisher. Eine Pumpe reicht für zwei Kohlekraftwerke.
+- **Kabel**: Kabel (aus Kupferdraht) in die Hand nehmen, erst das eine Ende anklicken (Kraftwerk, Strommast oder Maschine), dann das andere. Pro angefangene 5 m ein Kabel; beim Abbauen gibt es die Kabel zurück. Ein **Strommast** (2 Blöcke hoch) nimmt 4 Kabel, Maschinen und Kraftwerke 2.
+- **Kabel als Blöcke** (wie in IndustrialCraft 2 für Minecraft 1.12.2): statt Kabel zu ziehen, legt man sie Block für Block – sie verbinden sich von selbst mit allem daneben (auch nach oben und unten), das dieselbe Spannung hat: Kabeln, Kraftwerken, Masten, Maschinen. Der Transformator nimmt beide (380-kV-Kabel oben, 10-kV-Kabel unten). Mit einem Kabel in der Hand legt Rechtsklick auf ein Kabel das nächste daneben; mit etwas anderem in der Hand öffnet es sein Fenster (Spannung, Strom, Belastung als Balken, Temperatur, Verlust im Block).
 
 | Kabel                         | Spannung | Nennstrom | Widerstand pro Block | Isoliert |
 | ----------------------------- | -------: | --------: | -------------------: | -------- |
@@ -39,59 +16,13 @@
 | Isoliertes Goldkabel          |    10 kV |  12 000 A |             0,0004 Ω | ja       |
 | Isoliertes Hochspannungskabel |   380 kV |   3 000 A |             0,0002 Ω | ja       |
 
-  **Last macht Kabel heiß – wie in echt**: Der Strom erwärmt jedes Kabel (Watt =
-  Ohm × Ampere², doppelter Strom gibt also viermal so viel Wärme). Beim Nennstrom
-  wird es auf Dauer 90 °C warm – das hält es aus. Mehr Strom macht es heißer, und
-  ab gut 160 °C **brennt es durch**. Das dauert: Erwärmen und Abkühlen brauchen
-  ihre Zeit, kurz etwas mehr geht also. Bei 1,2-fachem Nennstrom wird es nur 120 °C
-  warm (hält), beim 1,5-fachen brennt es nach gut einer Minute durch, beim doppelten
-  nach 20 s. Das Fenster zeigt die Temperatur und, wenn es zu heiß wird, wie lange
-  es noch hält. Es brennt die schwächste Stelle durch (pro Netz der heißeste Block),
-  das Stück ist dann weg; wer in der Nähe ist, bekommt es gesagt. Ein Kupferkabel
-  reicht für einen Biomasse-Brenner (30 MW = 3 000 A bei 10 kV), für ein
-  Kohlekraftwerk mit Wasser (120 MW) braucht es Gold.
+  **Last macht Kabel heiß – wie in echt**: Der Strom erwärmt jedes Kabel (Watt = Ohm × Ampere², doppelter Strom gibt also viermal so viel Wärme). Beim Nennstrom wird es auf Dauer 90 °C warm – das hält es aus. Mehr Strom macht es heißer, und ab gut 160 °C **brennt es durch**. Das dauert: Erwärmen und Abkühlen brauchen ihre Zeit, kurz etwas mehr geht also. Bei 1,2-fachem Nennstrom wird es nur 120 °C warm (hält), beim 1,5-fachen brennt es nach gut einer Minute durch, beim doppelten nach 20 s. Das Fenster zeigt die Temperatur und, wenn es zu heiß wird, wie lange es noch hält. Es brennt die schwächste Stelle durch (pro Netz der heißeste Block), das Stück ist dann weg; wer in der Nähe ist, bekommt es gesagt. Ein Kupferkabel reicht für einen Biomasse-Brenner (30 MW = 3 000 A bei 10 kV), für ein Kohlekraftwerk mit Wasser (120 MW) braucht es Gold.
 
-  **Stromschlag**: Blanke Kabel unter Spannung darf man nicht anfassen – an 10 kV
-  ist man nach gut einer Sekunde tot, an 380 kV sofort, und dort springt der Funke
-  schon aus knapp einem Meter über. Isolierte Kabel (Gummi aus Dschungelholz drum
-  herum, schwarz mit farbigem Ring) und Glasfaser, die von Haus aus isoliert ist,
-  sind sicher. Kabel ohne Strom (kein Kraftwerk, Sicherung raus) sind ungefährlich.
-- **Spannung**: Maschinen, Biomasse-Brenner, Kohlekraftwerk und Strommast arbeiten
-  mit **10 000 V** (10 kV, Kabel bis 30 m). Kernkraftwerk und **Hochspannungsmast**
-  (8 hoch, dicke Leitungen bis 100 m, 4 Anschlüsse) mit **380 000 V** (380 kV).
-  Beides direkt verbinden geht nicht – dazwischen gehört ein **Transformator**
-  (3 × 3, bis 1000 MW, 6 Anschlüsse): 380-kV-Leitungen kommen oben an, 10-kV-Kabel
-  gehen unten ab. Er wählt die Seite von selbst.
-- **Widerstand und Verluste**: Jedes Kabel hat einen Widerstand in **Ohm** – je länger,
-  desto mehr (10-kV-Kabel 0,5 Ω pro km, 380-kV-Leitung 0,05 Ω pro km). Fließt Strom
-  (**Ampere** = Watt ÷ Volt: 4 MW bei 10 kV sind 400 A), sinkt die Spannung entlang
-  des Kabels (Volt = Ohm × Ampere), und es geht Leistung als Wärme verloren
-  (Watt = Ohm × Ampere²). Die Kraftwerke müssen die Verluste mitliefern. Weil bei
-  380 kV für dieselbe Leistung 38-mal weniger Ampere fließen, sind die Verluste
-  dort über 1000-mal kleiner – darum Hochspannung für lange Strecken.
-- Was über Kabel zusammenhängt, ist ein **Stromnetz** (gerechnet wie in echt, mit
-  der Knotenregel von Kirchhoff). Gerechnet wird nur, wenn sich in einem Netz etwas
-  ändert – etwas wird gebaut, abgebaut oder verbunden, eine Maschine läuft an oder
-  hört auf, einem Kraftwerk geht der Brennstoff aus –, und dann nur dieses Netz. Die **Sicherung** fliegt, wenn die Maschinen mehr
-  brauchen, als die Kraftwerke liefern können; wenn durch ein Kabel zu viele Ampere
-  fließen (10 kV: 12 000 A, 380 kV: 8 000 A); wenn ein Transformator mehr als
-  1000 MW übertragen soll; oder wenn die Spannung an einer Maschine unter 85 % fällt
-  (zu lange 10-kV-Leitung – z. B. 50 MW über 1 km). Dann steht alles im Netz, bis
-  man sie zurücksetzt (Kraftwerk, Mast oder Maschine öffnen → "Sicherung
-  zurücksetzen"); im Fenster steht der Grund.
-- **Im Fenster** jedes Kraftwerks, Masts, Transformators und jeder Maschine: die
-  Spannung dort (V), die Stromstärke (A), was es liefert bzw. braucht (MW), das Netz
-  mit seinen Verlusten und jedes Kabel mit Länge, Widerstand (Ω), Strom (A) und
-  Verlust (W).
-- **Schmelzer** (3×3×3, braucht 4 MW): schmilzt wie der Ofen, aber 2,5-mal so schnell
-  (Eisen 2 s pro Barren) und ohne Brennstoff. Erz kommt per Band hinten in der Mitte
-  hinein, Barren kommen vorne in der Mitte heraus (gelb umrandet).
-- **Konstruktor** (3×3×3, 4 MW): stellt von selbst ein Bauteil her – Rezept im
-  Fenster wählen (Eisenplatte, Eisenstange, Schrauben, Kupferdraht, Kabel,
-  Quarzkristall, Beton, Steinziegel). Zutat hinten hinein, Ergebnis vorne heraus.
-- **Monteur** (5 breit, 3 lang, 3 hoch, 15 MW): wie der Konstruktor, aber aus zwei
-  Zutaten – verstärkte Eisenplatten, Rotoren, modulare Rahmen, Uranzellen und
-  Brennstäbe. Zwei Eingänge hinten
-  (links und rechts der Mitte, gelb umrandet), der Ausgang vorne in der Mitte. Egal,
-  was über welches Band kommt: Jede Zutat landet in ihrem Platz, Fremdes bleibt auf
-  dem Band liegen.
+  **Stromschlag**: Blanke Kabel unter Spannung darf man nicht anfassen – an 10 kV ist man nach gut einer Sekunde tot, an 380 kV sofort, und dort springt der Funke schon aus knapp einem Meter über. Isolierte Kabel (Gummi aus Dschungelholz drum herum, schwarz mit farbigem Ring) und Glasfaser, die von Haus aus isoliert ist, sind sicher. Kabel ohne Strom (kein Kraftwerk, Sicherung raus) sind ungefährlich.
+- **Spannung**: Maschinen, Biomasse-Brenner, Kohlekraftwerk und Strommast arbeiten mit **10 000 V** (10 kV, Kabel bis 30 m). Kernkraftwerk und **Hochspannungsmast** (8 hoch, dicke Leitungen bis 100 m, 4 Anschlüsse) mit **380 000 V** (380 kV). Beides direkt verbinden geht nicht – dazwischen gehört ein **Transformator** (3 × 3, bis 1000 MW, 6 Anschlüsse): 380-kV-Leitungen kommen oben an, 10-kV-Kabel gehen unten ab. Er wählt die Seite von selbst.
+- **Widerstand und Verluste**: Jedes Kabel hat einen Widerstand in **Ohm** – je länger, desto mehr (10-kV-Kabel 0,5 Ω pro km, 380-kV-Leitung 0,05 Ω pro km). Fließt Strom (**Ampere** = Watt ÷ Volt: 4 MW bei 10 kV sind 400 A), sinkt die Spannung entlang des Kabels (Volt = Ohm × Ampere), und es geht Leistung als Wärme verloren (Watt = Ohm × Ampere²). Die Kraftwerke müssen die Verluste mitliefern. Weil bei 380 kV für dieselbe Leistung 38-mal weniger Ampere fließen, sind die Verluste dort über 1000-mal kleiner – darum Hochspannung für lange Strecken.
+- Was über Kabel zusammenhängt, ist ein **Stromnetz** (gerechnet wie in echt, mit der Knotenregel von Kirchhoff). Gerechnet wird nur, wenn sich in einem Netz etwas ändert – etwas wird gebaut, abgebaut oder verbunden, eine Maschine läuft an oder hört auf, einem Kraftwerk geht der Brennstoff aus –, und dann nur dieses Netz. Die **Sicherung** fliegt, wenn die Maschinen mehr brauchen, als die Kraftwerke liefern können; wenn durch ein Kabel zu viele Ampere fließen (10 kV: 12 000 A, 380 kV: 8 000 A); wenn ein Transformator mehr als 1000 MW übertragen soll; oder wenn die Spannung an einer Maschine unter 85 % fällt (zu lange 10-kV-Leitung – z. B. 50 MW über 1 km). Dann steht alles im Netz, bis man sie zurücksetzt (Kraftwerk, Mast oder Maschine öffnen → "Sicherung zurücksetzen"); im Fenster steht der Grund.
+- **Im Fenster** jedes Kraftwerks, Masts, Transformators und jeder Maschine: die Spannung dort (V), die Stromstärke (A), was es liefert bzw. braucht (MW), das Netz mit seinen Verlusten und jedes Kabel mit Länge, Widerstand (Ω), Strom (A) und Verlust (W).
+- **Schmelzer** (3×3×3, braucht 4 MW): schmilzt wie der Ofen, aber 2,5-mal so schnell (Eisen 2 s pro Barren) und ohne Brennstoff. Erz kommt per Band hinten in der Mitte hinein, Barren kommen vorne in der Mitte heraus (gelb umrandet).
+- **Konstruktor** (3×3×3, 4 MW): stellt von selbst ein Bauteil her – Rezept im Fenster wählen (Eisenplatte, Eisenstange, Schrauben, Kupferdraht, Kabel, Quarzkristall, Beton, Steinziegel). Zutat hinten hinein, Ergebnis vorne heraus.
+- **Monteur** (5 breit, 3 lang, 3 hoch, 15 MW): wie der Konstruktor, aber aus zwei Zutaten – verstärkte Eisenplatten, Rotoren, modulare Rahmen, Uranzellen und Brennstäbe. Zwei Eingänge hinten (links und rechts der Mitte, gelb umrandet), der Ausgang vorne in der Mitte. Egal, was über welches Band kommt: Jede Zutat landet in ihrem Platz, Fremdes bleibt auf dem Band liegen.

@@ -1,20 +1,7 @@
 # Essen und Ackerbau
 
-- **Hunger** wie in Minecraft (Überlebensmodus): 20 Hungerpunkte (die Keulen rechts
-  über der Schnellleiste) und Sättigung. Sprinten, Abbauen, Kämpfen, verletzt werden
-  und Heilen machen hungrig. Satt (ab 18) heilt man von selbst, ganz satt mit
-  Sättigung schnell; mit leerem Magen verliert man Lebenspunkte (Leicht bis 10,
-  Normal bis 1, Schwer und Hardcore bis zum Tod). Das ersetzt das bisherige Erholen.
-- **Essen**: rechte Maustaste 1,6 s gedrückt halten (Brot, Karotte, Ofenkartoffel,
-  Apfel, Melone, Beeren, Keks, Kürbiskuchen, Suppen, goldene Äpfel und Karotten …);
-  Kuchen isst man stückweise mit Rechtsklick auf den Block.
-- **Ackerbau**: Mit der Hacke (Stein oder Eisen) wird Gras oder Erde zu Ackerboden –
-  Wasser bis 4 Blöcke daneben macht ihn feucht (wächst doppelt so schnell). Säen:
-  Weizenkörner, Karotten, Kartoffeln, Rote-Bete-Samen, Kürbis- und Melonenkerne;
-  Kakaobohnen an Tropenbaumstämme; Süßbeeren auf Gras (reif pflücken mit
-  Rechtsklick). Samen gibt es aus Gras (manchmal), Setzlinge und Äpfel aus Laub.
-- **Wachsen** wie in Minecraft (zufällig, um jeden Spieler herum): Feldfrüchte,
-  Ranken (tragen Kürbisse und Melonen daneben), Setzlinge werden Bäume, Zuckerrohr
-  und Kakteen bis 3 hoch, Gras breitet sich auf Erde aus.
-- In der Welt: Süßbeersträucher in der Taiga, Kakao an Tropenbäumen. Minecraft-Spieler
-  sehen ihren Hunger in Minecrafts eigener Leiste, pflügen, säen und essen genauso.
+- **Hunger** wie in Minecraft (Überlebensmodus): 20 Hungerpunkte (die Keulen rechts über der Schnellleiste) und Sättigung. Sprinten, Abbauen, Kämpfen, verletzt werden und Heilen machen hungrig. Satt (ab 18) heilt man von selbst, ganz satt mit Sättigung schnell; mit leerem Magen verliert man Lebenspunkte (Leicht bis 10, Normal bis 1, Schwer und Hardcore bis zum Tod). Das ersetzt das bisherige Erholen.
+- **Essen**: rechte Maustaste 1,6 s gedrückt halten (Brot, Karotte, Ofenkartoffel, Apfel, Melone, Beeren, Keks, Kürbiskuchen, Suppen, goldene Äpfel und Karotten …); Kuchen isst man stückweise mit Rechtsklick auf den Block.
+- **Ackerbau**: Mit der Hacke (Stein oder Eisen) wird Gras oder Erde zu Ackerboden – Wasser bis 4 Blöcke daneben macht ihn feucht (wächst doppelt so schnell). Säen: Weizenkörner, Karotten, Kartoffeln, Rote-Bete-Samen, Kürbis- und Melonenkerne; Kakaobohnen an Tropenbaumstämme; Süßbeeren auf Gras (reif pflücken mit Rechtsklick). Samen gibt es aus Gras (manchmal), Setzlinge und Äpfel aus Laub.
+- **Wachsen** wie in Minecraft (zufällig, um jeden Spieler herum): Feldfrüchte, Ranken (tragen Kürbisse und Melonen daneben), Setzlinge werden Bäume, Zuckerrohr und Kakteen bis 3 hoch, Gras breitet sich auf Erde aus.
+- In der Welt: Süßbeersträucher in der Taiga, Kakao an Tropenbäumen. Minecraft-Spieler sehen ihren Hunger in Minecrafts eigener Leiste, pflügen, säen und essen genauso.

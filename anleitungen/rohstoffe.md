@@ -13,8 +13,7 @@ Erzadern im Gestein, die Tiefe zählt ab Meeresspiegel (Grundgestein bei −128)
 | Eismonde, Ceres   | fast nur Eis, Salz (aus dem Ozean unter dem Eis), Methaneis, wenig Quarz und Eisen                                                                                                                                                                                                               |
 | Gasriesen         | keine Erze – aber ihre Wolken (Jupiter braun, Saturn goldgelb, Uranus türkis, Neptun blau) kann man mit dem Schiff abbauen                                                                                                                                                                       |
 
-Was man aus den Blöcken der anderen Himmelskörper macht (im Inventar zeigt der
-Tooltip, wo es einen Rohstoff gibt und was der Ofen daraus macht):
+Was man aus den Blöcken der anderen Himmelskörper macht (im Inventar zeigt der Tooltip, wo es einen Rohstoff gibt und was der Ofen daraus macht):
 
 | Rohstoff (wo)                          | wird zu                                                                                                                   |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

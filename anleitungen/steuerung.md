@@ -1,9 +1,6 @@
 # Steuerung
 
-So sind die Tasten am Anfang belegt. Ändern kann man sie unter **Einstellungen →
-Steuerung** (Taste anklicken, neue drücken; ist sie schon belegt, wird getauscht).
-Dort auch Maus-Empfindlichkeit und "Maus umgekehrt". Fest sind Esc, Enter und die
-Ziffern 1–9.
+So sind die Tasten am Anfang belegt. Ändern kann man sie unter **Einstellungen → Steuerung** (Taste anklicken, neue drücken; ist sie schon belegt, wird getauscht). Dort auch Maus-Empfindlichkeit und "Maus umgekehrt". Fest sind Esc, Enter und die Ziffern 1–9.
 
 | Taste          | Aktion                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,6 +35,4 @@ Ziffern 1–9.
 | N              | Spieler-Zeichen ein/aus (wo Team, freigegebene Spieler bzw. als Admin alle sind – im Bild und auf der Karte; die Namen über den Figuren bleiben)                                                                                                                                                                                                                                                                           |
 | K              | Kleine Karte oben rechts ein/aus                                                                                                                                                                                                                                                                                                                                                                                           |
 
-Im Fenstertitel stehen FPS, der nächste Himmelskörper und die Höhe darüber,
-Geschwindigkeit, Zeitraffer, Statistik und die Zahl der Mitspieler. Unten im Bild
-steht der gewählte Block, links unten der Chat (auch, wer kommt und geht).
+Im Fenstertitel stehen FPS, der nächste Himmelskörper und die Höhe darüber, Geschwindigkeit, Zeitraffer, Statistik und die Zahl der Mitspieler. Unten im Bild steht der gewählte Block, links unten der Chat (auch, wer kommt und geht).
