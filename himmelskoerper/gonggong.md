@@ -9,6 +9,12 @@ Einer der rötesten Körper des Sonnensystems, benannt nach einem chinesischen W
 | Masse | 1,75 · 10^21 kg |
 | Schwerkraft | 0,0315 g (0,31 m/s²) |
 | Sprunghöhe | 39,8 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 307 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 22,4 h |
 | Umlauf um die Sonne (ein Jahr) | 547 Jahre |
 | Abstand zur Sonne | 66,867 AE (10 003 Mio. km) |

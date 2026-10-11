@@ -9,6 +9,12 @@ Heißer als Merkur (465 °C), obwohl doppelt so weit von der Sonne: Der Treibhau
 | Masse | 4,87 · 10^24 kg |
 | Schwerkraft | 0,904 g (8,87 m/s²) |
 | Sprunghöhe | 1,38 m |
+| Höchster Berg | 11 km |
+| Berge im Schnitt | 2,5 km |
+| Tiefe der großen Becken | 1,5 km |
+| Tiefster Punkt | −2,9 km |
+| Bauhöhe | 22,1 km |
+| Grabtiefe | 4,9 km |
 | Ein Tag | 117 Tage |
 | Umlauf um die Sonne (ein Jahr) | 225 Tage |
 | Abstand zur Sonne | 0,723 AE (108 Mio. km) |

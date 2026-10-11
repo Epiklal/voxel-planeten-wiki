@@ -9,6 +9,12 @@ Ihre Bahn ist so lang gestreckt, dass ihr Abstand zu Neptun um das Siebenfache s
 | Masse | 2,1 · 10^19 kg |
 | Schwerkraft | 0,00494 g (0,05 m/s²) |
 | Sprunghöhe | 253 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 85 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 11,6 h |
 | Umlauf | 360 Tage |
 | Abstand zu Neptun | 5 513 900 km |

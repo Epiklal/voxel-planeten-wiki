@@ -9,6 +9,12 @@ Dreht sich in knapp 4 Stunden einmal – so schnell, dass sie zu einem Ei gezoge
 | Masse | 4,01 · 10^21 kg |
 | Schwerkraft | 0,0448 g (0,44 m/s²) |
 | Sprunghöhe | 27,9 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 390 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 3,92 h |
 | Umlauf um die Sonne (ein Jahr) | 283 Jahre |
 | Abstand zur Sonne | 43,06 AE (6442 Mio. km) |

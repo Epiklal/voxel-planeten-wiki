@@ -9,6 +9,11 @@ Hier wehen die schnellsten Winde des Sonnensystems – über 2000 km/h. Gefunden
 | Masse | 1,02 · 10^26 kg |
 | Schwerkraft | 1,14 g (11,15 m/s²) |
 | Sprunghöhe | 1,1 m |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 80 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 17,6 km |
+| Grabtiefe | 2,19 km |
 | Ein Tag | 16,1 h |
 | Umlauf um die Sonne (ein Jahr) | 165 Jahre |
 | Abstand zur Sonne | 30,07 AE (4498 Mio. km) |

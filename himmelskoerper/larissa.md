@@ -7,6 +7,12 @@
 | Masse | 3,82 · 10^18 kg |
 | Schwerkraft | 0,00282 g (0,03 m/s²) |
 | Sprunghöhe | 446 m |
+| Höchster Berg | 2,88 km |
+| Berge im Schnitt | 1,01 km |
+| Tiefe der großen Becken | 1,44 km |
+| Tiefster Punkt | −2,88 km |
+| Bauhöhe | 48 km |
+| Grabtiefe | 4,88 km |
 | Ein Tag | 13,3 h |
 | Umlauf | 13,3 h |
 | Abstand zu Neptun | 73 500 km |

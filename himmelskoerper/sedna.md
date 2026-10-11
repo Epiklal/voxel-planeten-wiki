@@ -9,6 +9,12 @@ Einer der fernsten bekannten Körper: Ein Umlauf dauert über 11 000 Jahre.
 | Masse | 9,26 · 10^20 kg |
 | Schwerkraft | 0,0255 g (0,25 m/s²) |
 | Sprunghöhe | 49,1 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 248 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 10,3 h |
 | Umlauf um die Sonne (ein Jahr) | 12 679 Jahre |
 | Abstand zur Sonne | 543,72 AE (81 339 Mio. km) |

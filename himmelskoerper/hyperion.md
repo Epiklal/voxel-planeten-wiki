@@ -9,6 +9,12 @@ Sieht aus wie ein Schwamm und taumelt chaotisch: Wie er sich morgen dreht, kann 
 | Masse | 5,55 · 10^18 kg |
 | Schwerkraft | 0,00207 g (0,02 m/s²) |
 | Sprunghöhe | 607 m |
+| Höchster Berg | 8 km |
+| Berge im Schnitt | 3 km |
+| Tiefe der großen Becken | 5 km |
+| Tiefster Punkt | −10 km |
+| Bauhöhe | 67,5 km |
+| Grabtiefe | 12 km |
 | Ein Tag | 13 Tage |
 | Umlauf | 21,3 Tage |
 | Abstand zu Saturn | 1 481 500 km |

@@ -9,6 +9,12 @@ Hier steht der Olympus Mons, der höchste Vulkan des Sonnensystems – zweieinha
 | Masse | 6,42 · 10^23 kg |
 | Schwerkraft | 0,379 g (3,72 m/s²) |
 | Sprunghöhe | 3,3 m |
+| Höchster Berg | 21,2 km |
+| Berge im Schnitt | 3 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −8,2 km |
+| Bauhöhe | 52,7 km |
+| Grabtiefe | 10,2 km |
 | Ein Tag | 24,7 h |
 | Umlauf um die Sonne (ein Jahr) | 687 Tage |
 | Abstand zur Sonne | 1,524 AE (228 Mio. km) |

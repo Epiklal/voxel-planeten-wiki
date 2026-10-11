@@ -9,6 +9,12 @@ Saturns zweitgrößter Mond – womöglich mit einem eigenen, hauchdünnen Ring.
 | Masse | 2,31 · 10^21 kg |
 | Schwerkraft | 0,0269 g (0,26 m/s²) |
 | Sprunghöhe | 46,5 m |
+| Höchster Berg | 4 km |
+| Berge im Schnitt | 1,5 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 382 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 4,52 Tage |
 | Umlauf | 4,52 Tage |
 | Abstand zu Saturn | 527 200 km |

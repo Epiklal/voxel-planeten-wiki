@@ -7,6 +7,12 @@
 | Masse | 6,5 · 10^16 kg |
 | Schwerkraft | 0,000708 g (0,01 m/s²) |
 | Sprunghöhe | 1,9 km |
+| Höchster Berg | 750 m |
+| Berge im Schnitt | 262 m |
+| Tiefe der großen Becken | 375 m |
+| Tiefster Punkt | −750 m |
+| Bauhöhe | 12,5 km |
+| Grabtiefe | 2,74 km |
 | Ein Tag | 10 h |
 | Umlauf | 5,4 Jahre |
 | Abstand zu Uranus | 0,108 AE (16,2 Mio. km) |

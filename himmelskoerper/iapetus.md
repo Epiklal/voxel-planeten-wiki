@@ -9,6 +9,12 @@ Eine Seite schwarz wie Kohle, die andere weiß wie Schnee – und um den Äquato
 | Masse | 1,81 · 10^21 kg |
 | Schwerkraft | 0,0228 g (0,22 m/s²) |
 | Sprunghöhe | 54,9 m |
+| Höchster Berg | 20 km |
+| Berge im Schnitt | 3 km |
+| Tiefe der großen Becken | 8 km |
+| Tiefster Punkt | −10 km |
+| Bauhöhe | 367 km |
+| Grabtiefe | 12 km |
 | Ein Tag | 79,9 Tage |
 | Umlauf | 79,3 Tage |
 | Abstand zu Saturn | 3 561 700 km |

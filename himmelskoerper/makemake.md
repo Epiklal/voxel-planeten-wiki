@@ -9,6 +9,12 @@ Benannt nach dem Schöpfergott der Osterinsel – gefunden kurz nach Ostern 2005
 | Masse | 3,1 · 10^21 kg |
 | Schwerkraft | 0,0413 g (0,4 m/s²) |
 | Sprunghöhe | 30,3 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 357 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 22,8 h |
 | Umlauf um die Sonne (ein Jahr) | 308 Jahre |
 | Abstand zur Sonne | 45,571 AE (6817 Mio. km) |

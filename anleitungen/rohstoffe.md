@@ -1,6 +1,6 @@
 # Rohstoffe
 
-Erzadern im Gestein, die Tiefe zählt ab Meeresspiegel (Grundgestein bei −128):
+Erzadern im Gestein, die Tiefe zählt ab Meeresspiegel (was bis −128 reicht, gibt es auch darunter bis zum Grundgestein):
 
 | Himmelskörper     | Rohstoffe                                                                                                                                                                                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

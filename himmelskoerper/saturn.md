@@ -9,6 +9,11 @@ So leicht, dass er in einer (riesigen) Badewanne schwimmen würde. Seine Ringe r
 | Masse | 5,68 · 10^26 kg |
 | Schwerkraft | 1,06 g (10,44 m/s²) |
 | Sprunghöhe | 1,18 m |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 80 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 18,8 km |
+| Grabtiefe | 2,19 km |
 | Ein Tag | 10,7 h |
 | Umlauf um die Sonne (ein Jahr) | 29,5 Jahre |
 | Abstand zur Sonne | 9,537 AE (1427 Mio. km) |

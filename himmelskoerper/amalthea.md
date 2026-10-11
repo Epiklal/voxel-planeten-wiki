@@ -9,6 +9,12 @@ Der röteste Körper des Sonnensystems – und so locker, dass er wohl ein Haufe
 | Masse | 2,47 · 10^18 kg |
 | Schwerkraft | 0,00241 g (0,02 m/s²) |
 | Sprunghöhe | 523 m |
+| Höchster Berg | 2,5 km |
+| Berge im Schnitt | 877 m |
+| Tiefe der großen Becken | 1,25 km |
+| Tiefster Punkt | −2,5 km |
+| Bauhöhe | 41,7 km |
+| Grabtiefe | 4,5 km |
 | Ein Tag | 12 h |
 | Umlauf | 12 h |
 | Abstand zu Jupiter | 181 400 km |

@@ -9,6 +9,12 @@ Ihre Entdeckung 2005 kostete Pluto den Planeten-Titel – Eris ist fast genauso 
 | Masse | 1,65 · 10^22 kg |
 | Schwerkraft | 0,0828 g (0,81 m/s²) |
 | Sprunghöhe | 15,1 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 241 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 15,8 Tage |
 | Umlauf um die Sonne (ein Jahr) | 560 Jahre |
 | Abstand zur Sonne | 67,934 AE (10 163 Mio. km) |

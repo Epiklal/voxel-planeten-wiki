@@ -9,6 +9,12 @@ Benannt nach der Tochter von Eris, der Göttin der Gesetzlosigkeit.
 | Masse | 8,2 · 10^19 kg |
 | Schwerkraft | 0,00592 g (0,06 m/s²) |
 | Sprunghöhe | 212 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 153 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 10 h |
 | Umlauf | 15,8 Tage |
 | Abstand zu Eris | 37 273 km |

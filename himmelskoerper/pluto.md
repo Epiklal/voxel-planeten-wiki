@@ -9,6 +9,12 @@ Bis 2006 der neunte Planet. Auf ihm liegt ein herzförmiges Gletscherfeld aus St
 | Masse | 1,3 · 10^22 kg |
 | Schwerkraft | 0,0628 g (0,62 m/s²) |
 | Sprunghöhe | 19,9 m |
+| Höchster Berg | 6,2 km |
+| Berge im Schnitt | 2,5 km |
+| Tiefe der großen Becken | 3,5 km |
+| Tiefster Punkt | −4 km |
+| Bauhöhe | 319 km |
+| Grabtiefe | 6 km |
 | Ein Tag | 6,39 Tage |
 | Umlauf um die Sonne (ein Jahr) | 249 Jahre |
 | Abstand zur Sonne | 39,589 AE (5922 Mio. km) |

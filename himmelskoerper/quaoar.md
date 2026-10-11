@@ -9,6 +9,12 @@ Hat einen Ring, wo nach der Lehrbuchmeinung keiner sein dürfte: weit außerhalb
 | Masse | 1,2 · 10^21 kg |
 | Schwerkraft | 0,0275 g (0,27 m/s²) |
 | Sprunghöhe | 45,5 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 272 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 17,7 h |
 | Umlauf um die Sonne (ein Jahr) | 284 Jahre |
 | Abstand zur Sonne | 43,156 AE (6456 Mio. km) |

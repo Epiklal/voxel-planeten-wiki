@@ -7,6 +7,12 @@
 | Masse | 8,7 · 10^19 kg |
 | Schwerkraft | 0,0121 g (0,12 m/s²) |
 | Sprunghöhe | 103 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 110 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 10 h |
 | Umlauf | 9,54 Tage |
 | Abstand zu Orcus | 9000 km |

@@ -9,6 +9,12 @@ Läuft rückwärts um Saturn – ein eingefangener Brocken aus dem äußeren Son
 | Masse | 8,31 · 10^18 kg |
 | Schwerkraft | 0,00499 g (0,05 m/s²) |
 | Sprunghöhe | 252 m |
+| Höchster Berg | 3,19 km |
+| Berge im Schnitt | 1,12 km |
+| Tiefe der großen Becken | 1,6 km |
+| Tiefster Punkt | −3,19 km |
+| Bauhöhe | 53,2 km |
+| Grabtiefe | 5,18 km |
 | Ein Tag | 9,26 h |
 | Umlauf | 550 Tage |
 | Abstand zu Saturn | 12 929 400 km |

@@ -9,6 +9,12 @@ Läuft rückwärts um Neptun – ein eingefangener Zwergplanet. Geysire spucken 
 | Masse | 2,14 · 10^22 kg |
 | Schwerkraft | 0,0796 g (0,78 m/s²) |
 | Sprunghöhe | 15,7 m |
+| Höchster Berg | 1 km |
+| Berge im Schnitt | 300 m |
+| Tiefe der großen Becken | 500 m |
+| Tiefster Punkt | −1 km |
+| Bauhöhe | 251 km |
+| Grabtiefe | 2,99 km |
 | Ein Tag | 5,88 Tage |
 | Umlauf | 5,88 Tage |
 | Abstand zu Neptun | 354 800 km |

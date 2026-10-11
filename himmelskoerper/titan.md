@@ -9,6 +9,12 @@ Der einzige Mond mit dichter Luft (dichter als auf der Erde) und Seen – aus fl
 | Masse | 1,35 · 10^23 kg |
 | Schwerkraft | 0,138 g (1,35 m/s²) |
 | Sprunghöhe | 9,06 m |
+| Höchster Berg | 3,3 km |
+| Berge im Schnitt | 500 m |
+| Tiefe der großen Becken | 300 m |
+| Tiefster Punkt | −1 km |
+| Bauhöhe | 145 km |
+| Grabtiefe | 2,99 km |
 | Ein Tag | 16 Tage |
 | Umlauf | 15,9 Tage |
 | Abstand zu Saturn | 1 221 900 km |

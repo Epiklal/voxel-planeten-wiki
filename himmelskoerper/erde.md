@@ -9,6 +9,12 @@ Der einzige Ort, von dem wir wissen, dass es Leben gibt. Sie ist der dichteste P
 | Masse | 5,97 · 10^24 kg |
 | Schwerkraft | 1 g (9,81 m/s²) |
 | Sprunghöhe | 1,25 m |
+| Höchster Berg | 8,85 km |
+| Berge im Schnitt | 2,5 km |
+| Meerestiefe im Schnitt | 3,7 km |
+| Tiefster Punkt | −10,9 km |
+| Bauhöhe | 20 km |
+| Grabtiefe | 12,9 km |
 | Ein Tag | 24 h |
 | Umlauf um die Sonne (ein Jahr) | 365 Tage |
 | Abstand zur Sonne | 1 AE (150 Mio. km) |

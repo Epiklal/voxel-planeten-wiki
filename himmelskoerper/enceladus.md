@@ -9,6 +9,12 @@ Aus Spalten am Südpol schießen Fontänen aus Wasser ins All – sie speisen ei
 | Masse | 1,08 · 10^20 kg |
 | Schwerkraft | 0,0116 g (0,11 m/s²) |
 | Sprunghöhe | 108 m |
+| Höchster Berg | 1,5 km |
+| Berge im Schnitt | 500 m |
+| Tiefe der großen Becken | 1 km |
+| Tiefster Punkt | −1,5 km |
+| Bauhöhe | 126 km |
+| Grabtiefe | 3,49 km |
 | Ein Tag | 32,9 h |
 | Umlauf | 32,9 h |
 | Abstand zu Saturn | 238 400 km |

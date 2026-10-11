@@ -9,6 +9,12 @@ Alle Uranusmonde tragen Namen aus Shakespeare und Alexander Pope – Oberon ist 
 | Masse | 3,08 · 10^21 kg |
 | Schwerkraft | 0,0361 g (0,35 m/s²) |
 | Sprunghöhe | 34,7 m |
+| Höchster Berg | 11 km |
+| Berge im Schnitt | 1,5 km |
+| Tiefe der großen Becken | 5 km |
+| Tiefster Punkt | −6 km |
+| Bauhöhe | 381 km |
+| Grabtiefe | 8 km |
 | Ein Tag | 13,5 Tage |
 | Umlauf | 13,5 Tage |
 | Abstand zu Uranus | 583 511 km |

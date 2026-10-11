@@ -7,6 +7,12 @@
 | Masse | 4,6 · 10^14 kg |
 | Schwerkraft | 0,000136 g (0 m/s²) |
 | Sprunghöhe | 4,8 km |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 70 m |
+| Tiefe der großen Becken | 100 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 2,4 km |
+| Grabtiefe | 1,2 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,05 Jahre |
 | Abstand zu Jupiter | 0,159 AE (23,8 Mio. km) |

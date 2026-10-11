@@ -9,6 +9,12 @@ Der "Anti-Pluto": gleiche Umlaufzeit, aber immer genau auf der anderen Seite der
 | Masse | 6,35 · 10^20 kg |
 | Schwerkraft | 0,0209 g (0,2 m/s²) |
 | Sprunghöhe | 60 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 227 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 13,2 h |
 | Umlauf um die Sonne (ein Jahr) | 247 Jahre |
 | Abstand zur Sonne | 39,377 AE (5891 Mio. km) |

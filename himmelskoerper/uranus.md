@@ -9,6 +9,11 @@ Er rollt auf seiner Bahn: Seine Achse liegt fast waagrecht. Darum dauert ein Pol
 | Masse | 8,68 · 10^25 kg |
 | Schwerkraft | 0,886 g (8,69 m/s²) |
 | Sprunghöhe | 1,41 m |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 80 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 22,6 km |
+| Grabtiefe | 2,19 km |
 | Ein Tag | 17,2 h |
 | Umlauf um die Sonne (ein Jahr) | 84 Jahre |
 | Abstand zur Sonne | 19,189 AE (2871 Mio. km) |

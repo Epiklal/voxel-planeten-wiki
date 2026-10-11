@@ -9,6 +9,12 @@ Der größte Mond des Uranus, benannt nach der Feenkönigin aus Shakespeares "So
 | Masse | 3,4 · 10^21 kg |
 | Schwerkraft | 0,0372 g (0,36 m/s²) |
 | Sprunghöhe | 33,7 m |
+| Höchster Berg | 3 km |
+| Berge im Schnitt | 1 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 394 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 8,71 Tage |
 | Umlauf | 8,71 Tage |
 | Abstand zu Uranus | 436 298 km |

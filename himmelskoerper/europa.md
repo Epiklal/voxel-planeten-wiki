@@ -9,6 +9,12 @@ Unter dem Eis liegt ein Ozean mit mehr Wasser als alle Meere der Erde zusammen �
 | Masse | 4,8 · 10^22 kg |
 | Schwerkraft | 0,134 g (1,31 m/s²) |
 | Sprunghöhe | 9,34 m |
+| Höchster Berg | 1 km |
+| Berge im Schnitt | 200 m |
+| Tiefe der großen Becken | 300 m |
+| Tiefster Punkt | −1 km |
+| Bauhöhe | 149 km |
+| Grabtiefe | 2,99 km |
 | Ein Tag | 3,53 Tage |
 | Umlauf | 3,53 Tage |
 | Abstand zu Jupiter | 671 100 km |

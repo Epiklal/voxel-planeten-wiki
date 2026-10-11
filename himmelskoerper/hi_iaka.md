@@ -7,6 +7,12 @@
 | Masse | 1,79 · 10^19 kg |
 | Schwerkraft | 0,00476 g (0,05 m/s²) |
 | Sprunghöhe | 263 m |
+| Höchster Berg | 4,8 km |
+| Berge im Schnitt | 1,68 km |
+| Tiefe der großen Becken | 2,4 km |
+| Tiefster Punkt | −4,8 km |
+| Bauhöhe | 80 km |
+| Grabtiefe | 6,8 km |
 | Ein Tag | 10 h |
 | Umlauf | 49,1 Tage |
 | Abstand zu Haumea | 49 880 km |

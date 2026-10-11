@@ -9,6 +9,12 @@ Der dunkelste der großen Uranusmonde – bis auf einen hellen Ring im Krater Wu
 | Masse | 1,27 · 10^21 kg |
 | Schwerkraft | 0,0254 g (0,25 m/s²) |
 | Sprunghöhe | 49,3 m |
+| Höchster Berg | 2 km |
+| Berge im Schnitt | 1 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −6 km |
+| Bauhöhe | 292 km |
+| Grabtiefe | 8 km |
 | Ein Tag | 4,14 Tage |
 | Umlauf | 4,14 Tage |
 | Abstand zu Uranus | 265 986 km |

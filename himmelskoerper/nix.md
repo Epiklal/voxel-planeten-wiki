@@ -7,6 +7,12 @@
 | Masse | 2,25 · 10^16 kg |
 | Schwerkraft | 0,000472 g (0 m/s²) |
 | Sprunghöhe | 3,11 km |
+| Höchster Berg | 540 m |
+| Berge im Schnitt | 189 m |
+| Tiefe der großen Becken | 270 m |
+| Tiefster Punkt | −540 m |
+| Bauhöhe | 8,99 km |
+| Grabtiefe | 2,53 km |
 | Ein Tag | 24,8 Tage |
 | Umlauf | 24,9 Tage |
 | Abstand zu Pluto | 49 300 km |

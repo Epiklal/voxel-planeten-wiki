@@ -9,6 +9,12 @@ Der größte Mond des Sonnensystems – größer als der Planet Merkur – und d
 | Masse | 1,48 · 10^23 kg |
 | Schwerkraft | 0,146 g (1,43 m/s²) |
 | Sprunghöhe | 8,59 m |
+| Höchster Berg | 3 km |
+| Berge im Schnitt | 800 m |
+| Tiefe der großen Becken | 1 km |
+| Tiefster Punkt | −3 km |
+| Bauhöhe | 137 km |
+| Grabtiefe | 4,99 km |
 | Ein Tag | 7,17 Tage |
 | Umlauf | 7,16 Tage |
 | Abstand zu Jupiter | 1 070 400 km |

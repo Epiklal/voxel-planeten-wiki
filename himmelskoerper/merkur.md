@@ -9,6 +9,12 @@ Ein Tag (Sonnenaufgang bis Sonnenaufgang) dauert dort zwei Merkurjahre. Mittags 
 | Masse | 3,3 · 10^23 kg |
 | Schwerkraft | 0,377 g (3,7 m/s²) |
 | Sprunghöhe | 3,32 m |
+| Höchster Berg | 4,48 km |
+| Berge im Schnitt | 1,5 km |
+| Tiefe der großen Becken | 2 km |
+| Tiefster Punkt | −5,38 km |
+| Bauhöhe | 53 km |
+| Grabtiefe | 7,38 km |
 | Ein Tag | 176 Tage |
 | Umlauf um die Sonne (ein Jahr) | 88 Tage |
 | Abstand zur Sonne | 0,387 AE (57,9 Mio. km) |

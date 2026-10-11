@@ -9,6 +9,12 @@ Ein riesiger Krater (Herschel) lässt ihn aussehen wie den Todesstern aus Star W
 | Masse | 3,75 · 10^19 kg |
 | Schwerkraft | 0,0065 g (0,06 m/s²) |
 | Sprunghöhe | 193 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,5 km |
+| Tiefe der großen Becken | 10 km |
+| Tiefster Punkt | −10 km |
+| Bauhöhe | 99,1 km |
+| Grabtiefe | 12 km |
 | Ein Tag | 22,6 h |
 | Umlauf | 22,6 h |
 | Abstand zu Saturn | 186 000 km |

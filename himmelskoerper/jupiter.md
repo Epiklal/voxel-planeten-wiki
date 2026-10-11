@@ -9,6 +9,11 @@ Mehr als doppelt so schwer wie alle anderen Planeten zusammen. Der Große Rote F
 | Masse | 1,9 · 10^27 kg |
 | Schwerkraft | 2,53 g (24,79 m/s²) |
 | Sprunghöhe | 0,495 m |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 80 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 7,9 km |
+| Grabtiefe | 2,19 km |
 | Ein Tag | 9,93 h |
 | Umlauf um die Sonne (ein Jahr) | 11,9 Jahre |
 | Abstand zur Sonne | 5,203 AE (778 Mio. km) |

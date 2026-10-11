@@ -7,6 +7,12 @@
 | Masse | 1,1 · 10^14 kg |
 | Schwerkraft | 0,0000832 g (0 m/s²) |
 | Sprunghöhe | 3 km |
+| Höchster Berg | 200 m |
+| Berge im Schnitt | 70 m |
+| Tiefe der großen Becken | 100 m |
+| Tiefster Punkt | −200 m |
+| Bauhöhe | 1,49 km |
+| Grabtiefe | 736 m |
 | Ein Tag | 10 h |
 | Umlauf | 2,86 Jahre |
 | Abstand zu Saturn | 0,133 AE (19,8 Mio. km) |

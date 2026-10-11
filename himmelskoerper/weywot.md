@@ -7,6 +7,12 @@
 | Masse | 3,34 · 10^18 kg |
 | Schwerkraft | 0,00315 g (0,03 m/s²) |
 | Sprunghöhe | 399 m |
+| Höchster Berg | 2,55 km |
+| Berge im Schnitt | 892 m |
+| Tiefe der großen Becken | 1,27 km |
+| Tiefster Punkt | −2,55 km |
+| Bauhöhe | 42,5 km |
+| Grabtiefe | 4,54 km |
 | Ein Tag | 10 h |
 | Umlauf | 12,4 Tage |
 | Abstand zu Quaoar | 13 289 km |

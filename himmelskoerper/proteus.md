@@ -9,6 +9,12 @@ Fast so groß, wie ein Körper sein kann, ohne von der eigenen Schwerkraft rund 
 | Masse | 3,87 · 10^19 kg |
 | Schwerkraft | 0,00609 g (0,06 m/s²) |
 | Sprunghöhe | 206 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 1,75 km |
+| Tiefe der großen Becken | 2,5 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 104 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 26,9 h |
 | Umlauf | 26,9 h |
 | Abstand zu Neptun | 117 600 km |

@@ -9,6 +9,12 @@ Der hellste Mond des Uranus, durchzogen von langen Canyons.
 | Masse | 1,25 · 10^21 kg |
 | Schwerkraft | 0,0254 g (0,25 m/s²) |
 | Sprunghöhe | 49,3 m |
+| Höchster Berg | 2 km |
+| Berge im Schnitt | 1 km |
+| Tiefe der großen Becken | 3 km |
+| Tiefster Punkt | −4 km |
+| Bauhöhe | 289 km |
+| Grabtiefe | 6 km |
 | Ein Tag | 2,52 Tage |
 | Umlauf | 2,52 Tage |
 | Abstand zu Uranus | 190 929 km |

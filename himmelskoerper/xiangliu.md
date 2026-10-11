@@ -7,6 +7,12 @@
 | Masse | 6,81 · 10^17 kg |
 | Schwerkraft | 0,00185 g (0,02 m/s²) |
 | Sprunghöhe | 685 m |
+| Höchster Berg | 1,5 km |
+| Berge im Schnitt | 525 m |
+| Tiefe der großen Becken | 750 m |
+| Tiefster Punkt | −1,5 km |
+| Bauhöhe | 25 km |
+| Grabtiefe | 3,49 km |
 | Ein Tag | 10 h |
 | Umlauf | 25,2 Tage |
 | Abstand zu Gonggong | 24 021 km |

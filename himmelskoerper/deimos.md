@@ -9,6 +9,12 @@ So klein und mit so wenig Schwerkraft, dass man mit einem kräftigen Sprung fast
 | Masse | 1,44 · 10^15 kg |
 | Schwerkraft | 0,000255 g (0 m/s²) |
 | Sprunghöhe | 6,2 km |
+| Höchster Berg | 1 km |
+| Berge im Schnitt | 300 m |
+| Tiefe der großen Becken | 500 m |
+| Tiefster Punkt | −1 km |
+| Bauhöhe | 3,09 km |
+| Grabtiefe | 1,54 km |
 | Ein Tag | 30,4 h |
 | Umlauf | 30,3 h |
 | Abstand zu Mars | 23 457 km |

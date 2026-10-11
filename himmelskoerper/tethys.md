@@ -9,6 +9,12 @@ Fast nur aus Wassereis. Eine Schlucht, Ithaca Chasma, zieht sich über drei Vier
 | Masse | 6,17 · 10^20 kg |
 | Schwerkraft | 0,0149 g (0,15 m/s²) |
 | Sprunghöhe | 84 m |
+| Höchster Berg | 4 km |
+| Berge im Schnitt | 1,5 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −5 km |
+| Bauhöhe | 266 km |
+| Grabtiefe | 6,99 km |
 | Ein Tag | 45,3 h |
 | Umlauf | 45,3 h |
 | Abstand zu Saturn | 295 000 km |

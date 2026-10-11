@@ -9,6 +9,12 @@ Die am dichtesten mit Kratern übersäte Oberfläche im Sonnensystem: Seit über
 | Masse | 1,08 · 10^23 kg |
 | Schwerkraft | 0,126 g (1,24 m/s²) |
 | Sprunghöhe | 9,93 m |
+| Höchster Berg | 3 km |
+| Berge im Schnitt | 1 km |
+| Tiefe der großen Becken | 2 km |
+| Tiefster Punkt | −3 km |
+| Bauhöhe | 159 km |
+| Grabtiefe | 4,99 km |
 | Ein Tag | 16,8 Tage |
 | Umlauf | 16,7 Tage |
 | Abstand zu Jupiter | 1 882 700 km |

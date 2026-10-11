@@ -15,6 +15,33 @@ Sonne, 8 Planeten, 9 Zwergplaneten und alle 466 bekannten Monde – vom Erdmond 
 | Saturn  |  58 232 km |       1,4 Mrd. km |       106 % |                 10 h 39 min | cremefarbene Wolken, **Ringe** (siehe unten)     |
 | Uranus  |  25 362 km |       2,9 Mrd. km |        89 % | 17 h 14 min, um 98° gekippt | türkise Wolken                                   |
 | Neptun  |  24 622 km |       4,5 Mrd. km |       114 % |                  16 h 6 min | blaue Wolken                                     |
+
+## Höhen, Bauhöhe und Grabtiefe
+
+Jeder Himmelskörper hat seine echten Höhen: den höchsten Berg, wie hoch Berge im Schnitt sind und wie tief das Meer im Schnitt ist (ohne Meer: wie tief die großen Becken liegen). Im Welttyp Realistisch entsteht das Gelände als Anteil davon: Olympus Mons ist 95 % des höchsten Bergs auf dem Mars, die Mare des Mondes 50 bis 120 % der Beckentiefe.
+
+**Bauhöhe** hängt von der Anziehungskraft ab: auf der Erde 20 km, bei schwächerer Anziehung entsprechend höher – wie in echt, wo Berge dort höher werden können, ohne unter ihrem Gewicht einzusinken. Sie liegt immer mindestens 2 km über dem höchsten Berg. **Graben** kann man bis 2 km unter den tiefsten Punkt. Auf kleinen Monden geht es höchstens um ein Viertel des Radius hinab und um den halben Radius hinauf. Bauhöhe und Grabtiefe gelten in allen Welten (auch alten), das Gelände in echter Höhe nur in neuen Welten vom Typ Realistisch.
+
+| Körper   |     höchster Berg | Berge im Schnitt | Meer / Becken | tiefster Punkt    | Bauhöhe | Grabtiefe |
+| -------- | ----------------: | ---------------: | ------------: | ----------------- | ------: | --------: |
+| Merkur   |            4,5 km |           1,5 km |          2 km | −5,4 km           |   53 km |    7,4 km |
+| Venus    |   11 km (Maxwell) |           2,5 km |        1,5 km | −2,9 km           |   22 km |    4,9 km |
+| Erde     |  8,8 km (Everest) |           2,5 km |        3,7 km | −10,9 km (Graben) |   20 km |   12,9 km |
+| Mond     |           10,8 km |             3 km |          3 km | −9,1 km           |  121 km |   11,1 km |
+| Mars     | 21,2 km (Olympus) |             3 km |          4 km | −8,2 km (Hellas)  |   53 km |   10,2 km |
+| Io       |           17,5 km |             6 km |        1,5 km | −3 km             |  109 km |      5 km |
+| Europa   |              1 km |           0,2 km |        0,3 km | −1 km             |  149 km |      3 km |
+| Ganymed  |              3 km |           0,8 km |          1 km | −3 km             |  137 km |      5 km |
+| Kallisto |              3 km |             1 km |          2 km | −3 km             |  159 km |      5 km |
+| Titan    |            3,3 km |           0,5 km |        0,3 km | −1 km             |  145 km |      3 km |
+| Iapetus  |      20 km (Grat) |             3 km |          8 km | −10 km            |  367 km |     12 km |
+| Miranda  |              5 km |             2 km |         10 km | −15 km            |  118 km |     17 km |
+| Triton   |              1 km |           0,3 km |        0,5 km | −1 km             |  251 km |      3 km |
+| Pluto    |            6,2 km |           2,5 km |        3,5 km | −4 km             |  319 km |      6 km |
+| Charon   |              6 km |             2 km |          5 km | −7 km             |  303 km |      9 km |
+| Ceres    |              7 km |             2 km |          4 km | −7 km             |  235 km |      9 km |
+
+Alle anderen Monde nach ihrer Größe: höchster Berg 3 % des Radius (200 m bis 5 km).
  
 ## Karte des Planeten
 

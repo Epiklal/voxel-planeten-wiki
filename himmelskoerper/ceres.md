@@ -9,6 +9,12 @@ Der größte Körper im Asteroidengürtel – und doch nur gut ein Prozent so sc
 | Masse | 9,38 · 10^20 kg |
 | Schwerkraft | 0,0289 g (0,28 m/s²) |
 | Sprunghöhe | 43,2 m |
+| Höchster Berg | 7 km |
+| Berge im Schnitt | 2 km |
+| Tiefe der großen Becken | 4 km |
+| Tiefster Punkt | −7 km |
+| Bauhöhe | 235 km |
+| Grabtiefe | 8,99 km |
 | Ein Tag | 9,08 h |
 | Umlauf um die Sonne (ein Jahr) | 4,6 Jahre |
 | Abstand zur Sonne | 2,766 AE (414 Mio. km) |

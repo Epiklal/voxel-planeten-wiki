@@ -7,6 +7,12 @@
 | Masse | 3,59 · 10^18 kg |
 | Schwerkraft | 0,00322 g (0,03 m/s²) |
 | Sprunghöhe | 390 m |
+| Höchster Berg | 2,61 km |
+| Berge im Schnitt | 913 m |
+| Tiefe der großen Becken | 1,3 km |
+| Tiefster Punkt | −2,61 km |
+| Bauhöhe | 43,5 km |
+| Grabtiefe | 4,61 km |
 | Ein Tag | 10 h |
 | Umlauf | 18 Tage |
 | Abstand zu Makemake | 22 250 km |

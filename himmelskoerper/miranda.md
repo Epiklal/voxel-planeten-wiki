@@ -9,6 +9,12 @@ Hier ist die höchste Steilwand des Sonnensystems: Verona Rupes, rund 20 km. Ein
 | Masse | 6,44 · 10^19 kg |
 | Schwerkraft | 0,00788 g (0,08 m/s²) |
 | Sprunghöhe | 159 m |
+| Höchster Berg | 5 km |
+| Berge im Schnitt | 2 km |
+| Tiefe der großen Becken | 10 km |
+| Tiefster Punkt | −15 km |
+| Bauhöhe | 118 km |
+| Grabtiefe | 17 km |
 | Ein Tag | 33,9 h |
 | Umlauf | 33,9 h |
 | Abstand zu Uranus | 129 846 km |

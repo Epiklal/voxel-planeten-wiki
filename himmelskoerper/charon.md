@@ -9,6 +9,12 @@ Halb so groß wie Pluto: Die beiden kreisen um einen Punkt zwischen sich und zei
 | Masse | 1,59 · 10^21 kg |
 | Schwerkraft | 0,0295 g (0,29 m/s²) |
 | Sprunghöhe | 42,5 m |
+| Höchster Berg | 6 km |
+| Berge im Schnitt | 2 km |
+| Tiefe der großen Becken | 5 km |
+| Tiefster Punkt | −7 km |
+| Bauhöhe | 303 km |
+| Grabtiefe | 8,99 km |
 | Ein Tag | 6,39 Tage |
 | Umlauf | 6,39 Tage |
 | Abstand zu Pluto | 19 600 km |

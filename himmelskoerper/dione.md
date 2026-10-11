@@ -9,6 +9,12 @@ Er hat zwei kleine Begleiter auf derselben Bahn, Helene und Polydeuces.
 | Masse | 1,1 · 10^21 kg |
 | Schwerkraft | 0,0236 g (0,23 m/s²) |
 | Sprunghöhe | 52,9 m |
+| Höchster Berg | 3 km |
+| Berge im Schnitt | 1 km |
+| Tiefe der großen Becken | 3 km |
+| Tiefster Punkt | −4 km |
+| Bauhöhe | 281 km |
+| Grabtiefe | 6 km |
 | Ein Tag | 2,74 Tage |
 | Umlauf | 2,74 Tage |
 | Abstand zu Saturn | 377 700 km |

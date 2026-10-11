@@ -9,6 +9,12 @@ Er kommt dem Mars jedes Jahrhundert 2 m näher – in etwa 50 Millionen Jahren z
 | Masse | 1,06 · 10^16 kg |
 | Schwerkraft | 0,000588 g (0,01 m/s²) |
 | Sprunghöhe | 2,63 km |
+| Höchster Berg | 2 km |
+| Berge im Schnitt | 600 m |
+| Tiefe der großen Becken | 1 km |
+| Tiefster Punkt | −2 km |
+| Bauhöhe | 5,54 km |
+| Grabtiefe | 2,77 km |
 | Ein Tag | 7,65 h |
 | Umlauf | 7,65 h |
 | Abstand zu Mars | 9375 km |

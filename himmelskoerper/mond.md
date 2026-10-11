@@ -9,6 +9,12 @@ Er entstand vermutlich, als ein marsgroßer Körper mit der jungen Erde zusammen
 | Masse | 7,35 · 10^22 kg |
 | Schwerkraft | 0,166 g (1,62 m/s²) |
 | Sprunghöhe | 7,56 m |
+| Höchster Berg | 10,8 km |
+| Berge im Schnitt | 3 km |
+| Tiefe der großen Becken | 3 km |
+| Tiefster Punkt | −9,12 km |
+| Bauhöhe | 121 km |
+| Grabtiefe | 11,1 km |
 | Ein Tag | 29,5 Tage |
 | Umlauf | 27,3 Tage |
 | Abstand zu Erde | 384 400 km |
