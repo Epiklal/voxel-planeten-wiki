@@ -1,11 +1,11 @@
 # Sycorax
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 78,5 km |
 | Masse | 2 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00221 g (0,02 m/s²) |
 | Sprunghöhe | 571 m |
 | Ein Tag | 6,9 h |
 | Umlauf | 3,52 Jahre |

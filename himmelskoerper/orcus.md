@@ -2,12 +2,12 @@
 
 Der "Anti-Pluto": gleiche Umlaufzeit, aber immer genau auf der anderen Seite der Sonne.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 455 km |
 | Masse | 6,35 · 10^20 kg |
-| Schwerkraft | 0,021 g (0,2 m/s²) |
+| Schwerkraft | 0,0209 g (0,2 m/s²) |
 | Sprunghöhe | 60 m |
 | Ein Tag | 13,2 h |
 | Umlauf um die Sonne (ein Jahr) | 247 Jahre |
@@ -34,5 +34,5 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Vanth](../himmelskoerper/vanth.md) | 221 km | 9000 km | 9,54 Tage | rückwärts | 0,012 g |
+| [Vanth](../himmelskoerper/vanth.md) | 221 km | 9000 km | 9,54 Tage | rückwärts | 0,0121 g |
 

@@ -2,7 +2,7 @@
 
 Der vulkanreichste Ort im Sonnensystem: über 400 aktive Vulkane, die Schwefel bis 500 km hoch schleudern.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 1821 km |

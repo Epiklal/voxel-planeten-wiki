@@ -2,12 +2,12 @@
 
 Dreht sich in knapp 4 Stunden einmal – so schnell, dass sie zu einem Ei gezogen ist. Und sie hat einen Ring.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 780 km |
 | Masse | 4,01 · 10^21 kg |
-| Schwerkraft | 0,045 g (0,44 m/s²) |
+| Schwerkraft | 0,0448 g (0,44 m/s²) |
 | Sprunghöhe | 27,9 m |
 | Ein Tag | 3,92 h |
 | Umlauf um die Sonne (ein Jahr) | 283 Jahre |
@@ -34,6 +34,6 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Namaka](../himmelskoerper/namaka.md) | 85 km | 25 657 km | 18,3 Tage | rückwärts | 0,002 g |
-| [Hiʻiaka](../himmelskoerper/hi_iaka.md) | 160 km | 49 880 km | 49,1 Tage | rückwärts | 0,005 g |
+| [Namaka](../himmelskoerper/namaka.md) | 85 km | 25 657 km | 18,3 Tage | rückwärts | 0,00169 g |
+| [Hiʻiaka](../himmelskoerper/hi_iaka.md) | 160 km | 49 880 km | 49,1 Tage | rückwärts | 0,00476 g |
 

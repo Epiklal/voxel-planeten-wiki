@@ -1,11 +1,11 @@
 # Thalassa
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 40 km |
 | Masse | 3,53 · 10^17 kg |
-| Schwerkraft | 0,002 g (0,01 m/s²) |
+| Schwerkraft | 0,0015 g (0,01 m/s²) |
 | Sprunghöhe | 850 m |
 | Ein Tag | 7,47 h |
 | Umlauf | 7,47 h |

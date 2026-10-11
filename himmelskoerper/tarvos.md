@@ -1,11 +1,11 @@
 # Tarvos
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 7,5 km |
 | Masse | 2,1 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000254 g (0 m/s²) |
 | Sprunghöhe | 7,5 km |
 | Ein Tag | 10,7 h |
 | Umlauf | 2,51 Jahre |

@@ -2,7 +2,7 @@
 
 Unter dem Eis liegt ein Ozean mit mehr Wasser als alle Meere der Erde zusammen – einer der besten Orte für die Suche nach Leben.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 1561 km |

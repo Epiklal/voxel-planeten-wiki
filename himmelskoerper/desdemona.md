@@ -1,11 +1,11 @@
 # Desdemona
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 32,1 km |
 | Masse | 1,4 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000922 g (0,01 m/s²) |
 | Sprunghöhe | 1,42 km |
 | Ein Tag | 11,4 h |
 | Umlauf | 11,4 h |

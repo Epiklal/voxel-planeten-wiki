@@ -1,11 +1,11 @@
 # Kiviuq
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 8,5 km |
 | Masse | 3,6 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000339 g (0 m/s²) |
 | Sprunghöhe | 6,52 km |
 | Ein Tag | 22 h |
 | Umlauf | 449 Tage |

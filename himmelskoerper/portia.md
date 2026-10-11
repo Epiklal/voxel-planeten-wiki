@@ -1,11 +1,11 @@
 # Portia
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 67,5 km |
 | Masse | 1,3 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00194 g (0,02 m/s²) |
 | Sprunghöhe | 650 m |
 | Ein Tag | 12,3 h |
 | Umlauf | 12,3 h |

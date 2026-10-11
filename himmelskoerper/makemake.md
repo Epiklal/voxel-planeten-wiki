@@ -2,12 +2,12 @@
 
 Benannt nach dem Schöpfergott der Osterinsel – gefunden kurz nach Ostern 2005.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 715 km |
 | Masse | 3,1 · 10^21 kg |
-| Schwerkraft | 0,041 g (0,4 m/s²) |
+| Schwerkraft | 0,0413 g (0,4 m/s²) |
 | Sprunghöhe | 30,3 m |
 | Ein Tag | 22,8 h |
 | Umlauf um die Sonne (ein Jahr) | 308 Jahre |
@@ -34,5 +34,5 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [MK2](../himmelskoerper/mk2.md) | 87 km | 22 250 km | 18 Tage | vorwärts | 0,003 g |
+| [MK2](../himmelskoerper/mk2.md) | 87 km | 22 250 km | 18 Tage | vorwärts | 0,00322 g |
 

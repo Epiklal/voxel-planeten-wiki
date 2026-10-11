@@ -1,11 +1,11 @@
 # Caliban
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 21 km |
 | Masse | 3,9 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000602 g (0,01 m/s²) |
 | Sprunghöhe | 2,31 km |
 | Ein Tag | 10 h |
 | Umlauf | 580 Tage |

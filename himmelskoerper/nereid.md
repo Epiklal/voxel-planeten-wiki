@@ -2,12 +2,12 @@
 
 Ihre Bahn ist so lang gestreckt, dass ihr Abstand zu Neptun um das Siebenfache schwankt.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 170 km |
 | Masse | 2,1 · 10^19 kg |
-| Schwerkraft | 0,005 g (0,05 m/s²) |
+| Schwerkraft | 0,00494 g (0,05 m/s²) |
 | Sprunghöhe | 253 m |
 | Ein Tag | 11,6 h |
 | Umlauf | 360 Tage |

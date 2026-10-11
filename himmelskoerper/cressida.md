@@ -1,11 +1,11 @@
 # Cressida
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 39,5 km |
 | Masse | 1,84 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000802 g (0,01 m/s²) |
 | Sprunghöhe | 1,62 km |
 | Ein Tag | 11,1 h |
 | Umlauf | 11,1 h |

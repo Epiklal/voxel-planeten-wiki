@@ -1,11 +1,11 @@
 # Hydra
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Pluto](../himmelskoerper/pluto.md) |
 | Radius | 18,5 km |
 | Masse | 3 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000596 g (0,01 m/s²) |
 | Sprunghöhe | 2,37 km |
 | Ein Tag | 38,2 Tage |
 | Umlauf | 38,2 Tage |

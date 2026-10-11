@@ -1,11 +1,11 @@
 # Pallene
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 2,22 km |
 | Masse | 2,3 · 10^13 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000318 g (0 m/s²) |
 | Sprunghöhe | 2,22 km |
 | Ein Tag | 27,7 h |
 | Umlauf | 27,7 h |

@@ -1,11 +1,11 @@
 # Lysithea
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 21,1 km |
 | Masse | 3,9 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000596 g (0,01 m/s²) |
 | Sprunghöhe | 2,33 km |
 | Ein Tag | 10 h |
 | Umlauf | 259 Tage |

@@ -1,11 +1,11 @@
 # Kerberos
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Pluto](../himmelskoerper/pluto.md) |
 | Radius | 6 km |
 | Masse | 1,18 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000222 g (0 m/s²) |
 | Sprunghöhe | 6 km |
 | Ein Tag | 32,2 Tage |
 | Umlauf | 32,2 Tage |

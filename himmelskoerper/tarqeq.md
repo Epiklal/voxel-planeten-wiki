@@ -1,11 +1,11 @@
 # Tarqeq
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 3,5 km |
 | Masse | 1,8 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0001 g (0 m/s²) |
 | Sprunghöhe | 3,5 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,42 Jahre |

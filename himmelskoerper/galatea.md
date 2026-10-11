@@ -1,11 +1,11 @@
 # Galatea
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 79 km |
 | Masse | 2,85 · 10^18 kg |
-| Schwerkraft | 0,003 g (0,03 m/s²) |
+| Schwerkraft | 0,0031 g (0,03 m/s²) |
 | Sprunghöhe | 405 m |
 | Ein Tag | 10,3 h |
 | Umlauf | 10,3 h |

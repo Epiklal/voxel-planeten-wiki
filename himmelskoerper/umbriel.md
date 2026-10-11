@@ -2,12 +2,12 @@
 
 Der dunkelste der großen Uranusmonde – bis auf einen hellen Ring im Krater Wunda.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 585 km |
 | Masse | 1,27 · 10^21 kg |
-| Schwerkraft | 0,025 g (0,25 m/s²) |
+| Schwerkraft | 0,0254 g (0,25 m/s²) |
 | Sprunghöhe | 49,3 m |
 | Ein Tag | 4,14 Tage |
 | Umlauf | 4,14 Tage |

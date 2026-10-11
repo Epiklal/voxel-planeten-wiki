@@ -1,11 +1,11 @@
 # Prospero
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 25 km |
 | Masse | 6,5 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000708 g (0,01 m/s²) |
 | Sprunghöhe | 1,9 km |
 | Ein Tag | 10 h |
 | Umlauf | 5,4 Jahre |

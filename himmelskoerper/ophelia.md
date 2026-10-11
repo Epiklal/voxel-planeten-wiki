@@ -1,11 +1,11 @@
 # Ophelia
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 21,6 km |
 | Masse | 3,57 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000518 g (0,01 m/s²) |
 | Sprunghöhe | 2,72 km |
 | Ein Tag | 9,03 h |
 | Umlauf | 9,03 h |

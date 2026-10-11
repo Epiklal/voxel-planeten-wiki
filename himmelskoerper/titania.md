@@ -2,12 +2,12 @@
 
 Der größte Mond des Uranus, benannt nach der Feenkönigin aus Shakespeares "Sommernachtstraum".
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 789 km |
 | Masse | 3,4 · 10^21 kg |
-| Schwerkraft | 0,037 g (0,36 m/s²) |
+| Schwerkraft | 0,0372 g (0,36 m/s²) |
 | Sprunghöhe | 33,7 m |
 | Ein Tag | 8,71 Tage |
 | Umlauf | 8,71 Tage |

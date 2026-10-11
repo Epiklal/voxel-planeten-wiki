@@ -1,11 +1,11 @@
 # Ananke
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 14,6 km |
 | Masse | 1,3 · 10^16 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000418 g (0 m/s²) |
 | Sprunghöhe | 3,77 km |
 | Ein Tag | 10 h |
 | Umlauf | 623 Tage |

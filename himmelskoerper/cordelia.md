@@ -1,11 +1,11 @@
 # Cordelia
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 19,8 km |
 | Masse | 6,08 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00106 g (0,01 m/s²) |
 | Sprunghöhe | 1,26 km |
 | Ein Tag | 8,03 h |
 | Umlauf | 8,03 h |

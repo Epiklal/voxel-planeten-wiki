@@ -1,11 +1,11 @@
 # Trinculo
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 9 km |
 | Masse | 3,1 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,00026 g (0 m/s²) |
 | Sprunghöhe | 9 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,05 Jahre |

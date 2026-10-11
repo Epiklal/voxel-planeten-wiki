@@ -1,11 +1,11 @@
 # Larissa
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 96 km |
 | Masse | 3,82 · 10^18 kg |
-| Schwerkraft | 0,003 g (0,03 m/s²) |
+| Schwerkraft | 0,00282 g (0,03 m/s²) |
 | Sprunghöhe | 446 m |
 | Ein Tag | 13,3 h |
 | Umlauf | 13,3 h |

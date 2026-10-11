@@ -1,11 +1,11 @@
 # Himalia
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 85 km |
 | Masse | 2,27 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00214 g (0,02 m/s²) |
 | Sprunghöhe | 589 m |
 | Ein Tag | 7,78 h |
 | Umlauf | 250 Tage |

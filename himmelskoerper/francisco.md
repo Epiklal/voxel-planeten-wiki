@@ -1,11 +1,11 @@
 # Francisco
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 11 km |
 | Masse | 5,6 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000315 g (0 m/s²) |
 | Sprunghöhe | 6,22 km |
 | Ein Tag | 10 h |
 | Umlauf | 267 Tage |

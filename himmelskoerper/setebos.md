@@ -1,11 +1,11 @@
 # Setebos
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 23,5 km |
 | Masse | 5,4 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000665 g (0,01 m/s²) |
 | Sprunghöhe | 2,04 km |
 | Ein Tag | 10 h |
 | Umlauf | 6,06 Jahre |

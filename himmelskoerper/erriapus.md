@@ -1,11 +1,11 @@
 # Erriapus
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 5 km |
 | Masse | 9,5 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000259 g (0 m/s²) |
 | Sprunghöhe | 5 km |
 | Ein Tag | 28,2 h |
 | Umlauf | 2,37 Jahre |

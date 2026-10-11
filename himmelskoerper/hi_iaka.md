@@ -1,11 +1,11 @@
 # Hiʻiaka
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Haumea](../himmelskoerper/haumea.md) |
 | Radius | 160 km |
 | Masse | 1,79 · 10^19 kg |
-| Schwerkraft | 0,005 g (0,05 m/s²) |
+| Schwerkraft | 0,00476 g (0,05 m/s²) |
 | Sprunghöhe | 263 m |
 | Ein Tag | 10 h |
 | Umlauf | 49,1 Tage |

@@ -1,11 +1,11 @@
 # Bebhionn
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 3 km |
 | Masse | 1,8 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000136 g (0 m/s²) |
 | Sprunghöhe | 3 km |
 | Ein Tag | 16,3 h |
 | Umlauf | 2,27 Jahre |

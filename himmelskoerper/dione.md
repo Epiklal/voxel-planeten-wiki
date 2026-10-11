@@ -2,12 +2,12 @@
 
 Er hat zwei kleine Begleiter auf derselben Bahn, Helene und Polydeuces.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 561 km |
 | Masse | 1,1 · 10^21 kg |
-| Schwerkraft | 0,024 g (0,23 m/s²) |
+| Schwerkraft | 0,0236 g (0,23 m/s²) |
 | Sprunghöhe | 52,9 m |
 | Ein Tag | 2,74 Tage |
 | Umlauf | 2,74 Tage |

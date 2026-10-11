@@ -2,12 +2,12 @@
 
 Saturns zweitgrößter Mond – womöglich mit einem eigenen, hauchdünnen Ring.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 764 km |
 | Masse | 2,31 · 10^21 kg |
-| Schwerkraft | 0,027 g (0,26 m/s²) |
+| Schwerkraft | 0,0269 g (0,26 m/s²) |
 | Sprunghöhe | 46,5 m |
 | Ein Tag | 4,52 Tage |
 | Umlauf | 4,52 Tage |

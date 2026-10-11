@@ -2,12 +2,12 @@
 
 Läuft rückwärts um Neptun – ein eingefangener Zwergplanet. Geysire spucken Stickstoff 8 km hoch, bei −235 °C.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 1353 km |
 | Masse | 2,14 · 10^22 kg |
-| Schwerkraft | 0,08 g (0,78 m/s²) |
+| Schwerkraft | 0,0796 g (0,78 m/s²) |
 | Sprunghöhe | 15,7 m |
 | Ein Tag | 5,88 Tage |
 | Umlauf | 5,88 Tage |

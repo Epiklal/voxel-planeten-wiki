@@ -1,11 +1,11 @@
 # Hippocamp
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 17,4 km |
 | Masse | 2,2 · 10^16 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000494 g (0 m/s²) |
 | Sprunghöhe | 2,96 km |
 | Ein Tag | 22,8 h |
 | Umlauf | 22,8 h |

@@ -2,7 +2,7 @@
 
 Der größte Mond des Sonnensystems – größer als der Planet Merkur – und der einzige mit eigenem Magnetfeld.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 2631 km |

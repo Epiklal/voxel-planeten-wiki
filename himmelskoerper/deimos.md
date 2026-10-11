@@ -2,12 +2,12 @@
 
 So klein und mit so wenig Schwerkraft, dass man mit einem kräftigen Sprung fast davonfliegen könnte.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Mars](../himmelskoerper/mars.md) |
 | Radius | 6,2 km |
 | Masse | 1,44 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000255 g (0 m/s²) |
 | Sprunghöhe | 6,2 km |
 | Ein Tag | 30,4 h |
 | Umlauf | 30,3 h |

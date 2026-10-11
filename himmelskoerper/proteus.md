@@ -2,12 +2,12 @@
 
 Fast so groß, wie ein Körper sein kann, ohne von der eigenen Schwerkraft rund gezogen zu werden.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 208 km |
 | Masse | 3,87 · 10^19 kg |
-| Schwerkraft | 0,006 g (0,06 m/s²) |
+| Schwerkraft | 0,00609 g (0,06 m/s²) |
 | Sprunghöhe | 206 m |
 | Ein Tag | 26,9 h |
 | Umlauf | 26,9 h |

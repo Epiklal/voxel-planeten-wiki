@@ -1,11 +1,11 @@
 # Puck
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 81 km |
 | Masse | 2,2 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00228 g (0,02 m/s²) |
 | Sprunghöhe | 552 m |
 | Ein Tag | 18,3 h |
 | Umlauf | 18,3 h |

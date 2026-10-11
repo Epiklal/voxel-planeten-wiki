@@ -1,11 +1,11 @@
 # Juliet
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 47,2 km |
 | Masse | 4,4 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00134 g (0,01 m/s²) |
 | Sprunghöhe | 950 m |
 | Ein Tag | 11,8 h |
 | Umlauf | 11,8 h |

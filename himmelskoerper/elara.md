@@ -1,11 +1,11 @@
 # Elara
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 40 km |
 | Masse | 2,7 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00115 g (0,01 m/s²) |
 | Sprunghöhe | 1,12 km |
 | Ein Tag | 10 h |
 | Umlauf | 259 Tage |

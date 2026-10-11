@@ -1,11 +1,11 @@
 # Thebe
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 49,3 km |
 | Masse | 4,52 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00126 g (0,01 m/s²) |
 | Sprunghöhe | 1,01 km |
 | Ein Tag | 16,2 h |
 | Umlauf | 16,2 h |

@@ -1,11 +1,11 @@
 # Rosalind
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 36 km |
 | Masse | 2 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00105 g (0,01 m/s²) |
 | Sprunghöhe | 1,23 km |
 | Ein Tag | 13,4 h |
 | Umlauf | 13,4 h |

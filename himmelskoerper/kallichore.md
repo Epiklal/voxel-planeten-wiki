@@ -1,11 +1,11 @@
 # Kallichore
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 1,9 km |
 | Masse | 2,9 · 10^13 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000547 g (0 m/s²) |
 | Sprunghöhe | 1,9 km |
 | Ein Tag | 10 h |
 | Umlauf | 714 Tage |

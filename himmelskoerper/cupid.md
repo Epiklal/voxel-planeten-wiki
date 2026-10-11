@@ -1,11 +1,11 @@
 # Cupid
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 8,9 km |
 | Masse | 3 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000258 g (0 m/s²) |
 | Sprunghöhe | 8,9 km |
 | Ein Tag | 14,7 h |
 | Umlauf | 14,7 h |

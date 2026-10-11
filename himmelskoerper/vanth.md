@@ -1,11 +1,11 @@
 # Vanth
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Orcus](../himmelskoerper/orcus.md) |
 | Radius | 221 km |
 | Masse | 8,7 · 10^19 kg |
-| Schwerkraft | 0,012 g (0,12 m/s²) |
+| Schwerkraft | 0,0121 g (0,12 m/s²) |
 | Sprunghöhe | 103 m |
 | Ein Tag | 10 h |
 | Umlauf | 9,54 Tage |

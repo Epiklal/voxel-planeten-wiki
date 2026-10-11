@@ -1,11 +1,11 @@
 # Kari
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 3 km |
 | Masse | 2,7 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000204 g (0 m/s²) |
 | Sprunghöhe | 3 km |
 | Ein Tag | 7,7 h |
 | Umlauf | 3,34 Jahre |

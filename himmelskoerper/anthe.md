@@ -1,11 +1,11 @@
 # Anthe
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 0,9 km |
 | Masse | 1,5 · 10^12 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000126 g (0 m/s²) |
 | Sprunghöhe | 900 m |
 | Ein Tag | 24,9 h |
 | Umlauf | 24,9 h |

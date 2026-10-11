@@ -2,12 +2,12 @@
 
 Alle Uranusmonde tragen Namen aus Shakespeare und Alexander Pope – Oberon ist der König der Elfen.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 761 km |
 | Masse | 3,08 · 10^21 kg |
-| Schwerkraft | 0,036 g (0,35 m/s²) |
+| Schwerkraft | 0,0361 g (0,35 m/s²) |
 | Sprunghöhe | 34,7 m |
 | Ein Tag | 13,5 Tage |
 | Umlauf | 13,5 Tage |

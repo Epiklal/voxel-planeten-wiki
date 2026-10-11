@@ -1,11 +1,11 @@
 # Calypso
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 10,7 km |
 | Masse | 1,8 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000107 g (0 m/s²) |
 | Sprunghöhe | 10,7 km |
 | Ein Tag | 45,3 h |
 | Umlauf | 45,3 h |

@@ -1,11 +1,11 @@
 # Nix
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Pluto](../himmelskoerper/pluto.md) |
 | Radius | 18 km |
 | Masse | 2,25 · 10^16 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000472 g (0 m/s²) |
 | Sprunghöhe | 3,11 km |
 | Ein Tag | 24,8 Tage |
 | Umlauf | 24,9 Tage |

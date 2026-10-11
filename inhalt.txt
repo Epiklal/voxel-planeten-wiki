@@ -22,6 +22,7 @@ anleitungen/rohstoffe.md	Rohstoffe	Anleitung
 anleitungen/chemie.md	Periodensystem und Chemie	Anleitung
 anleitungen/grafik.md	Grafik und Einstellungen	Anleitung
 anleitungen/ressourcen.md	Eigene Texturen, Geräusche und Musik	Anleitung
+anleitungen/wiki.md	Das Wiki	Anleitung
 bloecke/stein.md	Stein	Block
 bloecke/erde.md	Erde	Block
 bloecke/gras.md	Gras	Block

@@ -1,11 +1,11 @@
 # Erinome
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 1,5 km |
 | Masse | 1,4 · 10^13 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000423 g (0 m/s²) |
 | Sprunghöhe | 1,5 km |
 | Ein Tag | 10 h |
 | Umlauf | 714 Tage |

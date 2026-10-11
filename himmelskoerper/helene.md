@@ -1,11 +1,11 @@
 # Helene
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 18 km |
 | Masse | 7,19 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000151 g (0 m/s²) |
 | Sprunghöhe | 15,4 km |
 | Ein Tag | 2,74 Tage |
 | Umlauf | 2,74 Tage |

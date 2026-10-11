@@ -2,12 +2,12 @@
 
 Ein riesiger Krater (Herschel) lässt ihn aussehen wie den Todesstern aus Star Wars.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 198 km |
 | Masse | 3,75 · 10^19 kg |
-| Schwerkraft | 0,006 g (0,06 m/s²) |
+| Schwerkraft | 0,0065 g (0,06 m/s²) |
 | Sprunghöhe | 193 m |
 | Ein Tag | 22,6 h |
 | Umlauf | 22,6 h |

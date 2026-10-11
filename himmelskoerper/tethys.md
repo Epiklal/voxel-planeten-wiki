@@ -2,12 +2,12 @@
 
 Fast nur aus Wassereis. Eine Schlucht, Ithaca Chasma, zieht sich über drei Viertel seines Umfangs.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 531 km |
 | Masse | 6,17 · 10^20 kg |
-| Schwerkraft | 0,015 g (0,15 m/s²) |
+| Schwerkraft | 0,0149 g (0,15 m/s²) |
 | Sprunghöhe | 84 m |
 | Ein Tag | 45,3 h |
 | Umlauf | 45,3 h |

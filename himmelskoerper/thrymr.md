@@ -1,11 +1,11 @@
 # Thrymr
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 4 km |
 | Masse | 3,8 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000162 g (0 m/s²) |
 | Sprunghöhe | 4 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,96 Jahre |

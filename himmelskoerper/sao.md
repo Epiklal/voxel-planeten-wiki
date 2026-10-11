@@ -1,11 +1,11 @@
 # Sao
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 20 km |
 | Masse | 3,4 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000578 g (0,01 m/s²) |
 | Sprunghöhe | 2,43 km |
 | Ein Tag | 10 h |
 | Umlauf | 7,99 Jahre |

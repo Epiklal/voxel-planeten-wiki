@@ -1,11 +1,11 @@
 # Neso
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 30 km |
 | Masse | 1,1 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000832 g (0,01 m/s²) |
 | Sprunghöhe | 1,58 km |
 | Ein Tag | 10 h |
 | Umlauf | 26,8 Jahre |

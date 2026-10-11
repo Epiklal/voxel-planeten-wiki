@@ -1,11 +1,11 @@
 # Janus
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 89,2 km |
 | Masse | 1,9 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00162 g (0,02 m/s²) |
 | Sprunghöhe | 778 m |
 | Ein Tag | 16,7 h |
 | Umlauf | 16,7 h |

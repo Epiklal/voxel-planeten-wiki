@@ -1,11 +1,11 @@
 # Methone
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 1,45 km |
 | Masse | 3,92 · 10^12 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000127 g (0 m/s²) |
 | Sprunghöhe | 1,45 km |
 | Ein Tag | 24,2 h |
 | Umlauf | 24,2 h |

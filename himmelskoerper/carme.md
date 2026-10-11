@@ -1,11 +1,11 @@
 # Carme
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 23,4 km |
 | Masse | 5,3 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000661 g (0,01 m/s²) |
 | Sprunghöhe | 2,06 km |
 | Ein Tag | 10 h |
 | Umlauf | 719 Tage |

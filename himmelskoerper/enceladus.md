@@ -2,12 +2,12 @@
 
 Aus Spalten am Südpol schießen Fontänen aus Wasser ins All – sie speisen einen von Saturns Ringen.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 252 km |
 | Masse | 1,08 · 10^20 kg |
-| Schwerkraft | 0,012 g (0,11 m/s²) |
+| Schwerkraft | 0,0116 g (0,11 m/s²) |
 | Sprunghöhe | 108 m |
 | Ein Tag | 32,9 h |
 | Umlauf | 32,9 h |

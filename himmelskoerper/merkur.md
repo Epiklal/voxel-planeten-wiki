@@ -2,7 +2,7 @@
 
 Ein Tag (Sonnenaufgang bis Sonnenaufgang) dauert dort zwei Merkurjahre. Mittags 430 °C, nachts −180 °C – und an den Polen gibt es trotzdem Eis.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Planet |
 | Radius | 2440 km |

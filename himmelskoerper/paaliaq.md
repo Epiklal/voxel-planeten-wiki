@@ -1,11 +1,11 @@
 # Paaliaq
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 12,5 km |
 | Masse | 1,4 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00061 g (0,01 m/s²) |
 | Sprunghöhe | 2,46 km |
 | Ein Tag | 10 h |
 | Umlauf | 686 Tage |

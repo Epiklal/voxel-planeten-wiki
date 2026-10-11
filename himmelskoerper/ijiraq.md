@@ -1,11 +1,11 @@
 # Ijiraq
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 6,5 km |
 | Masse | 1,8 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,00029 g (0 m/s²) |
 | Sprunghöhe | 6,5 km |
 | Ein Tag | 13 h |
 | Umlauf | 451 Tage |

@@ -1,11 +1,11 @@
 # Prometheus
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 43,1 km |
 | Masse | 1,6 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000588 g (0,01 m/s²) |
 | Sprunghöhe | 2,24 km |
 | Ein Tag | 14,8 h |
 | Umlauf | 14,8 h |

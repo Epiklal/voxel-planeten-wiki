@@ -21,14 +21,14 @@ In der Mitte steht die [Sonne](himmelskoerper/sonne.md).
 
 | Name | Radius | Abstand zur Sonne | Ein Jahr | Ein Tag | Schwerkraft | Monde |
 |---|---|---|---|---|---|---|
-| [Ceres](himmelskoerper/ceres.md) | 470 km | 2,766 AE (414 Mio. km) | 4,6 Jahre | 9,08 h | 0,029 g | 0 |
-| [Pluto](himmelskoerper/pluto.md) | 1188 km | 39,589 AE (5922 Mio. km) | 249 Jahre | 6,39 Tage | 0,063 g | 5 |
-| [Eris](himmelskoerper/eris.md) | 1163 km | 67,934 AE (10 163 Mio. km) | 560 Jahre | 15,8 Tage | 0,083 g | 1 |
-| [Haumea](himmelskoerper/haumea.md) | 780 km | 43,06 AE (6442 Mio. km) | 283 Jahre | 3,92 h | 0,045 g | 2 |
-| [Makemake](himmelskoerper/makemake.md) | 715 km | 45,571 AE (6817 Mio. km) | 308 Jahre | 22,8 h | 0,041 g | 1 |
-| [Gonggong](himmelskoerper/gonggong.md) | 615 km | 66,867 AE (10 003 Mio. km) | 547 Jahre | 22,4 h | 0,031 g | 1 |
-| [Quaoar](himmelskoerper/quaoar.md) | 545 km | 43,156 AE (6456 Mio. km) | 284 Jahre | 17,7 h | 0,027 g | 1 |
-| [Sedna](himmelskoerper/sedna.md) | 497 km | 543,72 AE (81 339 Mio. km) | 12 679 Jahre | 10,3 h | 0,025 g | 0 |
-| [Orcus](himmelskoerper/orcus.md) | 455 km | 39,377 AE (5891 Mio. km) | 247 Jahre | 13,2 h | 0,021 g | 1 |
+| [Ceres](himmelskoerper/ceres.md) | 470 km | 2,766 AE (414 Mio. km) | 4,6 Jahre | 9,08 h | 0,0289 g | 0 |
+| [Pluto](himmelskoerper/pluto.md) | 1188 km | 39,589 AE (5922 Mio. km) | 249 Jahre | 6,39 Tage | 0,0628 g | 5 |
+| [Eris](himmelskoerper/eris.md) | 1163 km | 67,934 AE (10 163 Mio. km) | 560 Jahre | 15,8 Tage | 0,0828 g | 1 |
+| [Haumea](himmelskoerper/haumea.md) | 780 km | 43,06 AE (6442 Mio. km) | 283 Jahre | 3,92 h | 0,0448 g | 2 |
+| [Makemake](himmelskoerper/makemake.md) | 715 km | 45,571 AE (6817 Mio. km) | 308 Jahre | 22,8 h | 0,0413 g | 1 |
+| [Gonggong](himmelskoerper/gonggong.md) | 615 km | 66,867 AE (10 003 Mio. km) | 547 Jahre | 22,4 h | 0,0315 g | 1 |
+| [Quaoar](himmelskoerper/quaoar.md) | 545 km | 43,156 AE (6456 Mio. km) | 284 Jahre | 17,7 h | 0,0275 g | 1 |
+| [Sedna](himmelskoerper/sedna.md) | 497 km | 543,72 AE (81 339 Mio. km) | 12 679 Jahre | 10,3 h | 0,0255 g | 0 |
+| [Orcus](himmelskoerper/orcus.md) | 455 km | 39,377 AE (5891 Mio. km) | 247 Jahre | 13,2 h | 0,0209 g | 1 |
 
 Alle Monde stehen auf der Seite [Alle Monde](monde.md).

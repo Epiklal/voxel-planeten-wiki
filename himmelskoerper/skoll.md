@@ -1,11 +1,11 @@
 # Skoll
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 2,5 km |
 | Masse | 1,1 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,00012 g (0 m/s²) |
 | Sprunghöhe | 2,5 km |
 | Ein Tag | 7,26 h |
 | Umlauf | 2,39 Jahre |

@@ -2,12 +2,12 @@
 
 Ihre Entdeckung 2005 kostete Pluto den Planeten-Titel – Eris ist fast genauso groß und schwerer.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 1163 km |
 | Masse | 1,65 · 10^22 kg |
-| Schwerkraft | 0,083 g (0,81 m/s²) |
+| Schwerkraft | 0,0828 g (0,81 m/s²) |
 | Sprunghöhe | 15,1 m |
 | Ein Tag | 15,8 Tage |
 | Umlauf um die Sonne (ein Jahr) | 560 Jahre |
@@ -34,5 +34,5 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Dysnomia](../himmelskoerper/dysnomia.md) | 307 km | 37 273 km | 15,8 Tage | vorwärts | 0,006 g |
+| [Dysnomia](../himmelskoerper/dysnomia.md) | 307 km | 37 273 km | 15,8 Tage | vorwärts | 0,00592 g |
 

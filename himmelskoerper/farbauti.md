@@ -1,11 +1,11 @@
 # Farbauti
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 2,5 km |
 | Masse | 6,5 · 10^13 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000708 g (0 m/s²) |
 | Sprunghöhe | 2,5 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,95 Jahre |

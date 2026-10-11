@@ -1,11 +1,11 @@
 # Pasiphae
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 28,9 km |
 | Masse | 1 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000815 g (0,01 m/s²) |
 | Sprunghöhe | 1,62 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,01 Jahre |

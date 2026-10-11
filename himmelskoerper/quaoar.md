@@ -2,12 +2,12 @@
 
 Hat einen Ring, wo nach der Lehrbuchmeinung keiner sein dürfte: weit außerhalb der Roche-Grenze.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 545 km |
 | Masse | 1,2 · 10^21 kg |
-| Schwerkraft | 0,027 g (0,27 m/s²) |
+| Schwerkraft | 0,0275 g (0,27 m/s²) |
 | Sprunghöhe | 45,5 m |
 | Ein Tag | 17,7 h |
 | Umlauf um die Sonne (ein Jahr) | 284 Jahre |
@@ -34,5 +34,5 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Weywot](../himmelskoerper/weywot.md) | 85 km | 13 289 km | 12,4 Tage | vorwärts | 0,003 g |
+| [Weywot](../himmelskoerper/weywot.md) | 85 km | 13 289 km | 12,4 Tage | vorwärts | 0,00315 g |
 

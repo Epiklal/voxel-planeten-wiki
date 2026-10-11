@@ -1,11 +1,11 @@
 # Metis
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 21,5 km |
 | Masse | 3,75 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000551 g (0,01 m/s²) |
 | Sprunghöhe | 2,54 km |
 | Ein Tag | 7,08 h |
 | Umlauf | 7,07 h |

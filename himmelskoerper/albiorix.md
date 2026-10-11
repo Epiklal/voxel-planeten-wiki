@@ -1,11 +1,11 @@
 # Albiorix
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 14,3 km |
 | Masse | 1,2 · 10^16 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000399 g (0 m/s²) |
 | Sprunghöhe | 4,01 km |
 | Ein Tag | 16,4 h |
 | Umlauf | 2,13 Jahre |

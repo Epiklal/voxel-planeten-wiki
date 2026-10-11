@@ -1,11 +1,11 @@
 # Namaka
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Haumea](../himmelskoerper/haumea.md) |
 | Radius | 85 km |
 | Masse | 1,79 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00169 g (0,02 m/s²) |
 | Sprunghöhe | 749 m |
 | Ein Tag | 10 h |
 | Umlauf | 18,3 Tage |

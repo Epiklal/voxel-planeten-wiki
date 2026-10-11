@@ -1,11 +1,11 @@
 # Weywot
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Quaoar](../himmelskoerper/quaoar.md) |
 | Radius | 85 km |
 | Masse | 3,34 · 10^18 kg |
-| Schwerkraft | 0,003 g (0,03 m/s²) |
+| Schwerkraft | 0,00315 g (0,03 m/s²) |
 | Sprunghöhe | 399 m |
 | Ein Tag | 10 h |
 | Umlauf | 12,4 Tage |

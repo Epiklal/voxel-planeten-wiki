@@ -2,12 +2,12 @@
 
 Einer der fernsten bekannten Körper: Ein Umlauf dauert über 11 000 Jahre.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 497 km |
 | Masse | 9,26 · 10^20 kg |
-| Schwerkraft | 0,025 g (0,25 m/s²) |
+| Schwerkraft | 0,0255 g (0,25 m/s²) |
 | Sprunghöhe | 49,1 m |
 | Ein Tag | 10,3 h |
 | Umlauf um die Sonne (ein Jahr) | 12 679 Jahre |

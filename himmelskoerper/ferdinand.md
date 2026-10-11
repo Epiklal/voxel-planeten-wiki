@@ -1,11 +1,11 @@
 # Ferdinand
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 10,5 km |
 | Masse | 4,8 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000296 g (0 m/s²) |
 | Sprunghöhe | 7,07 km |
 | Ein Tag | 10 h |
 | Umlauf | 7,63 Jahre |

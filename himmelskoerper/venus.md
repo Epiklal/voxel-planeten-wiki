@@ -2,7 +2,7 @@
 
 Heißer als Merkur (465 °C), obwohl doppelt so weit von der Sonne: Der Treibhauseffekt. Sie dreht sich rückwärts, ihr Tag ist länger als ihr Jahr – und auf den Bergen liegt Schnee aus Metall.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Planet |
 | Radius | 6052 km |

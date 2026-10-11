@@ -2,7 +2,7 @@
 
 Der einzige Ort, von dem wir wissen, dass es Leben gibt. Sie ist der dichteste Planet des Sonnensystems.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Planet |
 | Radius | 6371 km |

@@ -1,11 +1,11 @@
 # Despina
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 74 km |
 | Masse | 1,75 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00217 g (0,02 m/s²) |
 | Sprunghöhe | 580 m |
 | Ein Tag | 8,03 h |
 | Umlauf | 8,03 h |

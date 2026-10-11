@@ -2,12 +2,12 @@
 
 Der hellste Mond des Uranus, durchzogen von langen Canyons.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 579 km |
 | Masse | 1,25 · 10^21 kg |
-| Schwerkraft | 0,025 g (0,25 m/s²) |
+| Schwerkraft | 0,0254 g (0,25 m/s²) |
 | Sprunghöhe | 49,3 m |
 | Ein Tag | 2,52 Tage |
 | Umlauf | 2,52 Tage |

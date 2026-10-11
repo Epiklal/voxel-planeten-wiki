@@ -1,11 +1,11 @@
 # Mab
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 6 km |
 | Masse | 9 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,00017 g (0 m/s²) |
 | Sprunghöhe | 6 km |
 | Ein Tag | 22,1 h |
 | Umlauf | 22,1 h |

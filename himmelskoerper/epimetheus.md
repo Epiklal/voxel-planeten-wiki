@@ -1,11 +1,11 @@
 # Epimetheus
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 58,2 km |
 | Masse | 5,26 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00106 g (0,01 m/s²) |
 | Sprunghöhe | 1,21 km |
 | Ein Tag | 16,7 h |
 | Umlauf | 16,7 h |

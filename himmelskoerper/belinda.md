@@ -1,11 +1,11 @@
 # Belinda
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 40,1 km |
 | Masse | 2,7 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00114 g (0,01 m/s²) |
 | Sprunghöhe | 1,13 km |
 | Ein Tag | 15 h |
 | Umlauf | 15 h |

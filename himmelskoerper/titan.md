@@ -2,7 +2,7 @@
 
 Der einzige Mond mit dichter Luft (dichter als auf der Erde) und Seen – aus flüssigem Methan. 2005 landete hier die Sonde Huygens.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 2575 km |

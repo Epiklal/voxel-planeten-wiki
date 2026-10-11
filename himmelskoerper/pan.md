@@ -1,11 +1,11 @@
 # Pan
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 14 km |
 | Masse | 4,2 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000146 g (0 m/s²) |
 | Sprunghöhe | 14 km |
 | Ein Tag | 13,8 h |
 | Umlauf | 13,8 h |

@@ -1,11 +1,11 @@
 # MK2
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Makemake](../himmelskoerper/makemake.md) |
 | Radius | 87 km |
 | Masse | 3,59 · 10^18 kg |
-| Schwerkraft | 0,003 g (0,03 m/s²) |
+| Schwerkraft | 0,00322 g (0,03 m/s²) |
 | Sprunghöhe | 390 m |
 | Ein Tag | 10 h |
 | Umlauf | 18 Tage |

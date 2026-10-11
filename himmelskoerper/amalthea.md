@@ -2,12 +2,12 @@
 
 Der röteste Körper des Sonnensystems – und so locker, dass er wohl ein Haufen Geröll ist.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 83,5 km |
 | Masse | 2,47 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00241 g (0,02 m/s²) |
 | Sprunghöhe | 523 m |
 | Ein Tag | 12 h |
 | Umlauf | 12 h |

@@ -1,11 +1,11 @@
 # Halimede
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 30,5 km |
 | Masse | 1,2 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000878 g (0,01 m/s²) |
 | Sprunghöhe | 1,5 km |
 | Ein Tag | 10 h |
 | Umlauf | 5,14 Jahre |

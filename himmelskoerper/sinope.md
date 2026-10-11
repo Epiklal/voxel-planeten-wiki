@@ -1,11 +1,11 @@
 # Sinope
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 17,5 km |
 | Masse | 2,2 · 10^16 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000489 g (0 m/s²) |
 | Sprunghöhe | 3 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,04 Jahre |

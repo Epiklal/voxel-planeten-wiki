@@ -1,11 +1,11 @@
 # Perdita
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 13,3 km |
 | Masse | 9,9 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000381 g (0 m/s²) |
 | Sprunghöhe | 4,36 km |
 | Ein Tag | 15,3 h |
 | Umlauf | 15,3 h |

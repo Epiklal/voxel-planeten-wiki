@@ -1,11 +1,11 @@
 # Atlas
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 15,1 km |
 | Masse | 5,54 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000165 g (0 m/s²) |
 | Sprunghöhe | 15,1 km |
 | Ein Tag | 14,5 h |
 | Umlauf | 14,5 h |

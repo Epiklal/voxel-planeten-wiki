@@ -1,11 +1,11 @@
 # Kalyke
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 3,45 km |
 | Masse | 1,7 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000972 g (0 m/s²) |
 | Sprunghöhe | 3,45 km |
 | Ein Tag | 10 h |
 | Umlauf | 727 Tage |

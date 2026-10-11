@@ -2,12 +2,12 @@
 
 Läuft rückwärts um Saturn – ein eingefangener Brocken aus dem äußeren Sonnensystem.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 106 km |
 | Masse | 8,31 · 10^18 kg |
-| Schwerkraft | 0,005 g (0,05 m/s²) |
+| Schwerkraft | 0,00499 g (0,05 m/s²) |
 | Sprunghöhe | 252 m |
 | Ein Tag | 9,26 h |
 | Umlauf | 550 Tage |

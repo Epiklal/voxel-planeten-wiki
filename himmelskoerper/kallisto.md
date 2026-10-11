@@ -2,7 +2,7 @@
 
 Die am dichtesten mit Kratern übersäte Oberfläche im Sonnensystem: Seit über 4 Milliarden Jahren hat sich hier kaum etwas verändert.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 2410 km |

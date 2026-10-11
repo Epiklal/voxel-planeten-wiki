@@ -1,11 +1,11 @@
 # Pandora
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 40,6 km |
 | Masse | 1,39 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000573 g (0,01 m/s²) |
 | Sprunghöhe | 2,31 km |
 | Ein Tag | 15,2 h |
 | Umlauf | 15,2 h |

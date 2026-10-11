@@ -2,7 +2,7 @@
 
 Er entstand vermutlich, als ein marsgroßer Körper mit der jungen Erde zusammenstieß. Zwölf Menschen sind auf ihm gelaufen.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Erde](../himmelskoerper/erde.md) |
 | Radius | 1737 km |

@@ -1,11 +1,11 @@
 # Naiad
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Neptun](../himmelskoerper/neptun.md) |
 | Radius | 29 km |
 | Masse | 1,28 · 10^17 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,00103 g (0,01 m/s²) |
 | Sprunghöhe | 1,26 km |
 | Ein Tag | 7,06 h |
 | Umlauf | 7,06 h |

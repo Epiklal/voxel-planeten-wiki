@@ -2,12 +2,12 @@
 
 Sieht aus wie ein Schwamm und taumelt chaotisch: Wie er sich morgen dreht, kann niemand genau vorhersagen.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 135 km |
 | Masse | 5,55 · 10^18 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00207 g (0,02 m/s²) |
 | Sprunghöhe | 607 m |
 | Ein Tag | 13 Tage |
 | Umlauf | 21,3 Tage |

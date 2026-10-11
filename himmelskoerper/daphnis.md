@@ -1,11 +1,11 @@
 # Daphnis
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 3,8 km |
 | Masse | 6,8 · 10^13 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000032 g (0 m/s²) |
 | Sprunghöhe | 3,8 km |
 | Ein Tag | 14,3 h |
 | Umlauf | 14,3 h |

@@ -2,12 +2,12 @@
 
 Er kommt dem Mars jedes Jahrhundert 2 m näher – in etwa 50 Millionen Jahren zerbricht er zu einem Ring.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Mars](../himmelskoerper/mars.md) |
 | Radius | 11,1 km |
 | Masse | 1,06 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000588 g (0,01 m/s²) |
 | Sprunghöhe | 2,63 km |
 | Ein Tag | 7,65 h |
 | Umlauf | 7,65 h |

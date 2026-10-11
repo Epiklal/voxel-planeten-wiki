@@ -1,11 +1,11 @@
 # Polydeuces
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 1,3 km |
 | Masse | 7,5 · 10^12 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000302 g (0 m/s²) |
 | Sprunghöhe | 1,3 km |
 | Ein Tag | 2,74 Tage |
 | Umlauf | 2,74 Tage |

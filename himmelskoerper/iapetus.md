@@ -2,12 +2,12 @@
 
 Eine Seite schwarz wie Kohle, die andere weiß wie Schnee – und um den Äquator ein 20 km hoher Gebirgswall.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 734 km |
 | Masse | 1,81 · 10^21 kg |
-| Schwerkraft | 0,023 g (0,22 m/s²) |
+| Schwerkraft | 0,0228 g (0,22 m/s²) |
 | Sprunghöhe | 54,9 m |
 | Ein Tag | 79,9 Tage |
 | Umlauf | 79,3 Tage |

@@ -2,12 +2,12 @@
 
 Hier ist die höchste Steilwand des Sonnensystems: Verona Rupes, rund 20 km. Ein Sturz dauerte über zehn Minuten.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 236 km |
 | Masse | 6,44 · 10^19 kg |
-| Schwerkraft | 0,008 g (0,08 m/s²) |
+| Schwerkraft | 0,00788 g (0,08 m/s²) |
 | Sprunghöhe | 159 m |
 | Ein Tag | 33,9 h |
 | Umlauf | 33,9 h |

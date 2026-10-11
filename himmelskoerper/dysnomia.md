@@ -2,12 +2,12 @@
 
 Benannt nach der Tochter von Eris, der Göttin der Gesetzlosigkeit.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Eris](../himmelskoerper/eris.md) |
 | Radius | 307 km |
 | Masse | 8,2 · 10^19 kg |
-| Schwerkraft | 0,006 g (0,06 m/s²) |
+| Schwerkraft | 0,00592 g (0,06 m/s²) |
 | Sprunghöhe | 212 m |
 | Ein Tag | 10 h |
 | Umlauf | 15,8 Tage |

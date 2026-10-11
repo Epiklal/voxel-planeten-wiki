@@ -1,11 +1,11 @@
 # Ymir
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 9,5 km |
 | Masse | 5,6 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000422 g (0 m/s²) |
 | Sprunghöhe | 4,31 km |
 | Ein Tag | 11,9 h |
 | Umlauf | 3,56 Jahre |

@@ -2,7 +2,7 @@
 
 Hier steht der Olympus Mons, der höchste Vulkan des Sonnensystems – zweieinhalbmal so hoch wie der Mount Everest. Rot ist er, weil er rostet.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Planet |
 | Radius | 3390 km |
@@ -38,6 +38,6 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Phobos](../himmelskoerper/phobos.md) | 11,1 km | 9375 km | 7,65 h | vorwärts | 0,001 g |
-| [Deimos](../himmelskoerper/deimos.md) | 6,2 km | 23 457 km | 30,3 h | vorwärts | 0 g |
+| [Phobos](../himmelskoerper/phobos.md) | 11,1 km | 9375 km | 7,65 h | vorwärts | 0,000588 g |
+| [Deimos](../himmelskoerper/deimos.md) | 6,2 km | 23 457 km | 30,3 h | vorwärts | 0,000255 g |
 

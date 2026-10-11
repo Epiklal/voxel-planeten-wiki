@@ -2,12 +2,12 @@
 
 Der größte Körper im Asteroidengürtel – und doch nur gut ein Prozent so schwer wie unser Mond. Helle Salzflecken im Krater Occator.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 470 km |
 | Masse | 9,38 · 10^20 kg |
-| Schwerkraft | 0,029 g (0,28 m/s²) |
+| Schwerkraft | 0,0289 g (0,28 m/s²) |
 | Sprunghöhe | 43,2 m |
 | Ein Tag | 9,08 h |
 | Umlauf um die Sonne (ein Jahr) | 4,6 Jahre |

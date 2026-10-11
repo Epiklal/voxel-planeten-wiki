@@ -1,11 +1,11 @@
 # Fornjot
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 3 km |
 | Masse | 1,1 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000832 g (0 m/s²) |
 | Sprunghöhe | 3 km |
 | Ein Tag | 10 h |
 | Umlauf | 4,03 Jahre |

@@ -1,11 +1,11 @@
 # Styx
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Pluto](../himmelskoerper/pluto.md) |
 | Radius | 5,2 km |
 | Masse | 7,66 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000193 g (0 m/s²) |
 | Sprunghöhe | 5,2 km |
 | Ein Tag | 20,2 Tage |
 | Umlauf | 20,2 Tage |

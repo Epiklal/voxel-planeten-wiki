@@ -1,11 +1,11 @@
 # Margaret
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 10 km |
 | Masse | 4,2 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000286 g (0 m/s²) |
 | Sprunghöhe | 7,79 km |
 | Ein Tag | 10 h |
 | Umlauf | 4,53 Jahre |

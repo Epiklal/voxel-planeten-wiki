@@ -1,11 +1,11 @@
 # Callirrhoe
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 4,8 km |
 | Masse | 4,6 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000136 g (0 m/s²) |
 | Sprunghöhe | 4,8 km |
 | Ein Tag | 10 h |
 | Umlauf | 2,05 Jahre |

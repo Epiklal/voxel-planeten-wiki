@@ -2,12 +2,12 @@
 
 Einer der rötesten Körper des Sonnensystems, benannt nach einem chinesischen Wassergott.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Zwergplanet |
 | Radius | 615 km |
 | Masse | 1,75 · 10^21 kg |
-| Schwerkraft | 0,031 g (0,31 m/s²) |
+| Schwerkraft | 0,0315 g (0,31 m/s²) |
 | Sprunghöhe | 39,8 m |
 | Ein Tag | 22,4 h |
 | Umlauf um die Sonne (ein Jahr) | 547 Jahre |
@@ -34,5 +34,5 @@ Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128
 
 | Name | Radius | Abstand | Umlauf | Richtung | Schwerkraft |
 |---|---|---|---|---|---|
-| [Xiangliu](../himmelskoerper/xiangliu.md) | 50 km | 24 021 km | 25,2 Tage | vorwärts | 0,002 g |
+| [Xiangliu](../himmelskoerper/xiangliu.md) | 50 km | 24 021 km | 25,2 Tage | vorwärts | 0,00185 g |
 

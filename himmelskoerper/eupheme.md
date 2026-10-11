@@ -1,11 +1,11 @@
 # Eupheme
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 1 km |
 | Masse | 4,2 · 10^12 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,0000286 g (0 m/s²) |
 | Sprunghöhe | 1 km |
 | Ein Tag | 10 h |
 | Umlauf | 611 Tage |

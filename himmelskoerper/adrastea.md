@@ -1,11 +1,11 @@
 # Adrastea
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 8,2 km |
 | Masse | 2,1 · 10^15 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000212 g (0 m/s²) |
 | Sprunghöhe | 8,2 km |
 | Ein Tag | 7,16 h |
 | Umlauf | 7,16 h |

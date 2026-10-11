@@ -1,11 +1,11 @@
 # Themisto
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Jupiter](../himmelskoerper/jupiter.md) |
 | Radius | 4,5 km |
 | Masse | 3,8 · 10^14 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,000128 g (0 m/s²) |
 | Sprunghöhe | 4,5 km |
 | Ein Tag | 10 h |
 | Umlauf | 130 Tage |

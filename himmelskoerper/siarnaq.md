@@ -1,11 +1,11 @@
 # Siarnaq
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 19,6 km |
 | Masse | 3,2 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000564 g (0,01 m/s²) |
 | Sprunghöhe | 2,5 km |
 | Ein Tag | 10,2 h |
 | Umlauf | 2,44 Jahre |

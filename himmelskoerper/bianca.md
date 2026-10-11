@@ -1,11 +1,11 @@
 # Bianca
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Uranus](../himmelskoerper/uranus.md) |
 | Radius | 25,4 km |
 | Masse | 6,9 · 10^16 kg |
-| Schwerkraft | 0,001 g (0,01 m/s²) |
+| Schwerkraft | 0,000725 g (0,01 m/s²) |
 | Sprunghöhe | 1,85 km |
 | Ein Tag | 10,4 h |
 | Umlauf | 10,4 h |

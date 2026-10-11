@@ -2,7 +2,7 @@
 
 Sie macht 99,86 % der Masse des ganzen Sonnensystems aus. Ihr Licht ist gut 8 Minuten zur Erde unterwegs – die Energie dafür entstand aber schon vor Zehntausenden von Jahren in ihrem Kern.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Stern |
 | Radius | 696 340 km |

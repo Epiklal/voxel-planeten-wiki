@@ -1,11 +1,11 @@
 # Aegaeon
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Saturn](../himmelskoerper/saturn.md) |
 | Radius | 0,33 km |
 | Masse | 7,82 · 10^10 kg |
-| Schwerkraft | 0 g (0 m/s²) |
+| Schwerkraft | 0,00000489 g (0 m/s²) |
 | Sprunghöhe | 330 m |
 | Ein Tag | 19,4 h |
 | Umlauf | 19,4 h |

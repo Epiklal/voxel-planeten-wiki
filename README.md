@@ -30,6 +30,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Periodensystem und Chemie](anleitungen/chemie.md)
 - [Grafik und Einstellungen](anleitungen/grafik.md)
 - [Eigene Texturen, Geräusche und Musik](anleitungen/ressourcen.md)
+- [Das Wiki](anleitungen/wiki.md)
 
 ## Nachschlagen
 

@@ -1,11 +1,11 @@
 # Xiangliu
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Gonggong](../himmelskoerper/gonggong.md) |
 | Radius | 50 km |
 | Masse | 6,81 · 10^17 kg |
-| Schwerkraft | 0,002 g (0,02 m/s²) |
+| Schwerkraft | 0,00185 g (0,02 m/s²) |
 | Sprunghöhe | 685 m |
 | Ein Tag | 10 h |
 | Umlauf | 25,2 Tage |

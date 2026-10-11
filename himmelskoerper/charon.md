@@ -2,12 +2,12 @@
 
 Halb so groß wie Pluto: Die beiden kreisen um einen Punkt zwischen sich und zeigen einander immer dieselbe Seite.
 
-| | |
+| Eigenschaft | Wert |
 |---|---|
 | Art | Mond von [Pluto](../himmelskoerper/pluto.md) |
 | Radius | 606 km |
 | Masse | 1,59 · 10^21 kg |
-| Schwerkraft | 0,029 g (0,29 m/s²) |
+| Schwerkraft | 0,0295 g (0,29 m/s²) |
 | Sprunghöhe | 42,5 m |
 | Ein Tag | 6,39 Tage |
 | Umlauf | 6,39 Tage |
