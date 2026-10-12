@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-640 Stück, sortiert wie im Inventar.
+641 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (406)
 
@@ -413,7 +413,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (186)
+## Natur (187)
 
 | | Name |
 |---|---|
@@ -520,6 +520,7 @@
 | ![](bilder/bloecke/lepidolith.png) | [Lepidolith](bloecke/lepidolith.md) |
 | ![](bilder/bloecke/venus_metallfrost.png) | [Venus-Metallfrost](bloecke/venus_metallfrost.md) |
 | ![](bilder/bloecke/wolken_goldgelb.png) | [Wolken (goldgelb)](bloecke/wolken_goldgelb.md) |
+| ![](bilder/bloecke/flusswasser.png) | [Flusswasser](bloecke/flusswasser.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |

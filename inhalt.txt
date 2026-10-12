@@ -201,6 +201,7 @@ bloecke/baryt.md	Baryt	Block
 bloecke/lepidolith.md	Lepidolith	Block
 bloecke/venus_metallfrost.md	Venus-Metallfrost	Block
 bloecke/wolken_goldgelb.md	Wolken (goldgelb)	Block
+bloecke/flusswasser.md	Flusswasser	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
