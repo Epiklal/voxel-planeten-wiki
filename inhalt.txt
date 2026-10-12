@@ -1962,7 +1962,6 @@ sonnensystem.md	Sonnensystem	Übersicht
 monde.md	Alle Monde	Übersicht
 bloecke.md	Alle Blöcke	Übersicht
 gegenstaende.md	Alle Gegenstände	Übersicht
-ruestungen.md	Alle Rüstungen	Übersicht
 periodensystem.md	Periodensystem	Übersicht
 legierungen.md	Legierungen	Übersicht
 reaktionen.md	Reaktionen	Übersicht

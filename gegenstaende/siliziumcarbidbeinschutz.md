@@ -8,7 +8,7 @@ Material: [Kanthal](../legierungen/kanthal.md) oder [Siliziumcarbid](../gegensta
 
 Diese Materialien teilen sich im aktuellen Spiel dieselben Ausrüstungsnummern und damit dieselben Rüstungsteile und Schutzwerte. Die getrennten Herstellungsrezepte stehen unten.
 
-Weitere Teile und ganze Rüstungen: [Alle Rüstungen](../ruestungen.md). Regeln für Schaden, Strom und Strahlung: [Rüstungsanleitung](../anleitungen/ruestung.md).
+Alle Materialien, weitere Rüstungsteile und die Regeln für Schaden, Strom und Strahlung stehen im Bereich [Rüstung](../anleitungen/ruestung.md).
 
 | Eigenschaft | Wert |
 |---|---|

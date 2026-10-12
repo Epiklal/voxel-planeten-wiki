@@ -8,7 +8,7 @@ Rüstung für **Füße**. Anlegen im Inventar auf dem passenden Rüstungsplatz o
 
 Die Schutzwerte gelten nur mit geladenem Energiespeicher; leer bleibt das Gewicht. Aufladen und Aufrüstungen stehen in der [Rüstungsanleitung](../anleitungen/ruestung.md).
 
-Weitere Teile und ganze Rüstungen: [Alle Rüstungen](../ruestungen.md). Regeln für Schaden, Strom und Strahlung: [Rüstungsanleitung](../anleitungen/ruestung.md).
+Alle Materialien, weitere Rüstungsteile und die Regeln für Schaden, Strom und Strahlung stehen im Bereich [Rüstung](../anleitungen/ruestung.md).
 
 | Eigenschaft | Wert |
 |---|---|
