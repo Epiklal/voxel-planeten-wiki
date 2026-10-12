@@ -19,13 +19,13 @@ Hüllt das Uran in Brennstäben ein: lässt Neutronen durch und rostet nicht im 
 
 Aus Zirkaloy gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/zirkaloyspitzhacke.png) Zirkaloyspitzhacke: 3 × Zirkaloy + 2 × Bretter
-- ![](../bilder/ausruestung/zirkaloyaxt.png) Zirkaloyaxt: 3 × Zirkaloy + 2 × Bretter
-- ![](../bilder/ausruestung/zirkaloyschwert.png) Zirkaloyschwert: 2 × Zirkaloy + 1 × Bretter
-- ![](../bilder/ausruestung/zirkaloyhelm.png) Zirkaloyhelm: 5 × Zirkaloy
-- ![](../bilder/ausruestung/zirkaloyharnisch.png) Zirkaloyharnisch: 8 × Zirkaloy
-- ![](../bilder/ausruestung/zirkaloybeinschutz.png) Zirkaloybeinschutz: 7 × Zirkaloy
-- ![](../bilder/ausruestung/zirkaloystiefel.png) Zirkaloystiefel: 4 × Zirkaloy
+- ![](../bilder/ausruestung/zirkaloyspitzhacke.png) [Zirkaloyspitzhacke](../legierungen/zirkaloy.md): 3 × Zirkaloy + 2 × Bretter
+- ![](../bilder/ausruestung/zirkaloyaxt.png) [Zirkaloyaxt](../legierungen/zirkaloy.md): 3 × Zirkaloy + 2 × Bretter
+- ![](../bilder/ausruestung/zirkaloyschwert.png) [Zirkaloyschwert](../legierungen/zirkaloy.md): 2 × Zirkaloy + 1 × Bretter
+- ![](../bilder/gegenstaende/zirkaloyhelm.png) [Zirkaloyhelm](../gegenstaende/zirkaloyhelm.md): 5 × Zirkaloy
+- ![](../bilder/gegenstaende/zirkaloyharnisch.png) [Zirkaloyharnisch](../gegenstaende/zirkaloyharnisch.md): 8 × Zirkaloy
+- ![](../bilder/gegenstaende/zirkaloybeinschutz.png) [Zirkaloybeinschutz](../gegenstaende/zirkaloybeinschutz.md): 7 × Zirkaloy
+- ![](../bilder/gegenstaende/zirkaloystiefel.png) [Zirkaloystiefel](../gegenstaende/zirkaloystiefel.md): 4 × Zirkaloy
 
 ## Verwendet für
 

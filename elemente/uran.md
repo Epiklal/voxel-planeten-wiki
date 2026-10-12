@@ -24,13 +24,13 @@ Vor 2 Milliarden Jahren lief in Gabun ein natürlicher Kernreaktor – ganz von 
 
 Aus Uran gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/uranspitzhacke.png) Uranspitzhacke: 3 × Uran + 2 × Bretter
-- ![](../bilder/ausruestung/uranaxt.png) Uranaxt: 3 × Uran + 2 × Bretter
-- ![](../bilder/ausruestung/uranschwert.png) Uranschwert: 2 × Uran + 1 × Bretter
-- ![](../bilder/ausruestung/uranhelm.png) Uranhelm: 5 × Uran
-- ![](../bilder/ausruestung/uranharnisch.png) Uranharnisch: 8 × Uran
-- ![](../bilder/ausruestung/uranbeinschutz.png) Uranbeinschutz: 7 × Uran
-- ![](../bilder/ausruestung/uranstiefel.png) Uranstiefel: 4 × Uran
+- ![](../bilder/ausruestung/uranspitzhacke.png) [Uranspitzhacke](../elemente/uran.md): 3 × Uran + 2 × Bretter
+- ![](../bilder/ausruestung/uranaxt.png) [Uranaxt](../elemente/uran.md): 3 × Uran + 2 × Bretter
+- ![](../bilder/ausruestung/uranschwert.png) [Uranschwert](../elemente/uran.md): 2 × Uran + 1 × Bretter
+- ![](../bilder/gegenstaende/uranhelm.png) [Uranhelm](../gegenstaende/uranhelm.md): 5 × Uran
+- ![](../bilder/gegenstaende/uranharnisch.png) [Uranharnisch](../gegenstaende/uranharnisch.md): 8 × Uran
+- ![](../bilder/gegenstaende/uranbeinschutz.png) [Uranbeinschutz](../gegenstaende/uranbeinschutz.md): 7 × Uran
+- ![](../bilder/gegenstaende/uranstiefel.png) [Uranstiefel](../gegenstaende/uranstiefel.md): 4 × Uran
 
 ## Verwendet für
 

@@ -24,11 +24,11 @@ Es gibt fast keins: in der ganzen Erdkruste vielleicht ein halbes Kilogramm. Leu
 
 Aus Promethium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/promethiumspitzhacke.png) Promethiumspitzhacke: 3 × Promethium + 2 × Bretter
-- ![](../bilder/ausruestung/promethiumaxt.png) Promethiumaxt: 3 × Promethium + 2 × Bretter
-- ![](../bilder/ausruestung/promethiumschwert.png) Promethiumschwert: 2 × Promethium + 1 × Bretter
-- ![](../bilder/ausruestung/promethiumhelm.png) Promethiumhelm: 5 × Promethium
-- ![](../bilder/ausruestung/promethiumharnisch.png) Promethiumharnisch: 8 × Promethium
-- ![](../bilder/ausruestung/promethiumbeinschutz.png) Promethiumbeinschutz: 7 × Promethium
-- ![](../bilder/ausruestung/promethiumstiefel.png) Promethiumstiefel: 4 × Promethium
+- ![](../bilder/ausruestung/promethiumspitzhacke.png) [Promethiumspitzhacke](../elemente/promethium.md): 3 × Promethium + 2 × Bretter
+- ![](../bilder/ausruestung/promethiumaxt.png) [Promethiumaxt](../elemente/promethium.md): 3 × Promethium + 2 × Bretter
+- ![](../bilder/ausruestung/promethiumschwert.png) [Promethiumschwert](../elemente/promethium.md): 2 × Promethium + 1 × Bretter
+- ![](../bilder/gegenstaende/promethiumhelm.png) [Promethiumhelm](../gegenstaende/promethiumhelm.md): 5 × Promethium
+- ![](../bilder/gegenstaende/promethiumharnisch.png) [Promethiumharnisch](../gegenstaende/promethiumharnisch.md): 8 × Promethium
+- ![](../bilder/gegenstaende/promethiumbeinschutz.png) [Promethiumbeinschutz](../gegenstaende/promethiumbeinschutz.md): 7 × Promethium
+- ![](../bilder/gegenstaende/promethiumstiefel.png) [Promethiumstiefel](../gegenstaende/promethiumstiefel.md): 4 × Promethium
 

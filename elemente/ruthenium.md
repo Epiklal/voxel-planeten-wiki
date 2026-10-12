@@ -24,11 +24,11 @@ Eine drei Atome dünne Ruthenium-Schicht hielt die Daten in Festplatten fest.
 
 Aus Ruthenium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/rutheniumspitzhacke.png) Rutheniumspitzhacke: 3 × Ruthenium + 2 × Bretter
-- ![](../bilder/ausruestung/rutheniumaxt.png) Rutheniumaxt: 3 × Ruthenium + 2 × Bretter
-- ![](../bilder/ausruestung/rutheniumschwert.png) Rutheniumschwert: 2 × Ruthenium + 1 × Bretter
-- ![](../bilder/ausruestung/rutheniumhelm.png) Rutheniumhelm: 5 × Ruthenium
-- ![](../bilder/ausruestung/rutheniumharnisch.png) Rutheniumharnisch: 8 × Ruthenium
-- ![](../bilder/ausruestung/rutheniumbeinschutz.png) Rutheniumbeinschutz: 7 × Ruthenium
-- ![](../bilder/ausruestung/rutheniumstiefel.png) Rutheniumstiefel: 4 × Ruthenium
+- ![](../bilder/ausruestung/rutheniumspitzhacke.png) [Rutheniumspitzhacke](../elemente/ruthenium.md): 3 × Ruthenium + 2 × Bretter
+- ![](../bilder/ausruestung/rutheniumaxt.png) [Rutheniumaxt](../elemente/ruthenium.md): 3 × Ruthenium + 2 × Bretter
+- ![](../bilder/ausruestung/rutheniumschwert.png) [Rutheniumschwert](../elemente/ruthenium.md): 2 × Ruthenium + 1 × Bretter
+- ![](../bilder/gegenstaende/rutheniumhelm.png) [Rutheniumhelm](../gegenstaende/rutheniumhelm.md): 5 × Ruthenium
+- ![](../bilder/gegenstaende/rutheniumharnisch.png) [Rutheniumharnisch](../gegenstaende/rutheniumharnisch.md): 8 × Ruthenium
+- ![](../bilder/gegenstaende/rutheniumbeinschutz.png) [Rutheniumbeinschutz](../gegenstaende/rutheniumbeinschutz.md): 7 × Ruthenium
+- ![](../bilder/gegenstaende/rutheniumstiefel.png) [Rutheniumstiefel](../gegenstaende/rutheniumstiefel.md): 4 × Ruthenium
 

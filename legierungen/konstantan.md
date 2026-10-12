@@ -19,11 +19,11 @@ Sein elektrischer Widerstand ändert sich kaum mit der Temperatur – ideal zum 
 
 Aus Konstantan gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/konstantanspitzhacke.png) Konstantanspitzhacke: 3 × Konstantan + 2 × Bretter
-- ![](../bilder/ausruestung/konstantanaxt.png) Konstantanaxt: 3 × Konstantan + 2 × Bretter
-- ![](../bilder/ausruestung/konstantanschwert.png) Konstantanschwert: 2 × Konstantan + 1 × Bretter
-- ![](../bilder/ausruestung/konstantanhelm.png) Konstantanhelm: 5 × Konstantan
-- ![](../bilder/ausruestung/konstantanharnisch.png) Konstantanharnisch: 8 × Konstantan
-- ![](../bilder/ausruestung/konstantanbeinschutz.png) Konstantanbeinschutz: 7 × Konstantan
-- ![](../bilder/ausruestung/konstantanstiefel.png) Konstantanstiefel: 4 × Konstantan
+- ![](../bilder/ausruestung/konstantanspitzhacke.png) [Konstantanspitzhacke](../legierungen/konstantan.md): 3 × Konstantan + 2 × Bretter
+- ![](../bilder/ausruestung/konstantanaxt.png) [Konstantanaxt](../legierungen/konstantan.md): 3 × Konstantan + 2 × Bretter
+- ![](../bilder/ausruestung/konstantanschwert.png) [Konstantanschwert](../legierungen/konstantan.md): 2 × Konstantan + 1 × Bretter
+- ![](../bilder/gegenstaende/konstantanhelm.png) [Konstantanhelm](../gegenstaende/konstantanhelm.md): 5 × Konstantan
+- ![](../bilder/gegenstaende/konstantanharnisch.png) [Konstantanharnisch](../gegenstaende/konstantanharnisch.md): 8 × Konstantan
+- ![](../bilder/gegenstaende/konstantanbeinschutz.png) [Konstantanbeinschutz](../gegenstaende/konstantanbeinschutz.md): 7 × Konstantan
+- ![](../bilder/gegenstaende/konstantanstiefel.png) [Konstantanstiefel](../gegenstaende/konstantanstiefel.md): 4 × Konstantan
 

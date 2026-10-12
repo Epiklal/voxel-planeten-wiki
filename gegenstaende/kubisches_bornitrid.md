@@ -17,11 +17,11 @@ Nach Diamant das härteste Material – und anders als Diamant hält es Stahl un
 
 Aus Kubisches Bornitrid gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
-- ![](../bilder/ausruestung/bornitridspitzhacke.png) Bornitridspitzhacke: 3 × Kubisches Bornitrid + 2 × Bretter
-- ![](../bilder/ausruestung/bornitridaxt.png) Bornitridaxt: 3 × Kubisches Bornitrid + 2 × Bretter
-- ![](../bilder/ausruestung/bornitridschwert.png) Bornitridschwert: 2 × Kubisches Bornitrid + 1 × Bretter
-- ![](../bilder/ausruestung/bornitridhelm.png) Bornitridhelm: 5 × Kubisches Bornitrid
-- ![](../bilder/ausruestung/bornitridharnisch.png) Bornitridharnisch: 8 × Kubisches Bornitrid
-- ![](../bilder/ausruestung/bornitridbeinschutz.png) Bornitridbeinschutz: 7 × Kubisches Bornitrid
-- ![](../bilder/ausruestung/bornitridstiefel.png) Bornitridstiefel: 4 × Kubisches Bornitrid
+- ![](../bilder/ausruestung/bornitridspitzhacke.png) [Bornitridspitzhacke](../gegenstaende/kubisches_bornitrid.md): 3 × Kubisches Bornitrid + 2 × Bretter
+- ![](../bilder/ausruestung/bornitridaxt.png) [Bornitridaxt](../gegenstaende/kubisches_bornitrid.md): 3 × Kubisches Bornitrid + 2 × Bretter
+- ![](../bilder/ausruestung/bornitridschwert.png) [Bornitridschwert](../gegenstaende/kubisches_bornitrid.md): 2 × Kubisches Bornitrid + 1 × Bretter
+- ![](../bilder/gegenstaende/bornitridhelm.png) [Bornitridhelm](../gegenstaende/bornitridhelm.md): 5 × Kubisches Bornitrid
+- ![](../bilder/gegenstaende/bornitridharnisch.png) [Bornitridharnisch](../gegenstaende/bornitridharnisch.md): 8 × Kubisches Bornitrid
+- ![](../bilder/gegenstaende/bornitridbeinschutz.png) [Bornitridbeinschutz](../gegenstaende/bornitridbeinschutz.md): 7 × Kubisches Bornitrid
+- ![](../bilder/gegenstaende/bornitridstiefel.png) [Bornitridstiefel](../gegenstaende/bornitridstiefel.md): 4 × Kubisches Bornitrid
 

@@ -24,11 +24,11 @@ Steckt in jedem Zirconium und lässt sich kaum davon trennen – schluckt aber N
 
 Aus Hafnium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/hafniumspitzhacke.png) Hafniumspitzhacke: 3 × Hafnium + 2 × Bretter
-- ![](../bilder/ausruestung/hafniumaxt.png) Hafniumaxt: 3 × Hafnium + 2 × Bretter
-- ![](../bilder/ausruestung/hafniumschwert.png) Hafniumschwert: 2 × Hafnium + 1 × Bretter
-- ![](../bilder/ausruestung/hafniumhelm.png) Hafniumhelm: 5 × Hafnium
-- ![](../bilder/ausruestung/hafniumharnisch.png) Hafniumharnisch: 8 × Hafnium
-- ![](../bilder/ausruestung/hafniumbeinschutz.png) Hafniumbeinschutz: 7 × Hafnium
-- ![](../bilder/ausruestung/hafniumstiefel.png) Hafniumstiefel: 4 × Hafnium
+- ![](../bilder/ausruestung/hafniumspitzhacke.png) [Hafniumspitzhacke](../elemente/hafnium.md): 3 × Hafnium + 2 × Bretter
+- ![](../bilder/ausruestung/hafniumaxt.png) [Hafniumaxt](../elemente/hafnium.md): 3 × Hafnium + 2 × Bretter
+- ![](../bilder/ausruestung/hafniumschwert.png) [Hafniumschwert](../elemente/hafnium.md): 2 × Hafnium + 1 × Bretter
+- ![](../bilder/gegenstaende/hafniumhelm.png) [Hafniumhelm](../gegenstaende/hafniumhelm.md): 5 × Hafnium
+- ![](../bilder/gegenstaende/hafniumharnisch.png) [Hafniumharnisch](../gegenstaende/hafniumharnisch.md): 8 × Hafnium
+- ![](../bilder/gegenstaende/hafniumbeinschutz.png) [Hafniumbeinschutz](../gegenstaende/hafniumbeinschutz.md): 7 × Hafnium
+- ![](../bilder/gegenstaende/hafniumstiefel.png) [Hafniumstiefel](../gegenstaende/hafniumstiefel.md): 4 × Hafnium
 

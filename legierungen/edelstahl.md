@@ -19,11 +19,11 @@ Ab 10,5 % Chrom bildet sich eine unsichtbare Haut, die sich bei jedem Kratzer vo
 
 Aus Edelstahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/edelstahlspitzhacke.png) Edelstahlspitzhacke: 3 × Edelstahl + 2 × Bretter
-- ![](../bilder/ausruestung/edelstahlaxt.png) Edelstahlaxt: 3 × Edelstahl + 2 × Bretter
-- ![](../bilder/ausruestung/edelstahlschwert.png) Edelstahlschwert: 2 × Edelstahl + 1 × Bretter
-- ![](../bilder/ausruestung/edelstahlhelm.png) Edelstahlhelm: 5 × Edelstahl
-- ![](../bilder/ausruestung/edelstahlharnisch.png) Edelstahlharnisch: 8 × Edelstahl
-- ![](../bilder/ausruestung/edelstahlbeinschutz.png) Edelstahlbeinschutz: 7 × Edelstahl
-- ![](../bilder/ausruestung/edelstahlstiefel.png) Edelstahlstiefel: 4 × Edelstahl
+- ![](../bilder/ausruestung/edelstahlspitzhacke.png) [Edelstahlspitzhacke](../legierungen/edelstahl.md): 3 × Edelstahl + 2 × Bretter
+- ![](../bilder/ausruestung/edelstahlaxt.png) [Edelstahlaxt](../legierungen/edelstahl.md): 3 × Edelstahl + 2 × Bretter
+- ![](../bilder/ausruestung/edelstahlschwert.png) [Edelstahlschwert](../legierungen/edelstahl.md): 2 × Edelstahl + 1 × Bretter
+- ![](../bilder/gegenstaende/edelstahlhelm.png) [Edelstahlhelm](../gegenstaende/edelstahlhelm.md): 5 × Edelstahl
+- ![](../bilder/gegenstaende/edelstahlharnisch.png) [Edelstahlharnisch](../gegenstaende/edelstahlharnisch.md): 8 × Edelstahl
+- ![](../bilder/gegenstaende/edelstahlbeinschutz.png) [Edelstahlbeinschutz](../gegenstaende/edelstahlbeinschutz.md): 7 × Edelstahl
+- ![](../bilder/gegenstaende/edelstahlstiefel.png) [Edelstahlstiefel](../gegenstaende/edelstahlstiefel.md): 4 × Edelstahl
 

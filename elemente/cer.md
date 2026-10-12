@@ -24,11 +24,11 @@ Reibt man es, sprühen Funken – der "Feuerstein" im Feuerzeug ist Cer-Eisen.
 
 Aus Cer gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/cerspitzhacke.png) Cerspitzhacke: 3 × Cer + 2 × Bretter
-- ![](../bilder/ausruestung/ceraxt.png) Ceraxt: 3 × Cer + 2 × Bretter
-- ![](../bilder/ausruestung/cerschwert.png) Cerschwert: 2 × Cer + 1 × Bretter
-- ![](../bilder/ausruestung/cerhelm.png) Cerhelm: 5 × Cer
-- ![](../bilder/ausruestung/cerharnisch.png) Cerharnisch: 8 × Cer
-- ![](../bilder/ausruestung/cerbeinschutz.png) Cerbeinschutz: 7 × Cer
-- ![](../bilder/ausruestung/cerstiefel.png) Cerstiefel: 4 × Cer
+- ![](../bilder/ausruestung/cerspitzhacke.png) [Cerspitzhacke](../elemente/cer.md): 3 × Cer + 2 × Bretter
+- ![](../bilder/ausruestung/ceraxt.png) [Ceraxt](../elemente/cer.md): 3 × Cer + 2 × Bretter
+- ![](../bilder/ausruestung/cerschwert.png) [Cerschwert](../elemente/cer.md): 2 × Cer + 1 × Bretter
+- ![](../bilder/gegenstaende/cerhelm.png) [Cerhelm](../gegenstaende/cerhelm.md): 5 × Cer
+- ![](../bilder/gegenstaende/cerharnisch.png) [Cerharnisch](../gegenstaende/cerharnisch.md): 8 × Cer
+- ![](../bilder/gegenstaende/cerbeinschutz.png) [Cerbeinschutz](../gegenstaende/cerbeinschutz.md): 7 × Cer
+- ![](../bilder/gegenstaende/cerstiefel.png) [Cerstiefel](../gegenstaende/cerstiefel.md): 4 × Cer
 

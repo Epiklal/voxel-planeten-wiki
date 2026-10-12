@@ -24,13 +24,13 @@ So weich, dass es beim Biegen hörbar "schreit". Jeder Touchscreen hat eine durc
 
 Aus Indium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/indiumspitzhacke.png) Indiumspitzhacke: 3 × Indium + 2 × Bretter
-- ![](../bilder/ausruestung/indiumaxt.png) Indiumaxt: 3 × Indium + 2 × Bretter
-- ![](../bilder/ausruestung/indiumschwert.png) Indiumschwert: 2 × Indium + 1 × Bretter
-- ![](../bilder/ausruestung/indiumhelm.png) Indiumhelm: 5 × Indium
-- ![](../bilder/ausruestung/indiumharnisch.png) Indiumharnisch: 8 × Indium
-- ![](../bilder/ausruestung/indiumbeinschutz.png) Indiumbeinschutz: 7 × Indium
-- ![](../bilder/ausruestung/indiumstiefel.png) Indiumstiefel: 4 × Indium
+- ![](../bilder/ausruestung/indiumspitzhacke.png) [Indiumspitzhacke](../elemente/indium.md): 3 × Indium + 2 × Bretter
+- ![](../bilder/ausruestung/indiumaxt.png) [Indiumaxt](../elemente/indium.md): 3 × Indium + 2 × Bretter
+- ![](../bilder/ausruestung/indiumschwert.png) [Indiumschwert](../elemente/indium.md): 2 × Indium + 1 × Bretter
+- ![](../bilder/gegenstaende/indiumhelm.png) [Indiumhelm](../gegenstaende/indiumhelm.md): 5 × Indium
+- ![](../bilder/gegenstaende/indiumharnisch.png) [Indiumharnisch](../gegenstaende/indiumharnisch.md): 8 × Indium
+- ![](../bilder/gegenstaende/indiumbeinschutz.png) [Indiumbeinschutz](../gegenstaende/indiumbeinschutz.md): 7 × Indium
+- ![](../bilder/gegenstaende/indiumstiefel.png) [Indiumstiefel](../gegenstaende/indiumstiefel.md): 4 × Indium
 
 ## Verwendet für
 

@@ -1,0 +1,23 @@
+# Calciumbeinschutz
+
+![Calciumbeinschutz](../bilder/gegenstaende/calciumbeinschutz.png)
+
+Rüstung für **Beine**. Anlegen im Inventar auf dem passenden Rüstungsplatz oder mit Shift-Klick.
+
+Material: [Calcium](../elemente/calcium.md).
+
+Weitere Teile und ganze Rüstungen: [Alle Rüstungen](../ruestungen.md). Regeln für Schaden, Strom und Strahlung: [Rüstungsanleitung](../anleitungen/ruestung.md).
+
+| Eigenschaft | Wert |
+|---|---|
+| Rüstung + | 3 · 1,5 kg |
+| Strahlenschutz | 4 % · leitet Strom |
+| Im Wasser | sprudelt |
+
+## Im Wasser
+
+Ca + 2 H2O → Ca(OH)2 + H2: Calcium sinkt und sprudelt kräftig, das Wasser wird trüb (Kalkmilch).
+
+## Herstellen
+
+- 7 × [Calcium](../elemente/calcium.md) → 1 × [Calciumbeinschutz](../gegenstaende/calciumbeinschutz.md) (Werkbank, 6,5 s)

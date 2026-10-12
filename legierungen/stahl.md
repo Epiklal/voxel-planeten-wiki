@@ -19,13 +19,13 @@ Schon ein bis zwei Prozent Kohlenstoff machen aus weichem Eisen harten Stahl: Di
 
 Aus Stahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/stahlspitzhacke.png) Stahlspitzhacke: 3 × Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/stahlaxt.png) Stahlaxt: 3 × Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/stahlschwert.png) Stahlschwert: 2 × Stahl + 1 × Bretter
-- ![](../bilder/ausruestung/stahlhelm.png) Stahlhelm: 5 × Stahl
-- ![](../bilder/ausruestung/stahlharnisch.png) Stahlharnisch: 8 × Stahl
-- ![](../bilder/ausruestung/stahlbeinschutz.png) Stahlbeinschutz: 7 × Stahl
-- ![](../bilder/ausruestung/stahlstiefel.png) Stahlstiefel: 4 × Stahl
+- ![](../bilder/ausruestung/stahlspitzhacke.png) [Stahlspitzhacke](../legierungen/stahl.md): 3 × Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/stahlaxt.png) [Stahlaxt](../legierungen/stahl.md): 3 × Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/stahlschwert.png) [Stahlschwert](../legierungen/stahl.md): 2 × Stahl + 1 × Bretter
+- ![](../bilder/gegenstaende/stahlhelm.png) [Stahlhelm](../gegenstaende/stahlhelm.md): 5 × Stahl
+- ![](../bilder/gegenstaende/stahlharnisch.png) [Stahlharnisch](../gegenstaende/stahlharnisch.md): 8 × Stahl
+- ![](../bilder/gegenstaende/stahlbeinschutz.png) [Stahlbeinschutz](../gegenstaende/stahlbeinschutz.md): 7 × Stahl
+- ![](../bilder/gegenstaende/stahlstiefel.png) [Stahlstiefel](../gegenstaende/stahlstiefel.md): 4 × Stahl
 
 ## Verwendet für
 

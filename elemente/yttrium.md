@@ -24,13 +24,13 @@ Eines von vier Elementen, benannt nach dem schwedischen Dorf Ytterby – wie Ytt
 
 Aus Yttrium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/yttriumspitzhacke.png) Yttriumspitzhacke: 3 × Yttrium + 2 × Bretter
-- ![](../bilder/ausruestung/yttriumaxt.png) Yttriumaxt: 3 × Yttrium + 2 × Bretter
-- ![](../bilder/ausruestung/yttriumschwert.png) Yttriumschwert: 2 × Yttrium + 1 × Bretter
-- ![](../bilder/ausruestung/yttriumhelm.png) Yttriumhelm: 5 × Yttrium
-- ![](../bilder/ausruestung/yttriumharnisch.png) Yttriumharnisch: 8 × Yttrium
-- ![](../bilder/ausruestung/yttriumbeinschutz.png) Yttriumbeinschutz: 7 × Yttrium
-- ![](../bilder/ausruestung/yttriumstiefel.png) Yttriumstiefel: 4 × Yttrium
+- ![](../bilder/ausruestung/yttriumspitzhacke.png) [Yttriumspitzhacke](../elemente/yttrium.md): 3 × Yttrium + 2 × Bretter
+- ![](../bilder/ausruestung/yttriumaxt.png) [Yttriumaxt](../elemente/yttrium.md): 3 × Yttrium + 2 × Bretter
+- ![](../bilder/ausruestung/yttriumschwert.png) [Yttriumschwert](../elemente/yttrium.md): 2 × Yttrium + 1 × Bretter
+- ![](../bilder/gegenstaende/yttriumhelm.png) [Yttriumhelm](../gegenstaende/yttriumhelm.md): 5 × Yttrium
+- ![](../bilder/gegenstaende/yttriumharnisch.png) [Yttriumharnisch](../gegenstaende/yttriumharnisch.md): 8 × Yttrium
+- ![](../bilder/gegenstaende/yttriumbeinschutz.png) [Yttriumbeinschutz](../gegenstaende/yttriumbeinschutz.md): 7 × Yttrium
+- ![](../bilder/gegenstaende/yttriumstiefel.png) [Yttriumstiefel](../gegenstaende/yttriumstiefel.md): 4 × Yttrium
 
 ## Verwendet für
 

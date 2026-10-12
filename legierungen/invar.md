@@ -19,11 +19,11 @@ Dehnt sich bei Wärme fast gar nicht aus – dafür gab es 1920 den Nobelpreis. 
 
 Aus Invar gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/invarspitzhacke.png) Invarspitzhacke: 3 × Invar + 2 × Bretter
-- ![](../bilder/ausruestung/invaraxt.png) Invaraxt: 3 × Invar + 2 × Bretter
-- ![](../bilder/ausruestung/invarschwert.png) Invarschwert: 2 × Invar + 1 × Bretter
-- ![](../bilder/ausruestung/invarhelm.png) Invarhelm: 5 × Invar
-- ![](../bilder/ausruestung/invarharnisch.png) Invarharnisch: 8 × Invar
-- ![](../bilder/ausruestung/invarbeinschutz.png) Invarbeinschutz: 7 × Invar
-- ![](../bilder/ausruestung/invarstiefel.png) Invarstiefel: 4 × Invar
+- ![](../bilder/ausruestung/invarspitzhacke.png) [Invarspitzhacke](../legierungen/invar.md): 3 × Invar + 2 × Bretter
+- ![](../bilder/ausruestung/invaraxt.png) [Invaraxt](../legierungen/invar.md): 3 × Invar + 2 × Bretter
+- ![](../bilder/ausruestung/invarschwert.png) [Invarschwert](../legierungen/invar.md): 2 × Invar + 1 × Bretter
+- ![](../bilder/gegenstaende/invarhelm.png) [Invarhelm](../gegenstaende/invarhelm.md): 5 × Invar
+- ![](../bilder/gegenstaende/invarharnisch.png) [Invarharnisch](../gegenstaende/invarharnisch.md): 8 × Invar
+- ![](../bilder/gegenstaende/invarbeinschutz.png) [Invarbeinschutz](../gegenstaende/invarbeinschutz.md): 7 × Invar
+- ![](../bilder/gegenstaende/invarstiefel.png) [Invarstiefel](../gegenstaende/invarstiefel.md): 4 × Invar
 

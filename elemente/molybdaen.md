@@ -24,13 +24,13 @@ Schmilzt erst bei 2623 °C. Pflanzen brauchen es, um Stickstoff zu verwerten.
 
 Aus Molybdän gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/molybdaenspitzhacke.png) Molybdänspitzhacke: 3 × Molybdän + 2 × Bretter
-- ![](../bilder/ausruestung/molybdaenaxt.png) Molybdänaxt: 3 × Molybdän + 2 × Bretter
-- ![](../bilder/ausruestung/molybdaenschwert.png) Molybdänschwert: 2 × Molybdän + 1 × Bretter
-- ![](../bilder/ausruestung/molybdaenhelm.png) Molybdänhelm: 5 × Molybdän
-- ![](../bilder/ausruestung/molybdaenharnisch.png) Molybdänharnisch: 8 × Molybdän
-- ![](../bilder/ausruestung/molybdaenbeinschutz.png) Molybdänbeinschutz: 7 × Molybdän
-- ![](../bilder/ausruestung/molybdaenstiefel.png) Molybdänstiefel: 4 × Molybdän
+- ![](../bilder/ausruestung/molybdaenspitzhacke.png) [Molybdänspitzhacke](../elemente/molybdaen.md): 3 × Molybdän + 2 × Bretter
+- ![](../bilder/ausruestung/molybdaenaxt.png) [Molybdänaxt](../elemente/molybdaen.md): 3 × Molybdän + 2 × Bretter
+- ![](../bilder/ausruestung/molybdaenschwert.png) [Molybdänschwert](../elemente/molybdaen.md): 2 × Molybdän + 1 × Bretter
+- ![](../bilder/gegenstaende/molybdaenhelm.png) [Molybdänhelm](../gegenstaende/molybdaenhelm.md): 5 × Molybdän
+- ![](../bilder/gegenstaende/molybdaenharnisch.png) [Molybdänharnisch](../gegenstaende/molybdaenharnisch.md): 8 × Molybdän
+- ![](../bilder/gegenstaende/molybdaenbeinschutz.png) [Molybdänbeinschutz](../gegenstaende/molybdaenbeinschutz.md): 7 × Molybdän
+- ![](../bilder/gegenstaende/molybdaenstiefel.png) [Molybdänstiefel](../gegenstaende/molybdaenstiefel.md): 4 × Molybdän
 
 ## Verwendet für
 

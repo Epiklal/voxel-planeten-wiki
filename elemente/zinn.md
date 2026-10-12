@@ -24,13 +24,13 @@ Unter 13 °C zerfällt es langsam zu grauem Pulver ("Zinnpest") – angeblich ze
 
 Aus Zinn gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/zinnspitzhacke.png) Zinnspitzhacke: 3 × Zinn + 2 × Bretter
-- ![](../bilder/ausruestung/zinnaxt.png) Zinnaxt: 3 × Zinn + 2 × Bretter
-- ![](../bilder/ausruestung/zinnschwert.png) Zinnschwert: 2 × Zinn + 1 × Bretter
-- ![](../bilder/ausruestung/zinnhelm.png) Zinnhelm: 5 × Zinn
-- ![](../bilder/ausruestung/zinnharnisch.png) Zinnharnisch: 8 × Zinn
-- ![](../bilder/ausruestung/zinnbeinschutz.png) Zinnbeinschutz: 7 × Zinn
-- ![](../bilder/ausruestung/zinnstiefel.png) Zinnstiefel: 4 × Zinn
+- ![](../bilder/ausruestung/zinnspitzhacke.png) [Zinnspitzhacke](../elemente/zinn.md): 3 × Zinn + 2 × Bretter
+- ![](../bilder/ausruestung/zinnaxt.png) [Zinnaxt](../elemente/zinn.md): 3 × Zinn + 2 × Bretter
+- ![](../bilder/ausruestung/zinnschwert.png) [Zinnschwert](../elemente/zinn.md): 2 × Zinn + 1 × Bretter
+- ![](../bilder/gegenstaende/zinnhelm.png) [Zinnhelm](../gegenstaende/zinnhelm.md): 5 × Zinn
+- ![](../bilder/gegenstaende/zinnharnisch.png) [Zinnharnisch](../gegenstaende/zinnharnisch.md): 8 × Zinn
+- ![](../bilder/gegenstaende/zinnbeinschutz.png) [Zinnbeinschutz](../gegenstaende/zinnbeinschutz.md): 7 × Zinn
+- ![](../bilder/gegenstaende/zinnstiefel.png) [Zinnstiefel](../gegenstaende/zinnstiefel.md): 4 × Zinn
 
 ## Verwendet für
 

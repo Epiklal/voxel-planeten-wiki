@@ -24,11 +24,11 @@ Das erste künstlich hergestellte Element (1937) – der Name heißt "künstlich
 
 Aus Technetium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/technetiumspitzhacke.png) Technetiumspitzhacke: 3 × Technetium + 2 × Bretter
-- ![](../bilder/ausruestung/technetiumaxt.png) Technetiumaxt: 3 × Technetium + 2 × Bretter
-- ![](../bilder/ausruestung/technetiumschwert.png) Technetiumschwert: 2 × Technetium + 1 × Bretter
-- ![](../bilder/ausruestung/technetiumhelm.png) Technetiumhelm: 5 × Technetium
-- ![](../bilder/ausruestung/technetiumharnisch.png) Technetiumharnisch: 8 × Technetium
-- ![](../bilder/ausruestung/technetiumbeinschutz.png) Technetiumbeinschutz: 7 × Technetium
-- ![](../bilder/ausruestung/technetiumstiefel.png) Technetiumstiefel: 4 × Technetium
+- ![](../bilder/ausruestung/technetiumspitzhacke.png) [Technetiumspitzhacke](../elemente/technetium.md): 3 × Technetium + 2 × Bretter
+- ![](../bilder/ausruestung/technetiumaxt.png) [Technetiumaxt](../elemente/technetium.md): 3 × Technetium + 2 × Bretter
+- ![](../bilder/ausruestung/technetiumschwert.png) [Technetiumschwert](../elemente/technetium.md): 2 × Technetium + 1 × Bretter
+- ![](../bilder/gegenstaende/technetiumhelm.png) [Technetiumhelm](../gegenstaende/technetiumhelm.md): 5 × Technetium
+- ![](../bilder/gegenstaende/technetiumharnisch.png) [Technetiumharnisch](../gegenstaende/technetiumharnisch.md): 8 × Technetium
+- ![](../bilder/gegenstaende/technetiumbeinschutz.png) [Technetiumbeinschutz](../gegenstaende/technetiumbeinschutz.md): 7 × Technetium
+- ![](../bilder/gegenstaende/technetiumstiefel.png) [Technetiumstiefel](../gegenstaende/technetiumstiefel.md): 4 × Technetium
 

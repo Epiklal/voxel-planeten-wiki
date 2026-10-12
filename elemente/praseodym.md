@@ -24,11 +24,11 @@ Färbt die Schutzbrillen von Glasbläsern, die das grelle Licht schlucken.
 
 Aus Praseodym gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/praseodymspitzhacke.png) Praseodymspitzhacke: 3 × Praseodym + 2 × Bretter
-- ![](../bilder/ausruestung/praseodymaxt.png) Praseodymaxt: 3 × Praseodym + 2 × Bretter
-- ![](../bilder/ausruestung/praseodymschwert.png) Praseodymschwert: 2 × Praseodym + 1 × Bretter
-- ![](../bilder/ausruestung/praseodymhelm.png) Praseodymhelm: 5 × Praseodym
-- ![](../bilder/ausruestung/praseodymharnisch.png) Praseodymharnisch: 8 × Praseodym
-- ![](../bilder/ausruestung/praseodymbeinschutz.png) Praseodymbeinschutz: 7 × Praseodym
-- ![](../bilder/ausruestung/praseodymstiefel.png) Praseodymstiefel: 4 × Praseodym
+- ![](../bilder/ausruestung/praseodymspitzhacke.png) [Praseodymspitzhacke](../elemente/praseodym.md): 3 × Praseodym + 2 × Bretter
+- ![](../bilder/ausruestung/praseodymaxt.png) [Praseodymaxt](../elemente/praseodym.md): 3 × Praseodym + 2 × Bretter
+- ![](../bilder/ausruestung/praseodymschwert.png) [Praseodymschwert](../elemente/praseodym.md): 2 × Praseodym + 1 × Bretter
+- ![](../bilder/gegenstaende/praseodymhelm.png) [Praseodymhelm](../gegenstaende/praseodymhelm.md): 5 × Praseodym
+- ![](../bilder/gegenstaende/praseodymharnisch.png) [Praseodymharnisch](../gegenstaende/praseodymharnisch.md): 8 × Praseodym
+- ![](../bilder/gegenstaende/praseodymbeinschutz.png) [Praseodymbeinschutz](../gegenstaende/praseodymbeinschutz.md): 7 × Praseodym
+- ![](../bilder/gegenstaende/praseodymstiefel.png) [Praseodymstiefel](../gegenstaende/praseodymstiefel.md): 4 × Praseodym
 

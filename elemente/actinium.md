@@ -24,11 +24,11 @@ Strahlt so stark, dass es im Dunkeln bläulich leuchtet.
 
 Aus Actinium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/actiniumspitzhacke.png) Actiniumspitzhacke: 3 × Actinium + 2 × Bretter
-- ![](../bilder/ausruestung/actiniumaxt.png) Actiniumaxt: 3 × Actinium + 2 × Bretter
-- ![](../bilder/ausruestung/actiniumschwert.png) Actiniumschwert: 2 × Actinium + 1 × Bretter
-- ![](../bilder/ausruestung/actiniumhelm.png) Actiniumhelm: 5 × Actinium
-- ![](../bilder/ausruestung/actiniumharnisch.png) Actiniumharnisch: 8 × Actinium
-- ![](../bilder/ausruestung/actiniumbeinschutz.png) Actiniumbeinschutz: 7 × Actinium
-- ![](../bilder/ausruestung/actiniumstiefel.png) Actiniumstiefel: 4 × Actinium
+- ![](../bilder/ausruestung/actiniumspitzhacke.png) [Actiniumspitzhacke](../elemente/actinium.md): 3 × Actinium + 2 × Bretter
+- ![](../bilder/ausruestung/actiniumaxt.png) [Actiniumaxt](../elemente/actinium.md): 3 × Actinium + 2 × Bretter
+- ![](../bilder/ausruestung/actiniumschwert.png) [Actiniumschwert](../elemente/actinium.md): 2 × Actinium + 1 × Bretter
+- ![](../bilder/gegenstaende/actiniumhelm.png) [Actiniumhelm](../gegenstaende/actiniumhelm.md): 5 × Actinium
+- ![](../bilder/gegenstaende/actiniumharnisch.png) [Actiniumharnisch](../gegenstaende/actiniumharnisch.md): 8 × Actinium
+- ![](../bilder/gegenstaende/actiniumbeinschutz.png) [Actiniumbeinschutz](../gegenstaende/actiniumbeinschutz.md): 7 × Actinium
+- ![](../bilder/gegenstaende/actiniumstiefel.png) [Actiniumstiefel](../gegenstaende/actiniumstiefel.md): 4 × Actinium
 

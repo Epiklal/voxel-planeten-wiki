@@ -19,11 +19,11 @@ Hat ein Gedächtnis: Verbogen springt es beim Erwärmen in seine alte Form zurü
 
 Aus Nitinol gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/nitinolspitzhacke.png) Nitinolspitzhacke: 3 × Nitinol + 2 × Bretter
-- ![](../bilder/ausruestung/nitinolaxt.png) Nitinolaxt: 3 × Nitinol + 2 × Bretter
-- ![](../bilder/ausruestung/nitinolschwert.png) Nitinolschwert: 2 × Nitinol + 1 × Bretter
-- ![](../bilder/ausruestung/nitinolhelm.png) Nitinolhelm: 5 × Nitinol
-- ![](../bilder/ausruestung/nitinolharnisch.png) Nitinolharnisch: 8 × Nitinol
-- ![](../bilder/ausruestung/nitinolbeinschutz.png) Nitinolbeinschutz: 7 × Nitinol
-- ![](../bilder/ausruestung/nitinolstiefel.png) Nitinolstiefel: 4 × Nitinol
+- ![](../bilder/ausruestung/nitinolspitzhacke.png) [Nitinolspitzhacke](../legierungen/nitinol.md): 3 × Nitinol + 2 × Bretter
+- ![](../bilder/ausruestung/nitinolaxt.png) [Nitinolaxt](../legierungen/nitinol.md): 3 × Nitinol + 2 × Bretter
+- ![](../bilder/ausruestung/nitinolschwert.png) [Nitinolschwert](../legierungen/nitinol.md): 2 × Nitinol + 1 × Bretter
+- ![](../bilder/gegenstaende/nitinolhelm.png) [Nitinolhelm](../gegenstaende/nitinolhelm.md): 5 × Nitinol
+- ![](../bilder/gegenstaende/nitinolharnisch.png) [Nitinolharnisch](../gegenstaende/nitinolharnisch.md): 8 × Nitinol
+- ![](../bilder/gegenstaende/nitinolbeinschutz.png) [Nitinolbeinschutz](../gegenstaende/nitinolbeinschutz.md): 7 × Nitinol
+- ![](../bilder/gegenstaende/nitinolstiefel.png) [Nitinolstiefel](../gegenstaende/nitinolstiefel.md): 4 × Nitinol
 

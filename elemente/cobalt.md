@@ -24,13 +24,13 @@ Cobaltblau färbt seit dem alten Ägypten Glas. Bergleute hielten das giftige Er
 
 Aus Cobalt gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/cobaltspitzhacke.png) Cobaltspitzhacke: 3 × Cobalt + 2 × Bretter
-- ![](../bilder/ausruestung/cobaltaxt.png) Cobaltaxt: 3 × Cobalt + 2 × Bretter
-- ![](../bilder/ausruestung/cobaltschwert.png) Cobaltschwert: 2 × Cobalt + 1 × Bretter
-- ![](../bilder/ausruestung/cobalthelm.png) Cobalthelm: 5 × Cobalt
-- ![](../bilder/ausruestung/cobaltharnisch.png) Cobaltharnisch: 8 × Cobalt
-- ![](../bilder/ausruestung/cobaltbeinschutz.png) Cobaltbeinschutz: 7 × Cobalt
-- ![](../bilder/ausruestung/cobaltstiefel.png) Cobaltstiefel: 4 × Cobalt
+- ![](../bilder/ausruestung/cobaltspitzhacke.png) [Cobaltspitzhacke](../elemente/cobalt.md): 3 × Cobalt + 2 × Bretter
+- ![](../bilder/ausruestung/cobaltaxt.png) [Cobaltaxt](../elemente/cobalt.md): 3 × Cobalt + 2 × Bretter
+- ![](../bilder/ausruestung/cobaltschwert.png) [Cobaltschwert](../elemente/cobalt.md): 2 × Cobalt + 1 × Bretter
+- ![](../bilder/gegenstaende/cobalthelm.png) [Cobalthelm](../gegenstaende/cobalthelm.md): 5 × Cobalt
+- ![](../bilder/gegenstaende/cobaltharnisch.png) [Cobaltharnisch](../gegenstaende/cobaltharnisch.md): 8 × Cobalt
+- ![](../bilder/gegenstaende/cobaltbeinschutz.png) [Cobaltbeinschutz](../gegenstaende/cobaltbeinschutz.md): 7 × Cobalt
+- ![](../bilder/gegenstaende/cobaltstiefel.png) [Cobaltstiefel](../gegenstaende/cobaltstiefel.md): 4 × Cobalt
 
 ## Verwendet für
 

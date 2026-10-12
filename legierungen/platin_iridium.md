@@ -19,11 +19,11 @@ Daraus war bis 2019 das Urkilogramm in Paris – das Maß aller Kilogramm.
 
 Aus Platin-Iridium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/platin_iridiumspitzhacke.png) Platin-Iridiumspitzhacke: 3 × Platin-Iridium + 2 × Bretter
-- ![](../bilder/ausruestung/platin_iridiumaxt.png) Platin-Iridiumaxt: 3 × Platin-Iridium + 2 × Bretter
-- ![](../bilder/ausruestung/platin_iridiumschwert.png) Platin-Iridiumschwert: 2 × Platin-Iridium + 1 × Bretter
-- ![](../bilder/ausruestung/platin_iridiumhelm.png) Platin-Iridiumhelm: 5 × Platin-Iridium
-- ![](../bilder/ausruestung/platin_iridiumharnisch.png) Platin-Iridiumharnisch: 8 × Platin-Iridium
-- ![](../bilder/ausruestung/platin_iridiumbeinschutz.png) Platin-Iridiumbeinschutz: 7 × Platin-Iridium
-- ![](../bilder/ausruestung/platin_iridiumstiefel.png) Platin-Iridiumstiefel: 4 × Platin-Iridium
+- ![](../bilder/ausruestung/platin_iridiumspitzhacke.png) [Platin-Iridiumspitzhacke](../legierungen/platin_iridium.md): 3 × Platin-Iridium + 2 × Bretter
+- ![](../bilder/ausruestung/platin_iridiumaxt.png) [Platin-Iridiumaxt](../legierungen/platin_iridium.md): 3 × Platin-Iridium + 2 × Bretter
+- ![](../bilder/ausruestung/platin_iridiumschwert.png) [Platin-Iridiumschwert](../legierungen/platin_iridium.md): 2 × Platin-Iridium + 1 × Bretter
+- ![](../bilder/gegenstaende/platin_iridiumhelm.png) [Platin-Iridiumhelm](../gegenstaende/platin_iridiumhelm.md): 5 × Platin-Iridium
+- ![](../bilder/gegenstaende/platin_iridiumharnisch.png) [Platin-Iridiumharnisch](../gegenstaende/platin_iridiumharnisch.md): 8 × Platin-Iridium
+- ![](../bilder/gegenstaende/platin_iridiumbeinschutz.png) [Platin-Iridiumbeinschutz](../gegenstaende/platin_iridiumbeinschutz.md): 7 × Platin-Iridium
+- ![](../bilder/gegenstaende/platin_iridiumstiefel.png) [Platin-Iridiumstiefel](../gegenstaende/platin_iridiumstiefel.md): 4 × Platin-Iridium
 

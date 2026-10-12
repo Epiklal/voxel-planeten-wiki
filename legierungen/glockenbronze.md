@@ -19,11 +19,11 @@ Viel Zinn gibt den hellen, langen Klang von Kirchenglocken.
 
 Aus Glockenbronze gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/glockenbronzespitzhacke.png) Glockenbronzespitzhacke: 3 × Glockenbronze + 2 × Bretter
-- ![](../bilder/ausruestung/glockenbronzeaxt.png) Glockenbronzeaxt: 3 × Glockenbronze + 2 × Bretter
-- ![](../bilder/ausruestung/glockenbronzeschwert.png) Glockenbronzeschwert: 2 × Glockenbronze + 1 × Bretter
-- ![](../bilder/ausruestung/glockenbronzehelm.png) Glockenbronzehelm: 5 × Glockenbronze
-- ![](../bilder/ausruestung/glockenbronzeharnisch.png) Glockenbronzeharnisch: 8 × Glockenbronze
-- ![](../bilder/ausruestung/glockenbronzebeinschutz.png) Glockenbronzebeinschutz: 7 × Glockenbronze
-- ![](../bilder/ausruestung/glockenbronzestiefel.png) Glockenbronzestiefel: 4 × Glockenbronze
+- ![](../bilder/ausruestung/glockenbronzespitzhacke.png) [Glockenbronzespitzhacke](../legierungen/glockenbronze.md): 3 × Glockenbronze + 2 × Bretter
+- ![](../bilder/ausruestung/glockenbronzeaxt.png) [Glockenbronzeaxt](../legierungen/glockenbronze.md): 3 × Glockenbronze + 2 × Bretter
+- ![](../bilder/ausruestung/glockenbronzeschwert.png) [Glockenbronzeschwert](../legierungen/glockenbronze.md): 2 × Glockenbronze + 1 × Bretter
+- ![](../bilder/gegenstaende/glockenbronzehelm.png) [Glockenbronzehelm](../gegenstaende/glockenbronzehelm.md): 5 × Glockenbronze
+- ![](../bilder/gegenstaende/glockenbronzeharnisch.png) [Glockenbronzeharnisch](../gegenstaende/glockenbronzeharnisch.md): 8 × Glockenbronze
+- ![](../bilder/gegenstaende/glockenbronzebeinschutz.png) [Glockenbronzebeinschutz](../gegenstaende/glockenbronzebeinschutz.md): 7 × Glockenbronze
+- ![](../bilder/gegenstaende/glockenbronzestiefel.png) [Glockenbronzestiefel](../gegenstaende/glockenbronzestiefel.md): 4 × Glockenbronze
 

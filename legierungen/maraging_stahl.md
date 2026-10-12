@@ -19,11 +19,11 @@ Einer der festesten Stähle der Welt: Raketenhüllen, Golfschläger, Uranzentrif
 
 Aus Maraging-Stahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/maraging_stahlspitzhacke.png) Maraging-Stahlspitzhacke: 3 × Maraging-Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/maraging_stahlaxt.png) Maraging-Stahlaxt: 3 × Maraging-Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/maraging_stahlschwert.png) Maraging-Stahlschwert: 2 × Maraging-Stahl + 1 × Bretter
-- ![](../bilder/ausruestung/maraging_stahlhelm.png) Maraging-Stahlhelm: 5 × Maraging-Stahl
-- ![](../bilder/ausruestung/maraging_stahlharnisch.png) Maraging-Stahlharnisch: 8 × Maraging-Stahl
-- ![](../bilder/ausruestung/maraging_stahlbeinschutz.png) Maraging-Stahlbeinschutz: 7 × Maraging-Stahl
-- ![](../bilder/ausruestung/maraging_stahlstiefel.png) Maraging-Stahlstiefel: 4 × Maraging-Stahl
+- ![](../bilder/ausruestung/maraging_stahlspitzhacke.png) [Maraging-Stahlspitzhacke](../legierungen/maraging_stahl.md): 3 × Maraging-Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/maraging_stahlaxt.png) [Maraging-Stahlaxt](../legierungen/maraging_stahl.md): 3 × Maraging-Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/maraging_stahlschwert.png) [Maraging-Stahlschwert](../legierungen/maraging_stahl.md): 2 × Maraging-Stahl + 1 × Bretter
+- ![](../bilder/gegenstaende/maraging_stahlhelm.png) [Maraging-Stahlhelm](../gegenstaende/maraging_stahlhelm.md): 5 × Maraging-Stahl
+- ![](../bilder/gegenstaende/maraging_stahlharnisch.png) [Maraging-Stahlharnisch](../gegenstaende/maraging_stahlharnisch.md): 8 × Maraging-Stahl
+- ![](../bilder/gegenstaende/maraging_stahlbeinschutz.png) [Maraging-Stahlbeinschutz](../gegenstaende/maraging_stahlbeinschutz.md): 7 × Maraging-Stahl
+- ![](../bilder/gegenstaende/maraging_stahlstiefel.png) [Maraging-Stahlstiefel](../gegenstaende/maraging_stahlstiefel.md): 4 × Maraging-Stahl
 

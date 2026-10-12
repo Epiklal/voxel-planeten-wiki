@@ -24,11 +24,11 @@ Grünes Leuchten in alten Bildschirmen und Energiesparlampen.
 
 Aus Terbium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/terbiumspitzhacke.png) Terbiumspitzhacke: 3 × Terbium + 2 × Bretter
-- ![](../bilder/ausruestung/terbiumaxt.png) Terbiumaxt: 3 × Terbium + 2 × Bretter
-- ![](../bilder/ausruestung/terbiumschwert.png) Terbiumschwert: 2 × Terbium + 1 × Bretter
-- ![](../bilder/ausruestung/terbiumhelm.png) Terbiumhelm: 5 × Terbium
-- ![](../bilder/ausruestung/terbiumharnisch.png) Terbiumharnisch: 8 × Terbium
-- ![](../bilder/ausruestung/terbiumbeinschutz.png) Terbiumbeinschutz: 7 × Terbium
-- ![](../bilder/ausruestung/terbiumstiefel.png) Terbiumstiefel: 4 × Terbium
+- ![](../bilder/ausruestung/terbiumspitzhacke.png) [Terbiumspitzhacke](../elemente/terbium.md): 3 × Terbium + 2 × Bretter
+- ![](../bilder/ausruestung/terbiumaxt.png) [Terbiumaxt](../elemente/terbium.md): 3 × Terbium + 2 × Bretter
+- ![](../bilder/ausruestung/terbiumschwert.png) [Terbiumschwert](../elemente/terbium.md): 2 × Terbium + 1 × Bretter
+- ![](../bilder/gegenstaende/terbiumhelm.png) [Terbiumhelm](../gegenstaende/terbiumhelm.md): 5 × Terbium
+- ![](../bilder/gegenstaende/terbiumharnisch.png) [Terbiumharnisch](../gegenstaende/terbiumharnisch.md): 8 × Terbium
+- ![](../bilder/gegenstaende/terbiumbeinschutz.png) [Terbiumbeinschutz](../gegenstaende/terbiumbeinschutz.md): 7 × Terbium
+- ![](../bilder/gegenstaende/terbiumstiefel.png) [Terbiumstiefel](../gegenstaende/terbiumstiefel.md): 4 × Terbium
 

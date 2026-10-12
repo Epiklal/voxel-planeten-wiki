@@ -24,13 +24,13 @@ Wird bei −264 °C supraleitend: die Magnete des LHC und von MRT-Geräten.
 
 Aus Niob gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/niobspitzhacke.png) Niobspitzhacke: 3 × Niob + 2 × Bretter
-- ![](../bilder/ausruestung/niobaxt.png) Niobaxt: 3 × Niob + 2 × Bretter
-- ![](../bilder/ausruestung/niobschwert.png) Niobschwert: 2 × Niob + 1 × Bretter
-- ![](../bilder/ausruestung/niobhelm.png) Niobhelm: 5 × Niob
-- ![](../bilder/ausruestung/niobharnisch.png) Niobharnisch: 8 × Niob
-- ![](../bilder/ausruestung/niobbeinschutz.png) Niobbeinschutz: 7 × Niob
-- ![](../bilder/ausruestung/niobstiefel.png) Niobstiefel: 4 × Niob
+- ![](../bilder/ausruestung/niobspitzhacke.png) [Niobspitzhacke](../elemente/niob.md): 3 × Niob + 2 × Bretter
+- ![](../bilder/ausruestung/niobaxt.png) [Niobaxt](../elemente/niob.md): 3 × Niob + 2 × Bretter
+- ![](../bilder/ausruestung/niobschwert.png) [Niobschwert](../elemente/niob.md): 2 × Niob + 1 × Bretter
+- ![](../bilder/gegenstaende/niobhelm.png) [Niobhelm](../gegenstaende/niobhelm.md): 5 × Niob
+- ![](../bilder/gegenstaende/niobharnisch.png) [Niobharnisch](../gegenstaende/niobharnisch.md): 8 × Niob
+- ![](../bilder/gegenstaende/niobbeinschutz.png) [Niobbeinschutz](../gegenstaende/niobbeinschutz.md): 7 × Niob
+- ![](../bilder/gegenstaende/niobstiefel.png) [Niobstiefel](../gegenstaende/niobstiefel.md): 4 × Niob
 
 ## Verwendet für
 

@@ -19,11 +19,11 @@ Bleibt hart, auch wenn der Bohrer glüht – damit wurde Metallbearbeitung um 19
 
 Aus Schnellarbeitsstahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/schnellarbeitsstahlspitzhacke.png) Schnellarbeitsstahlspitzhacke: 3 × Schnellarbeitsstahl + 2 × Bretter
-- ![](../bilder/ausruestung/schnellarbeitsstahlaxt.png) Schnellarbeitsstahlaxt: 3 × Schnellarbeitsstahl + 2 × Bretter
-- ![](../bilder/ausruestung/schnellarbeitsstahlschwert.png) Schnellarbeitsstahlschwert: 2 × Schnellarbeitsstahl + 1 × Bretter
-- ![](../bilder/ausruestung/schnellarbeitsstahlhelm.png) Schnellarbeitsstahlhelm: 5 × Schnellarbeitsstahl
-- ![](../bilder/ausruestung/schnellarbeitsstahlharnisch.png) Schnellarbeitsstahlharnisch: 8 × Schnellarbeitsstahl
-- ![](../bilder/ausruestung/schnellarbeitsstahlbeinschutz.png) Schnellarbeitsstahlbeinschutz: 7 × Schnellarbeitsstahl
-- ![](../bilder/ausruestung/schnellarbeitsstahlstiefel.png) Schnellarbeitsstahlstiefel: 4 × Schnellarbeitsstahl
+- ![](../bilder/ausruestung/schnellarbeitsstahlspitzhacke.png) [Schnellarbeitsstahlspitzhacke](../legierungen/schnellarbeitsstahl.md): 3 × Schnellarbeitsstahl + 2 × Bretter
+- ![](../bilder/ausruestung/schnellarbeitsstahlaxt.png) [Schnellarbeitsstahlaxt](../legierungen/schnellarbeitsstahl.md): 3 × Schnellarbeitsstahl + 2 × Bretter
+- ![](../bilder/ausruestung/schnellarbeitsstahlschwert.png) [Schnellarbeitsstahlschwert](../legierungen/schnellarbeitsstahl.md): 2 × Schnellarbeitsstahl + 1 × Bretter
+- ![](../bilder/gegenstaende/schnellarbeitsstahlhelm.png) [Schnellarbeitsstahlhelm](../gegenstaende/schnellarbeitsstahlhelm.md): 5 × Schnellarbeitsstahl
+- ![](../bilder/gegenstaende/schnellarbeitsstahlharnisch.png) [Schnellarbeitsstahlharnisch](../gegenstaende/schnellarbeitsstahlharnisch.md): 8 × Schnellarbeitsstahl
+- ![](../bilder/gegenstaende/schnellarbeitsstahlbeinschutz.png) [Schnellarbeitsstahlbeinschutz](../gegenstaende/schnellarbeitsstahlbeinschutz.md): 7 × Schnellarbeitsstahl
+- ![](../bilder/gegenstaende/schnellarbeitsstahlstiefel.png) [Schnellarbeitsstahlstiefel](../gegenstaende/schnellarbeitsstahlstiefel.md): 4 × Schnellarbeitsstahl
 

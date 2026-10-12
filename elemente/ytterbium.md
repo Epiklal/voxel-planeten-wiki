@@ -24,11 +24,11 @@ Ytterbium-Atomuhren gehen in Milliarden Jahren kaum eine Sekunde falsch.
 
 Aus Ytterbium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/ytterbiumspitzhacke.png) Ytterbiumspitzhacke: 3 × Ytterbium + 2 × Bretter
-- ![](../bilder/ausruestung/ytterbiumaxt.png) Ytterbiumaxt: 3 × Ytterbium + 2 × Bretter
-- ![](../bilder/ausruestung/ytterbiumschwert.png) Ytterbiumschwert: 2 × Ytterbium + 1 × Bretter
-- ![](../bilder/ausruestung/ytterbiumhelm.png) Ytterbiumhelm: 5 × Ytterbium
-- ![](../bilder/ausruestung/ytterbiumharnisch.png) Ytterbiumharnisch: 8 × Ytterbium
-- ![](../bilder/ausruestung/ytterbiumbeinschutz.png) Ytterbiumbeinschutz: 7 × Ytterbium
-- ![](../bilder/ausruestung/ytterbiumstiefel.png) Ytterbiumstiefel: 4 × Ytterbium
+- ![](../bilder/ausruestung/ytterbiumspitzhacke.png) [Ytterbiumspitzhacke](../elemente/ytterbium.md): 3 × Ytterbium + 2 × Bretter
+- ![](../bilder/ausruestung/ytterbiumaxt.png) [Ytterbiumaxt](../elemente/ytterbium.md): 3 × Ytterbium + 2 × Bretter
+- ![](../bilder/ausruestung/ytterbiumschwert.png) [Ytterbiumschwert](../elemente/ytterbium.md): 2 × Ytterbium + 1 × Bretter
+- ![](../bilder/gegenstaende/ytterbiumhelm.png) [Ytterbiumhelm](../gegenstaende/ytterbiumhelm.md): 5 × Ytterbium
+- ![](../bilder/gegenstaende/ytterbiumharnisch.png) [Ytterbiumharnisch](../gegenstaende/ytterbiumharnisch.md): 8 × Ytterbium
+- ![](../bilder/gegenstaende/ytterbiumbeinschutz.png) [Ytterbiumbeinschutz](../gegenstaende/ytterbiumbeinschutz.md): 7 × Ytterbium
+- ![](../bilder/gegenstaende/ytterbiumstiefel.png) [Ytterbiumstiefel](../gegenstaende/ytterbiumstiefel.md): 4 × Ytterbium
 

@@ -24,11 +24,11 @@ Das letzte der Lanthanoide, eines der teuersten Metalle – und ein Mittel gegen
 
 Aus Lutetium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/lutetiumspitzhacke.png) Lutetiumspitzhacke: 3 × Lutetium + 2 × Bretter
-- ![](../bilder/ausruestung/lutetiumaxt.png) Lutetiumaxt: 3 × Lutetium + 2 × Bretter
-- ![](../bilder/ausruestung/lutetiumschwert.png) Lutetiumschwert: 2 × Lutetium + 1 × Bretter
-- ![](../bilder/ausruestung/lutetiumhelm.png) Lutetiumhelm: 5 × Lutetium
-- ![](../bilder/ausruestung/lutetiumharnisch.png) Lutetiumharnisch: 8 × Lutetium
-- ![](../bilder/ausruestung/lutetiumbeinschutz.png) Lutetiumbeinschutz: 7 × Lutetium
-- ![](../bilder/ausruestung/lutetiumstiefel.png) Lutetiumstiefel: 4 × Lutetium
+- ![](../bilder/ausruestung/lutetiumspitzhacke.png) [Lutetiumspitzhacke](../elemente/lutetium.md): 3 × Lutetium + 2 × Bretter
+- ![](../bilder/ausruestung/lutetiumaxt.png) [Lutetiumaxt](../elemente/lutetium.md): 3 × Lutetium + 2 × Bretter
+- ![](../bilder/ausruestung/lutetiumschwert.png) [Lutetiumschwert](../elemente/lutetium.md): 2 × Lutetium + 1 × Bretter
+- ![](../bilder/gegenstaende/lutetiumhelm.png) [Lutetiumhelm](../gegenstaende/lutetiumhelm.md): 5 × Lutetium
+- ![](../bilder/gegenstaende/lutetiumharnisch.png) [Lutetiumharnisch](../gegenstaende/lutetiumharnisch.md): 8 × Lutetium
+- ![](../bilder/gegenstaende/lutetiumbeinschutz.png) [Lutetiumbeinschutz](../gegenstaende/lutetiumbeinschutz.md): 7 × Lutetium
+- ![](../bilder/gegenstaende/lutetiumstiefel.png) [Lutetiumstiefel](../gegenstaende/lutetiumstiefel.md): 4 × Lutetium
 

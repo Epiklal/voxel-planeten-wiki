@@ -24,13 +24,13 @@ Brennt mit gleißend weißem Licht, das sich nicht mit Wasser löschen lässt. I
 
 Aus Magnesium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/magnesiumspitzhacke.png) Magnesiumspitzhacke: 3 × Magnesium + 2 × Bretter
-- ![](../bilder/ausruestung/magnesiumaxt.png) Magnesiumaxt: 3 × Magnesium + 2 × Bretter
-- ![](../bilder/ausruestung/magnesiumschwert.png) Magnesiumschwert: 2 × Magnesium + 1 × Bretter
-- ![](../bilder/ausruestung/magnesiumhelm.png) Magnesiumhelm: 5 × Magnesium
-- ![](../bilder/ausruestung/magnesiumharnisch.png) Magnesiumharnisch: 8 × Magnesium
-- ![](../bilder/ausruestung/magnesiumbeinschutz.png) Magnesiumbeinschutz: 7 × Magnesium
-- ![](../bilder/ausruestung/magnesiumstiefel.png) Magnesiumstiefel: 4 × Magnesium
+- ![](../bilder/ausruestung/magnesiumspitzhacke.png) [Magnesiumspitzhacke](../elemente/magnesium.md): 3 × Magnesium + 2 × Bretter
+- ![](../bilder/ausruestung/magnesiumaxt.png) [Magnesiumaxt](../elemente/magnesium.md): 3 × Magnesium + 2 × Bretter
+- ![](../bilder/ausruestung/magnesiumschwert.png) [Magnesiumschwert](../elemente/magnesium.md): 2 × Magnesium + 1 × Bretter
+- ![](../bilder/gegenstaende/magnesiumhelm.png) [Magnesiumhelm](../gegenstaende/magnesiumhelm.md): 5 × Magnesium
+- ![](../bilder/gegenstaende/magnesiumharnisch.png) [Magnesiumharnisch](../gegenstaende/magnesiumharnisch.md): 8 × Magnesium
+- ![](../bilder/gegenstaende/magnesiumbeinschutz.png) [Magnesiumbeinschutz](../gegenstaende/magnesiumbeinschutz.md): 7 × Magnesium
+- ![](../bilder/gegenstaende/magnesiumstiefel.png) [Magnesiumstiefel](../gegenstaende/magnesiumstiefel.md): 4 × Magnesium
 
 ## Verwendet für
 

@@ -19,11 +19,11 @@ Jahrhundertelang für Schwerter gerühmt. 2006 fand man in alten Damaszenerkling
 
 Aus Damaszener Stahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/damaszener_stahlspitzhacke.png) Damaszener Stahlspitzhacke: 3 × Damaszener Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/damaszener_stahlaxt.png) Damaszener Stahlaxt: 3 × Damaszener Stahl + 2 × Bretter
-- ![](../bilder/ausruestung/damaszener_stahlschwert.png) Damaszener Stahlschwert: 2 × Damaszener Stahl + 1 × Bretter
-- ![](../bilder/ausruestung/damaszener_stahlhelm.png) Damaszener Stahlhelm: 5 × Damaszener Stahl
-- ![](../bilder/ausruestung/damaszener_stahlharnisch.png) Damaszener Stahlharnisch: 8 × Damaszener Stahl
-- ![](../bilder/ausruestung/damaszener_stahlbeinschutz.png) Damaszener Stahlbeinschutz: 7 × Damaszener Stahl
-- ![](../bilder/ausruestung/damaszener_stahlstiefel.png) Damaszener Stahlstiefel: 4 × Damaszener Stahl
+- ![](../bilder/ausruestung/damaszener_stahlspitzhacke.png) [Damaszener Stahlspitzhacke](../legierungen/damaszener_stahl.md): 3 × Damaszener Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/damaszener_stahlaxt.png) [Damaszener Stahlaxt](../legierungen/damaszener_stahl.md): 3 × Damaszener Stahl + 2 × Bretter
+- ![](../bilder/ausruestung/damaszener_stahlschwert.png) [Damaszener Stahlschwert](../legierungen/damaszener_stahl.md): 2 × Damaszener Stahl + 1 × Bretter
+- ![](../bilder/gegenstaende/damaszener_stahlhelm.png) [Damaszener Stahlhelm](../gegenstaende/damaszener_stahlhelm.md): 5 × Damaszener Stahl
+- ![](../bilder/gegenstaende/damaszener_stahlharnisch.png) [Damaszener Stahlharnisch](../gegenstaende/damaszener_stahlharnisch.md): 8 × Damaszener Stahl
+- ![](../bilder/gegenstaende/damaszener_stahlbeinschutz.png) [Damaszener Stahlbeinschutz](../gegenstaende/damaszener_stahlbeinschutz.md): 7 × Damaszener Stahl
+- ![](../bilder/gegenstaende/damaszener_stahlstiefel.png) [Damaszener Stahlstiefel](../gegenstaende/damaszener_stahlstiefel.md): 4 × Damaszener Stahl
 

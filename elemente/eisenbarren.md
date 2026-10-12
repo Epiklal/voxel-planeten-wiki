@@ -27,13 +27,13 @@ Der Erdkern ist größtenteils Eisen – deshalb hat die Erde ein Magnetfeld. Je
 
 Aus Eisenbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/gegenstaende/eisenspitzhacke.png) Eisenspitzhacke: 3 × Eisenbarren + 2 × Bretter
-- ![](../bilder/gegenstaende/eisenaxt.png) Eisenaxt: 3 × Eisenbarren + 2 × Bretter
-- ![](../bilder/gegenstaende/eisenschwert.png) Eisenschwert: 2 × Eisenbarren + 1 × Bretter
-- ![](../bilder/gegenstaende/eisenhelm.png) Eisenhelm: 5 × Eisenbarren
-- ![](../bilder/gegenstaende/eisenharnisch.png) Eisenharnisch: 8 × Eisenbarren
-- ![](../bilder/gegenstaende/eisenbeinschutz.png) Eisenbeinschutz: 7 × Eisenbarren
-- ![](../bilder/gegenstaende/eisenstiefel.png) Eisenstiefel: 4 × Eisenbarren
+- ![](../bilder/gegenstaende/eisenspitzhacke.png) [Eisenspitzhacke](../gegenstaende/eisenspitzhacke.md): 3 × Eisenbarren + 2 × Bretter
+- ![](../bilder/gegenstaende/eisenaxt.png) [Eisenaxt](../gegenstaende/eisenaxt.md): 3 × Eisenbarren + 2 × Bretter
+- ![](../bilder/gegenstaende/eisenschwert.png) [Eisenschwert](../gegenstaende/eisenschwert.md): 2 × Eisenbarren + 1 × Bretter
+- ![](../bilder/gegenstaende/eisenhelm.png) [Eisenhelm](../gegenstaende/eisenhelm.md): 5 × Eisenbarren
+- ![](../bilder/gegenstaende/eisenharnisch.png) [Eisenharnisch](../gegenstaende/eisenharnisch.md): 8 × Eisenbarren
+- ![](../bilder/gegenstaende/eisenbeinschutz.png) [Eisenbeinschutz](../gegenstaende/eisenbeinschutz.md): 7 × Eisenbarren
+- ![](../bilder/gegenstaende/eisenstiefel.png) [Eisenstiefel](../gegenstaende/eisenstiefel.md): 4 × Eisenbarren
 
 ## Verwendet für
 

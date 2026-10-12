@@ -24,11 +24,11 @@ In jedem Hybridauto-Akku stecken Kilogramm davon.
 
 Aus Lanthan gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/lanthanspitzhacke.png) Lanthanspitzhacke: 3 × Lanthan + 2 × Bretter
-- ![](../bilder/ausruestung/lanthanaxt.png) Lanthanaxt: 3 × Lanthan + 2 × Bretter
-- ![](../bilder/ausruestung/lanthanschwert.png) Lanthanschwert: 2 × Lanthan + 1 × Bretter
-- ![](../bilder/ausruestung/lanthanhelm.png) Lanthanhelm: 5 × Lanthan
-- ![](../bilder/ausruestung/lanthanharnisch.png) Lanthanharnisch: 8 × Lanthan
-- ![](../bilder/ausruestung/lanthanbeinschutz.png) Lanthanbeinschutz: 7 × Lanthan
-- ![](../bilder/ausruestung/lanthanstiefel.png) Lanthanstiefel: 4 × Lanthan
+- ![](../bilder/ausruestung/lanthanspitzhacke.png) [Lanthanspitzhacke](../elemente/lanthan.md): 3 × Lanthan + 2 × Bretter
+- ![](../bilder/ausruestung/lanthanaxt.png) [Lanthanaxt](../elemente/lanthan.md): 3 × Lanthan + 2 × Bretter
+- ![](../bilder/ausruestung/lanthanschwert.png) [Lanthanschwert](../elemente/lanthan.md): 2 × Lanthan + 1 × Bretter
+- ![](../bilder/gegenstaende/lanthanhelm.png) [Lanthanhelm](../gegenstaende/lanthanhelm.md): 5 × Lanthan
+- ![](../bilder/gegenstaende/lanthanharnisch.png) [Lanthanharnisch](../gegenstaende/lanthanharnisch.md): 8 × Lanthan
+- ![](../bilder/gegenstaende/lanthanbeinschutz.png) [Lanthanbeinschutz](../gegenstaende/lanthanbeinschutz.md): 7 × Lanthan
+- ![](../bilder/gegenstaende/lanthanstiefel.png) [Lanthanstiefel](../gegenstaende/lanthanstiefel.md): 4 × Lanthan
 

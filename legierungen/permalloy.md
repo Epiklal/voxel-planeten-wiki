@@ -19,11 +19,11 @@ Lässt sich so leicht magnetisieren, dass es Magnetfelder abschirmt – um früh
 
 Aus Permalloy gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/permalloyspitzhacke.png) Permalloyspitzhacke: 3 × Permalloy + 2 × Bretter
-- ![](../bilder/ausruestung/permalloyaxt.png) Permalloyaxt: 3 × Permalloy + 2 × Bretter
-- ![](../bilder/ausruestung/permalloyschwert.png) Permalloyschwert: 2 × Permalloy + 1 × Bretter
-- ![](../bilder/ausruestung/permalloyhelm.png) Permalloyhelm: 5 × Permalloy
-- ![](../bilder/ausruestung/permalloyharnisch.png) Permalloyharnisch: 8 × Permalloy
-- ![](../bilder/ausruestung/permalloybeinschutz.png) Permalloybeinschutz: 7 × Permalloy
-- ![](../bilder/ausruestung/permalloystiefel.png) Permalloystiefel: 4 × Permalloy
+- ![](../bilder/ausruestung/permalloyspitzhacke.png) [Permalloyspitzhacke](../legierungen/permalloy.md): 3 × Permalloy + 2 × Bretter
+- ![](../bilder/ausruestung/permalloyaxt.png) [Permalloyaxt](../legierungen/permalloy.md): 3 × Permalloy + 2 × Bretter
+- ![](../bilder/ausruestung/permalloyschwert.png) [Permalloyschwert](../legierungen/permalloy.md): 2 × Permalloy + 1 × Bretter
+- ![](../bilder/gegenstaende/permalloyhelm.png) [Permalloyhelm](../gegenstaende/permalloyhelm.md): 5 × Permalloy
+- ![](../bilder/gegenstaende/permalloyharnisch.png) [Permalloyharnisch](../gegenstaende/permalloyharnisch.md): 8 × Permalloy
+- ![](../bilder/gegenstaende/permalloybeinschutz.png) [Permalloybeinschutz](../gegenstaende/permalloybeinschutz.md): 7 × Permalloy
+- ![](../bilder/gegenstaende/permalloystiefel.png) [Permalloystiefel](../gegenstaende/permalloystiefel.md): 4 × Permalloy
 

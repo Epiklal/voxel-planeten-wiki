@@ -29,13 +29,13 @@ So weich, dass man es mit dem Messer schneidet – und in Wasser explodiert es. 
 
 Aus Natrium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/natriumspitzhacke.png) Natriumspitzhacke: 3 × Natrium + 2 × Bretter
-- ![](../bilder/ausruestung/natriumaxt.png) Natriumaxt: 3 × Natrium + 2 × Bretter
-- ![](../bilder/ausruestung/natriumschwert.png) Natriumschwert: 2 × Natrium + 1 × Bretter
-- ![](../bilder/ausruestung/natriumhelm.png) Natriumhelm: 5 × Natrium
-- ![](../bilder/ausruestung/natriumharnisch.png) Natriumharnisch: 8 × Natrium
-- ![](../bilder/ausruestung/natriumbeinschutz.png) Natriumbeinschutz: 7 × Natrium
-- ![](../bilder/ausruestung/natriumstiefel.png) Natriumstiefel: 4 × Natrium
+- ![](../bilder/ausruestung/natriumspitzhacke.png) [Natriumspitzhacke](../elemente/natrium.md): 3 × Natrium + 2 × Bretter
+- ![](../bilder/ausruestung/natriumaxt.png) [Natriumaxt](../elemente/natrium.md): 3 × Natrium + 2 × Bretter
+- ![](../bilder/ausruestung/natriumschwert.png) [Natriumschwert](../elemente/natrium.md): 2 × Natrium + 1 × Bretter
+- ![](../bilder/gegenstaende/natriumhelm.png) [Natriumhelm](../gegenstaende/natriumhelm.md): 5 × Natrium
+- ![](../bilder/gegenstaende/natriumharnisch.png) [Natriumharnisch](../gegenstaende/natriumharnisch.md): 8 × Natrium
+- ![](../bilder/gegenstaende/natriumbeinschutz.png) [Natriumbeinschutz](../gegenstaende/natriumbeinschutz.md): 7 × Natrium
+- ![](../bilder/gegenstaende/natriumstiefel.png) [Natriumstiefel](../gegenstaende/natriumstiefel.md): 4 × Natrium
 
 ## Verwendet für
 

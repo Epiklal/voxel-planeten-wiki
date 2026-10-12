@@ -4,12 +4,19 @@
 
 Mit einem Kern aus allen acht Planeten – die beste Rüstung, die das Sonnensystem hergibt.
 
+Rüstung für **Kopf**. Anlegen im Inventar auf dem passenden Rüstungsplatz oder mit Shift-Klick.
+
+Die Schutzwerte gelten nur mit geladenem Energiespeicher; leer bleibt das Gewicht. Aufladen und Aufrüstungen stehen in der [Rüstungsanleitung](../anleitungen/ruestung.md).
+
+Weitere Teile und ganze Rüstungen: [Alle Rüstungen](../ruestungen.md). Regeln für Schaden, Strom und Strahlung: [Rüstungsanleitung](../anleitungen/ruestung.md).
+
 | Eigenschaft | Wert |
 |---|---|
 | Rüstung + | 4 · 2,7 kg |
 | Strahlenschutz | 14 % · isoliert bis 500 kV |
 |  | Gibt Luft wie ein Raumanzug |
 |  | Braucht Strom – leer schützt sie nicht |
+| Energiespeicher | 10 kWh |
 
 ## Herstellen
 
@@ -18,4 +25,3 @@ Mit einem Kern aus allen acht Planeten – die beste Rüstung, die das Sonnensys
 ## Verwendet für
 
 [Solar-Quantenhelm](../gegenstaende/solar_quantenhelm.md)
-

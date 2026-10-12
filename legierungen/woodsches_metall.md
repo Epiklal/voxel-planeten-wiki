@@ -19,11 +19,11 @@ Schmilzt bei 70 °C – in heißem Wasser! Damit lösen Sprinkleranlagen aus.
 
 Aus Woodsches Metall gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/woodsches_metallspitzhacke.png) Woodsches Metallspitzhacke: 3 × Woodsches Metall + 2 × Bretter
-- ![](../bilder/ausruestung/woodsches_metallaxt.png) Woodsches Metallaxt: 3 × Woodsches Metall + 2 × Bretter
-- ![](../bilder/ausruestung/woodsches_metallschwert.png) Woodsches Metallschwert: 2 × Woodsches Metall + 1 × Bretter
-- ![](../bilder/ausruestung/woodsches_metallhelm.png) Woodsches Metallhelm: 5 × Woodsches Metall
-- ![](../bilder/ausruestung/woodsches_metallharnisch.png) Woodsches Metallharnisch: 8 × Woodsches Metall
-- ![](../bilder/ausruestung/woodsches_metallbeinschutz.png) Woodsches Metallbeinschutz: 7 × Woodsches Metall
-- ![](../bilder/ausruestung/woodsches_metallstiefel.png) Woodsches Metallstiefel: 4 × Woodsches Metall
+- ![](../bilder/ausruestung/woodsches_metallspitzhacke.png) [Woodsches Metallspitzhacke](../legierungen/woodsches_metall.md): 3 × Woodsches Metall + 2 × Bretter
+- ![](../bilder/ausruestung/woodsches_metallaxt.png) [Woodsches Metallaxt](../legierungen/woodsches_metall.md): 3 × Woodsches Metall + 2 × Bretter
+- ![](../bilder/ausruestung/woodsches_metallschwert.png) [Woodsches Metallschwert](../legierungen/woodsches_metall.md): 2 × Woodsches Metall + 1 × Bretter
+- ![](../bilder/gegenstaende/woodsches_metallhelm.png) [Woodsches Metallhelm](../gegenstaende/woodsches_metallhelm.md): 5 × Woodsches Metall
+- ![](../bilder/gegenstaende/woodsches_metallharnisch.png) [Woodsches Metallharnisch](../gegenstaende/woodsches_metallharnisch.md): 8 × Woodsches Metall
+- ![](../bilder/gegenstaende/woodsches_metallbeinschutz.png) [Woodsches Metallbeinschutz](../gegenstaende/woodsches_metallbeinschutz.md): 7 × Woodsches Metall
+- ![](../bilder/gegenstaende/woodsches_metallstiefel.png) [Woodsches Metallstiefel](../gegenstaende/woodsches_metallstiefel.md): 4 × Woodsches Metall
 

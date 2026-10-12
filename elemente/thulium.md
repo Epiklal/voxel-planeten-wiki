@@ -24,11 +24,11 @@ Die seltenste der stabilen Seltenen Erden.
 
 Aus Thulium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/thuliumspitzhacke.png) Thuliumspitzhacke: 3 × Thulium + 2 × Bretter
-- ![](../bilder/ausruestung/thuliumaxt.png) Thuliumaxt: 3 × Thulium + 2 × Bretter
-- ![](../bilder/ausruestung/thuliumschwert.png) Thuliumschwert: 2 × Thulium + 1 × Bretter
-- ![](../bilder/ausruestung/thuliumhelm.png) Thuliumhelm: 5 × Thulium
-- ![](../bilder/ausruestung/thuliumharnisch.png) Thuliumharnisch: 8 × Thulium
-- ![](../bilder/ausruestung/thuliumbeinschutz.png) Thuliumbeinschutz: 7 × Thulium
-- ![](../bilder/ausruestung/thuliumstiefel.png) Thuliumstiefel: 4 × Thulium
+- ![](../bilder/ausruestung/thuliumspitzhacke.png) [Thuliumspitzhacke](../elemente/thulium.md): 3 × Thulium + 2 × Bretter
+- ![](../bilder/ausruestung/thuliumaxt.png) [Thuliumaxt](../elemente/thulium.md): 3 × Thulium + 2 × Bretter
+- ![](../bilder/ausruestung/thuliumschwert.png) [Thuliumschwert](../elemente/thulium.md): 2 × Thulium + 1 × Bretter
+- ![](../bilder/gegenstaende/thuliumhelm.png) [Thuliumhelm](../gegenstaende/thuliumhelm.md): 5 × Thulium
+- ![](../bilder/gegenstaende/thuliumharnisch.png) [Thuliumharnisch](../gegenstaende/thuliumharnisch.md): 8 × Thulium
+- ![](../bilder/gegenstaende/thuliumbeinschutz.png) [Thuliumbeinschutz](../gegenstaende/thuliumbeinschutz.md): 7 × Thulium
+- ![](../bilder/gegenstaende/thuliumstiefel.png) [Thuliumstiefel](../gegenstaende/thuliumstiefel.md): 4 × Thulium
 

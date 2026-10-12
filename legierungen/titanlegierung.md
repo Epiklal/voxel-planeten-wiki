@@ -19,11 +19,11 @@ Ti-6Al-4V ist die Hälfte allen Titans der Welt: Flugzeugturbinen, Knochenschrau
 
 Aus Titanlegierung gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/titanlegierungspitzhacke.png) Titanlegierungspitzhacke: 3 × Titanlegierung + 2 × Bretter
-- ![](../bilder/ausruestung/titanlegierungaxt.png) Titanlegierungaxt: 3 × Titanlegierung + 2 × Bretter
-- ![](../bilder/ausruestung/titanlegierungschwert.png) Titanlegierungschwert: 2 × Titanlegierung + 1 × Bretter
-- ![](../bilder/ausruestung/titanlegierunghelm.png) Titanlegierunghelm: 5 × Titanlegierung
-- ![](../bilder/ausruestung/titanlegierungharnisch.png) Titanlegierungharnisch: 8 × Titanlegierung
-- ![](../bilder/ausruestung/titanlegierungbeinschutz.png) Titanlegierungbeinschutz: 7 × Titanlegierung
-- ![](../bilder/ausruestung/titanlegierungstiefel.png) Titanlegierungstiefel: 4 × Titanlegierung
+- ![](../bilder/ausruestung/titanlegierungspitzhacke.png) [Titanlegierungspitzhacke](../legierungen/titanlegierung.md): 3 × Titanlegierung + 2 × Bretter
+- ![](../bilder/ausruestung/titanlegierungaxt.png) [Titanlegierungaxt](../legierungen/titanlegierung.md): 3 × Titanlegierung + 2 × Bretter
+- ![](../bilder/ausruestung/titanlegierungschwert.png) [Titanlegierungschwert](../legierungen/titanlegierung.md): 2 × Titanlegierung + 1 × Bretter
+- ![](../bilder/gegenstaende/titanlegierunghelm.png) [Titanlegierunghelm](../gegenstaende/titanlegierunghelm.md): 5 × Titanlegierung
+- ![](../bilder/gegenstaende/titanlegierungharnisch.png) [Titanlegierungharnisch](../gegenstaende/titanlegierungharnisch.md): 8 × Titanlegierung
+- ![](../bilder/gegenstaende/titanlegierungbeinschutz.png) [Titanlegierungbeinschutz](../gegenstaende/titanlegierungbeinschutz.md): 7 × Titanlegierung
+- ![](../bilder/gegenstaende/titanlegierungstiefel.png) [Titanlegierungstiefel](../gegenstaende/titanlegierungstiefel.md): 4 × Titanlegierung
 

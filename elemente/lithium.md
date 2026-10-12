@@ -29,13 +29,13 @@ Das leichteste Metall – es schwimmt auf Wasser (und reagiert dabei). Steckt in
 
 Aus Lithium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/lithiumspitzhacke.png) Lithiumspitzhacke: 3 × Lithium + 2 × Bretter
-- ![](../bilder/ausruestung/lithiumaxt.png) Lithiumaxt: 3 × Lithium + 2 × Bretter
-- ![](../bilder/ausruestung/lithiumschwert.png) Lithiumschwert: 2 × Lithium + 1 × Bretter
-- ![](../bilder/ausruestung/lithiumhelm.png) Lithiumhelm: 5 × Lithium
-- ![](../bilder/ausruestung/lithiumharnisch.png) Lithiumharnisch: 8 × Lithium
-- ![](../bilder/ausruestung/lithiumbeinschutz.png) Lithiumbeinschutz: 7 × Lithium
-- ![](../bilder/ausruestung/lithiumstiefel.png) Lithiumstiefel: 4 × Lithium
+- ![](../bilder/ausruestung/lithiumspitzhacke.png) [Lithiumspitzhacke](../elemente/lithium.md): 3 × Lithium + 2 × Bretter
+- ![](../bilder/ausruestung/lithiumaxt.png) [Lithiumaxt](../elemente/lithium.md): 3 × Lithium + 2 × Bretter
+- ![](../bilder/ausruestung/lithiumschwert.png) [Lithiumschwert](../elemente/lithium.md): 2 × Lithium + 1 × Bretter
+- ![](../bilder/gegenstaende/lithiumhelm.png) [Lithiumhelm](../gegenstaende/lithiumhelm.md): 5 × Lithium
+- ![](../bilder/gegenstaende/lithiumharnisch.png) [Lithiumharnisch](../gegenstaende/lithiumharnisch.md): 8 × Lithium
+- ![](../bilder/gegenstaende/lithiumbeinschutz.png) [Lithiumbeinschutz](../gegenstaende/lithiumbeinschutz.md): 7 × Lithium
+- ![](../bilder/gegenstaende/lithiumstiefel.png) [Lithiumstiefel](../gegenstaende/lithiumstiefel.md): 4 × Lithium
 
 ## Verwendet für
 

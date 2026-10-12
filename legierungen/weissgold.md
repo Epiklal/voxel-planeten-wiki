@@ -19,11 +19,11 @@ Gold ist eigentlich immer gelb – Weißgold bekommt seine Farbe durch Palladium
 
 Aus Weißgold gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/weissgoldspitzhacke.png) Weißgoldspitzhacke: 3 × Weißgold + 2 × Bretter
-- ![](../bilder/ausruestung/weissgoldaxt.png) Weißgoldaxt: 3 × Weißgold + 2 × Bretter
-- ![](../bilder/ausruestung/weissgoldschwert.png) Weißgoldschwert: 2 × Weißgold + 1 × Bretter
-- ![](../bilder/ausruestung/weissgoldhelm.png) Weißgoldhelm: 5 × Weißgold
-- ![](../bilder/ausruestung/weissgoldharnisch.png) Weißgoldharnisch: 8 × Weißgold
-- ![](../bilder/ausruestung/weissgoldbeinschutz.png) Weißgoldbeinschutz: 7 × Weißgold
-- ![](../bilder/ausruestung/weissgoldstiefel.png) Weißgoldstiefel: 4 × Weißgold
+- ![](../bilder/ausruestung/weissgoldspitzhacke.png) [Weißgoldspitzhacke](../legierungen/weissgold.md): 3 × Weißgold + 2 × Bretter
+- ![](../bilder/ausruestung/weissgoldaxt.png) [Weißgoldaxt](../legierungen/weissgold.md): 3 × Weißgold + 2 × Bretter
+- ![](../bilder/ausruestung/weissgoldschwert.png) [Weißgoldschwert](../legierungen/weissgold.md): 2 × Weißgold + 1 × Bretter
+- ![](../bilder/gegenstaende/weissgoldhelm.png) [Weißgoldhelm](../gegenstaende/weissgoldhelm.md): 5 × Weißgold
+- ![](../bilder/gegenstaende/weissgoldharnisch.png) [Weißgoldharnisch](../gegenstaende/weissgoldharnisch.md): 8 × Weißgold
+- ![](../bilder/gegenstaende/weissgoldbeinschutz.png) [Weißgoldbeinschutz](../gegenstaende/weissgoldbeinschutz.md): 7 × Weißgold
+- ![](../bilder/gegenstaende/weissgoldstiefel.png) [Weißgoldstiefel](../gegenstaende/weissgoldstiefel.md): 4 × Weißgold
 

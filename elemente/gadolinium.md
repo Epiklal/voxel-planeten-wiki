@@ -24,11 +24,11 @@ Wird nur unter 20 °C magnetisch: An kühlen Tagen klebt es am Magneten, an warm
 
 Aus Gadolinium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/gadoliniumspitzhacke.png) Gadoliniumspitzhacke: 3 × Gadolinium + 2 × Bretter
-- ![](../bilder/ausruestung/gadoliniumaxt.png) Gadoliniumaxt: 3 × Gadolinium + 2 × Bretter
-- ![](../bilder/ausruestung/gadoliniumschwert.png) Gadoliniumschwert: 2 × Gadolinium + 1 × Bretter
-- ![](../bilder/ausruestung/gadoliniumhelm.png) Gadoliniumhelm: 5 × Gadolinium
-- ![](../bilder/ausruestung/gadoliniumharnisch.png) Gadoliniumharnisch: 8 × Gadolinium
-- ![](../bilder/ausruestung/gadoliniumbeinschutz.png) Gadoliniumbeinschutz: 7 × Gadolinium
-- ![](../bilder/ausruestung/gadoliniumstiefel.png) Gadoliniumstiefel: 4 × Gadolinium
+- ![](../bilder/ausruestung/gadoliniumspitzhacke.png) [Gadoliniumspitzhacke](../elemente/gadolinium.md): 3 × Gadolinium + 2 × Bretter
+- ![](../bilder/ausruestung/gadoliniumaxt.png) [Gadoliniumaxt](../elemente/gadolinium.md): 3 × Gadolinium + 2 × Bretter
+- ![](../bilder/ausruestung/gadoliniumschwert.png) [Gadoliniumschwert](../elemente/gadolinium.md): 2 × Gadolinium + 1 × Bretter
+- ![](../bilder/gegenstaende/gadoliniumhelm.png) [Gadoliniumhelm](../gegenstaende/gadoliniumhelm.md): 5 × Gadolinium
+- ![](../bilder/gegenstaende/gadoliniumharnisch.png) [Gadoliniumharnisch](../gegenstaende/gadoliniumharnisch.md): 8 × Gadolinium
+- ![](../bilder/gegenstaende/gadoliniumbeinschutz.png) [Gadoliniumbeinschutz](../gegenstaende/gadoliniumbeinschutz.md): 7 × Gadolinium
+- ![](../bilder/gegenstaende/gadoliniumstiefel.png) [Gadoliniumstiefel](../gegenstaende/gadoliniumstiefel.md): 4 × Gadolinium
 

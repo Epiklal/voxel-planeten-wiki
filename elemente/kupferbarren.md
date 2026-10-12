@@ -26,13 +26,13 @@ Leitet Strom fast so gut wie Silber. Die Freiheitsstatue ist aus Kupfer – grü
 
 Aus Kupferbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/kupferspitzhacke.png) Kupferspitzhacke: 3 × Kupferbarren + 2 × Bretter
-- ![](../bilder/ausruestung/kupferaxt.png) Kupferaxt: 3 × Kupferbarren + 2 × Bretter
-- ![](../bilder/ausruestung/kupferschwert.png) Kupferschwert: 2 × Kupferbarren + 1 × Bretter
-- ![](../bilder/ausruestung/kupferhelm.png) Kupferhelm: 5 × Kupferbarren
-- ![](../bilder/ausruestung/kupferharnisch.png) Kupferharnisch: 8 × Kupferbarren
-- ![](../bilder/ausruestung/kupferbeinschutz.png) Kupferbeinschutz: 7 × Kupferbarren
-- ![](../bilder/ausruestung/kupferstiefel.png) Kupferstiefel: 4 × Kupferbarren
+- ![](../bilder/ausruestung/kupferspitzhacke.png) [Kupferspitzhacke](../elemente/kupferbarren.md): 3 × Kupferbarren + 2 × Bretter
+- ![](../bilder/ausruestung/kupferaxt.png) [Kupferaxt](../elemente/kupferbarren.md): 3 × Kupferbarren + 2 × Bretter
+- ![](../bilder/ausruestung/kupferschwert.png) [Kupferschwert](../elemente/kupferbarren.md): 2 × Kupferbarren + 1 × Bretter
+- ![](../bilder/gegenstaende/kupferhelm.png) [Kupferhelm](../gegenstaende/kupferhelm.md): 5 × Kupferbarren
+- ![](../bilder/gegenstaende/kupferharnisch.png) [Kupferharnisch](../gegenstaende/kupferharnisch.md): 8 × Kupferbarren
+- ![](../bilder/gegenstaende/kupferbeinschutz.png) [Kupferbeinschutz](../gegenstaende/kupferbeinschutz.md): 7 × Kupferbarren
+- ![](../bilder/gegenstaende/kupferstiefel.png) [Kupferstiefel](../gegenstaende/kupferstiefel.md): 4 × Kupferbarren
 
 ## Verwendet für
 

@@ -17,15 +17,15 @@ Als Moissanit zuerst in einem Meteoritenkrater entdeckt. Härter als jedes Metal
 
 Aus Siliziumcarbid gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
-- ![](../bilder/ausruestung/siliziumcarbidspitzhacke.png) Siliziumcarbidspitzhacke: 3 × Siliziumcarbid + 2 × Bretter
-- ![](../bilder/ausruestung/siliziumcarbidaxt.png) Siliziumcarbidaxt: 3 × Siliziumcarbid + 2 × Bretter
-- ![](../bilder/ausruestung/siliziumcarbidschwert.png) Siliziumcarbidschwert: 2 × Siliziumcarbid + 1 × Bretter
-- ![](../bilder/ausruestung/siliziumcarbidhelm.png) Siliziumcarbidhelm: 5 × Siliziumcarbid
-- ![](../bilder/ausruestung/siliziumcarbidharnisch.png) Siliziumcarbidharnisch: 8 × Siliziumcarbid
-- ![](../bilder/ausruestung/siliziumcarbidbeinschutz.png) Siliziumcarbidbeinschutz: 7 × Siliziumcarbid
-- ![](../bilder/ausruestung/siliziumcarbidstiefel.png) Siliziumcarbidstiefel: 4 × Siliziumcarbid
+- ![](../bilder/ausruestung/siliziumcarbidspitzhacke.png) [Siliziumcarbidspitzhacke](../legierungen/kanthal.md): 3 × Siliziumcarbid + 2 × Bretter
+- ![](../bilder/ausruestung/siliziumcarbidaxt.png) [Siliziumcarbidaxt](../legierungen/kanthal.md): 3 × Siliziumcarbid + 2 × Bretter
+- ![](../bilder/ausruestung/siliziumcarbidschwert.png) [Siliziumcarbidschwert](../legierungen/kanthal.md): 2 × Siliziumcarbid + 1 × Bretter
+- ![](../bilder/gegenstaende/siliziumcarbidhelm.png) [Siliziumcarbidhelm](../gegenstaende/siliziumcarbidhelm.md): 5 × Siliziumcarbid
+- ![](../bilder/gegenstaende/siliziumcarbidharnisch.png) [Siliziumcarbidharnisch](../gegenstaende/siliziumcarbidharnisch.md): 8 × Siliziumcarbid
+- ![](../bilder/gegenstaende/siliziumcarbidbeinschutz.png) [Siliziumcarbidbeinschutz](../gegenstaende/siliziumcarbidbeinschutz.md): 7 × Siliziumcarbid
+- ![](../bilder/gegenstaende/siliziumcarbidstiefel.png) [Siliziumcarbidstiefel](../gegenstaende/siliziumcarbidstiefel.md): 4 × Siliziumcarbid
 
 ## Verwendet für
 
-[Siliziumcarbidspitzhacke](../legierungen/kanthal.md), [Siliziumcarbidaxt](../legierungen/kanthal.md), [Siliziumcarbidschwert](../legierungen/kanthal.md), [Siliziumcarbidhelm](../legierungen/kanthal.md), [Siliziumcarbidharnisch](../legierungen/kanthal.md), [Siliziumcarbidbeinschutz](../legierungen/kanthal.md), [Siliziumcarbidstiefel](../legierungen/kanthal.md)
+[Siliziumcarbidspitzhacke](../legierungen/kanthal.md), [Siliziumcarbidaxt](../legierungen/kanthal.md), [Siliziumcarbidschwert](../legierungen/kanthal.md), [Siliziumcarbidhelm](../gegenstaende/siliziumcarbidhelm.md), [Siliziumcarbidharnisch](../gegenstaende/siliziumcarbidharnisch.md), [Siliziumcarbidbeinschutz](../gegenstaende/siliziumcarbidbeinschutz.md), [Siliziumcarbidstiefel](../gegenstaende/siliziumcarbidstiefel.md)
 

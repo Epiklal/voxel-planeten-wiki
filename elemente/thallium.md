@@ -24,11 +24,11 @@ Geruchlos, geschmacklos – ein berüchtigtes Gift. Färbt Flammen grün.
 
 Aus Thallium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/thalliumspitzhacke.png) Thalliumspitzhacke: 3 × Thallium + 2 × Bretter
-- ![](../bilder/ausruestung/thalliumaxt.png) Thalliumaxt: 3 × Thallium + 2 × Bretter
-- ![](../bilder/ausruestung/thalliumschwert.png) Thalliumschwert: 2 × Thallium + 1 × Bretter
-- ![](../bilder/ausruestung/thalliumhelm.png) Thalliumhelm: 5 × Thallium
-- ![](../bilder/ausruestung/thalliumharnisch.png) Thalliumharnisch: 8 × Thallium
-- ![](../bilder/ausruestung/thalliumbeinschutz.png) Thalliumbeinschutz: 7 × Thallium
-- ![](../bilder/ausruestung/thalliumstiefel.png) Thalliumstiefel: 4 × Thallium
+- ![](../bilder/ausruestung/thalliumspitzhacke.png) [Thalliumspitzhacke](../elemente/thallium.md): 3 × Thallium + 2 × Bretter
+- ![](../bilder/ausruestung/thalliumaxt.png) [Thalliumaxt](../elemente/thallium.md): 3 × Thallium + 2 × Bretter
+- ![](../bilder/ausruestung/thalliumschwert.png) [Thalliumschwert](../elemente/thallium.md): 2 × Thallium + 1 × Bretter
+- ![](../bilder/gegenstaende/thalliumhelm.png) [Thalliumhelm](../gegenstaende/thalliumhelm.md): 5 × Thallium
+- ![](../bilder/gegenstaende/thalliumharnisch.png) [Thalliumharnisch](../gegenstaende/thalliumharnisch.md): 8 × Thallium
+- ![](../bilder/gegenstaende/thalliumbeinschutz.png) [Thalliumbeinschutz](../gegenstaende/thalliumbeinschutz.md): 7 × Thallium
+- ![](../bilder/gegenstaende/thalliumstiefel.png) [Thalliumstiefel](../gegenstaende/thalliumstiefel.md): 4 × Thallium
 

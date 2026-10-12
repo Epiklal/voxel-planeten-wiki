@@ -24,11 +24,11 @@ Ohne Mangan wäre Stahl spröde. Auf dem Meeresboden liegen Milliarden Tonnen Ma
 
 Aus Mangan gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/manganspitzhacke.png) Manganspitzhacke: 3 × Mangan + 2 × Bretter
-- ![](../bilder/ausruestung/manganaxt.png) Manganaxt: 3 × Mangan + 2 × Bretter
-- ![](../bilder/ausruestung/manganschwert.png) Manganschwert: 2 × Mangan + 1 × Bretter
-- ![](../bilder/ausruestung/manganhelm.png) Manganhelm: 5 × Mangan
-- ![](../bilder/ausruestung/manganharnisch.png) Manganharnisch: 8 × Mangan
-- ![](../bilder/ausruestung/manganbeinschutz.png) Manganbeinschutz: 7 × Mangan
-- ![](../bilder/ausruestung/manganstiefel.png) Manganstiefel: 4 × Mangan
+- ![](../bilder/ausruestung/manganspitzhacke.png) [Manganspitzhacke](../elemente/mangan.md): 3 × Mangan + 2 × Bretter
+- ![](../bilder/ausruestung/manganaxt.png) [Manganaxt](../elemente/mangan.md): 3 × Mangan + 2 × Bretter
+- ![](../bilder/ausruestung/manganschwert.png) [Manganschwert](../elemente/mangan.md): 2 × Mangan + 1 × Bretter
+- ![](../bilder/gegenstaende/manganhelm.png) [Manganhelm](../gegenstaende/manganhelm.md): 5 × Mangan
+- ![](../bilder/gegenstaende/manganharnisch.png) [Manganharnisch](../gegenstaende/manganharnisch.md): 8 × Mangan
+- ![](../bilder/gegenstaende/manganbeinschutz.png) [Manganbeinschutz](../gegenstaende/manganbeinschutz.md): 7 × Mangan
+- ![](../bilder/gegenstaende/manganstiefel.png) [Manganstiefel](../gegenstaende/manganstiefel.md): 4 × Mangan
 

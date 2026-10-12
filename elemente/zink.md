@@ -24,13 +24,13 @@ Rostet lieber selbst, als das Eisen darunter rosten zu lassen – deshalb verzin
 
 Aus Zink gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/zinkspitzhacke.png) Zinkspitzhacke: 3 × Zink + 2 × Bretter
-- ![](../bilder/ausruestung/zinkaxt.png) Zinkaxt: 3 × Zink + 2 × Bretter
-- ![](../bilder/ausruestung/zinkschwert.png) Zinkschwert: 2 × Zink + 1 × Bretter
-- ![](../bilder/ausruestung/zinkhelm.png) Zinkhelm: 5 × Zink
-- ![](../bilder/ausruestung/zinkharnisch.png) Zinkharnisch: 8 × Zink
-- ![](../bilder/ausruestung/zinkbeinschutz.png) Zinkbeinschutz: 7 × Zink
-- ![](../bilder/ausruestung/zinkstiefel.png) Zinkstiefel: 4 × Zink
+- ![](../bilder/ausruestung/zinkspitzhacke.png) [Zinkspitzhacke](../elemente/zink.md): 3 × Zink + 2 × Bretter
+- ![](../bilder/ausruestung/zinkaxt.png) [Zinkaxt](../elemente/zink.md): 3 × Zink + 2 × Bretter
+- ![](../bilder/ausruestung/zinkschwert.png) [Zinkschwert](../elemente/zink.md): 2 × Zink + 1 × Bretter
+- ![](../bilder/gegenstaende/zinkhelm.png) [Zinkhelm](../gegenstaende/zinkhelm.md): 5 × Zink
+- ![](../bilder/gegenstaende/zinkharnisch.png) [Zinkharnisch](../gegenstaende/zinkharnisch.md): 8 × Zink
+- ![](../bilder/gegenstaende/zinkbeinschutz.png) [Zinkbeinschutz](../gegenstaende/zinkbeinschutz.md): 7 × Zink
+- ![](../bilder/gegenstaende/zinkstiefel.png) [Zinkstiefel](../gegenstaende/zinkstiefel.md): 4 × Zink
 
 ## Verwendet für
 

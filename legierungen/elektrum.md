@@ -19,11 +19,11 @@ Die ersten Münzen der Welt (Lydien, vor 2600 Jahren) waren aus Elektrum – es 
 
 Aus Elektrum gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/elektrumspitzhacke.png) Elektrumspitzhacke: 3 × Elektrum + 2 × Bretter
-- ![](../bilder/ausruestung/elektrumaxt.png) Elektrumaxt: 3 × Elektrum + 2 × Bretter
-- ![](../bilder/ausruestung/elektrumschwert.png) Elektrumschwert: 2 × Elektrum + 1 × Bretter
-- ![](../bilder/ausruestung/elektrumhelm.png) Elektrumhelm: 5 × Elektrum
-- ![](../bilder/ausruestung/elektrumharnisch.png) Elektrumharnisch: 8 × Elektrum
-- ![](../bilder/ausruestung/elektrumbeinschutz.png) Elektrumbeinschutz: 7 × Elektrum
-- ![](../bilder/ausruestung/elektrumstiefel.png) Elektrumstiefel: 4 × Elektrum
+- ![](../bilder/ausruestung/elektrumspitzhacke.png) [Elektrumspitzhacke](../legierungen/elektrum.md): 3 × Elektrum + 2 × Bretter
+- ![](../bilder/ausruestung/elektrumaxt.png) [Elektrumaxt](../legierungen/elektrum.md): 3 × Elektrum + 2 × Bretter
+- ![](../bilder/ausruestung/elektrumschwert.png) [Elektrumschwert](../legierungen/elektrum.md): 2 × Elektrum + 1 × Bretter
+- ![](../bilder/gegenstaende/elektrumhelm.png) [Elektrumhelm](../gegenstaende/elektrumhelm.md): 5 × Elektrum
+- ![](../bilder/gegenstaende/elektrumharnisch.png) [Elektrumharnisch](../gegenstaende/elektrumharnisch.md): 8 × Elektrum
+- ![](../bilder/gegenstaende/elektrumbeinschutz.png) [Elektrumbeinschutz](../gegenstaende/elektrumbeinschutz.md): 7 × Elektrum
+- ![](../bilder/gegenstaende/elektrumstiefel.png) [Elektrumstiefel](../gegenstaende/elektrumstiefel.md): 4 × Elektrum
 

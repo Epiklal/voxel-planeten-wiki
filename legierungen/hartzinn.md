@@ -19,11 +19,11 @@ Zinnfiguren und Zinnkrüge – Antimon macht das weiche Zinn hart.
 
 Aus Hartzinn gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/hartzinnspitzhacke.png) Hartzinnspitzhacke: 3 × Hartzinn + 2 × Bretter
-- ![](../bilder/ausruestung/hartzinnaxt.png) Hartzinnaxt: 3 × Hartzinn + 2 × Bretter
-- ![](../bilder/ausruestung/hartzinnschwert.png) Hartzinnschwert: 2 × Hartzinn + 1 × Bretter
-- ![](../bilder/ausruestung/hartzinnhelm.png) Hartzinnhelm: 5 × Hartzinn
-- ![](../bilder/ausruestung/hartzinnharnisch.png) Hartzinnharnisch: 8 × Hartzinn
-- ![](../bilder/ausruestung/hartzinnbeinschutz.png) Hartzinnbeinschutz: 7 × Hartzinn
-- ![](../bilder/ausruestung/hartzinnstiefel.png) Hartzinnstiefel: 4 × Hartzinn
+- ![](../bilder/ausruestung/hartzinnspitzhacke.png) [Hartzinnspitzhacke](../legierungen/hartzinn.md): 3 × Hartzinn + 2 × Bretter
+- ![](../bilder/ausruestung/hartzinnaxt.png) [Hartzinnaxt](../legierungen/hartzinn.md): 3 × Hartzinn + 2 × Bretter
+- ![](../bilder/ausruestung/hartzinnschwert.png) [Hartzinnschwert](../legierungen/hartzinn.md): 2 × Hartzinn + 1 × Bretter
+- ![](../bilder/gegenstaende/hartzinnhelm.png) [Hartzinnhelm](../gegenstaende/hartzinnhelm.md): 5 × Hartzinn
+- ![](../bilder/gegenstaende/hartzinnharnisch.png) [Hartzinnharnisch](../gegenstaende/hartzinnharnisch.md): 8 × Hartzinn
+- ![](../bilder/gegenstaende/hartzinnbeinschutz.png) [Hartzinnbeinschutz](../gegenstaende/hartzinnbeinschutz.md): 7 × Hartzinn
+- ![](../bilder/gegenstaende/hartzinnstiefel.png) [Hartzinnstiefel](../gegenstaende/hartzinnstiefel.md): 4 × Hartzinn
 

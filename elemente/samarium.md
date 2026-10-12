@@ -24,11 +24,11 @@ Samarium-Cobalt-Magnete halten auch bei 300 °C.
 
 Aus Samarium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/samariumspitzhacke.png) Samariumspitzhacke: 3 × Samarium + 2 × Bretter
-- ![](../bilder/ausruestung/samariumaxt.png) Samariumaxt: 3 × Samarium + 2 × Bretter
-- ![](../bilder/ausruestung/samariumschwert.png) Samariumschwert: 2 × Samarium + 1 × Bretter
-- ![](../bilder/ausruestung/samariumhelm.png) Samariumhelm: 5 × Samarium
-- ![](../bilder/ausruestung/samariumharnisch.png) Samariumharnisch: 8 × Samarium
-- ![](../bilder/ausruestung/samariumbeinschutz.png) Samariumbeinschutz: 7 × Samarium
-- ![](../bilder/ausruestung/samariumstiefel.png) Samariumstiefel: 4 × Samarium
+- ![](../bilder/ausruestung/samariumspitzhacke.png) [Samariumspitzhacke](../elemente/samarium.md): 3 × Samarium + 2 × Bretter
+- ![](../bilder/ausruestung/samariumaxt.png) [Samariumaxt](../elemente/samarium.md): 3 × Samarium + 2 × Bretter
+- ![](../bilder/ausruestung/samariumschwert.png) [Samariumschwert](../elemente/samarium.md): 2 × Samarium + 1 × Bretter
+- ![](../bilder/gegenstaende/samariumhelm.png) [Samariumhelm](../gegenstaende/samariumhelm.md): 5 × Samarium
+- ![](../bilder/gegenstaende/samariumharnisch.png) [Samariumharnisch](../gegenstaende/samariumharnisch.md): 8 × Samarium
+- ![](../bilder/gegenstaende/samariumbeinschutz.png) [Samariumbeinschutz](../gegenstaende/samariumbeinschutz.md): 7 × Samarium
+- ![](../bilder/gegenstaende/samariumstiefel.png) [Samariumstiefel](../gegenstaende/samariumstiefel.md): 4 × Samarium
 

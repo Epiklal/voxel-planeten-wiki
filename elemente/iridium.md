@@ -24,13 +24,13 @@ Eine dünne Iridiumschicht im Gestein überall auf der Welt verrät den Asteroid
 
 Aus Iridium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/iridiumspitzhacke.png) Iridiumspitzhacke: 3 × Iridium + 2 × Bretter
-- ![](../bilder/ausruestung/iridiumaxt.png) Iridiumaxt: 3 × Iridium + 2 × Bretter
-- ![](../bilder/ausruestung/iridiumschwert.png) Iridiumschwert: 2 × Iridium + 1 × Bretter
-- ![](../bilder/ausruestung/iridiumhelm.png) Iridiumhelm: 5 × Iridium
-- ![](../bilder/ausruestung/iridiumharnisch.png) Iridiumharnisch: 8 × Iridium
-- ![](../bilder/ausruestung/iridiumbeinschutz.png) Iridiumbeinschutz: 7 × Iridium
-- ![](../bilder/ausruestung/iridiumstiefel.png) Iridiumstiefel: 4 × Iridium
+- ![](../bilder/ausruestung/iridiumspitzhacke.png) [Iridiumspitzhacke](../elemente/iridium.md): 3 × Iridium + 2 × Bretter
+- ![](../bilder/ausruestung/iridiumaxt.png) [Iridiumaxt](../elemente/iridium.md): 3 × Iridium + 2 × Bretter
+- ![](../bilder/ausruestung/iridiumschwert.png) [Iridiumschwert](../elemente/iridium.md): 2 × Iridium + 1 × Bretter
+- ![](../bilder/gegenstaende/iridiumhelm.png) [Iridiumhelm](../gegenstaende/iridiumhelm.md): 5 × Iridium
+- ![](../bilder/gegenstaende/iridiumharnisch.png) [Iridiumharnisch](../gegenstaende/iridiumharnisch.md): 8 × Iridium
+- ![](../bilder/gegenstaende/iridiumbeinschutz.png) [Iridiumbeinschutz](../gegenstaende/iridiumbeinschutz.md): 7 × Iridium
+- ![](../bilder/gegenstaende/iridiumstiefel.png) [Iridiumstiefel](../gegenstaende/iridiumstiefel.md): 4 × Iridium
 
 ## Verwendet für
 

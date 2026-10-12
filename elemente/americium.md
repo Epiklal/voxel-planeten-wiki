@@ -24,13 +24,13 @@ Steckt in fast jedem Rauchmelder – ein winziges Stückchen.
 
 Aus Americium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/americiumspitzhacke.png) Americiumspitzhacke: 3 × Americium + 2 × Bretter
-- ![](../bilder/ausruestung/americiumaxt.png) Americiumaxt: 3 × Americium + 2 × Bretter
-- ![](../bilder/ausruestung/americiumschwert.png) Americiumschwert: 2 × Americium + 1 × Bretter
-- ![](../bilder/ausruestung/americiumhelm.png) Americiumhelm: 5 × Americium
-- ![](../bilder/ausruestung/americiumharnisch.png) Americiumharnisch: 8 × Americium
-- ![](../bilder/ausruestung/americiumbeinschutz.png) Americiumbeinschutz: 7 × Americium
-- ![](../bilder/ausruestung/americiumstiefel.png) Americiumstiefel: 4 × Americium
+- ![](../bilder/ausruestung/americiumspitzhacke.png) [Americiumspitzhacke](../elemente/americium.md): 3 × Americium + 2 × Bretter
+- ![](../bilder/ausruestung/americiumaxt.png) [Americiumaxt](../elemente/americium.md): 3 × Americium + 2 × Bretter
+- ![](../bilder/ausruestung/americiumschwert.png) [Americiumschwert](../elemente/americium.md): 2 × Americium + 1 × Bretter
+- ![](../bilder/gegenstaende/americiumhelm.png) [Americiumhelm](../gegenstaende/americiumhelm.md): 5 × Americium
+- ![](../bilder/gegenstaende/americiumharnisch.png) [Americiumharnisch](../gegenstaende/americiumharnisch.md): 8 × Americium
+- ![](../bilder/gegenstaende/americiumbeinschutz.png) [Americiumbeinschutz](../gegenstaende/americiumbeinschutz.md): 7 × Americium
+- ![](../bilder/gegenstaende/americiumstiefel.png) [Americiumstiefel](../gegenstaende/americiumstiefel.md): 4 × Americium
 
 ## Verwendet für
 

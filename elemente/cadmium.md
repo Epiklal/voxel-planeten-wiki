@@ -24,11 +24,11 @@ Giftig – aber in alten Akkus und leuchtend gelben Malerfarben.
 
 Aus Cadmium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/cadmiumspitzhacke.png) Cadmiumspitzhacke: 3 × Cadmium + 2 × Bretter
-- ![](../bilder/ausruestung/cadmiumaxt.png) Cadmiumaxt: 3 × Cadmium + 2 × Bretter
-- ![](../bilder/ausruestung/cadmiumschwert.png) Cadmiumschwert: 2 × Cadmium + 1 × Bretter
-- ![](../bilder/ausruestung/cadmiumhelm.png) Cadmiumhelm: 5 × Cadmium
-- ![](../bilder/ausruestung/cadmiumharnisch.png) Cadmiumharnisch: 8 × Cadmium
-- ![](../bilder/ausruestung/cadmiumbeinschutz.png) Cadmiumbeinschutz: 7 × Cadmium
-- ![](../bilder/ausruestung/cadmiumstiefel.png) Cadmiumstiefel: 4 × Cadmium
+- ![](../bilder/ausruestung/cadmiumspitzhacke.png) [Cadmiumspitzhacke](../elemente/cadmium.md): 3 × Cadmium + 2 × Bretter
+- ![](../bilder/ausruestung/cadmiumaxt.png) [Cadmiumaxt](../elemente/cadmium.md): 3 × Cadmium + 2 × Bretter
+- ![](../bilder/ausruestung/cadmiumschwert.png) [Cadmiumschwert](../elemente/cadmium.md): 2 × Cadmium + 1 × Bretter
+- ![](../bilder/gegenstaende/cadmiumhelm.png) [Cadmiumhelm](../gegenstaende/cadmiumhelm.md): 5 × Cadmium
+- ![](../bilder/gegenstaende/cadmiumharnisch.png) [Cadmiumharnisch](../gegenstaende/cadmiumharnisch.md): 8 × Cadmium
+- ![](../bilder/gegenstaende/cadmiumbeinschutz.png) [Cadmiumbeinschutz](../gegenstaende/cadmiumbeinschutz.md): 7 × Cadmium
+- ![](../bilder/gegenstaende/cadmiumstiefel.png) [Cadmiumstiefel](../gegenstaende/cadmiumstiefel.md): 4 × Cadmium
 

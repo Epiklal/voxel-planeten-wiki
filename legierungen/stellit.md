@@ -19,11 +19,11 @@ So verschleißfest, dass Sägezähne und Ventile damit beschichtet werden – au
 
 Aus Stellit gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/stellitspitzhacke.png) Stellitspitzhacke: 3 × Stellit + 2 × Bretter
-- ![](../bilder/ausruestung/stellitaxt.png) Stellitaxt: 3 × Stellit + 2 × Bretter
-- ![](../bilder/ausruestung/stellitschwert.png) Stellitschwert: 2 × Stellit + 1 × Bretter
-- ![](../bilder/ausruestung/stellithelm.png) Stellithelm: 5 × Stellit
-- ![](../bilder/ausruestung/stellitharnisch.png) Stellitharnisch: 8 × Stellit
-- ![](../bilder/ausruestung/stellitbeinschutz.png) Stellitbeinschutz: 7 × Stellit
-- ![](../bilder/ausruestung/stellitstiefel.png) Stellitstiefel: 4 × Stellit
+- ![](../bilder/ausruestung/stellitspitzhacke.png) [Stellitspitzhacke](../legierungen/stellit.md): 3 × Stellit + 2 × Bretter
+- ![](../bilder/ausruestung/stellitaxt.png) [Stellitaxt](../legierungen/stellit.md): 3 × Stellit + 2 × Bretter
+- ![](../bilder/ausruestung/stellitschwert.png) [Stellitschwert](../legierungen/stellit.md): 2 × Stellit + 1 × Bretter
+- ![](../bilder/gegenstaende/stellithelm.png) [Stellithelm](../gegenstaende/stellithelm.md): 5 × Stellit
+- ![](../bilder/gegenstaende/stellitharnisch.png) [Stellitharnisch](../gegenstaende/stellitharnisch.md): 8 × Stellit
+- ![](../bilder/gegenstaende/stellitbeinschutz.png) [Stellitbeinschutz](../gegenstaende/stellitbeinschutz.md): 7 × Stellit
+- ![](../bilder/gegenstaende/stellitstiefel.png) [Stellitstiefel](../gegenstaende/stellitstiefel.md): 4 × Stellit
 

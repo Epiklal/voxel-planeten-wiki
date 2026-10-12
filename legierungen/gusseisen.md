@@ -19,11 +19,11 @@ Spröde, aber leicht zu gießen: Pfannen, Kanaldeckel – und die erste eiserne 
 
 Aus Gusseisen gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/gusseisenspitzhacke.png) Gusseisenspitzhacke: 3 × Gusseisen + 2 × Bretter
-- ![](../bilder/ausruestung/gusseisenaxt.png) Gusseisenaxt: 3 × Gusseisen + 2 × Bretter
-- ![](../bilder/ausruestung/gusseisenschwert.png) Gusseisenschwert: 2 × Gusseisen + 1 × Bretter
-- ![](../bilder/ausruestung/gusseisenhelm.png) Gusseisenhelm: 5 × Gusseisen
-- ![](../bilder/ausruestung/gusseisenharnisch.png) Gusseisenharnisch: 8 × Gusseisen
-- ![](../bilder/ausruestung/gusseisenbeinschutz.png) Gusseisenbeinschutz: 7 × Gusseisen
-- ![](../bilder/ausruestung/gusseisenstiefel.png) Gusseisenstiefel: 4 × Gusseisen
+- ![](../bilder/ausruestung/gusseisenspitzhacke.png) [Gusseisenspitzhacke](../legierungen/gusseisen.md): 3 × Gusseisen + 2 × Bretter
+- ![](../bilder/ausruestung/gusseisenaxt.png) [Gusseisenaxt](../legierungen/gusseisen.md): 3 × Gusseisen + 2 × Bretter
+- ![](../bilder/ausruestung/gusseisenschwert.png) [Gusseisenschwert](../legierungen/gusseisen.md): 2 × Gusseisen + 1 × Bretter
+- ![](../bilder/gegenstaende/gusseisenhelm.png) [Gusseisenhelm](../gegenstaende/gusseisenhelm.md): 5 × Gusseisen
+- ![](../bilder/gegenstaende/gusseisenharnisch.png) [Gusseisenharnisch](../gegenstaende/gusseisenharnisch.md): 8 × Gusseisen
+- ![](../bilder/gegenstaende/gusseisenbeinschutz.png) [Gusseisenbeinschutz](../gegenstaende/gusseisenbeinschutz.md): 7 × Gusseisen
+- ![](../bilder/gegenstaende/gusseisenstiefel.png) [Gusseisenstiefel](../gegenstaende/gusseisenstiefel.md): 4 × Gusseisen
 

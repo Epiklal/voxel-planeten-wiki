@@ -24,11 +24,11 @@ Verstärkt Licht in Glasfasern – ohne Erbium kein Internet über die Ozeane.
 
 Aus Erbium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/erbiumspitzhacke.png) Erbiumspitzhacke: 3 × Erbium + 2 × Bretter
-- ![](../bilder/ausruestung/erbiumaxt.png) Erbiumaxt: 3 × Erbium + 2 × Bretter
-- ![](../bilder/ausruestung/erbiumschwert.png) Erbiumschwert: 2 × Erbium + 1 × Bretter
-- ![](../bilder/ausruestung/erbiumhelm.png) Erbiumhelm: 5 × Erbium
-- ![](../bilder/ausruestung/erbiumharnisch.png) Erbiumharnisch: 8 × Erbium
-- ![](../bilder/ausruestung/erbiumbeinschutz.png) Erbiumbeinschutz: 7 × Erbium
-- ![](../bilder/ausruestung/erbiumstiefel.png) Erbiumstiefel: 4 × Erbium
+- ![](../bilder/ausruestung/erbiumspitzhacke.png) [Erbiumspitzhacke](../elemente/erbium.md): 3 × Erbium + 2 × Bretter
+- ![](../bilder/ausruestung/erbiumaxt.png) [Erbiumaxt](../elemente/erbium.md): 3 × Erbium + 2 × Bretter
+- ![](../bilder/ausruestung/erbiumschwert.png) [Erbiumschwert](../elemente/erbium.md): 2 × Erbium + 1 × Bretter
+- ![](../bilder/gegenstaende/erbiumhelm.png) [Erbiumhelm](../gegenstaende/erbiumhelm.md): 5 × Erbium
+- ![](../bilder/gegenstaende/erbiumharnisch.png) [Erbiumharnisch](../gegenstaende/erbiumharnisch.md): 8 × Erbium
+- ![](../bilder/gegenstaende/erbiumbeinschutz.png) [Erbiumbeinschutz](../gegenstaende/erbiumbeinschutz.md): 7 × Erbium
+- ![](../bilder/gegenstaende/erbiumstiefel.png) [Erbiumstiefel](../gegenstaende/erbiumstiefel.md): 4 × Erbium
 

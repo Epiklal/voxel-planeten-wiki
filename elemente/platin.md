@@ -24,13 +24,13 @@ Edel, selten, rostfrei – das Urkilogramm war aus Platin und Iridium.
 
 Aus Platin gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/platinspitzhacke.png) Platinspitzhacke: 3 × Platin + 2 × Bretter
-- ![](../bilder/ausruestung/platinaxt.png) Platinaxt: 3 × Platin + 2 × Bretter
-- ![](../bilder/ausruestung/platinschwert.png) Platinschwert: 2 × Platin + 1 × Bretter
-- ![](../bilder/ausruestung/platinhelm.png) Platinhelm: 5 × Platin
-- ![](../bilder/ausruestung/platinharnisch.png) Platinharnisch: 8 × Platin
-- ![](../bilder/ausruestung/platinbeinschutz.png) Platinbeinschutz: 7 × Platin
-- ![](../bilder/ausruestung/platinstiefel.png) Platinstiefel: 4 × Platin
+- ![](../bilder/ausruestung/platinspitzhacke.png) [Platinspitzhacke](../elemente/platin.md): 3 × Platin + 2 × Bretter
+- ![](../bilder/ausruestung/platinaxt.png) [Platinaxt](../elemente/platin.md): 3 × Platin + 2 × Bretter
+- ![](../bilder/ausruestung/platinschwert.png) [Platinschwert](../elemente/platin.md): 2 × Platin + 1 × Bretter
+- ![](../bilder/gegenstaende/platinhelm.png) [Platinhelm](../gegenstaende/platinhelm.md): 5 × Platin
+- ![](../bilder/gegenstaende/platinharnisch.png) [Platinharnisch](../gegenstaende/platinharnisch.md): 8 × Platin
+- ![](../bilder/gegenstaende/platinbeinschutz.png) [Platinbeinschutz](../gegenstaende/platinbeinschutz.md): 7 × Platin
+- ![](../bilder/gegenstaende/platinstiefel.png) [Platinstiefel](../gegenstaende/platinstiefel.md): 4 × Platin
 
 ## Verwendet für
 

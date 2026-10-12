@@ -19,11 +19,11 @@
 
 Aus Duraluminium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/duraluminiumspitzhacke.png) Duraluminiumspitzhacke: 3 × Duraluminium + 2 × Bretter
-- ![](../bilder/ausruestung/duraluminiumaxt.png) Duraluminiumaxt: 3 × Duraluminium + 2 × Bretter
-- ![](../bilder/ausruestung/duraluminiumschwert.png) Duraluminiumschwert: 2 × Duraluminium + 1 × Bretter
-- ![](../bilder/ausruestung/duraluminiumhelm.png) Duraluminiumhelm: 5 × Duraluminium
-- ![](../bilder/ausruestung/duraluminiumharnisch.png) Duraluminiumharnisch: 8 × Duraluminium
-- ![](../bilder/ausruestung/duraluminiumbeinschutz.png) Duraluminiumbeinschutz: 7 × Duraluminium
-- ![](../bilder/ausruestung/duraluminiumstiefel.png) Duraluminiumstiefel: 4 × Duraluminium
+- ![](../bilder/ausruestung/duraluminiumspitzhacke.png) [Duraluminiumspitzhacke](../legierungen/duraluminium.md): 3 × Duraluminium + 2 × Bretter
+- ![](../bilder/ausruestung/duraluminiumaxt.png) [Duraluminiumaxt](../legierungen/duraluminium.md): 3 × Duraluminium + 2 × Bretter
+- ![](../bilder/ausruestung/duraluminiumschwert.png) [Duraluminiumschwert](../legierungen/duraluminium.md): 2 × Duraluminium + 1 × Bretter
+- ![](../bilder/gegenstaende/duraluminiumhelm.png) [Duraluminiumhelm](../gegenstaende/duraluminiumhelm.md): 5 × Duraluminium
+- ![](../bilder/gegenstaende/duraluminiumharnisch.png) [Duraluminiumharnisch](../gegenstaende/duraluminiumharnisch.md): 8 × Duraluminium
+- ![](../bilder/gegenstaende/duraluminiumbeinschutz.png) [Duraluminiumbeinschutz](../gegenstaende/duraluminiumbeinschutz.md): 7 × Duraluminium
+- ![](../bilder/gegenstaende/duraluminiumstiefel.png) [Duraluminiumstiefel](../gegenstaende/duraluminiumstiefel.md): 4 × Duraluminium
 

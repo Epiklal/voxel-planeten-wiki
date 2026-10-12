@@ -24,13 +24,13 @@ Wächst zu regenbogenfarbenen Treppenkristallen. Eigentlich radioaktiv – mit e
 
 Aus Bismut gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/bismutspitzhacke.png) Bismutspitzhacke: 3 × Bismut + 2 × Bretter
-- ![](../bilder/ausruestung/bismutaxt.png) Bismutaxt: 3 × Bismut + 2 × Bretter
-- ![](../bilder/ausruestung/bismutschwert.png) Bismutschwert: 2 × Bismut + 1 × Bretter
-- ![](../bilder/ausruestung/bismuthelm.png) Bismuthelm: 5 × Bismut
-- ![](../bilder/ausruestung/bismutharnisch.png) Bismutharnisch: 8 × Bismut
-- ![](../bilder/ausruestung/bismutbeinschutz.png) Bismutbeinschutz: 7 × Bismut
-- ![](../bilder/ausruestung/bismutstiefel.png) Bismutstiefel: 4 × Bismut
+- ![](../bilder/ausruestung/bismutspitzhacke.png) [Bismutspitzhacke](../elemente/bismut.md): 3 × Bismut + 2 × Bretter
+- ![](../bilder/ausruestung/bismutaxt.png) [Bismutaxt](../elemente/bismut.md): 3 × Bismut + 2 × Bretter
+- ![](../bilder/ausruestung/bismutschwert.png) [Bismutschwert](../elemente/bismut.md): 2 × Bismut + 1 × Bretter
+- ![](../bilder/gegenstaende/bismuthelm.png) [Bismuthelm](../gegenstaende/bismuthelm.md): 5 × Bismut
+- ![](../bilder/gegenstaende/bismutharnisch.png) [Bismutharnisch](../gegenstaende/bismutharnisch.md): 8 × Bismut
+- ![](../bilder/gegenstaende/bismutbeinschutz.png) [Bismutbeinschutz](../gegenstaende/bismutbeinschutz.md): 7 × Bismut
+- ![](../bilder/gegenstaende/bismutstiefel.png) [Bismutstiefel](../gegenstaende/bismutstiefel.md): 4 × Bismut
 
 ## Verwendet für
 

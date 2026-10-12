@@ -24,13 +24,13 @@ Der höchste Schmelzpunkt aller Metalle: 3422 °C. Die Glühfäden alter Glühbi
 
 Aus Wolfram gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
-- ![](../bilder/ausruestung/wolframspitzhacke.png) Wolframspitzhacke: 3 × Wolfram + 2 × Bretter
-- ![](../bilder/ausruestung/wolframaxt.png) Wolframaxt: 3 × Wolfram + 2 × Bretter
-- ![](../bilder/ausruestung/wolframschwert.png) Wolframschwert: 2 × Wolfram + 1 × Bretter
-- ![](../bilder/ausruestung/wolframhelm.png) Wolframhelm: 5 × Wolfram
-- ![](../bilder/ausruestung/wolframharnisch.png) Wolframharnisch: 8 × Wolfram
-- ![](../bilder/ausruestung/wolframbeinschutz.png) Wolframbeinschutz: 7 × Wolfram
-- ![](../bilder/ausruestung/wolframstiefel.png) Wolframstiefel: 4 × Wolfram
+- ![](../bilder/ausruestung/wolframspitzhacke.png) [Wolframspitzhacke](../elemente/wolfram.md): 3 × Wolfram + 2 × Bretter
+- ![](../bilder/ausruestung/wolframaxt.png) [Wolframaxt](../elemente/wolfram.md): 3 × Wolfram + 2 × Bretter
+- ![](../bilder/ausruestung/wolframschwert.png) [Wolframschwert](../elemente/wolfram.md): 2 × Wolfram + 1 × Bretter
+- ![](../bilder/gegenstaende/wolframhelm.png) [Wolframhelm](../gegenstaende/wolframhelm.md): 5 × Wolfram
+- ![](../bilder/gegenstaende/wolframharnisch.png) [Wolframharnisch](../gegenstaende/wolframharnisch.md): 8 × Wolfram
+- ![](../bilder/gegenstaende/wolframbeinschutz.png) [Wolframbeinschutz](../gegenstaende/wolframbeinschutz.md): 7 × Wolfram
+- ![](../bilder/gegenstaende/wolframstiefel.png) [Wolframstiefel](../gegenstaende/wolframstiefel.md): 4 × Wolfram
 
 ## Verwendet für
 

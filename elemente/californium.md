@@ -24,13 +24,13 @@ Ein Mikrogramm sprüht über 100 Millionen Neutronen pro Minute – zum Anfahren
 
 Aus Californium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/californiumspitzhacke.png) Californiumspitzhacke: 3 × Californium + 2 × Bretter
-- ![](../bilder/ausruestung/californiumaxt.png) Californiumaxt: 3 × Californium + 2 × Bretter
-- ![](../bilder/ausruestung/californiumschwert.png) Californiumschwert: 2 × Californium + 1 × Bretter
-- ![](../bilder/ausruestung/californiumhelm.png) Californiumhelm: 5 × Californium
-- ![](../bilder/ausruestung/californiumharnisch.png) Californiumharnisch: 8 × Californium
-- ![](../bilder/ausruestung/californiumbeinschutz.png) Californiumbeinschutz: 7 × Californium
-- ![](../bilder/ausruestung/californiumstiefel.png) Californiumstiefel: 4 × Californium
+- ![](../bilder/ausruestung/californiumspitzhacke.png) [Californiumspitzhacke](../elemente/californium.md): 3 × Californium + 2 × Bretter
+- ![](../bilder/ausruestung/californiumaxt.png) [Californiumaxt](../elemente/californium.md): 3 × Californium + 2 × Bretter
+- ![](../bilder/ausruestung/californiumschwert.png) [Californiumschwert](../elemente/californium.md): 2 × Californium + 1 × Bretter
+- ![](../bilder/gegenstaende/californiumhelm.png) [Californiumhelm](../gegenstaende/californiumhelm.md): 5 × Californium
+- ![](../bilder/gegenstaende/californiumharnisch.png) [Californiumharnisch](../gegenstaende/californiumharnisch.md): 8 × Californium
+- ![](../bilder/gegenstaende/californiumbeinschutz.png) [Californiumbeinschutz](../gegenstaende/californiumbeinschutz.md): 7 × Californium
+- ![](../bilder/gegenstaende/californiumstiefel.png) [Californiumstiefel](../gegenstaende/californiumstiefel.md): 4 × Californium
 
 ## Verwendet für
 

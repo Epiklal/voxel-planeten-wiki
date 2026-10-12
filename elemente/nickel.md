@@ -24,13 +24,13 @@ Viele Meteoriten sind aus Eisen und Nickel. In den USA heißt die 5-Cent-Münze 
 
 Aus Nickel gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/nickelspitzhacke.png) Nickelspitzhacke: 3 × Nickel + 2 × Bretter
-- ![](../bilder/ausruestung/nickelaxt.png) Nickelaxt: 3 × Nickel + 2 × Bretter
-- ![](../bilder/ausruestung/nickelschwert.png) Nickelschwert: 2 × Nickel + 1 × Bretter
-- ![](../bilder/ausruestung/nickelhelm.png) Nickelhelm: 5 × Nickel
-- ![](../bilder/ausruestung/nickelharnisch.png) Nickelharnisch: 8 × Nickel
-- ![](../bilder/ausruestung/nickelbeinschutz.png) Nickelbeinschutz: 7 × Nickel
-- ![](../bilder/ausruestung/nickelstiefel.png) Nickelstiefel: 4 × Nickel
+- ![](../bilder/ausruestung/nickelspitzhacke.png) [Nickelspitzhacke](../elemente/nickel.md): 3 × Nickel + 2 × Bretter
+- ![](../bilder/ausruestung/nickelaxt.png) [Nickelaxt](../elemente/nickel.md): 3 × Nickel + 2 × Bretter
+- ![](../bilder/ausruestung/nickelschwert.png) [Nickelschwert](../elemente/nickel.md): 2 × Nickel + 1 × Bretter
+- ![](../bilder/gegenstaende/nickelhelm.png) [Nickelhelm](../gegenstaende/nickelhelm.md): 5 × Nickel
+- ![](../bilder/gegenstaende/nickelharnisch.png) [Nickelharnisch](../gegenstaende/nickelharnisch.md): 8 × Nickel
+- ![](../bilder/gegenstaende/nickelbeinschutz.png) [Nickelbeinschutz](../gegenstaende/nickelbeinschutz.md): 7 × Nickel
+- ![](../bilder/gegenstaende/nickelstiefel.png) [Nickelstiefel](../gegenstaende/nickelstiefel.md): 4 × Nickel
 
 ## Verwendet für
 

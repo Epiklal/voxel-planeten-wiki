@@ -24,13 +24,13 @@ Zuerst gefunden im Staub der ersten Wasserstoffbombe (1952).
 
 Aus Einsteinium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/einsteiniumspitzhacke.png) Einsteiniumspitzhacke: 3 × Einsteinium + 2 × Bretter
-- ![](../bilder/ausruestung/einsteiniumaxt.png) Einsteiniumaxt: 3 × Einsteinium + 2 × Bretter
-- ![](../bilder/ausruestung/einsteiniumschwert.png) Einsteiniumschwert: 2 × Einsteinium + 1 × Bretter
-- ![](../bilder/ausruestung/einsteiniumhelm.png) Einsteiniumhelm: 5 × Einsteinium
-- ![](../bilder/ausruestung/einsteiniumharnisch.png) Einsteiniumharnisch: 8 × Einsteinium
-- ![](../bilder/ausruestung/einsteiniumbeinschutz.png) Einsteiniumbeinschutz: 7 × Einsteinium
-- ![](../bilder/ausruestung/einsteiniumstiefel.png) Einsteiniumstiefel: 4 × Einsteinium
+- ![](../bilder/ausruestung/einsteiniumspitzhacke.png) [Einsteiniumspitzhacke](../elemente/einsteinium.md): 3 × Einsteinium + 2 × Bretter
+- ![](../bilder/ausruestung/einsteiniumaxt.png) [Einsteiniumaxt](../elemente/einsteinium.md): 3 × Einsteinium + 2 × Bretter
+- ![](../bilder/ausruestung/einsteiniumschwert.png) [Einsteiniumschwert](../elemente/einsteinium.md): 2 × Einsteinium + 1 × Bretter
+- ![](../bilder/gegenstaende/einsteiniumhelm.png) [Einsteiniumhelm](../gegenstaende/einsteiniumhelm.md): 5 × Einsteinium
+- ![](../bilder/gegenstaende/einsteiniumharnisch.png) [Einsteiniumharnisch](../gegenstaende/einsteiniumharnisch.md): 8 × Einsteinium
+- ![](../bilder/gegenstaende/einsteiniumbeinschutz.png) [Einsteiniumbeinschutz](../gegenstaende/einsteiniumbeinschutz.md): 7 × Einsteinium
+- ![](../bilder/gegenstaende/einsteiniumstiefel.png) [Einsteiniumstiefel](../gegenstaende/einsteiniumstiefel.md): 4 × Einsteinium
 
 ## Verwendet für
 

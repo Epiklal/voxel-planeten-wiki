@@ -24,11 +24,11 @@ Von Marie Curie nach Polen benannt. Ein Gramm heizt sich selbst auf 500 °C.
 
 Aus Polonium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/poloniumspitzhacke.png) Poloniumspitzhacke: 3 × Polonium + 2 × Bretter
-- ![](../bilder/ausruestung/poloniumaxt.png) Poloniumaxt: 3 × Polonium + 2 × Bretter
-- ![](../bilder/ausruestung/poloniumschwert.png) Poloniumschwert: 2 × Polonium + 1 × Bretter
-- ![](../bilder/ausruestung/poloniumhelm.png) Poloniumhelm: 5 × Polonium
-- ![](../bilder/ausruestung/poloniumharnisch.png) Poloniumharnisch: 8 × Polonium
-- ![](../bilder/ausruestung/poloniumbeinschutz.png) Poloniumbeinschutz: 7 × Polonium
-- ![](../bilder/ausruestung/poloniumstiefel.png) Poloniumstiefel: 4 × Polonium
+- ![](../bilder/ausruestung/poloniumspitzhacke.png) [Poloniumspitzhacke](../elemente/polonium.md): 3 × Polonium + 2 × Bretter
+- ![](../bilder/ausruestung/poloniumaxt.png) [Poloniumaxt](../elemente/polonium.md): 3 × Polonium + 2 × Bretter
+- ![](../bilder/ausruestung/poloniumschwert.png) [Poloniumschwert](../elemente/polonium.md): 2 × Polonium + 1 × Bretter
+- ![](../bilder/gegenstaende/poloniumhelm.png) [Poloniumhelm](../gegenstaende/poloniumhelm.md): 5 × Polonium
+- ![](../bilder/gegenstaende/poloniumharnisch.png) [Poloniumharnisch](../gegenstaende/poloniumharnisch.md): 8 × Polonium
+- ![](../bilder/gegenstaende/poloniumbeinschutz.png) [Poloniumbeinschutz](../gegenstaende/poloniumbeinschutz.md): 7 × Polonium
+- ![](../bilder/gegenstaende/poloniumstiefel.png) [Poloniumstiefel](../gegenstaende/poloniumstiefel.md): 4 × Polonium
 

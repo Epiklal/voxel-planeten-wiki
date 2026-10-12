@@ -24,13 +24,13 @@ Fühlt sich warm an. Die Voyager-Sonden fliegen seit fast 50 Jahren mit Plutoniu
 
 Aus Plutonium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/plutoniumspitzhacke.png) Plutoniumspitzhacke: 3 × Plutonium + 2 × Bretter
-- ![](../bilder/ausruestung/plutoniumaxt.png) Plutoniumaxt: 3 × Plutonium + 2 × Bretter
-- ![](../bilder/ausruestung/plutoniumschwert.png) Plutoniumschwert: 2 × Plutonium + 1 × Bretter
-- ![](../bilder/ausruestung/plutoniumhelm.png) Plutoniumhelm: 5 × Plutonium
-- ![](../bilder/ausruestung/plutoniumharnisch.png) Plutoniumharnisch: 8 × Plutonium
-- ![](../bilder/ausruestung/plutoniumbeinschutz.png) Plutoniumbeinschutz: 7 × Plutonium
-- ![](../bilder/ausruestung/plutoniumstiefel.png) Plutoniumstiefel: 4 × Plutonium
+- ![](../bilder/ausruestung/plutoniumspitzhacke.png) [Plutoniumspitzhacke](../elemente/plutonium.md): 3 × Plutonium + 2 × Bretter
+- ![](../bilder/ausruestung/plutoniumaxt.png) [Plutoniumaxt](../elemente/plutonium.md): 3 × Plutonium + 2 × Bretter
+- ![](../bilder/ausruestung/plutoniumschwert.png) [Plutoniumschwert](../elemente/plutonium.md): 2 × Plutonium + 1 × Bretter
+- ![](../bilder/gegenstaende/plutoniumhelm.png) [Plutoniumhelm](../gegenstaende/plutoniumhelm.md): 5 × Plutonium
+- ![](../bilder/gegenstaende/plutoniumharnisch.png) [Plutoniumharnisch](../gegenstaende/plutoniumharnisch.md): 8 × Plutonium
+- ![](../bilder/gegenstaende/plutoniumbeinschutz.png) [Plutoniumbeinschutz](../gegenstaende/plutoniumbeinschutz.md): 7 × Plutonium
+- ![](../bilder/gegenstaende/plutoniumstiefel.png) [Plutoniumstiefel](../gegenstaende/plutoniumstiefel.md): 4 × Plutonium
 
 ## Verwendet für
 

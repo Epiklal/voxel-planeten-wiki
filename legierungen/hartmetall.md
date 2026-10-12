@@ -19,11 +19,11 @@ Wolframcarbid ist fast so hart wie Diamant: Bohrer, Fräser und die Kugel im Kug
 
 Aus Hartmetall gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
-- ![](../bilder/ausruestung/hartmetallspitzhacke.png) Hartmetallspitzhacke: 3 × Hartmetall + 2 × Bretter
-- ![](../bilder/ausruestung/hartmetallaxt.png) Hartmetallaxt: 3 × Hartmetall + 2 × Bretter
-- ![](../bilder/ausruestung/hartmetallschwert.png) Hartmetallschwert: 2 × Hartmetall + 1 × Bretter
-- ![](../bilder/ausruestung/hartmetallhelm.png) Hartmetallhelm: 5 × Hartmetall
-- ![](../bilder/ausruestung/hartmetallharnisch.png) Hartmetallharnisch: 8 × Hartmetall
-- ![](../bilder/ausruestung/hartmetallbeinschutz.png) Hartmetallbeinschutz: 7 × Hartmetall
-- ![](../bilder/ausruestung/hartmetallstiefel.png) Hartmetallstiefel: 4 × Hartmetall
+- ![](../bilder/ausruestung/hartmetallspitzhacke.png) [Hartmetallspitzhacke](../legierungen/hartmetall.md): 3 × Hartmetall + 2 × Bretter
+- ![](../bilder/ausruestung/hartmetallaxt.png) [Hartmetallaxt](../legierungen/hartmetall.md): 3 × Hartmetall + 2 × Bretter
+- ![](../bilder/ausruestung/hartmetallschwert.png) [Hartmetallschwert](../legierungen/hartmetall.md): 2 × Hartmetall + 1 × Bretter
+- ![](../bilder/gegenstaende/hartmetallhelm.png) [Hartmetallhelm](../gegenstaende/hartmetallhelm.md): 5 × Hartmetall
+- ![](../bilder/gegenstaende/hartmetallharnisch.png) [Hartmetallharnisch](../gegenstaende/hartmetallharnisch.md): 8 × Hartmetall
+- ![](../bilder/gegenstaende/hartmetallbeinschutz.png) [Hartmetallbeinschutz](../gegenstaende/hartmetallbeinschutz.md): 7 × Hartmetall
+- ![](../bilder/gegenstaende/hartmetallstiefel.png) [Hartmetallstiefel](../gegenstaende/hartmetallstiefel.md): 4 × Hartmetall
 

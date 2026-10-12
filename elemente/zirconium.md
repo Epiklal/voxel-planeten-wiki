@@ -24,13 +24,13 @@ Neutronen fliegen fast ungehindert hindurch – deshalb sind Brennstabhüllen au
 
 Aus Zirconium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/zirconiumspitzhacke.png) Zirconiumspitzhacke: 3 × Zirconium + 2 × Bretter
-- ![](../bilder/ausruestung/zirconiumaxt.png) Zirconiumaxt: 3 × Zirconium + 2 × Bretter
-- ![](../bilder/ausruestung/zirconiumschwert.png) Zirconiumschwert: 2 × Zirconium + 1 × Bretter
-- ![](../bilder/ausruestung/zirconiumhelm.png) Zirconiumhelm: 5 × Zirconium
-- ![](../bilder/ausruestung/zirconiumharnisch.png) Zirconiumharnisch: 8 × Zirconium
-- ![](../bilder/ausruestung/zirconiumbeinschutz.png) Zirconiumbeinschutz: 7 × Zirconium
-- ![](../bilder/ausruestung/zirconiumstiefel.png) Zirconiumstiefel: 4 × Zirconium
+- ![](../bilder/ausruestung/zirconiumspitzhacke.png) [Zirconiumspitzhacke](../elemente/zirconium.md): 3 × Zirconium + 2 × Bretter
+- ![](../bilder/ausruestung/zirconiumaxt.png) [Zirconiumaxt](../elemente/zirconium.md): 3 × Zirconium + 2 × Bretter
+- ![](../bilder/ausruestung/zirconiumschwert.png) [Zirconiumschwert](../elemente/zirconium.md): 2 × Zirconium + 1 × Bretter
+- ![](../bilder/gegenstaende/zirconiumhelm.png) [Zirconiumhelm](../gegenstaende/zirconiumhelm.md): 5 × Zirconium
+- ![](../bilder/gegenstaende/zirconiumharnisch.png) [Zirconiumharnisch](../gegenstaende/zirconiumharnisch.md): 8 × Zirconium
+- ![](../bilder/gegenstaende/zirconiumbeinschutz.png) [Zirconiumbeinschutz](../gegenstaende/zirconiumbeinschutz.md): 7 × Zirconium
+- ![](../bilder/gegenstaende/zirconiumstiefel.png) [Zirconiumstiefel](../gegenstaende/zirconiumstiefel.md): 4 × Zirconium
 
 ## Verwendet für
 

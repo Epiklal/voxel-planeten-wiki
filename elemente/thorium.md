@@ -24,13 +24,13 @@ Dreimal so häufig wie Uran. Thorium-Reaktoren gelten als sicherere Atomkraft.
 
 Aus Thorium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/thoriumspitzhacke.png) Thoriumspitzhacke: 3 × Thorium + 2 × Bretter
-- ![](../bilder/ausruestung/thoriumaxt.png) Thoriumaxt: 3 × Thorium + 2 × Bretter
-- ![](../bilder/ausruestung/thoriumschwert.png) Thoriumschwert: 2 × Thorium + 1 × Bretter
-- ![](../bilder/ausruestung/thoriumhelm.png) Thoriumhelm: 5 × Thorium
-- ![](../bilder/ausruestung/thoriumharnisch.png) Thoriumharnisch: 8 × Thorium
-- ![](../bilder/ausruestung/thoriumbeinschutz.png) Thoriumbeinschutz: 7 × Thorium
-- ![](../bilder/ausruestung/thoriumstiefel.png) Thoriumstiefel: 4 × Thorium
+- ![](../bilder/ausruestung/thoriumspitzhacke.png) [Thoriumspitzhacke](../elemente/thorium.md): 3 × Thorium + 2 × Bretter
+- ![](../bilder/ausruestung/thoriumaxt.png) [Thoriumaxt](../elemente/thorium.md): 3 × Thorium + 2 × Bretter
+- ![](../bilder/ausruestung/thoriumschwert.png) [Thoriumschwert](../elemente/thorium.md): 2 × Thorium + 1 × Bretter
+- ![](../bilder/gegenstaende/thoriumhelm.png) [Thoriumhelm](../gegenstaende/thoriumhelm.md): 5 × Thorium
+- ![](../bilder/gegenstaende/thoriumharnisch.png) [Thoriumharnisch](../gegenstaende/thoriumharnisch.md): 8 × Thorium
+- ![](../bilder/gegenstaende/thoriumbeinschutz.png) [Thoriumbeinschutz](../gegenstaende/thoriumbeinschutz.md): 7 × Thorium
+- ![](../bilder/gegenstaende/thoriumstiefel.png) [Thoriumstiefel](../gegenstaende/thoriumstiefel.md): 4 × Thorium
 
 ## Verwendet für
 

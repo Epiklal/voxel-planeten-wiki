@@ -24,13 +24,13 @@ Leuchtet im Dunkeln. In den 1920ern malten Arbeiterinnen damit Zifferblätter un
 
 Aus Radium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/radiumspitzhacke.png) Radiumspitzhacke: 3 × Radium + 2 × Bretter
-- ![](../bilder/ausruestung/radiumaxt.png) Radiumaxt: 3 × Radium + 2 × Bretter
-- ![](../bilder/ausruestung/radiumschwert.png) Radiumschwert: 2 × Radium + 1 × Bretter
-- ![](../bilder/ausruestung/radiumhelm.png) Radiumhelm: 5 × Radium
-- ![](../bilder/ausruestung/radiumharnisch.png) Radiumharnisch: 8 × Radium
-- ![](../bilder/ausruestung/radiumbeinschutz.png) Radiumbeinschutz: 7 × Radium
-- ![](../bilder/ausruestung/radiumstiefel.png) Radiumstiefel: 4 × Radium
+- ![](../bilder/ausruestung/radiumspitzhacke.png) [Radiumspitzhacke](../elemente/radium.md): 3 × Radium + 2 × Bretter
+- ![](../bilder/ausruestung/radiumaxt.png) [Radiumaxt](../elemente/radium.md): 3 × Radium + 2 × Bretter
+- ![](../bilder/ausruestung/radiumschwert.png) [Radiumschwert](../elemente/radium.md): 2 × Radium + 1 × Bretter
+- ![](../bilder/gegenstaende/radiumhelm.png) [Radiumhelm](../gegenstaende/radiumhelm.md): 5 × Radium
+- ![](../bilder/gegenstaende/radiumharnisch.png) [Radiumharnisch](../gegenstaende/radiumharnisch.md): 8 × Radium
+- ![](../bilder/gegenstaende/radiumbeinschutz.png) [Radiumbeinschutz](../gegenstaende/radiumbeinschutz.md): 7 × Radium
+- ![](../bilder/gegenstaende/radiumstiefel.png) [Radiumstiefel](../gegenstaende/radiumstiefel.md): 4 × Radium
 
 ## Verwendet für
 

@@ -24,11 +24,11 @@ Eines der teuersten Metalle der Welt – in jedem Auto-Katalysator.
 
 Aus Rhodium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/rhodiumspitzhacke.png) Rhodiumspitzhacke: 3 × Rhodium + 2 × Bretter
-- ![](../bilder/ausruestung/rhodiumaxt.png) Rhodiumaxt: 3 × Rhodium + 2 × Bretter
-- ![](../bilder/ausruestung/rhodiumschwert.png) Rhodiumschwert: 2 × Rhodium + 1 × Bretter
-- ![](../bilder/ausruestung/rhodiumhelm.png) Rhodiumhelm: 5 × Rhodium
-- ![](../bilder/ausruestung/rhodiumharnisch.png) Rhodiumharnisch: 8 × Rhodium
-- ![](../bilder/ausruestung/rhodiumbeinschutz.png) Rhodiumbeinschutz: 7 × Rhodium
-- ![](../bilder/ausruestung/rhodiumstiefel.png) Rhodiumstiefel: 4 × Rhodium
+- ![](../bilder/ausruestung/rhodiumspitzhacke.png) [Rhodiumspitzhacke](../elemente/rhodium.md): 3 × Rhodium + 2 × Bretter
+- ![](../bilder/ausruestung/rhodiumaxt.png) [Rhodiumaxt](../elemente/rhodium.md): 3 × Rhodium + 2 × Bretter
+- ![](../bilder/ausruestung/rhodiumschwert.png) [Rhodiumschwert](../elemente/rhodium.md): 2 × Rhodium + 1 × Bretter
+- ![](../bilder/gegenstaende/rhodiumhelm.png) [Rhodiumhelm](../gegenstaende/rhodiumhelm.md): 5 × Rhodium
+- ![](../bilder/gegenstaende/rhodiumharnisch.png) [Rhodiumharnisch](../gegenstaende/rhodiumharnisch.md): 8 × Rhodium
+- ![](../bilder/gegenstaende/rhodiumbeinschutz.png) [Rhodiumbeinschutz](../gegenstaende/rhodiumbeinschutz.md): 7 × Rhodium
+- ![](../bilder/gegenstaende/rhodiumstiefel.png) [Rhodiumstiefel](../gegenstaende/rhodiumstiefel.md): 4 × Rhodium
 

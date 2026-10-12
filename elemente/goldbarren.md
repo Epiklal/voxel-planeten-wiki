@@ -26,13 +26,13 @@ Alles je geförderte Gold passt in einen Würfel mit 22 m Kante. Es entstand, al
 
 Aus Goldbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/goldspitzhacke.png) Goldspitzhacke: 3 × Goldbarren + 2 × Bretter
-- ![](../bilder/ausruestung/goldaxt.png) Goldaxt: 3 × Goldbarren + 2 × Bretter
-- ![](../bilder/ausruestung/goldschwert.png) Goldschwert: 2 × Goldbarren + 1 × Bretter
-- ![](../bilder/gegenstaende/goldhelm.png) Goldhelm: 5 × Goldbarren
-- ![](../bilder/gegenstaende/goldharnisch.png) Goldharnisch: 8 × Goldbarren
-- ![](../bilder/gegenstaende/goldbeinschutz.png) Goldbeinschutz: 7 × Goldbarren
-- ![](../bilder/gegenstaende/goldstiefel.png) Goldstiefel: 4 × Goldbarren
+- ![](../bilder/ausruestung/goldspitzhacke.png) [Goldspitzhacke](../elemente/goldbarren.md): 3 × Goldbarren + 2 × Bretter
+- ![](../bilder/ausruestung/goldaxt.png) [Goldaxt](../elemente/goldbarren.md): 3 × Goldbarren + 2 × Bretter
+- ![](../bilder/ausruestung/goldschwert.png) [Goldschwert](../elemente/goldbarren.md): 2 × Goldbarren + 1 × Bretter
+- ![](../bilder/gegenstaende/goldhelm.png) [Goldhelm](../gegenstaende/goldhelm.md): 5 × Goldbarren
+- ![](../bilder/gegenstaende/goldharnisch.png) [Goldharnisch](../gegenstaende/goldharnisch.md): 8 × Goldbarren
+- ![](../bilder/gegenstaende/goldbeinschutz.png) [Goldbeinschutz](../gegenstaende/goldbeinschutz.md): 7 × Goldbarren
+- ![](../bilder/gegenstaende/goldstiefel.png) [Goldstiefel](../gegenstaende/goldstiefel.md): 4 × Goldbarren
 
 ## Verwendet für
 

@@ -24,11 +24,11 @@ Das erste Element nach dem Uran (1940) – nach Neptun benannt, wie Uran nach Ur
 
 Aus Neptunium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/neptuniumspitzhacke.png) Neptuniumspitzhacke: 3 × Neptunium + 2 × Bretter
-- ![](../bilder/ausruestung/neptuniumaxt.png) Neptuniumaxt: 3 × Neptunium + 2 × Bretter
-- ![](../bilder/ausruestung/neptuniumschwert.png) Neptuniumschwert: 2 × Neptunium + 1 × Bretter
-- ![](../bilder/ausruestung/neptuniumhelm.png) Neptuniumhelm: 5 × Neptunium
-- ![](../bilder/ausruestung/neptuniumharnisch.png) Neptuniumharnisch: 8 × Neptunium
-- ![](../bilder/ausruestung/neptuniumbeinschutz.png) Neptuniumbeinschutz: 7 × Neptunium
-- ![](../bilder/ausruestung/neptuniumstiefel.png) Neptuniumstiefel: 4 × Neptunium
+- ![](../bilder/ausruestung/neptuniumspitzhacke.png) [Neptuniumspitzhacke](../elemente/neptunium.md): 3 × Neptunium + 2 × Bretter
+- ![](../bilder/ausruestung/neptuniumaxt.png) [Neptuniumaxt](../elemente/neptunium.md): 3 × Neptunium + 2 × Bretter
+- ![](../bilder/ausruestung/neptuniumschwert.png) [Neptuniumschwert](../elemente/neptunium.md): 2 × Neptunium + 1 × Bretter
+- ![](../bilder/gegenstaende/neptuniumhelm.png) [Neptuniumhelm](../gegenstaende/neptuniumhelm.md): 5 × Neptunium
+- ![](../bilder/gegenstaende/neptuniumharnisch.png) [Neptuniumharnisch](../gegenstaende/neptuniumharnisch.md): 8 × Neptunium
+- ![](../bilder/gegenstaende/neptuniumbeinschutz.png) [Neptuniumbeinschutz](../gegenstaende/neptuniumbeinschutz.md): 7 × Neptunium
+- ![](../bilder/gegenstaende/neptuniumstiefel.png) [Neptuniumstiefel](../gegenstaende/neptuniumstiefel.md): 4 × Neptunium
 

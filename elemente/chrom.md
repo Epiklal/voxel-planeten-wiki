@@ -24,13 +24,13 @@ Das härteste reine Metall. Rubine sind rot und Smaragde grün – beides durch 
 
 Aus Chrom gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
-- ![](../bilder/ausruestung/chromspitzhacke.png) Chromspitzhacke: 3 × Chrom + 2 × Bretter
-- ![](../bilder/ausruestung/chromaxt.png) Chromaxt: 3 × Chrom + 2 × Bretter
-- ![](../bilder/ausruestung/chromschwert.png) Chromschwert: 2 × Chrom + 1 × Bretter
-- ![](../bilder/ausruestung/chromhelm.png) Chromhelm: 5 × Chrom
-- ![](../bilder/ausruestung/chromharnisch.png) Chromharnisch: 8 × Chrom
-- ![](../bilder/ausruestung/chrombeinschutz.png) Chrombeinschutz: 7 × Chrom
-- ![](../bilder/ausruestung/chromstiefel.png) Chromstiefel: 4 × Chrom
+- ![](../bilder/ausruestung/chromspitzhacke.png) [Chromspitzhacke](../elemente/chrom.md): 3 × Chrom + 2 × Bretter
+- ![](../bilder/ausruestung/chromaxt.png) [Chromaxt](../elemente/chrom.md): 3 × Chrom + 2 × Bretter
+- ![](../bilder/ausruestung/chromschwert.png) [Chromschwert](../elemente/chrom.md): 2 × Chrom + 1 × Bretter
+- ![](../bilder/gegenstaende/chromhelm.png) [Chromhelm](../gegenstaende/chromhelm.md): 5 × Chrom
+- ![](../bilder/gegenstaende/chromharnisch.png) [Chromharnisch](../gegenstaende/chromharnisch.md): 8 × Chrom
+- ![](../bilder/gegenstaende/chrombeinschutz.png) [Chrombeinschutz](../gegenstaende/chrombeinschutz.md): 7 × Chrom
+- ![](../bilder/gegenstaende/chromstiefel.png) [Chromstiefel](../gegenstaende/chromstiefel.md): 4 × Chrom
 
 ## Verwendet für
 

@@ -37,7 +37,8 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Sonnensystem](sonnensystem.md) – Sonne, 8 Planeten, 9 Zwergplaneten
 - [Alle Monde](monde.md) – 466 Monde
 - [Alle Blöcke](bloecke.md) – 640 Blöcke
-- [Alle Gegenstände](gegenstaende.md) – 224 Gegenstände, Maschinen und Bauteile
+- [Alle Gegenstände](gegenstaende.md) – 652 Gegenstände, Maschinen und Bauteile
+- [Alle Rüstungen](ruestungen.md) – alle Materialien, Schutzwerte und Aufrüstungen
 - [Periodensystem](periodensystem.md) – alle 118 Elemente
 - [Legierungen](legierungen.md) – 42 Legierungen
 - [Reaktionen](reaktionen.md) – Chemie, Kernphysik und Metalle im Wasser

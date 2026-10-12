@@ -24,13 +24,13 @@ Schluckt das 900-Fache seines Volumens an Wasserstoff, wie ein Schwamm.
 
 Aus Palladium gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/palladiumspitzhacke.png) Palladiumspitzhacke: 3 × Palladium + 2 × Bretter
-- ![](../bilder/ausruestung/palladiumaxt.png) Palladiumaxt: 3 × Palladium + 2 × Bretter
-- ![](../bilder/ausruestung/palladiumschwert.png) Palladiumschwert: 2 × Palladium + 1 × Bretter
-- ![](../bilder/ausruestung/palladiumhelm.png) Palladiumhelm: 5 × Palladium
-- ![](../bilder/ausruestung/palladiumharnisch.png) Palladiumharnisch: 8 × Palladium
-- ![](../bilder/ausruestung/palladiumbeinschutz.png) Palladiumbeinschutz: 7 × Palladium
-- ![](../bilder/ausruestung/palladiumstiefel.png) Palladiumstiefel: 4 × Palladium
+- ![](../bilder/ausruestung/palladiumspitzhacke.png) [Palladiumspitzhacke](../elemente/palladium.md): 3 × Palladium + 2 × Bretter
+- ![](../bilder/ausruestung/palladiumaxt.png) [Palladiumaxt](../elemente/palladium.md): 3 × Palladium + 2 × Bretter
+- ![](../bilder/ausruestung/palladiumschwert.png) [Palladiumschwert](../elemente/palladium.md): 2 × Palladium + 1 × Bretter
+- ![](../bilder/gegenstaende/palladiumhelm.png) [Palladiumhelm](../gegenstaende/palladiumhelm.md): 5 × Palladium
+- ![](../bilder/gegenstaende/palladiumharnisch.png) [Palladiumharnisch](../gegenstaende/palladiumharnisch.md): 8 × Palladium
+- ![](../bilder/gegenstaende/palladiumbeinschutz.png) [Palladiumbeinschutz](../gegenstaende/palladiumbeinschutz.md): 7 × Palladium
+- ![](../bilder/gegenstaende/palladiumstiefel.png) [Palladiumstiefel](../gegenstaende/palladiumstiefel.md): 4 × Palladium
 
 ## Verwendet für
 

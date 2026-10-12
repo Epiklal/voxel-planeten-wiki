@@ -19,13 +19,13 @@ Glüht rot, ohne durchzubrennen – in jedem Toaster und Föhn.
 
 Aus Nichrom gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/nichromspitzhacke.png) Nichromspitzhacke: 3 × Nichrom + 2 × Bretter
-- ![](../bilder/ausruestung/nichromaxt.png) Nichromaxt: 3 × Nichrom + 2 × Bretter
-- ![](../bilder/ausruestung/nichromschwert.png) Nichromschwert: 2 × Nichrom + 1 × Bretter
-- ![](../bilder/ausruestung/nichromhelm.png) Nichromhelm: 5 × Nichrom
-- ![](../bilder/ausruestung/nichromharnisch.png) Nichromharnisch: 8 × Nichrom
-- ![](../bilder/ausruestung/nichrombeinschutz.png) Nichrombeinschutz: 7 × Nichrom
-- ![](../bilder/ausruestung/nichromstiefel.png) Nichromstiefel: 4 × Nichrom
+- ![](../bilder/ausruestung/nichromspitzhacke.png) [Nichromspitzhacke](../legierungen/nichrom.md): 3 × Nichrom + 2 × Bretter
+- ![](../bilder/ausruestung/nichromaxt.png) [Nichromaxt](../legierungen/nichrom.md): 3 × Nichrom + 2 × Bretter
+- ![](../bilder/ausruestung/nichromschwert.png) [Nichromschwert](../legierungen/nichrom.md): 2 × Nichrom + 1 × Bretter
+- ![](../bilder/gegenstaende/nichromhelm.png) [Nichromhelm](../gegenstaende/nichromhelm.md): 5 × Nichrom
+- ![](../bilder/gegenstaende/nichromharnisch.png) [Nichromharnisch](../gegenstaende/nichromharnisch.md): 8 × Nichrom
+- ![](../bilder/gegenstaende/nichrombeinschutz.png) [Nichrombeinschutz](../gegenstaende/nichrombeinschutz.md): 7 × Nichrom
+- ![](../bilder/gegenstaende/nichromstiefel.png) [Nichromstiefel](../gegenstaende/nichromstiefel.md): 4 × Nichrom
 
 ## Verwendet für
 

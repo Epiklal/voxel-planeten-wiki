@@ -24,13 +24,13 @@ Hält Strahlung ab. Die Römer süßten ihren Wein mit Bleizucker.
 
 Aus Blei gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/bleispitzhacke.png) Bleispitzhacke: 3 × Blei + 2 × Bretter
-- ![](../bilder/ausruestung/bleiaxt.png) Bleiaxt: 3 × Blei + 2 × Bretter
-- ![](../bilder/ausruestung/bleischwert.png) Bleischwert: 2 × Blei + 1 × Bretter
-- ![](../bilder/ausruestung/bleihelm.png) Bleihelm: 5 × Blei
-- ![](../bilder/ausruestung/bleiharnisch.png) Bleiharnisch: 8 × Blei
-- ![](../bilder/ausruestung/bleibeinschutz.png) Bleibeinschutz: 7 × Blei
-- ![](../bilder/ausruestung/bleistiefel.png) Bleistiefel: 4 × Blei
+- ![](../bilder/ausruestung/bleispitzhacke.png) [Bleispitzhacke](../elemente/blei.md): 3 × Blei + 2 × Bretter
+- ![](../bilder/ausruestung/bleiaxt.png) [Bleiaxt](../elemente/blei.md): 3 × Blei + 2 × Bretter
+- ![](../bilder/ausruestung/bleischwert.png) [Bleischwert](../elemente/blei.md): 2 × Blei + 1 × Bretter
+- ![](../bilder/gegenstaende/bleihelm.png) [Bleihelm](../gegenstaende/bleihelm.md): 5 × Blei
+- ![](../bilder/gegenstaende/bleiharnisch.png) [Bleiharnisch](../gegenstaende/bleiharnisch.md): 8 × Blei
+- ![](../bilder/gegenstaende/bleibeinschutz.png) [Bleibeinschutz](../gegenstaende/bleibeinschutz.md): 7 × Blei
+- ![](../bilder/gegenstaende/bleistiefel.png) [Bleistiefel](../gegenstaende/bleistiefel.md): 4 × Blei
 
 ## Verwendet für
 

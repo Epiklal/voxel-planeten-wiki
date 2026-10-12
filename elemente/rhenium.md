@@ -24,11 +24,11 @@ Das letzte stabile Element, das entdeckt wurde (1925). Hält Turbinenschaufeln i
 
 Aus Rhenium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/rheniumspitzhacke.png) Rheniumspitzhacke: 3 × Rhenium + 2 × Bretter
-- ![](../bilder/ausruestung/rheniumaxt.png) Rheniumaxt: 3 × Rhenium + 2 × Bretter
-- ![](../bilder/ausruestung/rheniumschwert.png) Rheniumschwert: 2 × Rhenium + 1 × Bretter
-- ![](../bilder/ausruestung/rheniumhelm.png) Rheniumhelm: 5 × Rhenium
-- ![](../bilder/ausruestung/rheniumharnisch.png) Rheniumharnisch: 8 × Rhenium
-- ![](../bilder/ausruestung/rheniumbeinschutz.png) Rheniumbeinschutz: 7 × Rhenium
-- ![](../bilder/ausruestung/rheniumstiefel.png) Rheniumstiefel: 4 × Rhenium
+- ![](../bilder/ausruestung/rheniumspitzhacke.png) [Rheniumspitzhacke](../elemente/rhenium.md): 3 × Rhenium + 2 × Bretter
+- ![](../bilder/ausruestung/rheniumaxt.png) [Rheniumaxt](../elemente/rhenium.md): 3 × Rhenium + 2 × Bretter
+- ![](../bilder/ausruestung/rheniumschwert.png) [Rheniumschwert](../elemente/rhenium.md): 2 × Rhenium + 1 × Bretter
+- ![](../bilder/gegenstaende/rheniumhelm.png) [Rheniumhelm](../gegenstaende/rheniumhelm.md): 5 × Rhenium
+- ![](../bilder/gegenstaende/rheniumharnisch.png) [Rheniumharnisch](../gegenstaende/rheniumharnisch.md): 8 × Rhenium
+- ![](../bilder/gegenstaende/rheniumbeinschutz.png) [Rheniumbeinschutz](../gegenstaende/rheniumbeinschutz.md): 7 × Rhenium
+- ![](../bilder/gegenstaende/rheniumstiefel.png) [Rheniumstiefel](../gegenstaende/rheniumstiefel.md): 4 × Rhenium
 

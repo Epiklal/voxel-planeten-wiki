@@ -19,11 +19,11 @@ Widersteht fast jeder Säure – Rohre und Kessel in Chemieanlagen.
 
 Aus Hastelloy gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/hastelloyspitzhacke.png) Hastelloyspitzhacke: 3 × Hastelloy + 2 × Bretter
-- ![](../bilder/ausruestung/hastelloyaxt.png) Hastelloyaxt: 3 × Hastelloy + 2 × Bretter
-- ![](../bilder/ausruestung/hastelloyschwert.png) Hastelloyschwert: 2 × Hastelloy + 1 × Bretter
-- ![](../bilder/ausruestung/hastelloyhelm.png) Hastelloyhelm: 5 × Hastelloy
-- ![](../bilder/ausruestung/hastelloyharnisch.png) Hastelloyharnisch: 8 × Hastelloy
-- ![](../bilder/ausruestung/hastelloybeinschutz.png) Hastelloybeinschutz: 7 × Hastelloy
-- ![](../bilder/ausruestung/hastelloystiefel.png) Hastelloystiefel: 4 × Hastelloy
+- ![](../bilder/ausruestung/hastelloyspitzhacke.png) [Hastelloyspitzhacke](../legierungen/hastelloy.md): 3 × Hastelloy + 2 × Bretter
+- ![](../bilder/ausruestung/hastelloyaxt.png) [Hastelloyaxt](../legierungen/hastelloy.md): 3 × Hastelloy + 2 × Bretter
+- ![](../bilder/ausruestung/hastelloyschwert.png) [Hastelloyschwert](../legierungen/hastelloy.md): 2 × Hastelloy + 1 × Bretter
+- ![](../bilder/gegenstaende/hastelloyhelm.png) [Hastelloyhelm](../gegenstaende/hastelloyhelm.md): 5 × Hastelloy
+- ![](../bilder/gegenstaende/hastelloyharnisch.png) [Hastelloyharnisch](../gegenstaende/hastelloyharnisch.md): 8 × Hastelloy
+- ![](../bilder/gegenstaende/hastelloybeinschutz.png) [Hastelloybeinschutz](../gegenstaende/hastelloybeinschutz.md): 7 × Hastelloy
+- ![](../bilder/gegenstaende/hastelloystiefel.png) [Hastelloystiefel](../gegenstaende/hastelloystiefel.md): 4 × Hastelloy
 

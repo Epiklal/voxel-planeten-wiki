@@ -24,11 +24,11 @@ Leuchtet rot, wenn man Euro-Scheine unter UV-Licht hält – Schutz gegen Fälsc
 
 Aus Europium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/europiumspitzhacke.png) Europiumspitzhacke: 3 × Europium + 2 × Bretter
-- ![](../bilder/ausruestung/europiumaxt.png) Europiumaxt: 3 × Europium + 2 × Bretter
-- ![](../bilder/ausruestung/europiumschwert.png) Europiumschwert: 2 × Europium + 1 × Bretter
-- ![](../bilder/ausruestung/europiumhelm.png) Europiumhelm: 5 × Europium
-- ![](../bilder/ausruestung/europiumharnisch.png) Europiumharnisch: 8 × Europium
-- ![](../bilder/ausruestung/europiumbeinschutz.png) Europiumbeinschutz: 7 × Europium
-- ![](../bilder/ausruestung/europiumstiefel.png) Europiumstiefel: 4 × Europium
+- ![](../bilder/ausruestung/europiumspitzhacke.png) [Europiumspitzhacke](../elemente/europium.md): 3 × Europium + 2 × Bretter
+- ![](../bilder/ausruestung/europiumaxt.png) [Europiumaxt](../elemente/europium.md): 3 × Europium + 2 × Bretter
+- ![](../bilder/ausruestung/europiumschwert.png) [Europiumschwert](../elemente/europium.md): 2 × Europium + 1 × Bretter
+- ![](../bilder/gegenstaende/europiumhelm.png) [Europiumhelm](../gegenstaende/europiumhelm.md): 5 × Europium
+- ![](../bilder/gegenstaende/europiumharnisch.png) [Europiumharnisch](../gegenstaende/europiumharnisch.md): 8 × Europium
+- ![](../bilder/gegenstaende/europiumbeinschutz.png) [Europiumbeinschutz](../gegenstaende/europiumbeinschutz.md): 7 × Europium
+- ![](../bilder/gegenstaende/europiumstiefel.png) [Europiumstiefel](../gegenstaende/europiumstiefel.md): 4 × Europium
 

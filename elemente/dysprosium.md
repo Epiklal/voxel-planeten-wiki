@@ -24,11 +24,11 @@ Hält Neodym-Magnete auch heiß stark – in jedem Elektroauto.
 
 Aus Dysprosium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/dysprosiumspitzhacke.png) Dysprosiumspitzhacke: 3 × Dysprosium + 2 × Bretter
-- ![](../bilder/ausruestung/dysprosiumaxt.png) Dysprosiumaxt: 3 × Dysprosium + 2 × Bretter
-- ![](../bilder/ausruestung/dysprosiumschwert.png) Dysprosiumschwert: 2 × Dysprosium + 1 × Bretter
-- ![](../bilder/ausruestung/dysprosiumhelm.png) Dysprosiumhelm: 5 × Dysprosium
-- ![](../bilder/ausruestung/dysprosiumharnisch.png) Dysprosiumharnisch: 8 × Dysprosium
-- ![](../bilder/ausruestung/dysprosiumbeinschutz.png) Dysprosiumbeinschutz: 7 × Dysprosium
-- ![](../bilder/ausruestung/dysprosiumstiefel.png) Dysprosiumstiefel: 4 × Dysprosium
+- ![](../bilder/ausruestung/dysprosiumspitzhacke.png) [Dysprosiumspitzhacke](../elemente/dysprosium.md): 3 × Dysprosium + 2 × Bretter
+- ![](../bilder/ausruestung/dysprosiumaxt.png) [Dysprosiumaxt](../elemente/dysprosium.md): 3 × Dysprosium + 2 × Bretter
+- ![](../bilder/ausruestung/dysprosiumschwert.png) [Dysprosiumschwert](../elemente/dysprosium.md): 2 × Dysprosium + 1 × Bretter
+- ![](../bilder/gegenstaende/dysprosiumhelm.png) [Dysprosiumhelm](../gegenstaende/dysprosiumhelm.md): 5 × Dysprosium
+- ![](../bilder/gegenstaende/dysprosiumharnisch.png) [Dysprosiumharnisch](../gegenstaende/dysprosiumharnisch.md): 8 × Dysprosium
+- ![](../bilder/gegenstaende/dysprosiumbeinschutz.png) [Dysprosiumbeinschutz](../gegenstaende/dysprosiumbeinschutz.md): 7 × Dysprosium
+- ![](../bilder/gegenstaende/dysprosiumstiefel.png) [Dysprosiumstiefel](../gegenstaende/dysprosiumstiefel.md): 4 × Dysprosium
 

@@ -25,13 +25,13 @@ Leitet Strom und Wärme besser als jedes andere Metall. Silberionen töten Bakte
 
 Aus Silber gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/silberspitzhacke.png) Silberspitzhacke: 3 × Silber + 2 × Bretter
-- ![](../bilder/ausruestung/silberaxt.png) Silberaxt: 3 × Silber + 2 × Bretter
-- ![](../bilder/ausruestung/silberschwert.png) Silberschwert: 2 × Silber + 1 × Bretter
-- ![](../bilder/ausruestung/silberhelm.png) Silberhelm: 5 × Silber
-- ![](../bilder/ausruestung/silberharnisch.png) Silberharnisch: 8 × Silber
-- ![](../bilder/ausruestung/silberbeinschutz.png) Silberbeinschutz: 7 × Silber
-- ![](../bilder/ausruestung/silberstiefel.png) Silberstiefel: 4 × Silber
+- ![](../bilder/ausruestung/silberspitzhacke.png) [Silberspitzhacke](../elemente/silber.md): 3 × Silber + 2 × Bretter
+- ![](../bilder/ausruestung/silberaxt.png) [Silberaxt](../elemente/silber.md): 3 × Silber + 2 × Bretter
+- ![](../bilder/ausruestung/silberschwert.png) [Silberschwert](../elemente/silber.md): 2 × Silber + 1 × Bretter
+- ![](../bilder/gegenstaende/silberhelm.png) [Silberhelm](../gegenstaende/silberhelm.md): 5 × Silber
+- ![](../bilder/gegenstaende/silberharnisch.png) [Silberharnisch](../gegenstaende/silberharnisch.md): 8 × Silber
+- ![](../bilder/gegenstaende/silberbeinschutz.png) [Silberbeinschutz](../gegenstaende/silberbeinschutz.md): 7 × Silber
+- ![](../bilder/gegenstaende/silberstiefel.png) [Silberstiefel](../gegenstaende/silberstiefel.md): 4 × Silber
 
 ## Verwendet für
 

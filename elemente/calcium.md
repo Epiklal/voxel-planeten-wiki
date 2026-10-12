@@ -29,13 +29,13 @@ Ca + 2 H2O → Ca(OH)2 + H2: Calcium sinkt und sprudelt kräftig, das Wasser wir
 
 Aus Calcium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/calciumspitzhacke.png) Calciumspitzhacke: 3 × Calcium + 2 × Bretter
-- ![](../bilder/ausruestung/calciumaxt.png) Calciumaxt: 3 × Calcium + 2 × Bretter
-- ![](../bilder/ausruestung/calciumschwert.png) Calciumschwert: 2 × Calcium + 1 × Bretter
-- ![](../bilder/ausruestung/calciumhelm.png) Calciumhelm: 5 × Calcium
-- ![](../bilder/ausruestung/calciumharnisch.png) Calciumharnisch: 8 × Calcium
-- ![](../bilder/ausruestung/calciumbeinschutz.png) Calciumbeinschutz: 7 × Calcium
-- ![](../bilder/ausruestung/calciumstiefel.png) Calciumstiefel: 4 × Calcium
+- ![](../bilder/ausruestung/calciumspitzhacke.png) [Calciumspitzhacke](../elemente/calcium.md): 3 × Calcium + 2 × Bretter
+- ![](../bilder/ausruestung/calciumaxt.png) [Calciumaxt](../elemente/calcium.md): 3 × Calcium + 2 × Bretter
+- ![](../bilder/ausruestung/calciumschwert.png) [Calciumschwert](../elemente/calcium.md): 2 × Calcium + 1 × Bretter
+- ![](../bilder/gegenstaende/calciumhelm.png) [Calciumhelm](../gegenstaende/calciumhelm.md): 5 × Calcium
+- ![](../bilder/gegenstaende/calciumharnisch.png) [Calciumharnisch](../gegenstaende/calciumharnisch.md): 8 × Calcium
+- ![](../bilder/gegenstaende/calciumbeinschutz.png) [Calciumbeinschutz](../gegenstaende/calciumbeinschutz.md): 7 × Calcium
+- ![](../bilder/gegenstaende/calciumstiefel.png) [Calciumstiefel](../gegenstaende/calciumstiefel.md): 4 × Calcium
 
 ## Verwendet für
 

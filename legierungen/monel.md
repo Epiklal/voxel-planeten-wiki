@@ -19,11 +19,11 @@ Rostet nicht einmal im Meerwasser – Schiffsteile und Brillengestelle.
 
 Aus Monel gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/monelspitzhacke.png) Monelspitzhacke: 3 × Monel + 2 × Bretter
-- ![](../bilder/ausruestung/monelaxt.png) Monelaxt: 3 × Monel + 2 × Bretter
-- ![](../bilder/ausruestung/monelschwert.png) Monelschwert: 2 × Monel + 1 × Bretter
-- ![](../bilder/ausruestung/monelhelm.png) Monelhelm: 5 × Monel
-- ![](../bilder/ausruestung/monelharnisch.png) Monelharnisch: 8 × Monel
-- ![](../bilder/ausruestung/monelbeinschutz.png) Monelbeinschutz: 7 × Monel
-- ![](../bilder/ausruestung/monelstiefel.png) Monelstiefel: 4 × Monel
+- ![](../bilder/ausruestung/monelspitzhacke.png) [Monelspitzhacke](../legierungen/monel.md): 3 × Monel + 2 × Bretter
+- ![](../bilder/ausruestung/monelaxt.png) [Monelaxt](../legierungen/monel.md): 3 × Monel + 2 × Bretter
+- ![](../bilder/ausruestung/monelschwert.png) [Monelschwert](../legierungen/monel.md): 2 × Monel + 1 × Bretter
+- ![](../bilder/gegenstaende/monelhelm.png) [Monelhelm](../gegenstaende/monelhelm.md): 5 × Monel
+- ![](../bilder/gegenstaende/monelharnisch.png) [Monelharnisch](../gegenstaende/monelharnisch.md): 8 × Monel
+- ![](../bilder/gegenstaende/monelbeinschutz.png) [Monelbeinschutz](../gegenstaende/monelbeinschutz.md): 7 × Monel
+- ![](../bilder/gegenstaende/monelstiefel.png) [Monelstiefel](../gegenstaende/monelstiefel.md): 4 × Monel
 

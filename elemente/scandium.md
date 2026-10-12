@@ -24,11 +24,11 @@ Mendelejew sagte es 1871 voraus, mitsamt Gewicht und Eigenschaften – acht Jahr
 
 Aus Scandium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/scandiumspitzhacke.png) Scandiumspitzhacke: 3 × Scandium + 2 × Bretter
-- ![](../bilder/ausruestung/scandiumaxt.png) Scandiumaxt: 3 × Scandium + 2 × Bretter
-- ![](../bilder/ausruestung/scandiumschwert.png) Scandiumschwert: 2 × Scandium + 1 × Bretter
-- ![](../bilder/ausruestung/scandiumhelm.png) Scandiumhelm: 5 × Scandium
-- ![](../bilder/ausruestung/scandiumharnisch.png) Scandiumharnisch: 8 × Scandium
-- ![](../bilder/ausruestung/scandiumbeinschutz.png) Scandiumbeinschutz: 7 × Scandium
-- ![](../bilder/ausruestung/scandiumstiefel.png) Scandiumstiefel: 4 × Scandium
+- ![](../bilder/ausruestung/scandiumspitzhacke.png) [Scandiumspitzhacke](../elemente/scandium.md): 3 × Scandium + 2 × Bretter
+- ![](../bilder/ausruestung/scandiumaxt.png) [Scandiumaxt](../elemente/scandium.md): 3 × Scandium + 2 × Bretter
+- ![](../bilder/ausruestung/scandiumschwert.png) [Scandiumschwert](../elemente/scandium.md): 2 × Scandium + 1 × Bretter
+- ![](../bilder/gegenstaende/scandiumhelm.png) [Scandiumhelm](../gegenstaende/scandiumhelm.md): 5 × Scandium
+- ![](../bilder/gegenstaende/scandiumharnisch.png) [Scandiumharnisch](../gegenstaende/scandiumharnisch.md): 8 × Scandium
+- ![](../bilder/gegenstaende/scandiumbeinschutz.png) [Scandiumbeinschutz](../gegenstaende/scandiumbeinschutz.md): 7 × Scandium
+- ![](../bilder/gegenstaende/scandiumstiefel.png) [Scandiumstiefel](../gegenstaende/scandiumstiefel.md): 4 × Scandium
 

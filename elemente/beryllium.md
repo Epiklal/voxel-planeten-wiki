@@ -24,13 +24,13 @@ Leichter als Aluminium, steifer als Stahl. Die Spiegel des James-Webb-Teleskops 
 
 Aus Beryllium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/berylliumspitzhacke.png) Berylliumspitzhacke: 3 × Beryllium + 2 × Bretter
-- ![](../bilder/ausruestung/berylliumaxt.png) Berylliumaxt: 3 × Beryllium + 2 × Bretter
-- ![](../bilder/ausruestung/berylliumschwert.png) Berylliumschwert: 2 × Beryllium + 1 × Bretter
-- ![](../bilder/ausruestung/berylliumhelm.png) Berylliumhelm: 5 × Beryllium
-- ![](../bilder/ausruestung/berylliumharnisch.png) Berylliumharnisch: 8 × Beryllium
-- ![](../bilder/ausruestung/berylliumbeinschutz.png) Berylliumbeinschutz: 7 × Beryllium
-- ![](../bilder/ausruestung/berylliumstiefel.png) Berylliumstiefel: 4 × Beryllium
+- ![](../bilder/ausruestung/berylliumspitzhacke.png) [Berylliumspitzhacke](../elemente/beryllium.md): 3 × Beryllium + 2 × Bretter
+- ![](../bilder/ausruestung/berylliumaxt.png) [Berylliumaxt](../elemente/beryllium.md): 3 × Beryllium + 2 × Bretter
+- ![](../bilder/ausruestung/berylliumschwert.png) [Berylliumschwert](../elemente/beryllium.md): 2 × Beryllium + 1 × Bretter
+- ![](../bilder/gegenstaende/berylliumhelm.png) [Berylliumhelm](../gegenstaende/berylliumhelm.md): 5 × Beryllium
+- ![](../bilder/gegenstaende/berylliumharnisch.png) [Berylliumharnisch](../gegenstaende/berylliumharnisch.md): 8 × Beryllium
+- ![](../bilder/gegenstaende/berylliumbeinschutz.png) [Berylliumbeinschutz](../gegenstaende/berylliumbeinschutz.md): 7 × Beryllium
+- ![](../bilder/gegenstaende/berylliumstiefel.png) [Berylliumstiefel](../gegenstaende/berylliumstiefel.md): 4 × Beryllium
 
 ## Verwendet für
 

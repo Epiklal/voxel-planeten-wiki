@@ -29,13 +29,13 @@ Brennt auf Wasser mit violetter Flamme. Bananen sind leicht radioaktiv – wegen
 
 Aus Kalium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/kaliumspitzhacke.png) Kaliumspitzhacke: 3 × Kalium + 2 × Bretter
-- ![](../bilder/ausruestung/kaliumaxt.png) Kaliumaxt: 3 × Kalium + 2 × Bretter
-- ![](../bilder/ausruestung/kaliumschwert.png) Kaliumschwert: 2 × Kalium + 1 × Bretter
-- ![](../bilder/ausruestung/kaliumhelm.png) Kaliumhelm: 5 × Kalium
-- ![](../bilder/ausruestung/kaliumharnisch.png) Kaliumharnisch: 8 × Kalium
-- ![](../bilder/ausruestung/kaliumbeinschutz.png) Kaliumbeinschutz: 7 × Kalium
-- ![](../bilder/ausruestung/kaliumstiefel.png) Kaliumstiefel: 4 × Kalium
+- ![](../bilder/ausruestung/kaliumspitzhacke.png) [Kaliumspitzhacke](../elemente/kalium.md): 3 × Kalium + 2 × Bretter
+- ![](../bilder/ausruestung/kaliumaxt.png) [Kaliumaxt](../elemente/kalium.md): 3 × Kalium + 2 × Bretter
+- ![](../bilder/ausruestung/kaliumschwert.png) [Kaliumschwert](../elemente/kalium.md): 2 × Kalium + 1 × Bretter
+- ![](../bilder/gegenstaende/kaliumhelm.png) [Kaliumhelm](../gegenstaende/kaliumhelm.md): 5 × Kalium
+- ![](../bilder/gegenstaende/kaliumharnisch.png) [Kaliumharnisch](../gegenstaende/kaliumharnisch.md): 8 × Kalium
+- ![](../bilder/gegenstaende/kaliumbeinschutz.png) [Kaliumbeinschutz](../gegenstaende/kaliumbeinschutz.md): 7 × Kalium
+- ![](../bilder/gegenstaende/kaliumstiefel.png) [Kaliumstiefel](../gegenstaende/kaliumstiefel.md): 4 × Kalium
 
 ## Verwendet für
 

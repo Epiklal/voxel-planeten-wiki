@@ -29,13 +29,13 @@ Ba + 2 H2O → Ba(OH)2 + H2: Barium sprudelt sehr heftig – im Feuerwerk färbt
 
 Aus Barium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt nichts):
 
-- ![](../bilder/ausruestung/bariumspitzhacke.png) Bariumspitzhacke: 3 × Barium + 2 × Bretter
-- ![](../bilder/ausruestung/bariumaxt.png) Bariumaxt: 3 × Barium + 2 × Bretter
-- ![](../bilder/ausruestung/bariumschwert.png) Bariumschwert: 2 × Barium + 1 × Bretter
-- ![](../bilder/ausruestung/bariumhelm.png) Bariumhelm: 5 × Barium
-- ![](../bilder/ausruestung/bariumharnisch.png) Bariumharnisch: 8 × Barium
-- ![](../bilder/ausruestung/bariumbeinschutz.png) Bariumbeinschutz: 7 × Barium
-- ![](../bilder/ausruestung/bariumstiefel.png) Bariumstiefel: 4 × Barium
+- ![](../bilder/ausruestung/bariumspitzhacke.png) [Bariumspitzhacke](../elemente/barium.md): 3 × Barium + 2 × Bretter
+- ![](../bilder/ausruestung/bariumaxt.png) [Bariumaxt](../elemente/barium.md): 3 × Barium + 2 × Bretter
+- ![](../bilder/ausruestung/bariumschwert.png) [Bariumschwert](../elemente/barium.md): 2 × Barium + 1 × Bretter
+- ![](../bilder/gegenstaende/bariumhelm.png) [Bariumhelm](../gegenstaende/bariumhelm.md): 5 × Barium
+- ![](../bilder/gegenstaende/bariumharnisch.png) [Bariumharnisch](../gegenstaende/bariumharnisch.md): 8 × Barium
+- ![](../bilder/gegenstaende/bariumbeinschutz.png) [Bariumbeinschutz](../gegenstaende/bariumbeinschutz.md): 7 × Barium
+- ![](../bilder/gegenstaende/bariumstiefel.png) [Bariumstiefel](../gegenstaende/bariumstiefel.md): 4 × Barium
 
 ## Verwendet für
 

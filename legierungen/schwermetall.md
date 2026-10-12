@@ -19,11 +19,11 @@ Fast so dicht wie Gold, aber hart: Gegengewichte in Flugzeugen und Rennwagen.
 
 Aus Schwermetall gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/schwermetallspitzhacke.png) Schwermetallspitzhacke: 3 × Schwermetall + 2 × Bretter
-- ![](../bilder/ausruestung/schwermetallaxt.png) Schwermetallaxt: 3 × Schwermetall + 2 × Bretter
-- ![](../bilder/ausruestung/schwermetallschwert.png) Schwermetallschwert: 2 × Schwermetall + 1 × Bretter
-- ![](../bilder/ausruestung/schwermetallhelm.png) Schwermetallhelm: 5 × Schwermetall
-- ![](../bilder/ausruestung/schwermetallharnisch.png) Schwermetallharnisch: 8 × Schwermetall
-- ![](../bilder/ausruestung/schwermetallbeinschutz.png) Schwermetallbeinschutz: 7 × Schwermetall
-- ![](../bilder/ausruestung/schwermetallstiefel.png) Schwermetallstiefel: 4 × Schwermetall
+- ![](../bilder/ausruestung/schwermetallspitzhacke.png) [Schwermetallspitzhacke](../legierungen/schwermetall.md): 3 × Schwermetall + 2 × Bretter
+- ![](../bilder/ausruestung/schwermetallaxt.png) [Schwermetallaxt](../legierungen/schwermetall.md): 3 × Schwermetall + 2 × Bretter
+- ![](../bilder/ausruestung/schwermetallschwert.png) [Schwermetallschwert](../legierungen/schwermetall.md): 2 × Schwermetall + 1 × Bretter
+- ![](../bilder/gegenstaende/schwermetallhelm.png) [Schwermetallhelm](../gegenstaende/schwermetallhelm.md): 5 × Schwermetall
+- ![](../bilder/gegenstaende/schwermetallharnisch.png) [Schwermetallharnisch](../gegenstaende/schwermetallharnisch.md): 8 × Schwermetall
+- ![](../bilder/gegenstaende/schwermetallbeinschutz.png) [Schwermetallbeinschutz](../gegenstaende/schwermetallbeinschutz.md): 7 × Schwermetall
+- ![](../bilder/gegenstaende/schwermetallstiefel.png) [Schwermetallstiefel](../gegenstaende/schwermetallstiefel.md): 4 × Schwermetall
 

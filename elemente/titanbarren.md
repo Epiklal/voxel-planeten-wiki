@@ -24,13 +24,13 @@ So fest wie Stahl, fast halb so schwer, rostfrei und vom Körper gut vertragen �
 
 Aus Titanbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/gegenstaende/titanspitzhacke.png) Titanspitzhacke: 3 × Titanbarren + 2 × Bretter
-- ![](../bilder/gegenstaende/titanaxt.png) Titanaxt: 3 × Titanbarren + 2 × Bretter
-- ![](../bilder/gegenstaende/titanschwert.png) Titanschwert: 2 × Titanbarren + 1 × Bretter
-- ![](../bilder/gegenstaende/titanhelm.png) Titanhelm: 5 × Titanbarren
-- ![](../bilder/gegenstaende/titanharnisch.png) Titanharnisch: 8 × Titanbarren
-- ![](../bilder/gegenstaende/titanbeinschutz.png) Titanbeinschutz: 7 × Titanbarren
-- ![](../bilder/gegenstaende/titanstiefel.png) Titanstiefel: 4 × Titanbarren
+- ![](../bilder/gegenstaende/titanspitzhacke.png) [Titanspitzhacke](../gegenstaende/titanspitzhacke.md): 3 × Titanbarren + 2 × Bretter
+- ![](../bilder/gegenstaende/titanaxt.png) [Titanaxt](../gegenstaende/titanaxt.md): 3 × Titanbarren + 2 × Bretter
+- ![](../bilder/gegenstaende/titanschwert.png) [Titanschwert](../gegenstaende/titanschwert.md): 2 × Titanbarren + 1 × Bretter
+- ![](../bilder/gegenstaende/titanhelm.png) [Titanhelm](../gegenstaende/titanhelm.md): 5 × Titanbarren
+- ![](../bilder/gegenstaende/titanharnisch.png) [Titanharnisch](../gegenstaende/titanharnisch.md): 8 × Titanbarren
+- ![](../bilder/gegenstaende/titanbeinschutz.png) [Titanbeinschutz](../gegenstaende/titanbeinschutz.md): 7 × Titanbarren
+- ![](../bilder/gegenstaende/titanstiefel.png) [Titanstiefel](../gegenstaende/titanstiefel.md): 4 × Titanbarren
 
 ## Verwendet für
 

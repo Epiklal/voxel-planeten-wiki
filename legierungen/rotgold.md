@@ -19,11 +19,11 @@ Je mehr Kupfer, desto rötlicher. In Russland war Gold oft rot.
 
 Aus Rotgold gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/rotgoldspitzhacke.png) Rotgoldspitzhacke: 3 × Rotgold + 2 × Bretter
-- ![](../bilder/ausruestung/rotgoldaxt.png) Rotgoldaxt: 3 × Rotgold + 2 × Bretter
-- ![](../bilder/ausruestung/rotgoldschwert.png) Rotgoldschwert: 2 × Rotgold + 1 × Bretter
-- ![](../bilder/ausruestung/rotgoldhelm.png) Rotgoldhelm: 5 × Rotgold
-- ![](../bilder/ausruestung/rotgoldharnisch.png) Rotgoldharnisch: 8 × Rotgold
-- ![](../bilder/ausruestung/rotgoldbeinschutz.png) Rotgoldbeinschutz: 7 × Rotgold
-- ![](../bilder/ausruestung/rotgoldstiefel.png) Rotgoldstiefel: 4 × Rotgold
+- ![](../bilder/ausruestung/rotgoldspitzhacke.png) [Rotgoldspitzhacke](../legierungen/rotgold.md): 3 × Rotgold + 2 × Bretter
+- ![](../bilder/ausruestung/rotgoldaxt.png) [Rotgoldaxt](../legierungen/rotgold.md): 3 × Rotgold + 2 × Bretter
+- ![](../bilder/ausruestung/rotgoldschwert.png) [Rotgoldschwert](../legierungen/rotgold.md): 2 × Rotgold + 1 × Bretter
+- ![](../bilder/gegenstaende/rotgoldhelm.png) [Rotgoldhelm](../gegenstaende/rotgoldhelm.md): 5 × Rotgold
+- ![](../bilder/gegenstaende/rotgoldharnisch.png) [Rotgoldharnisch](../gegenstaende/rotgoldharnisch.md): 8 × Rotgold
+- ![](../bilder/gegenstaende/rotgoldbeinschutz.png) [Rotgoldbeinschutz](../gegenstaende/rotgoldbeinschutz.md): 7 × Rotgold
+- ![](../bilder/gegenstaende/rotgoldstiefel.png) [Rotgoldstiefel](../gegenstaende/rotgoldstiefel.md): 4 × Rotgold
 

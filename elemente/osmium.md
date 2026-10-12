@@ -24,11 +24,11 @@ Das dichteste Element: Ein Würfel mit 10 cm Kante wiegt 22,6 kg.
 
 Aus Osmium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
-- ![](../bilder/ausruestung/osmiumspitzhacke.png) Osmiumspitzhacke: 3 × Osmium + 2 × Bretter
-- ![](../bilder/ausruestung/osmiumaxt.png) Osmiumaxt: 3 × Osmium + 2 × Bretter
-- ![](../bilder/ausruestung/osmiumschwert.png) Osmiumschwert: 2 × Osmium + 1 × Bretter
-- ![](../bilder/ausruestung/osmiumhelm.png) Osmiumhelm: 5 × Osmium
-- ![](../bilder/ausruestung/osmiumharnisch.png) Osmiumharnisch: 8 × Osmium
-- ![](../bilder/ausruestung/osmiumbeinschutz.png) Osmiumbeinschutz: 7 × Osmium
-- ![](../bilder/ausruestung/osmiumstiefel.png) Osmiumstiefel: 4 × Osmium
+- ![](../bilder/ausruestung/osmiumspitzhacke.png) [Osmiumspitzhacke](../elemente/osmium.md): 3 × Osmium + 2 × Bretter
+- ![](../bilder/ausruestung/osmiumaxt.png) [Osmiumaxt](../elemente/osmium.md): 3 × Osmium + 2 × Bretter
+- ![](../bilder/ausruestung/osmiumschwert.png) [Osmiumschwert](../elemente/osmium.md): 2 × Osmium + 1 × Bretter
+- ![](../bilder/gegenstaende/osmiumhelm.png) [Osmiumhelm](../gegenstaende/osmiumhelm.md): 5 × Osmium
+- ![](../bilder/gegenstaende/osmiumharnisch.png) [Osmiumharnisch](../gegenstaende/osmiumharnisch.md): 8 × Osmium
+- ![](../bilder/gegenstaende/osmiumbeinschutz.png) [Osmiumbeinschutz](../gegenstaende/osmiumbeinschutz.md): 7 × Osmium
+- ![](../bilder/gegenstaende/osmiumstiefel.png) [Osmiumstiefel](../gegenstaende/osmiumstiefel.md): 4 × Osmium
 

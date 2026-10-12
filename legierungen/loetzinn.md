@@ -19,11 +19,11 @@ Hält jede Platine zusammen. Früher mit Blei, heute mit Silber.
 
 Aus Lötzinn gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/loetzinnspitzhacke.png) Lötzinnspitzhacke: 3 × Lötzinn + 2 × Bretter
-- ![](../bilder/ausruestung/loetzinnaxt.png) Lötzinnaxt: 3 × Lötzinn + 2 × Bretter
-- ![](../bilder/ausruestung/loetzinnschwert.png) Lötzinnschwert: 2 × Lötzinn + 1 × Bretter
-- ![](../bilder/ausruestung/loetzinnhelm.png) Lötzinnhelm: 5 × Lötzinn
-- ![](../bilder/ausruestung/loetzinnharnisch.png) Lötzinnharnisch: 8 × Lötzinn
-- ![](../bilder/ausruestung/loetzinnbeinschutz.png) Lötzinnbeinschutz: 7 × Lötzinn
-- ![](../bilder/ausruestung/loetzinnstiefel.png) Lötzinnstiefel: 4 × Lötzinn
+- ![](../bilder/ausruestung/loetzinnspitzhacke.png) [Lötzinnspitzhacke](../legierungen/loetzinn.md): 3 × Lötzinn + 2 × Bretter
+- ![](../bilder/ausruestung/loetzinnaxt.png) [Lötzinnaxt](../legierungen/loetzinn.md): 3 × Lötzinn + 2 × Bretter
+- ![](../bilder/ausruestung/loetzinnschwert.png) [Lötzinnschwert](../legierungen/loetzinn.md): 2 × Lötzinn + 1 × Bretter
+- ![](../bilder/gegenstaende/loetzinnhelm.png) [Lötzinnhelm](../gegenstaende/loetzinnhelm.md): 5 × Lötzinn
+- ![](../bilder/gegenstaende/loetzinnharnisch.png) [Lötzinnharnisch](../gegenstaende/loetzinnharnisch.md): 8 × Lötzinn
+- ![](../bilder/gegenstaende/loetzinnbeinschutz.png) [Lötzinnbeinschutz](../gegenstaende/loetzinnbeinschutz.md): 7 × Lötzinn
+- ![](../bilder/gegenstaende/loetzinnstiefel.png) [Lötzinnstiefel](../gegenstaende/loetzinnstiefel.md): 4 × Lötzinn
 

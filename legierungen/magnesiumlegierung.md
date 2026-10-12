@@ -19,11 +19,11 @@ Ein Drittel leichter als Aluminium: Laptop-Gehäuse, Lenkräder, Felgen.
 
 Aus Magnesiumlegierung gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/magnesiumlegierungspitzhacke.png) Magnesiumlegierungspitzhacke: 3 × Magnesiumlegierung + 2 × Bretter
-- ![](../bilder/ausruestung/magnesiumlegierungaxt.png) Magnesiumlegierungaxt: 3 × Magnesiumlegierung + 2 × Bretter
-- ![](../bilder/ausruestung/magnesiumlegierungschwert.png) Magnesiumlegierungschwert: 2 × Magnesiumlegierung + 1 × Bretter
-- ![](../bilder/ausruestung/magnesiumlegierunghelm.png) Magnesiumlegierunghelm: 5 × Magnesiumlegierung
-- ![](../bilder/ausruestung/magnesiumlegierungharnisch.png) Magnesiumlegierungharnisch: 8 × Magnesiumlegierung
-- ![](../bilder/ausruestung/magnesiumlegierungbeinschutz.png) Magnesiumlegierungbeinschutz: 7 × Magnesiumlegierung
-- ![](../bilder/ausruestung/magnesiumlegierungstiefel.png) Magnesiumlegierungstiefel: 4 × Magnesiumlegierung
+- ![](../bilder/ausruestung/magnesiumlegierungspitzhacke.png) [Magnesiumlegierungspitzhacke](../legierungen/magnesiumlegierung.md): 3 × Magnesiumlegierung + 2 × Bretter
+- ![](../bilder/ausruestung/magnesiumlegierungaxt.png) [Magnesiumlegierungaxt](../legierungen/magnesiumlegierung.md): 3 × Magnesiumlegierung + 2 × Bretter
+- ![](../bilder/ausruestung/magnesiumlegierungschwert.png) [Magnesiumlegierungschwert](../legierungen/magnesiumlegierung.md): 2 × Magnesiumlegierung + 1 × Bretter
+- ![](../bilder/gegenstaende/magnesiumlegierunghelm.png) [Magnesiumlegierunghelm](../gegenstaende/magnesiumlegierunghelm.md): 5 × Magnesiumlegierung
+- ![](../bilder/gegenstaende/magnesiumlegierungharnisch.png) [Magnesiumlegierungharnisch](../gegenstaende/magnesiumlegierungharnisch.md): 8 × Magnesiumlegierung
+- ![](../bilder/gegenstaende/magnesiumlegierungbeinschutz.png) [Magnesiumlegierungbeinschutz](../gegenstaende/magnesiumlegierungbeinschutz.md): 7 × Magnesiumlegierung
+- ![](../bilder/gegenstaende/magnesiumlegierungstiefel.png) [Magnesiumlegierungstiefel](../gegenstaende/magnesiumlegierungstiefel.md): 4 × Magnesiumlegierung
 

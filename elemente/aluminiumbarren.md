@@ -24,13 +24,13 @@ War einmal teurer als Gold: Napoleon III. ließ seine Ehrengäste mit Aluminiumb
 
 Aus Aluminiumbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
-- ![](../bilder/ausruestung/aluminiumspitzhacke.png) Aluminiumspitzhacke: 3 × Aluminiumbarren + 2 × Bretter
-- ![](../bilder/ausruestung/aluminiumaxt.png) Aluminiumaxt: 3 × Aluminiumbarren + 2 × Bretter
-- ![](../bilder/ausruestung/aluminiumschwert.png) Aluminiumschwert: 2 × Aluminiumbarren + 1 × Bretter
-- ![](../bilder/ausruestung/aluminiumhelm.png) Aluminiumhelm: 5 × Aluminiumbarren
-- ![](../bilder/ausruestung/aluminiumharnisch.png) Aluminiumharnisch: 8 × Aluminiumbarren
-- ![](../bilder/ausruestung/aluminiumbeinschutz.png) Aluminiumbeinschutz: 7 × Aluminiumbarren
-- ![](../bilder/ausruestung/aluminiumstiefel.png) Aluminiumstiefel: 4 × Aluminiumbarren
+- ![](../bilder/ausruestung/aluminiumspitzhacke.png) [Aluminiumspitzhacke](../elemente/aluminiumbarren.md): 3 × Aluminiumbarren + 2 × Bretter
+- ![](../bilder/ausruestung/aluminiumaxt.png) [Aluminiumaxt](../elemente/aluminiumbarren.md): 3 × Aluminiumbarren + 2 × Bretter
+- ![](../bilder/ausruestung/aluminiumschwert.png) [Aluminiumschwert](../elemente/aluminiumbarren.md): 2 × Aluminiumbarren + 1 × Bretter
+- ![](../bilder/gegenstaende/aluminiumhelm.png) [Aluminiumhelm](../gegenstaende/aluminiumhelm.md): 5 × Aluminiumbarren
+- ![](../bilder/gegenstaende/aluminiumharnisch.png) [Aluminiumharnisch](../gegenstaende/aluminiumharnisch.md): 8 × Aluminiumbarren
+- ![](../bilder/gegenstaende/aluminiumbeinschutz.png) [Aluminiumbeinschutz](../gegenstaende/aluminiumbeinschutz.md): 7 × Aluminiumbarren
+- ![](../bilder/gegenstaende/aluminiumstiefel.png) [Aluminiumstiefel](../gegenstaende/aluminiumstiefel.md): 4 × Aluminiumbarren
 
 ## Verwendet für
 
