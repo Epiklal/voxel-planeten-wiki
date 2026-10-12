@@ -18,7 +18,7 @@ Er rollt auf seiner Bahn: Seine Achse liegt fast waagrecht. Darum dauert ein Pol
 | Umlauf um die Sonne (ein Jahr) | 84 Jahre |
 | Abstand zur Sonne | 19,189 AE (2871 Mio. km) |
 | Exzentrizität | 0,047 |
-| Atmosphäre | bis 800 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 800 km hoch, nicht atembar (Raumanzug), Wolken |
 | Strahlung am Boden | 351 mSv/h |
 | Oberfläche | Gasriese – Wolkenbänder aus [Wolken (türkis)](../bloecke/wolken_tuerkis.md), [Wolken (weiß)](../bloecke/wolken_weiss.md) |
 

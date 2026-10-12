@@ -18,7 +18,7 @@ Mehr als doppelt so schwer wie alle anderen Planeten zusammen. Der Große Rote F
 | Umlauf um die Sonne (ein Jahr) | 11,9 Jahre |
 | Abstand zur Sonne | 5,203 AE (778 Mio. km) |
 | Exzentrizität | 0,048 |
-| Atmosphäre | bis 1000 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 1000 km hoch, nicht atembar (Raumanzug), Wolken |
 | Strahlung am Boden | 63,4 Sv/h |
 | Oberfläche | Gasriese – Wolkenbänder aus [Wolken (creme)](../bloecke/wolken_creme.md), [Wolken (hellbraun)](../bloecke/wolken_hellbraun.md), [Wolken (braun)](../bloecke/wolken_braun.md), [Wolken (weiß)](../bloecke/wolken_weiss.md) |
 

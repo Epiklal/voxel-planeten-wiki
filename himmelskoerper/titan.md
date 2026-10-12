@@ -21,7 +21,7 @@ Der einzige Mond mit dichter Luft (dichter als auf der Erde) und Seen – aus fl
 | Exzentrizität | 0,029 |
 | Richtung | vorwärts |
 | Gebundene Rotation | zeigt seinem Planeten immer dieselbe Seite |
-| Atmosphäre | bis 600 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 600 km hoch, nicht atembar (Raumanzug), Wolken |
 | Strahlung am Boden | 0 µSv/h |
 | Oberfläche | [Tholin](../bloecke/tholin.md), [Eis](../bloecke/eis.md), [Schmutziges Eis](../bloecke/schmutziges_eis.md) |
 

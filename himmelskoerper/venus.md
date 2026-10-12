@@ -19,7 +19,7 @@ Heißer als Merkur (465 °C), obwohl doppelt so weit von der Sonne: Der Treibhau
 | Umlauf um die Sonne (ein Jahr) | 225 Tage |
 | Abstand zur Sonne | 0,723 AE (108 Mio. km) |
 | Exzentrizität | 0,007 |
-| Atmosphäre | bis 250 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 250 km hoch, nicht atembar (Raumanzug), Wolken |
 | Strahlung am Boden | 0 µSv/h |
 | Oberfläche | [Schwefelgestein](../bloecke/schwefelgestein.md), [Basalt](../bloecke/basalt.md) |
 

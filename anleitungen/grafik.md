@@ -41,7 +41,7 @@ Für sehr schwache Rechner (Dual-Core): Grafikstufe **Minimal** – halbe Auflö
 
 **Ton**: Lautstärken für alles, Effekte (Abbauen, Bauen, Schritte, Landen, Schaden, Warpsprung), Umgebung (Wind, Triebwerke, Jetpack), Bedienung (Klicks, Inventar, Chat) und Musik (Standard 50 %). Die eingebauten Geräusche und die eingebaute Musik (ruhige Klänge) erzeugt das Spiel beim Start selbst; eigene Dateien im Ressourcen-Ordner ersetzen sie (siehe unten). Ohne Tongerät bleibt das Spiel einfach still.
 
-**Figur**: wie dich die anderen sehen – Haut, Haare, Frisur (kurz, lang, Glatze, Mütze), Augen, Oberteil, Hose, Schuhe; Linksklick nächste Farbe, Rechtsklick vorige, "Zufällig", "Wie am Anfang" (aus dem Namen). Rechts eine Vorschau. Andere Spieler sind Figuren mit Armen und Beinen, die beim Laufen schwingen (nicht bei Animationen "Aus"). Wer schleicht, duckt sich: Oberkörper nach vorne gebeugt, Kopf tiefer – das sehen auch die anderen.
+**Figur**: wie dich die anderen sehen – Haut, Haare, Frisur (kurz, lang, Glatze, Mütze, Zopf, Irokese, Afro oder Dutt), Augen, Oberteil, Hose, Schuhe. Farben lassen sich aus Paletten wählen und mit RGB-Reglern frei mischen; rechts ist eine Vorschau. Dazu gibt es "Zufällig" und "Wie am Anfang" (aus dem Namen). Andere Spieler sind Figuren mit Armen und Beinen, die beim Laufen schwingen (nicht bei Animationen "Aus"). Wer schleicht, duckt sich: Oberkörper nach vorne gebeugt, Kopf tiefer – das sehen auch die anderen.
 
 **Chat**: neue Zeilen zeigen oder nur im offenen Chat, Anzeigedauer (1–60 s), Anzahl Zeilen, Breite, Hintergrund (durchsichtig bis schwarz), große Schrift, "… ist im Spiel / hat das Spiel verlassen" an oder aus – mit Vorschau.
 

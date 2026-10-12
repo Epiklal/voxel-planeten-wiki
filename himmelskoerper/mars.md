@@ -19,7 +19,7 @@ Hier steht der Olympus Mons, der höchste Vulkan des Sonnensystems – zweieinha
 | Umlauf um die Sonne (ein Jahr) | 687 Tage |
 | Abstand zur Sonne | 1,524 AE (228 Mio. km) |
 | Exzentrizität | 0,093 |
-| Atmosphäre | bis 60 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 60 km hoch, nicht atembar (Raumanzug), Wolken |
 | Strahlung am Boden | 379 mSv/h |
 | Oberfläche | [Roter Sand](../bloecke/roter_sand.md), [Roter Fels](../bloecke/roter_fels.md), [Eis](../bloecke/eis.md) |
 

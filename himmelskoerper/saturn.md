@@ -18,7 +18,7 @@ So leicht, dass er in einer (riesigen) Badewanne schwimmen würde. Seine Ringe r
 | Umlauf um die Sonne (ein Jahr) | 29,5 Jahre |
 | Abstand zur Sonne | 9,537 AE (1427 Mio. km) |
 | Exzentrizität | 0,054 |
-| Atmosphäre | bis 1000 km hoch, nicht atembar (Raumanzug) |
+| Atmosphäre | bis 1000 km hoch, nicht atembar (Raumanzug), Wolken |
 | Ringe | von 66 900 km bis 141 000 km vom Mittelpunkt |
 | Strahlung am Boden | 1,4 Sv/h |
 | Oberfläche | Gasriese – Wolkenbänder aus [Wolken (creme)](../bloecke/wolken_creme.md), [Wolken (weiß)](../bloecke/wolken_weiss.md), [Wolken (hellbraun)](../bloecke/wolken_hellbraun.md), [Wolken (goldgelb)](../bloecke/wolken_goldgelb.md) |
