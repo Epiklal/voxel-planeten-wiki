@@ -8,6 +8,8 @@ Hat einen Ring, wo nach der Lehrbuchmeinung keiner sein dürfte: weit außerhalb
 | Radius | 545 km |
 | Masse | 1,2 · 10^21 kg |
 | Schwerkraft | 0,0275 g (0,27 m/s²) |
+| Kabelumgebung | −231 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 45,5 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

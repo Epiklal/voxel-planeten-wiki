@@ -8,6 +8,8 @@ Ihre Bahn ist so lang gestreckt, dass ihr Abstand zu Neptun um das Siebenfache s
 | Radius | 170 km |
 | Masse | 2,1 · 10^19 kg |
 | Schwerkraft | 0,00494 g (0,05 m/s²) |
+| Kabelumgebung | −222 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 253 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

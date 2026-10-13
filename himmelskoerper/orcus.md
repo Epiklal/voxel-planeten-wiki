@@ -8,6 +8,8 @@ Der "Anti-Pluto": gleiche Umlaufzeit, aber immer genau auf der anderen Seite der
 | Radius | 455 km |
 | Masse | 6,35 · 10^20 kg |
 | Schwerkraft | 0,0209 g (0,2 m/s²) |
+| Kabelumgebung | −229 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 60 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

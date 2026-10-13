@@ -20,5 +20,5 @@ Zuerst auf der Sonne entdeckt (1868, in ihrem Licht) – erst 27 Jahre später a
 
 ## Verwendet für
 
-[Astat](../elemente/astat.md), [Mendelevium](../elemente/mendelevium.md)
+[Astat](../elemente/astat.md), [Mendelevium](../elemente/mendelevium.md), [Helium-Kühler](../gegenstaende/helium_kuehler.md)
 

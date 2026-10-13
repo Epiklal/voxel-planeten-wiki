@@ -8,6 +8,8 @@ Hier steht der Olympus Mons, der höchste Vulkan des Sonnensystems – zweieinha
 | Radius | 3390 km |
 | Masse | 6,42 · 10^23 kg |
 | Schwerkraft | 0,379 g (3,72 m/s²) |
+| Kabelumgebung | −65 °C |
+| Kabelkühlung (Spielwert) | 12,4 % |
 | Sprunghöhe | 3,3 m |
 | Höchster Berg | 21,2 km |
 | Berge im Schnitt | 3 km |

@@ -8,6 +8,8 @@ Er entstand vermutlich, als ein marsgroßer Körper mit der jungen Erde zusammen
 | Radius | 1737 km |
 | Masse | 7,35 · 10^22 kg |
 | Schwerkraft | 0,166 g (1,62 m/s²) |
+| Kabelumgebung | −20 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 7,56 m |
 | Höchster Berg | 10,8 km |
 | Berge im Schnitt | 3 km |

@@ -34,5 +34,5 @@ Aus Beryllium gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
 ## Verwendet für
 
-[Berylliumkupfer](../legierungen/berylliumkupfer.md)
+[Berylliumkupfer](../legierungen/berylliumkupfer.md), [Berylliumkabel](../gegenstaende/berylliumkabel.md)
 

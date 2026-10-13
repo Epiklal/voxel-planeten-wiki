@@ -8,6 +8,8 @@ Saturns zweitgrößter Mond – womöglich mit einem eigenen, hauchdünnen Ring.
 | Radius | 764 km |
 | Masse | 2,31 · 10^21 kg |
 | Schwerkraft | 0,0269 g (0,26 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 46,5 m |
 | Höchster Berg | 4 km |
 | Berge im Schnitt | 1,5 km |

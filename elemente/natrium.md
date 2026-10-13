@@ -39,5 +39,5 @@ Aus Natrium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt 
 
 ## Verwendet für
 
-[NaK](../legierungen/nak.md)
+[NaK](../legierungen/nak.md), [Natriumkabel](../gegenstaende/natriumkabel.md)
 

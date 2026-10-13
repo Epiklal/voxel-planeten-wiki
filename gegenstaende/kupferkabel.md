@@ -2,11 +2,19 @@
 
 ![Kupferkabel](../bilder/gegenstaende/kupferkabel.png)
 
+| Eigenschaft | Wert |
+|---|---|
+| Widerstand | 1 · kleiner ist besser |
+| Vergleich je Block | Kupfer 1/5 = 1 |
+| 1/5 Block dick; dicker | weitere Kabel draufklicken |
+| 2/5 | 4 Kabel, 3/5: 9, 4/5: 16 · Widerstand 1/4, 1/9, 1/16 |
+| Isolieren | mit Gummi draufklicken |
+| Klasse K | 1–K5 wie das Kabel daneben, sonst K3; im Kabelfenster umstellbar |
+| Brenngrenze blank | 1085 °C · isoliert 160 °C |
+|  | Ohm-Werte im Kabelfenster ein-/ausschaltbar |
+|  | Nennstrom und Kühlung hängen vom Planeten ab |
+
 ## Herstellen
 
-- 3 × [Kupferdraht](../gegenstaende/kupferdraht.md) → 6 × [Kupferkabel](../gegenstaende/kupferkabel.md) (Werkbank, 2 s)
-
-## Verwendet für
-
-[Isoliertes Kupferkabel](../gegenstaende/isoliertes_kupferkabel.md)
+- 4 × [Kupferbarren](../elemente/kupferbarren.md) → 1 × [Kupferkabel](../gegenstaende/kupferkabel.md) (Werkbank, 4 s)
 

@@ -8,6 +8,8 @@ Eine Seite schwarz wie Kohle, die andere weiß wie Schnee – und um den Äquato
 | Radius | 734 km |
 | Masse | 1,81 · 10^21 kg |
 | Schwerkraft | 0,0228 g (0,22 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 54,9 m |
 | Höchster Berg | 20 km |
 | Berge im Schnitt | 3 km |

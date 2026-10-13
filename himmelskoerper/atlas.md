@@ -6,6 +6,8 @@
 | Radius | 15,1 km |
 | Masse | 5,54 · 10^15 kg |
 | Schwerkraft | 0,000165 g (0 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 15,1 km |
 | Höchster Berg | 453 m |
 | Berge im Schnitt | 159 m |

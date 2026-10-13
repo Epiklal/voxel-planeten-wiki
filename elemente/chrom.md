@@ -34,5 +34,5 @@ Aus Chrom gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
 ## Verwendet für
 
-[Bohrium](../elemente/bohrium.md), [Nichrom](../legierungen/nichrom.md), [Stellit](../legierungen/stellit.md), [Kanthal](../legierungen/kanthal.md)
+[Bohrium](../elemente/bohrium.md), [Nichrom](../legierungen/nichrom.md), [Stellit](../legierungen/stellit.md), [Kanthal](../legierungen/kanthal.md), [Chromkabel](../gegenstaende/chromkabel.md)
 

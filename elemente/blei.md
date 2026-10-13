@@ -34,5 +34,5 @@ Aus Blei gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Silber](../elemente/silber.md), [Hassium](../elemente/hassium.md), [Darmstadtium](../elemente/darmstadtium.md), [Copernicium](../elemente/copernicium.md), [Woodsches Metall](../legierungen/woodsches_metall.md)
+[Silber](../elemente/silber.md), [Hassium](../elemente/hassium.md), [Darmstadtium](../elemente/darmstadtium.md), [Copernicium](../elemente/copernicium.md), [Woodsches Metall](../legierungen/woodsches_metall.md), [Bleikabel](../gegenstaende/bleikabel.md)
 

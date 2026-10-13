@@ -8,6 +8,8 @@ Benannt nach dem Schöpfergott der Osterinsel – gefunden kurz nach Ostern 2005
 | Radius | 715 km |
 | Masse | 3,1 · 10^21 kg |
 | Schwerkraft | 0,0413 g (0,4 m/s²) |
+| Kabelumgebung | −232 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 30,3 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

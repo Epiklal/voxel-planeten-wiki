@@ -8,6 +8,8 @@ Fast so groß, wie ein Körper sein kann, ohne von der eigenen Schwerkraft rund 
 | Radius | 208 km |
 | Masse | 3,87 · 10^19 kg |
 | Schwerkraft | 0,00609 g (0,06 m/s²) |
+| Kabelumgebung | −222 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 206 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

@@ -8,6 +8,8 @@ Er rollt auf seiner Bahn: Seine Achse liegt fast waagrecht. Darum dauert ein Pol
 | Radius | 25 362 km |
 | Masse | 8,68 · 10^25 kg |
 | Schwerkraft | 0,886 g (8,69 m/s²) |
+| Kabelumgebung | −195 °C |
+| Kabelkühlung (Spielwert) | 100 % |
 | Sprunghöhe | 1,41 m |
 | Höchster Berg | 200 m |
 | Berge im Schnitt | 80 m |

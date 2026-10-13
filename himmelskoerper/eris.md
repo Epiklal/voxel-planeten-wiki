@@ -8,6 +8,8 @@ Ihre Entdeckung 2005 kostete Pluto den Planeten-Titel – Eris ist fast genauso 
 | Radius | 1163 km |
 | Masse | 1,65 · 10^22 kg |
 | Schwerkraft | 0,0828 g (0,81 m/s²) |
+| Kabelumgebung | −239 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 15,1 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

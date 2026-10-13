@@ -8,6 +8,8 @@ Einer der rötesten Körper des Sonnensystems, benannt nach einem chinesischen W
 | Radius | 615 km |
 | Masse | 1,75 · 10^21 kg |
 | Schwerkraft | 0,0315 g (0,31 m/s²) |
+| Kabelumgebung | −239 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 39,8 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

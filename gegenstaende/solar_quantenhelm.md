@@ -11,7 +11,7 @@ Alle Materialien, weitere Rüstungsteile und die Regeln für Schaden, Strom und 
 | Eigenschaft | Wert |
 |---|---|
 | Rüstung + | 4 · 2,7 kg |
-| Strahlenschutz | 14 % · isoliert bis 500 kV |
+| Strahlenschutz | 14 % · isoliert bis 1250 kV |
 |  | Gibt Luft wie ein Raumanzug |
 | Solarmodul | lädt in der Sonne (300 W) |
 |  | Braucht Strom – leer schützt sie nicht |

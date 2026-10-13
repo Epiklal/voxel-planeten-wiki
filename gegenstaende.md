@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-652 Stück, sortiert wie im Inventar.
+669 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -28,7 +28,7 @@
 | ![](bilder/gegenstaende/forschungsreaktor.png) | [Forschungsreaktor](gegenstaende/forschungsreaktor.md) |
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
 
-## Strom (18)
+## Strom (35)
 
 | | Name |
 |---|---|
@@ -38,18 +38,35 @@
 | ![](bilder/gegenstaende/uranzelle.png) | [Uranzelle](gegenstaende/uranzelle.md) |
 | ![](bilder/gegenstaende/uranbrennstab.png) | [Uranbrennstab](gegenstaende/uranbrennstab.md) |
 | ![](bilder/gegenstaende/kernkraftwerk.png) | [Kernkraftwerk](gegenstaende/kernkraftwerk.md) |
-| ![](bilder/gegenstaende/transformator.png) | [Transformator](gegenstaende/transformator.md) |
 | ![](bilder/gegenstaende/hochspannungsmast.png) | [Hochspannungsmast](gegenstaende/hochspannungsmast.md) |
-| ![](bilder/gegenstaende/kupferkabel.png) | [Kupferkabel](gegenstaende/kupferkabel.md) |
-| ![](bilder/gegenstaende/goldkabel.png) | [Goldkabel](gegenstaende/goldkabel.md) |
-| ![](bilder/gegenstaende/hochspannungskabel.png) | [Hochspannungskabel](gegenstaende/hochspannungskabel.md) |
-| ![](bilder/gegenstaende/glasfaserkabel.png) | [Glasfaserkabel](gegenstaende/glasfaserkabel.md) |
-| ![](bilder/gegenstaende/isoliertes_kupferkabel.png) | [Isoliertes Kupferkabel](gegenstaende/isoliertes_kupferkabel.md) |
-| ![](bilder/gegenstaende/isoliertes_goldkabel.png) | [Isoliertes Goldkabel](gegenstaende/isoliertes_goldkabel.md) |
-| ![](bilder/gegenstaende/isoliertes_hochspannungskabel.png) | [Isoliertes Hochspannungskabel](gegenstaende/isoliertes_hochspannungskabel.md) |
 | ![](bilder/gegenstaende/akku.png) | [Akku](gegenstaende/akku.md) |
 | ![](bilder/gegenstaende/energiekristall.png) | [Energiekristall](gegenstaende/energiekristall.md) |
 | ![](bilder/gegenstaende/ladestation.png) | [Ladestation](gegenstaende/ladestation.md) |
+| ![](bilder/gegenstaende/aluminiumkabel.png) | [Aluminiumkabel](gegenstaende/aluminiumkabel.md) |
+| ![](bilder/gegenstaende/antimonkabel.png) | [Antimonkabel](gegenstaende/antimonkabel.md) |
+| ![](bilder/gegenstaende/berylliumkabel.png) | [Berylliumkabel](gegenstaende/berylliumkabel.md) |
+| ![](bilder/gegenstaende/bismutkabel.png) | [Bismutkabel](gegenstaende/bismutkabel.md) |
+| ![](bilder/gegenstaende/cadmiumkabel.png) | [Cadmiumkabel](gegenstaende/cadmiumkabel.md) |
+| ![](bilder/gegenstaende/chromkabel.png) | [Chromkabel](gegenstaende/chromkabel.md) |
+| ![](bilder/gegenstaende/kupferkabel.png) | [Kupferkabel](gegenstaende/kupferkabel.md) |
+| ![](bilder/gegenstaende/goldkabel.png) | [Goldkabel](gegenstaende/goldkabel.md) |
+| ![](bilder/gegenstaende/eisenkabel.png) | [Eisenkabel](gegenstaende/eisenkabel.md) |
+| ![](bilder/gegenstaende/bleikabel.png) | [Bleikabel](gegenstaende/bleikabel.md) |
+| ![](bilder/gegenstaende/lithiumkabel.png) | [Lithiumkabel](gegenstaende/lithiumkabel.md) |
+| ![](bilder/gegenstaende/magnesiumkabel.png) | [Magnesiumkabel](gegenstaende/magnesiumkabel.md) |
+| ![](bilder/gegenstaende/silberkabel.png) | [Silberkabel](gegenstaende/silberkabel.md) |
+| ![](bilder/gegenstaende/natriumkabel.png) | [Natriumkabel](gegenstaende/natriumkabel.md) |
+| ![](bilder/gegenstaende/zinnkabel.png) | [Zinnkabel](gegenstaende/zinnkabel.md) |
+| ![](bilder/gegenstaende/titankabel.png) | [Titankabel](gegenstaende/titankabel.md) |
+| ![](bilder/gegenstaende/wolframkabel.png) | [Wolframkabel](gegenstaende/wolframkabel.md) |
+| ![](bilder/gegenstaende/zinkkabel.png) | [Zinkkabel](gegenstaende/zinkkabel.md) |
+| ![](bilder/gegenstaende/stahlkabel.png) | [Stahlkabel](gegenstaende/stahlkabel.md) |
+| ![](bilder/gegenstaende/niob_supraleiter.png) | [Niob-Supraleiter](gegenstaende/niob_supraleiter.md) |
+| ![](bilder/gegenstaende/helium_kuehler.png) | [Helium-Kühler](gegenstaende/helium_kuehler.md) |
+| ![](bilder/gegenstaende/transformator_v1.png) | [Transformator V1](gegenstaende/transformator_v1.md) |
+| ![](bilder/gegenstaende/transformator_v2.png) | [Transformator V2](gegenstaende/transformator_v2.md) |
+| ![](bilder/gegenstaende/transformator_v3.png) | [Transformator V3](gegenstaende/transformator_v3.md) |
+| ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 
 ## Raumfahrt (10)
 

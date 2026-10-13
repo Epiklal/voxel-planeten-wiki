@@ -8,6 +8,8 @@ Der größte Mond des Uranus, benannt nach der Feenkönigin aus Shakespeares "So
 | Radius | 789 km |
 | Masse | 3,4 · 10^21 kg |
 | Schwerkraft | 0,0372 g (0,36 m/s²) |
+| Kabelumgebung | −210 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 33,7 m |
 | Höchster Berg | 3 km |
 | Berge im Schnitt | 1 km |

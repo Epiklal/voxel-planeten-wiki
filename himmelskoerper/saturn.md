@@ -8,6 +8,8 @@ So leicht, dass er in einer (riesigen) Badewanne schwimmen würde. Seine Ringe r
 | Radius | 58 232 km |
 | Masse | 5,68 · 10^26 kg |
 | Schwerkraft | 1,06 g (10,44 m/s²) |
+| Kabelumgebung | −140 °C |
+| Kabelkühlung (Spielwert) | 100 % |
 | Sprunghöhe | 1,18 m |
 | Höchster Berg | 200 m |
 | Berge im Schnitt | 80 m |

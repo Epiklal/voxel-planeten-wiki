@@ -8,6 +8,8 @@ Ein riesiger Krater (Herschel) lässt ihn aussehen wie den Todesstern aus Star W
 | Radius | 198 km |
 | Masse | 3,75 · 10^19 kg |
 | Schwerkraft | 0,0065 g (0,06 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 193 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,5 km |

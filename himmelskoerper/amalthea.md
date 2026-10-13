@@ -8,6 +8,8 @@ Der röteste Körper des Sonnensystems – und so locker, dass er wohl ein Haufe
 | Radius | 83,5 km |
 | Masse | 2,47 · 10^18 kg |
 | Schwerkraft | 0,00241 g (0,02 m/s²) |
+| Kabelumgebung | −151 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 523 m |
 | Höchster Berg | 2,5 km |
 | Berge im Schnitt | 877 m |

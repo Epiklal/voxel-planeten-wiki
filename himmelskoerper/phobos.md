@@ -8,6 +8,8 @@ Er kommt dem Mars jedes Jahrhundert 2 m näher – in etwa 50 Millionen Jahren z
 | Radius | 11,1 km |
 | Masse | 1,06 · 10^16 kg |
 | Schwerkraft | 0,000588 g (0,01 m/s²) |
+| Kabelumgebung | −48 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 2,63 km |
 | Höchster Berg | 2 km |
 | Berge im Schnitt | 600 m |

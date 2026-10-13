@@ -8,6 +8,8 @@ Alle Uranusmonde tragen Namen aus Shakespeare und Alexander Pope – Oberon ist 
 | Radius | 761 km |
 | Masse | 3,08 · 10^21 kg |
 | Schwerkraft | 0,0361 g (0,35 m/s²) |
+| Kabelumgebung | −210 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 34,7 m |
 | Höchster Berg | 11 km |
 | Berge im Schnitt | 1,5 km |

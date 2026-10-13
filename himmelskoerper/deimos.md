@@ -8,6 +8,8 @@ So klein und mit so wenig Schwerkraft, dass man mit einem kräftigen Sprung fast
 | Radius | 6,2 km |
 | Masse | 1,44 · 10^15 kg |
 | Schwerkraft | 0,000255 g (0 m/s²) |
+| Kabelumgebung | −48 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 6,2 km |
 | Höchster Berg | 1 km |
 | Berge im Schnitt | 300 m |

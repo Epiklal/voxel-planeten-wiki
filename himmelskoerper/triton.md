@@ -8,6 +8,8 @@ Läuft rückwärts um Neptun – ein eingefangener Zwergplanet. Geysire spucken 
 | Radius | 1353 km |
 | Masse | 2,14 · 10^22 kg |
 | Schwerkraft | 0,0796 g (0,78 m/s²) |
+| Kabelumgebung | −222 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 15,7 m |
 | Höchster Berg | 1 km |
 | Berge im Schnitt | 300 m |

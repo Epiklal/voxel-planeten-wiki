@@ -13,7 +13,7 @@ Alle Materialien, weitere Rüstungsteile und die Regeln für Schaden, Strom und 
 | Eigenschaft | Wert |
 |---|---|
 | Rüstung + | 8 · 5,4 kg |
-| Strahlenschutz | 27 % · isoliert bis 500 kV |
+| Strahlenschutz | 27 % · isoliert bis 1250 kV |
 |  | Braucht Strom – leer schützt sie nicht |
 | Energiespeicher | 10 kWh |
 

@@ -8,6 +8,8 @@ Halb so groß wie Pluto: Die beiden kreisen um einen Punkt zwischen sich und zei
 | Radius | 606 km |
 | Masse | 1,59 · 10^21 kg |
 | Schwerkraft | 0,0295 g (0,29 m/s²) |
+| Kabelumgebung | −229 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 42,5 m |
 | Höchster Berg | 6 km |
 | Berge im Schnitt | 2 km |

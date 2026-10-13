@@ -34,5 +34,5 @@ Aus Niob gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
 ## Verwendet für
 
-[Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
+[Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md), [Niob-Supraleiter](../gegenstaende/niob_supraleiter.md)
 

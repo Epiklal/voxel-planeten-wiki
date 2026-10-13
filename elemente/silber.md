@@ -35,5 +35,5 @@ Aus Silber gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Lötzinn](../legierungen/loetzinn.md), [Elektrum](../legierungen/elektrum.md), [Amalgam](../legierungen/amalgam.md), [Sterlingsilber](../legierungen/sterlingsilber.md)
+[Lötzinn](../legierungen/loetzinn.md), [Elektrum](../legierungen/elektrum.md), [Amalgam](../legierungen/amalgam.md), [Sterlingsilber](../legierungen/sterlingsilber.md), [Silberkabel](../gegenstaende/silberkabel.md)
 

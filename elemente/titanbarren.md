@@ -34,5 +34,5 @@ Aus Titanbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
 ## Verwendet für
 
-[Titanplatte](../gegenstaende/titanplatte.md), [Titanblock](../bloecke/titanblock.md), [Titanspitzhacke](../gegenstaende/titanspitzhacke.md), [Titanaxt](../gegenstaende/titanaxt.md), [Blaues Glas](../bloecke/blaues_glas.md), [Titanschwert](../gegenstaende/titanschwert.md), [Titanlegierung](../legierungen/titanlegierung.md), [Nitinol](../legierungen/nitinol.md)
+[Titanplatte](../gegenstaende/titanplatte.md), [Titanblock](../bloecke/titanblock.md), [Titanspitzhacke](../gegenstaende/titanspitzhacke.md), [Titanaxt](../gegenstaende/titanaxt.md), [Blaues Glas](../bloecke/blaues_glas.md), [Titanschwert](../gegenstaende/titanschwert.md), [Titanlegierung](../legierungen/titanlegierung.md), [Nitinol](../legierungen/nitinol.md), [Titankabel](../gegenstaende/titankabel.md)
 

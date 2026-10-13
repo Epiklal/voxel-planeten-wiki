@@ -34,5 +34,5 @@ Aus Zink gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Silber](../elemente/silber.md), [Copernicium](../elemente/copernicium.md), [Nihonium](../elemente/nihonium.md), [Messing](../legierungen/messing.md), [Zamak](../legierungen/zamak.md)
+[Silber](../elemente/silber.md), [Copernicium](../elemente/copernicium.md), [Nihonium](../elemente/nihonium.md), [Messing](../legierungen/messing.md), [Zamak](../legierungen/zamak.md), [Zinkkabel](../gegenstaende/zinkkabel.md)
 

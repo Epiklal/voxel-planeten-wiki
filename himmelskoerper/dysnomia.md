@@ -8,6 +8,8 @@ Benannt nach der Tochter von Eris, der Göttin der Gesetzlosigkeit.
 | Radius | 307 km |
 | Masse | 8,2 · 10^19 kg |
 | Schwerkraft | 0,00592 g (0,06 m/s²) |
+| Kabelumgebung | −239 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 212 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

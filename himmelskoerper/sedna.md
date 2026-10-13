@@ -8,6 +8,8 @@ Einer der fernsten bekannten Körper: Ein Umlauf dauert über 11 000 Jahre.
 | Radius | 497 km |
 | Masse | 9,26 · 10^20 kg |
 | Schwerkraft | 0,0255 g (0,25 m/s²) |
+| Kabelumgebung | −261 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 49,1 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

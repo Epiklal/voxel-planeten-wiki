@@ -8,6 +8,8 @@ Bis 2006 der neunte Planet. Auf ihm liegt ein herzförmiges Gletscherfeld aus St
 | Radius | 1188 km |
 | Masse | 1,3 · 10^22 kg |
 | Schwerkraft | 0,0628 g (0,62 m/s²) |
+| Kabelumgebung | −229 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 19,9 m |
 | Höchster Berg | 6,2 km |
 | Berge im Schnitt | 2,5 km |

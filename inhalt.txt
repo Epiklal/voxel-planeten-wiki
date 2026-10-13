@@ -240,16 +240,8 @@ gegenstaende/uranbrennstab.md	Uranbrennstab	Gegenstand
 gegenstaende/kernkraftwerk.md	Kernkraftwerk	Gegenstand
 gegenstaende/wasserpumpe.md	Wasserpumpe	Gegenstand
 gegenstaende/rohr.md	Rohr	Gegenstand
-gegenstaende/transformator.md	Transformator	Gegenstand
 gegenstaende/hochspannungsmast.md	Hochspannungsmast	Gegenstand
-gegenstaende/kupferkabel.md	Kupferkabel	Gegenstand
-gegenstaende/goldkabel.md	Goldkabel	Gegenstand
-gegenstaende/hochspannungskabel.md	Hochspannungskabel	Gegenstand
-gegenstaende/glasfaserkabel.md	Glasfaserkabel	Gegenstand
 gegenstaende/gummi.md	Gummi	Gegenstand
-gegenstaende/isoliertes_kupferkabel.md	Isoliertes Kupferkabel	Gegenstand
-gegenstaende/isoliertes_goldkabel.md	Isoliertes Goldkabel	Gegenstand
-gegenstaende/isoliertes_hochspannungskabel.md	Isoliertes Hochspannungskabel	Gegenstand
 gegenstaende/raumanzug.md	Raumanzug	Gegenstand
 gegenstaende/diamant.md	Diamant	Gegenstand
 gegenstaende/gummihaube.md	Gummihaube	Gegenstand
@@ -1013,6 +1005,31 @@ gegenstaende/bornitridhelm.md	Bornitridhelm	Gegenstand
 gegenstaende/bornitridharnisch.md	Bornitridharnisch	Gegenstand
 gegenstaende/bornitridbeinschutz.md	Bornitridbeinschutz	Gegenstand
 gegenstaende/bornitridstiefel.md	Bornitridstiefel	Gegenstand
+gegenstaende/aluminiumkabel.md	Aluminiumkabel	Gegenstand
+gegenstaende/antimonkabel.md	Antimonkabel	Gegenstand
+gegenstaende/berylliumkabel.md	Berylliumkabel	Gegenstand
+gegenstaende/bismutkabel.md	Bismutkabel	Gegenstand
+gegenstaende/cadmiumkabel.md	Cadmiumkabel	Gegenstand
+gegenstaende/chromkabel.md	Chromkabel	Gegenstand
+gegenstaende/kupferkabel.md	Kupferkabel	Gegenstand
+gegenstaende/goldkabel.md	Goldkabel	Gegenstand
+gegenstaende/eisenkabel.md	Eisenkabel	Gegenstand
+gegenstaende/bleikabel.md	Bleikabel	Gegenstand
+gegenstaende/lithiumkabel.md	Lithiumkabel	Gegenstand
+gegenstaende/magnesiumkabel.md	Magnesiumkabel	Gegenstand
+gegenstaende/silberkabel.md	Silberkabel	Gegenstand
+gegenstaende/natriumkabel.md	Natriumkabel	Gegenstand
+gegenstaende/zinnkabel.md	Zinnkabel	Gegenstand
+gegenstaende/titankabel.md	Titankabel	Gegenstand
+gegenstaende/wolframkabel.md	Wolframkabel	Gegenstand
+gegenstaende/zinkkabel.md	Zinkkabel	Gegenstand
+gegenstaende/stahlkabel.md	Stahlkabel	Gegenstand
+gegenstaende/niob_supraleiter.md	Niob-Supraleiter	Gegenstand
+gegenstaende/helium_kuehler.md	Helium-Kühler	Gegenstand
+gegenstaende/transformator_v1.md	Transformator V1	Gegenstand
+gegenstaende/transformator_v2.md	Transformator V2	Gegenstand
+gegenstaende/transformator_v3.md	Transformator V3	Gegenstand
+gegenstaende/transformator_v4.md	Transformator V4	Gegenstand
 bloecke/akazienholztuer.md	Akazienholztür	Block
 bloecke/akazienholzzaun.md	Akazienholzzaun	Block
 bloecke/akazienholzzauntor.md	Akazienholzzauntor	Block

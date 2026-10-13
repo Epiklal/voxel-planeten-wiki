@@ -21,5 +21,5 @@ Die alten Ägypter malten sich damit die Augen schwarz.
 
 ## Verwendet für
 
-[Hartzinn](../legierungen/hartzinn.md)
+[Hartzinn](../legierungen/hartzinn.md), [Antimonkabel](../gegenstaende/antimonkabel.md)
 

@@ -39,5 +39,5 @@ Aus Lithium gibt es Werkzeuge, Waffen und Rüstung (Stufe 0 – zu weich, taugt 
 
 ## Verwendet für
 
-[Lithium-Ionen-Zelle](../gegenstaende/lithium_ionen_zelle.md)
+[Lithium-Ionen-Zelle](../gegenstaende/lithium_ionen_zelle.md), [Lithiumkabel](../gegenstaende/lithiumkabel.md)
 

@@ -8,6 +8,8 @@ Aus Spalten am Südpol schießen Fontänen aus Wasser ins All – sie speisen ei
 | Radius | 252 km |
 | Masse | 1,08 · 10^20 kg |
 | Schwerkraft | 0,0116 g (0,11 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 108 m |
 | Höchster Berg | 1,5 km |
 | Berge im Schnitt | 500 m |

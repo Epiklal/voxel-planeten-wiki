@@ -8,6 +8,8 @@ Hier ist die höchste Steilwand des Sonnensystems: Verona Rupes, rund 20 km. Ein
 | Radius | 236 km |
 | Masse | 6,44 · 10^19 kg |
 | Schwerkraft | 0,00788 g (0,08 m/s²) |
+| Kabelumgebung | −210 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 159 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 2 km |

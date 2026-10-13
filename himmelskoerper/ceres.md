@@ -8,6 +8,8 @@ Der größte Körper im Asteroidengürtel – und doch nur gut ein Prozent so sc
 | Radius | 470 km |
 | Masse | 9,38 · 10^20 kg |
 | Schwerkraft | 0,0289 g (0,28 m/s²) |
+| Kabelumgebung | −106 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 43,2 m |
 | Höchster Berg | 7 km |
 | Berge im Schnitt | 2 km |

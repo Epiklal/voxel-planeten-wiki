@@ -29,5 +29,5 @@ Aus Stahl gibt es Werkzeuge, Waffen und Rüstung (Stufe 3):
 
 ## Verwendet für
 
-[Edelstahl](../legierungen/edelstahl.md), [Damaszener Stahl](../legierungen/damaszener_stahl.md), [Schnellarbeitsstahl](../legierungen/schnellarbeitsstahl.md), [Maraging-Stahl](../legierungen/maraging_stahl.md)
+[Edelstahl](../legierungen/edelstahl.md), [Damaszener Stahl](../legierungen/damaszener_stahl.md), [Schnellarbeitsstahl](../legierungen/schnellarbeitsstahl.md), [Maraging-Stahl](../legierungen/maraging_stahl.md), [Stahlkabel](../gegenstaende/stahlkabel.md)
 

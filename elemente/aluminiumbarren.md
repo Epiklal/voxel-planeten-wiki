@@ -34,5 +34,5 @@ Aus Aluminiumbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Aluminiumblech](../gegenstaende/aluminiumblech.md), [Aluminiumblock](../bloecke/aluminiumblock.md), [Hochspannungskabel](../gegenstaende/hochspannungskabel.md), [Barium](../elemente/barium.md), [Chrom](../elemente/chrom.md), [Mangan](../elemente/mangan.md), [Duraluminium](../legierungen/duraluminium.md), [Magnesiumlegierung](../legierungen/magnesiumlegierung.md), [Aluminium-Vanadium](../legierungen/aluminium_vanadium.md), [Alnico](../legierungen/alnico.md), [Zamak](../legierungen/zamak.md), [Aluminiumbronze](../legierungen/aluminiumbronze.md), [Saphir](../gegenstaende/saphir.md)
+[Aluminiumblech](../gegenstaende/aluminiumblech.md), [Aluminiumblock](../bloecke/aluminiumblock.md), [Barium](../elemente/barium.md), [Chrom](../elemente/chrom.md), [Mangan](../elemente/mangan.md), [Duraluminium](../legierungen/duraluminium.md), [Magnesiumlegierung](../legierungen/magnesiumlegierung.md), [Aluminium-Vanadium](../legierungen/aluminium_vanadium.md), [Alnico](../legierungen/alnico.md), [Zamak](../legierungen/zamak.md), [Aluminiumbronze](../legierungen/aluminiumbronze.md), [Saphir](../gegenstaende/saphir.md), [Aluminiumkabel](../gegenstaende/aluminiumkabel.md)
 

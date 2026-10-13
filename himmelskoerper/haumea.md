@@ -8,6 +8,8 @@ Dreht sich in knapp 4 Stunden einmal – so schnell, dass sie zu einem Ei gezoge
 | Radius | 780 km |
 | Masse | 4,01 · 10^21 kg |
 | Schwerkraft | 0,0448 g (0,44 m/s²) |
+| Kabelumgebung | −231 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 27,9 m |
 | Höchster Berg | 5 km |
 | Berge im Schnitt | 1,75 km |

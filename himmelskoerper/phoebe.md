@@ -8,6 +8,8 @@ Läuft rückwärts um Saturn – ein eingefangener Brocken aus dem äußeren Son
 | Radius | 106 km |
 | Masse | 8,31 · 10^18 kg |
 | Schwerkraft | 0,00499 g (0,05 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 252 m |
 | Höchster Berg | 3,19 km |
 | Berge im Schnitt | 1,12 km |

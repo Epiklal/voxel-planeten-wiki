@@ -34,5 +34,5 @@ Aus Wolfram gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 
 ## Verwendet für
 
-[Hartmetall](../legierungen/hartmetall.md), [Schwermetall](../legierungen/schwermetall.md), [Schnellarbeitsstahl](../legierungen/schnellarbeitsstahl.md)
+[Hartmetall](../legierungen/hartmetall.md), [Schwermetall](../legierungen/schwermetall.md), [Schnellarbeitsstahl](../legierungen/schnellarbeitsstahl.md), [Wolframkabel](../gegenstaende/wolframkabel.md)
 

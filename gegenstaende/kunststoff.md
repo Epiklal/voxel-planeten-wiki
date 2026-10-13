@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Isoliertes Kupferkabel](../gegenstaende/isoliertes_kupferkabel.md), [Schiffskabel](../bloecke/schiffskabel.md), [Trennanlage](../gegenstaende/trennanlage.md)
+[Schiffskabel](../bloecke/schiffskabel.md), [Trennanlage](../gegenstaende/trennanlage.md)
 

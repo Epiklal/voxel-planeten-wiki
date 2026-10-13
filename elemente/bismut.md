@@ -34,5 +34,5 @@ Aus Bismut gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Polonium](../elemente/polonium.md), [Astat](../elemente/astat.md), [Bohrium](../elemente/bohrium.md), [Meitnerium](../elemente/meitnerium.md), [Roentgenium](../elemente/roentgenium.md), [Nihonium](../elemente/nihonium.md), [Woodsches Metall](../legierungen/woodsches_metall.md)
+[Polonium](../elemente/polonium.md), [Astat](../elemente/astat.md), [Bohrium](../elemente/bohrium.md), [Meitnerium](../elemente/meitnerium.md), [Roentgenium](../elemente/roentgenium.md), [Nihonium](../elemente/nihonium.md), [Woodsches Metall](../legierungen/woodsches_metall.md), [Bismutkabel](../gegenstaende/bismutkabel.md)
 

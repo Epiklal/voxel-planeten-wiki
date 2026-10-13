@@ -8,6 +8,8 @@ Er hat zwei kleine Begleiter auf derselben Bahn, Helene und Polydeuces.
 | Radius | 561 km |
 | Masse | 1,1 · 10^21 kg |
 | Schwerkraft | 0,0236 g (0,23 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 52,9 m |
 | Höchster Berg | 3 km |
 | Berge im Schnitt | 1 km |

@@ -8,6 +8,8 @@ Der größte Mond des Sonnensystems – größer als der Planet Merkur – und d
 | Radius | 2631 km |
 | Masse | 1,48 · 10^23 kg |
 | Schwerkraft | 0,146 g (1,43 m/s²) |
+| Kabelumgebung | −151 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 8,59 m |
 | Höchster Berg | 3 km |
 | Berge im Schnitt | 800 m |

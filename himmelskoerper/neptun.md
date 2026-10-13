@@ -8,6 +8,8 @@ Hier wehen die schnellsten Winde des Sonnensystems – über 2000 km/h. Gefunden
 | Radius | 24 622 km |
 | Masse | 1,02 · 10^26 kg |
 | Schwerkraft | 1,14 g (11,15 m/s²) |
+| Kabelumgebung | −200 °C |
+| Kabelkühlung (Spielwert) | 100 % |
 | Sprunghöhe | 1,1 m |
 | Höchster Berg | 200 m |
 | Berge im Schnitt | 80 m |

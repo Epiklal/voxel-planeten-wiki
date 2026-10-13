@@ -8,6 +8,8 @@ Fast nur aus Wassereis. Eine Schlucht, Ithaca Chasma, zieht sich über drei Vier
 | Radius | 531 km |
 | Masse | 6,17 · 10^20 kg |
 | Schwerkraft | 0,0149 g (0,15 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 84 m |
 | Höchster Berg | 4 km |
 | Berge im Schnitt | 1,5 km |

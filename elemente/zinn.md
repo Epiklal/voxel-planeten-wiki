@@ -34,5 +34,5 @@ Aus Zinn gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Bronze](../legierungen/bronze.md), [Lötzinn](../legierungen/loetzinn.md), [Zirkaloy](../legierungen/zirkaloy.md), [Glockenbronze](../legierungen/glockenbronze.md), [Hartzinn](../legierungen/hartzinn.md)
+[Bronze](../legierungen/bronze.md), [Lötzinn](../legierungen/loetzinn.md), [Zirkaloy](../legierungen/zirkaloy.md), [Glockenbronze](../legierungen/glockenbronze.md), [Hartzinn](../legierungen/hartzinn.md), [Zinnkabel](../gegenstaende/zinnkabel.md)
 

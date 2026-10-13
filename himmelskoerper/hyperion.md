@@ -8,6 +8,8 @@ Sieht aus wie ein Schwamm und taumelt chaotisch: Wie er sich morgen dreht, kann 
 | Radius | 135 km |
 | Masse | 5,55 · 10^18 kg |
 | Schwerkraft | 0,00207 g (0,02 m/s²) |
+| Kabelumgebung | −183 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 607 m |
 | Höchster Berg | 8 km |
 | Berge im Schnitt | 3 km |

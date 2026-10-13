@@ -8,6 +8,8 @@ Heißer als Merkur (465 °C), obwohl doppelt so weit von der Sonne: Der Treibhau
 | Radius | 6052 km |
 | Masse | 4,87 · 10^24 kg |
 | Schwerkraft | 0,904 g (8,87 m/s²) |
+| Kabelumgebung | 464 °C |
+| Kabelkühlung (Spielwert) | 916,2 % |
 | Sprunghöhe | 1,38 m |
 | Höchster Berg | 11 km |
 | Berge im Schnitt | 2,5 km |

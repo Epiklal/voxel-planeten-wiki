@@ -32,3 +32,7 @@ Aus Cadmium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 - ![](../bilder/gegenstaende/cadmiumbeinschutz.png) [Cadmiumbeinschutz](../gegenstaende/cadmiumbeinschutz.md): 7 × Cadmium
 - ![](../bilder/gegenstaende/cadmiumstiefel.png) [Cadmiumstiefel](../gegenstaende/cadmiumstiefel.md): 4 × Cadmium
 
+## Verwendet für
+
+[Cadmiumkabel](../gegenstaende/cadmiumkabel.md)
+

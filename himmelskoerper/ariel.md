@@ -8,6 +8,8 @@ Der hellste Mond des Uranus, durchzogen von langen Canyons.
 | Radius | 579 km |
 | Masse | 1,25 · 10^21 kg |
 | Schwerkraft | 0,0254 g (0,25 m/s²) |
+| Kabelumgebung | −210 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 49,3 m |
 | Höchster Berg | 2 km |
 | Berge im Schnitt | 1 km |

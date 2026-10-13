@@ -8,6 +8,8 @@ Mehr als doppelt so schwer wie alle anderen Planeten zusammen. Der Große Rote F
 | Radius | 69 911 km |
 | Masse | 1,9 · 10^27 kg |
 | Schwerkraft | 2,53 g (24,79 m/s²) |
+| Kabelumgebung | −110 °C |
+| Kabelkühlung (Spielwert) | 100 % |
 | Sprunghöhe | 0,495 m |
 | Höchster Berg | 200 m |
 | Berge im Schnitt | 80 m |

@@ -8,6 +8,8 @@ Der vulkanreichste Ort im Sonnensystem: über 400 aktive Vulkane, die Schwefel b
 | Radius | 1821 km |
 | Masse | 8,93 · 10^22 kg |
 | Schwerkraft | 0,183 g (1,8 m/s²) |
+| Kabelumgebung | −151 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 6,83 m |
 | Höchster Berg | 17,5 km |
 | Berge im Schnitt | 6 km |

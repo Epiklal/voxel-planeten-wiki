@@ -8,6 +8,8 @@ Unter dem Eis liegt ein Ozean mit mehr Wasser als alle Meere der Erde zusammen �
 | Radius | 1561 km |
 | Masse | 4,8 · 10^22 kg |
 | Schwerkraft | 0,134 g (1,31 m/s²) |
+| Kabelumgebung | −151 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 9,34 m |
 | Höchster Berg | 1 km |
 | Berge im Schnitt | 200 m |

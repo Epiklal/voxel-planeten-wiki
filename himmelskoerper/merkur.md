@@ -8,6 +8,8 @@ Ein Tag (Sonnenaufgang bis Sonnenaufgang) dauert dort zwei Merkurjahre. Mittags 
 | Radius | 2440 km |
 | Masse | 3,3 · 10^23 kg |
 | Schwerkraft | 0,377 g (3,7 m/s²) |
+| Kabelumgebung | 167 °C |
+| Kabelkühlung (Spielwert) | 5 % |
 | Sprunghöhe | 3,32 m |
 | Höchster Berg | 4,48 km |
 | Berge im Schnitt | 1,5 km |

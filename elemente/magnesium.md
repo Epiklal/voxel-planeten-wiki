@@ -34,5 +34,5 @@ Aus Magnesium gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Bor](../elemente/bor.md), [Beryllium](../elemente/beryllium.md), [Zirconium](../elemente/zirconium.md), [Magnesiumlegierung](../legierungen/magnesiumlegierung.md)
+[Bor](../elemente/bor.md), [Beryllium](../elemente/beryllium.md), [Zirconium](../elemente/zirconium.md), [Magnesiumlegierung](../legierungen/magnesiumlegierung.md), [Magnesiumkabel](../gegenstaende/magnesiumkabel.md)
 

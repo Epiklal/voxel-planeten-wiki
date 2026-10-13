@@ -8,6 +8,8 @@ Der einzige Mond mit dichter Luft (dichter als auf der Erde) und Seen – aus fl
 | Radius | 2575 km |
 | Masse | 1,35 · 10^23 kg |
 | Schwerkraft | 0,138 g (1,35 m/s²) |
+| Kabelumgebung | −179 °C |
+| Kabelkühlung (Spielwert) | 119,4 % |
 | Sprunghöhe | 9,06 m |
 | Höchster Berg | 3,3 km |
 | Berge im Schnitt | 500 m |
