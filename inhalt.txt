@@ -1,4 +1,5 @@
 anleitungen/starten.md	Starten	Anleitung
+anleitungen/milchstrasse.md	Milchstraße, Sternsysteme und fremde Planeten	Anleitung
 anleitungen/mehrspieler.md	Speichern und Mehrspieler	Anleitung
 anleitungen/steuerung.md	Steuerung	Anleitung
 anleitungen/spielmodi.md	Spielmodi	Anleitung

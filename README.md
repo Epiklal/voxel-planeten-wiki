@@ -7,6 +7,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 ## Anleitungen
 
 - [Starten](anleitungen/starten.md)
+- [Milchstraße, Sternsysteme und fremde Planeten](anleitungen/milchstrasse.md)
 - [Speichern und Mehrspieler](anleitungen/mehrspieler.md)
 - [Steuerung](anleitungen/steuerung.md)
 - [Spielmodi](anleitungen/spielmodi.md)
