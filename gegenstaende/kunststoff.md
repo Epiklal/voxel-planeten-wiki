@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Schiffskabel](../bloecke/schiffskabel.md), [Trennanlage](../gegenstaende/trennanlage.md)
+[Trennanlage](../gegenstaende/trennanlage.md)
 

@@ -136,7 +136,6 @@ bloecke/treibstoffleitung.md	Treibstoffleitung	Block
 bloecke/schiffsbatterie.md	Schiffsbatterie	Block
 bloecke/schiffsgenerator.md	Schiffsgenerator	Block
 bloecke/solarzellen.md	Solarzellen	Block
-bloecke/schiffskabel.md	Schiffskabel	Block
 bloecke/oelschiefer.md	Ölschiefer	Block
 bloecke/methaneis.md	Methaneis	Block
 bloecke/fusionsreaktor.md	Fusionsreaktor	Block

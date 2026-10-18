@@ -61,7 +61,6 @@
 | Schiffsbatterie                               | 10 Akkus + 2 verstärkte Eisenplatten + 4 Kabel                                                                          |
 | Schiffsgenerator                              | 4 Rotoren + 6 verstärkte Eisenplatten + 30 Kupferdraht                                                                  |
 | Solarzellen                                   | 4 Solarmodule + 2 Aluminiumbleche                                                                                       |
-| 8 Schiffskabel                                | 2 Kabel + 1 Kunststoff                                                                                                  |
 | Raketentreibstoff                             | 2 Erdöl, oder 3 Methaneis → 2                                                                                           |
 | Helium-3                                      | 16 Regolith (auch dunkler)                                                                                              |
 | Fusionsreaktor                                | 8 Titanplatten + 4 modulare Rahmen + 2 Energiekristalle + 10 Kabel                                                      |

@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-641 Stück, sortiert wie im Inventar.
+640 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (406)
 
@@ -605,7 +605,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (48)
+## Raumfahrt (47)
 
 | | Name |
 |---|---|
@@ -636,7 +636,6 @@
 | ![](bilder/bloecke/schiffsbatterie.png) | [Schiffsbatterie](bloecke/schiffsbatterie.md) |
 | ![](bilder/bloecke/schiffsgenerator.png) | [Schiffsgenerator](bloecke/schiffsgenerator.md) |
 | ![](bilder/bloecke/solarzellen.png) | [Solarzellen](bloecke/solarzellen.md) |
-| ![](bilder/bloecke/schiffskabel.png) | [Schiffskabel](bloecke/schiffskabel.md) |
 | ![](bilder/bloecke/fusionsreaktor.png) | [Fusionsreaktor](bloecke/fusionsreaktor.md) |
 | ![](bilder/bloecke/plasmaroehre.png) | [Plasmaröhre](bloecke/plasmaroehre.md) |
 | ![](bilder/bloecke/plasmatriebwerk.png) | [Plasmatriebwerk](bloecke/plasmatriebwerk.md) |
