@@ -203,6 +203,12 @@ bloecke/lepidolith.md	Lepidolith	Block
 bloecke/venus_metallfrost.md	Venus-Metallfrost	Block
 bloecke/wolken_goldgelb.md	Wolken (goldgelb)	Block
 bloecke/flusswasser.md	Flusswasser	Block
+bloecke/sitz.md	Sitz	Block
+bloecke/sitz_2.md	Sitz	Block
+bloecke/sitz_3.md	Sitz	Block
+bloecke/sitz_4.md	Sitz	Block
+bloecke/sitz_5.md	Sitz	Block
+bloecke/sitz_6.md	Sitz	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

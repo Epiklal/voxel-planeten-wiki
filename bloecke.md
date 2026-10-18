@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-640 Stück, sortiert wie im Inventar.
+646 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (406)
 
@@ -605,7 +605,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (47)
+## Raumfahrt (53)
 
 | | Name |
 |---|---|
@@ -656,4 +656,10 @@
 | ![](bilder/bloecke/schiffsschraube_5.png) | [Schiffsschraube](bloecke/schiffsschraube_5.md) |
 | ![](bilder/bloecke/schiffsschraube_6.png) | [Schiffsschraube](bloecke/schiffsschraube_6.md) |
 | ![](bilder/bloecke/ruder.png) | [Ruder](bloecke/ruder.md) |
+| ![](bilder/bloecke/sitz.png) | [Sitz](bloecke/sitz.md) |
+| ![](bilder/bloecke/sitz_2.png) | [Sitz](bloecke/sitz_2.md) |
+| ![](bilder/bloecke/sitz_3.png) | [Sitz](bloecke/sitz_3.md) |
+| ![](bilder/bloecke/sitz_4.png) | [Sitz](bloecke/sitz_4.md) |
+| ![](bilder/bloecke/sitz_5.png) | [Sitz](bloecke/sitz_5.md) |
+| ![](bilder/bloecke/sitz_6.png) | [Sitz](bloecke/sitz_6.md) |
 
