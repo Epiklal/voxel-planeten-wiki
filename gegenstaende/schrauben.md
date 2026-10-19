@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Bergbaumaschine](../gegenstaende/bergbaumaschine.md), [Konstruktor](../gegenstaende/konstruktor.md), [Verstärkte Eisenplatte](../gegenstaende/verstaerkte_eisenplatte.md), [Rotor](../gegenstaende/rotor.md), [Treibstofftank](../bloecke/treibstofftank.md), [Motor](../bloecke/motor.md), [Kettensäge](../gegenstaende/kettensaege.md), [Benzin-Kettensäge](../gegenstaende/benzin_kettensaege.md)
+[Bergbaumaschine](../gegenstaende/bergbaumaschine.md), [Konstruktor](../gegenstaende/konstruktor.md), [Verstärkte Eisenplatte](../gegenstaende/verstaerkte_eisenplatte.md), [Rotor](../gegenstaende/rotor.md), [Treibstofftank](../bloecke/treibstofftank.md), [Kanonengranate](../gegenstaende/kanonengranate.md), [Motor](../bloecke/motor.md), [Kettensäge](../gegenstaende/kettensaege.md), [Benzin-Kettensäge](../gegenstaende/benzin_kettensaege.md)
 

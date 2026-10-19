@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-646 Stück, sortiert wie im Inventar.
+659 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (406)
 
@@ -605,7 +605,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (53)
+## Raumfahrt (66)
 
 | | Name |
 |---|---|
@@ -662,4 +662,17 @@
 | ![](bilder/bloecke/sitz_4.png) | [Sitz](bloecke/sitz_4.md) |
 | ![](bilder/bloecke/sitz_5.png) | [Sitz](bloecke/sitz_5.md) |
 | ![](bilder/bloecke/sitz_6.png) | [Sitz](bloecke/sitz_6.md) |
+| ![](bilder/bloecke/schiffskanone.png) | [Schiffskanone](bloecke/schiffskanone.md) |
+| ![](bilder/bloecke/schiffskanone_2.png) | [Schiffskanone](bloecke/schiffskanone_2.md) |
+| ![](bilder/bloecke/schiffskanone_3.png) | [Schiffskanone](bloecke/schiffskanone_3.md) |
+| ![](bilder/bloecke/schiffskanone_4.png) | [Schiffskanone](bloecke/schiffskanone_4.md) |
+| ![](bilder/bloecke/schiffskanone_5.png) | [Schiffskanone](bloecke/schiffskanone_5.md) |
+| ![](bilder/bloecke/schiffskanone_6.png) | [Schiffskanone](bloecke/schiffskanone_6.md) |
+| ![](bilder/bloecke/raketenwerfer.png) | [Raketenwerfer](bloecke/raketenwerfer.md) |
+| ![](bilder/bloecke/raketenwerfer_2.png) | [Raketenwerfer](bloecke/raketenwerfer_2.md) |
+| ![](bilder/bloecke/raketenwerfer_3.png) | [Raketenwerfer](bloecke/raketenwerfer_3.md) |
+| ![](bilder/bloecke/raketenwerfer_4.png) | [Raketenwerfer](bloecke/raketenwerfer_4.md) |
+| ![](bilder/bloecke/raketenwerfer_5.png) | [Raketenwerfer](bloecke/raketenwerfer_5.md) |
+| ![](bilder/bloecke/raketenwerfer_6.png) | [Raketenwerfer](bloecke/raketenwerfer_6.md) |
+| ![](bilder/bloecke/schildgenerator.png) | [Schildgenerator](bloecke/schildgenerator.md) |
 

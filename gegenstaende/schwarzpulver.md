@@ -4,5 +4,5 @@
 
 ## Verwendet für
 
-[TNT](../bloecke/tnt.md)
+[Kanonengranate](../gegenstaende/kanonengranate.md), [Lenkrakete](../gegenstaende/lenkrakete.md), [TNT](../bloecke/tnt.md)
 

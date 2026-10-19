@@ -209,6 +209,19 @@ bloecke/sitz_3.md	Sitz	Block
 bloecke/sitz_4.md	Sitz	Block
 bloecke/sitz_5.md	Sitz	Block
 bloecke/sitz_6.md	Sitz	Block
+bloecke/schiffskanone.md	Schiffskanone	Block
+bloecke/schiffskanone_2.md	Schiffskanone	Block
+bloecke/schiffskanone_3.md	Schiffskanone	Block
+bloecke/schiffskanone_4.md	Schiffskanone	Block
+bloecke/schiffskanone_5.md	Schiffskanone	Block
+bloecke/schiffskanone_6.md	Schiffskanone	Block
+bloecke/raketenwerfer.md	Raketenwerfer	Block
+bloecke/raketenwerfer_2.md	Raketenwerfer	Block
+bloecke/raketenwerfer_3.md	Raketenwerfer	Block
+bloecke/raketenwerfer_4.md	Raketenwerfer	Block
+bloecke/raketenwerfer_5.md	Raketenwerfer	Block
+bloecke/raketenwerfer_6.md	Raketenwerfer	Block
+bloecke/schildgenerator.md	Schildgenerator	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -431,6 +444,9 @@ gegenstaende/feuerzeug.md	Feuerzeug	Gegenstand
 gegenstaende/kettensaege.md	Kettensäge	Gegenstand
 gegenstaende/benzin.md	Benzin	Gegenstand
 gegenstaende/benzin_kettensaege.md	Benzin-Kettensäge	Gegenstand
+gegenstaende/kanonengranate.md	Kanonengranate	Gegenstand
+gegenstaende/lenkrakete.md	Lenkrakete	Gegenstand
+gegenstaende/bauplan_jaeger.md	Bauplan: Jäger	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-669 Stück, sortiert wie im Inventar.
+672 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -68,7 +68,7 @@
 | ![](bilder/gegenstaende/transformator_v3.png) | [Transformator V3](gegenstaende/transformator_v3.md) |
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 
-## Raumfahrt (10)
+## Raumfahrt (11)
 
 | | Name |
 |---|---|
@@ -82,6 +82,7 @@
 | ![](bilder/gegenstaende/bauplan_drehring.png) | [Bauplan: Drehring](gegenstaende/bauplan_drehring.md) |
 | ![](bilder/gegenstaende/bauplan_auto.png) | [Bauplan: Auto](gegenstaende/bauplan_auto.md) |
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
+| ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 
 ## Werkzeuge (20)
 
@@ -574,7 +575,7 @@
 | ![](bilder/gegenstaende/bornitridbeinschutz.png) | [Bornitridbeinschutz](gegenstaende/bornitridbeinschutz.md) |
 | ![](bilder/gegenstaende/bornitridstiefel.png) | [Bornitridstiefel](gegenstaende/bornitridstiefel.md) |
 
-## Zutaten (87)
+## Zutaten (89)
 
 | | Name |
 |---|---|
@@ -665,6 +666,8 @@
 | ![](bilder/gegenstaende/buch.png) | [Buch](gegenstaende/buch.md) |
 | ![](bilder/gegenstaende/feuerzeug.png) | [Feuerzeug](gegenstaende/feuerzeug.md) |
 | ![](bilder/gegenstaende/benzin.png) | [Benzin](gegenstaende/benzin.md) |
+| ![](bilder/gegenstaende/kanonengranate.png) | [Kanonengranate](gegenstaende/kanonengranate.md) |
+| ![](bilder/gegenstaende/lenkrakete.png) | [Lenkrakete](gegenstaende/lenkrakete.md) |
 
 ## Chemie (35)
 
