@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-672 Stück, sortiert wie im Inventar.
+691 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -84,7 +84,7 @@
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 
-## Werkzeuge (20)
+## Werkzeuge (39)
 
 | | Name |
 |---|---|
@@ -108,6 +108,25 @@
 | ![](bilder/gegenstaende/eisenhacke.png) | [Eisenhacke](gegenstaende/eisenhacke.md) |
 | ![](bilder/gegenstaende/kettensaege.png) | [Kettensäge](gegenstaende/kettensaege.md) |
 | ![](bilder/gegenstaende/benzin_kettensaege.png) | [Benzin-Kettensäge](gegenstaende/benzin_kettensaege.md) |
+| ![](bilder/gegenstaende/pistole.png) | [Pistole](gegenstaende/pistole.md) |
+| ![](bilder/gegenstaende/revolver.png) | [Revolver](gegenstaende/revolver.md) |
+| ![](bilder/gegenstaende/schnellfeuergewehr.png) | [Schnellfeuergewehr](gegenstaende/schnellfeuergewehr.md) |
+| ![](bilder/gegenstaende/scharfschuetzengewehr.png) | [Scharfschützengewehr](gegenstaende/scharfschuetzengewehr.md) |
+| ![](bilder/gegenstaende/patronen.png) | [Patronen](gegenstaende/patronen.md) |
+| ![](bilder/gegenstaende/panzerbrechende_patronen.png) | [Panzerbrechende Patronen](gegenstaende/panzerbrechende_patronen.md) |
+| ![](bilder/gegenstaende/hohlspitzpatronen.png) | [Hohlspitzpatronen](gegenstaende/hohlspitzpatronen.md) |
+| ![](bilder/gegenstaende/brandpatronen.png) | [Brandpatronen](gegenstaende/brandpatronen.md) |
+| ![](bilder/gegenstaende/sprengpatronen.png) | [Sprengpatronen](gegenstaende/sprengpatronen.md) |
+| ![](bilder/gegenstaende/rotpunktvisier.png) | [Rotpunktvisier](gegenstaende/rotpunktvisier.md) |
+| ![](bilder/gegenstaende/zielfernrohr_4.png) | [Zielfernrohr 4×](gegenstaende/zielfernrohr_4.md) |
+| ![](bilder/gegenstaende/zielfernrohr_8.png) | [Zielfernrohr 8×](gegenstaende/zielfernrohr_8.md) |
+| ![](bilder/gegenstaende/schalldaempfer.png) | [Schalldämpfer](gegenstaende/schalldaempfer.md) |
+| ![](bilder/gegenstaende/kompensator.png) | [Kompensator](gegenstaende/kompensator.md) |
+| ![](bilder/gegenstaende/langer_lauf.png) | [Langer Lauf](gegenstaende/langer_lauf.md) |
+| ![](bilder/gegenstaende/erweitertes_magazin.png) | [Erweitertes Magazin](gegenstaende/erweitertes_magazin.md) |
+| ![](bilder/gegenstaende/trommelmagazin.png) | [Trommelmagazin](gegenstaende/trommelmagazin.md) |
+| ![](bilder/gegenstaende/griff.png) | [Griff](gegenstaende/griff.md) |
+| ![](bilder/gegenstaende/laservisier.png) | [Laservisier](gegenstaende/laservisier.md) |
 
 ## Rüstung (461)
 

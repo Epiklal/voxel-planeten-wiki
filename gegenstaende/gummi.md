@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Raumanzug](../gegenstaende/raumanzug.md), [Gummihaube](../gegenstaende/gummihaube.md), [Gummijacke](../gegenstaende/gummijacke.md), [Gummihose](../gegenstaende/gummihose.md), [Gummistiefel](../gegenstaende/gummistiefel.md), [Treibstoffleitung](../bloecke/treibstoffleitung.md), [Rad](../bloecke/rad.md), [Klebriger Kolben](../bloecke/klebriger_kolben.md)
+[Raumanzug](../gegenstaende/raumanzug.md), [Gummihaube](../gegenstaende/gummihaube.md), [Gummijacke](../gegenstaende/gummijacke.md), [Gummihose](../gegenstaende/gummihose.md), [Gummistiefel](../gegenstaende/gummistiefel.md), [Treibstoffleitung](../bloecke/treibstoffleitung.md), [Schalldämpfer](../gegenstaende/schalldaempfer.md), [Griff](../gegenstaende/griff.md), [Rad](../bloecke/rad.md), [Klebriger Kolben](../bloecke/klebriger_kolben.md)
 

@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Kohlefaserplatte](../gegenstaende/kohlefaserplatte.md), [Braunes Glas](../bloecke/braunes_glas.md), [Graphit](../elemente/graphit.md), [Silizium](../elemente/silizium.md), [Phosphor](../elemente/phosphor.md), [Stahl](../legierungen/stahl.md), [Gusseisen](../legierungen/gusseisen.md), [Siliziumcarbid](../gegenstaende/siliziumcarbid.md), [Fackel](../bloecke/fackel.md), [Kohleblock](../bloecke/kohleblock.md), [Schwarzer Farbstoff](../gegenstaende/schwarzer_farbstoff.md)
+[Kohlefaserplatte](../gegenstaende/kohlefaserplatte.md), [Brandpatronen](../gegenstaende/brandpatronen.md), [Braunes Glas](../bloecke/braunes_glas.md), [Graphit](../elemente/graphit.md), [Silizium](../elemente/silizium.md), [Phosphor](../elemente/phosphor.md), [Stahl](../legierungen/stahl.md), [Gusseisen](../legierungen/gusseisen.md), [Siliziumcarbid](../gegenstaende/siliziumcarbid.md), [Fackel](../bloecke/fackel.md), [Kohleblock](../bloecke/kohleblock.md), [Schwarzer Farbstoff](../gegenstaende/schwarzer_farbstoff.md)
 

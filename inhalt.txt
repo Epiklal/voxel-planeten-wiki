@@ -447,6 +447,25 @@ gegenstaende/benzin_kettensaege.md	Benzin-Kettensäge	Gegenstand
 gegenstaende/kanonengranate.md	Kanonengranate	Gegenstand
 gegenstaende/lenkrakete.md	Lenkrakete	Gegenstand
 gegenstaende/bauplan_jaeger.md	Bauplan: Jäger	Gegenstand
+gegenstaende/pistole.md	Pistole	Gegenstand
+gegenstaende/revolver.md	Revolver	Gegenstand
+gegenstaende/schnellfeuergewehr.md	Schnellfeuergewehr	Gegenstand
+gegenstaende/scharfschuetzengewehr.md	Scharfschützengewehr	Gegenstand
+gegenstaende/patronen.md	Patronen	Gegenstand
+gegenstaende/panzerbrechende_patronen.md	Panzerbrechende Patronen	Gegenstand
+gegenstaende/hohlspitzpatronen.md	Hohlspitzpatronen	Gegenstand
+gegenstaende/brandpatronen.md	Brandpatronen	Gegenstand
+gegenstaende/sprengpatronen.md	Sprengpatronen	Gegenstand
+gegenstaende/rotpunktvisier.md	Rotpunktvisier	Gegenstand
+gegenstaende/zielfernrohr_4.md	Zielfernrohr 4×	Gegenstand
+gegenstaende/zielfernrohr_8.md	Zielfernrohr 8×	Gegenstand
+gegenstaende/schalldaempfer.md	Schalldämpfer	Gegenstand
+gegenstaende/kompensator.md	Kompensator	Gegenstand
+gegenstaende/langer_lauf.md	Langer Lauf	Gegenstand
+gegenstaende/erweitertes_magazin.md	Erweitertes Magazin	Gegenstand
+gegenstaende/trommelmagazin.md	Trommelmagazin	Gegenstand
+gegenstaende/griff.md	Griff	Gegenstand
+gegenstaende/laservisier.md	Laservisier	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
