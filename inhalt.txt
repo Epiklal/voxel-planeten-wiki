@@ -223,6 +223,8 @@ bloecke/raketenwerfer_5.md	Raketenwerfer	Block
 bloecke/raketenwerfer_6.md	Raketenwerfer	Block
 bloecke/schildgenerator.md	Schildgenerator	Block
 bloecke/landeplattform.md	Landeplattform	Block
+bloecke/geldautomat.md	Geldautomat	Block
+bloecke/handelsterminal.md	Handelsterminal	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -467,6 +469,11 @@ gegenstaende/erweitertes_magazin.md	Erweitertes Magazin	Gegenstand
 gegenstaende/trommelmagazin.md	Trommelmagazin	Gegenstand
 gegenstaende/griff.md	Griff	Gegenstand
 gegenstaende/laservisier.md	Laservisier	Gegenstand
+gegenstaende/muenze.md	Münze	Gegenstand
+gegenstaende/10er_schein.md	10er-Schein	Gegenstand
+gegenstaende/100er_schein.md	100er-Schein	Gegenstand
+gegenstaende/1000er_schein.md	1000er-Schein	Gegenstand
+gegenstaende/lieferdrohne.md	Lieferdrohne	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

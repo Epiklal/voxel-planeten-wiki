@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-691 Stück, sortiert wie im Inventar.
+696 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -84,7 +84,7 @@
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 
-## Werkzeuge (39)
+## Werkzeuge (40)
 
 | | Name |
 |---|---|
@@ -127,6 +127,7 @@
 | ![](bilder/gegenstaende/trommelmagazin.png) | [Trommelmagazin](gegenstaende/trommelmagazin.md) |
 | ![](bilder/gegenstaende/griff.png) | [Griff](gegenstaende/griff.md) |
 | ![](bilder/gegenstaende/laservisier.png) | [Laservisier](gegenstaende/laservisier.md) |
+| ![](bilder/gegenstaende/lieferdrohne.png) | [Lieferdrohne](gegenstaende/lieferdrohne.md) |
 
 ## Rüstung (461)
 
@@ -594,7 +595,7 @@
 | ![](bilder/gegenstaende/bornitridbeinschutz.png) | [Bornitridbeinschutz](gegenstaende/bornitridbeinschutz.md) |
 | ![](bilder/gegenstaende/bornitridstiefel.png) | [Bornitridstiefel](gegenstaende/bornitridstiefel.md) |
 
-## Zutaten (89)
+## Zutaten (93)
 
 | | Name |
 |---|---|
@@ -687,6 +688,10 @@
 | ![](bilder/gegenstaende/benzin.png) | [Benzin](gegenstaende/benzin.md) |
 | ![](bilder/gegenstaende/kanonengranate.png) | [Kanonengranate](gegenstaende/kanonengranate.md) |
 | ![](bilder/gegenstaende/lenkrakete.png) | [Lenkrakete](gegenstaende/lenkrakete.md) |
+| ![](bilder/gegenstaende/muenze.png) | [Münze](gegenstaende/muenze.md) |
+| ![](bilder/gegenstaende/10er_schein.png) | [10er-Schein](gegenstaende/10er_schein.md) |
+| ![](bilder/gegenstaende/100er_schein.png) | [100er-Schein](gegenstaende/100er_schein.md) |
+| ![](bilder/gegenstaende/1000er_schein.png) | [1000er-Schein](gegenstaende/1000er_schein.md) |
 
 ## Chemie (35)
 

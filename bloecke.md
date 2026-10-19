@@ -1,8 +1,8 @@
 # Alle Blöcke
 
-660 Stück, sortiert wie im Inventar.
+662 Stück, sortiert wie im Inventar.
 
-## Baublöcke (406)
+## Baublöcke (408)
 
 | | Name |
 |---|---|
@@ -33,6 +33,8 @@
 | ![](bilder/bloecke/gruenes_glas.png) | [Grünes Glas](bloecke/gruenes_glas.md) |
 | ![](bilder/bloecke/rotes_glas.png) | [Rotes Glas](bloecke/rotes_glas.md) |
 | ![](bilder/bloecke/schwarzes_glas.png) | [Schwarzes Glas](bloecke/schwarzes_glas.md) |
+| ![](bilder/bloecke/geldautomat.png) | [Geldautomat](bloecke/geldautomat.md) |
+| ![](bilder/bloecke/handelsterminal.png) | [Handelsterminal](bloecke/handelsterminal.md) |
 | ![](bilder/bloecke/akazienholztuer.png) | [Akazienholztür](bloecke/akazienholztuer.md) |
 | ![](bilder/bloecke/akazienholzzaun.png) | [Akazienholzzaun](bloecke/akazienholzzaun.md) |
 | ![](bilder/bloecke/akazienholzzauntor.png) | [Akazienholzzauntor](bloecke/akazienholzzauntor.md) |

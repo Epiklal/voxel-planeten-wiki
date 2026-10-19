@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Smaragdblock](../bloecke/smaragdblock.md)
+[Handelsterminal](../bloecke/handelsterminal.md), [Smaragdblock](../bloecke/smaragdblock.md)
 

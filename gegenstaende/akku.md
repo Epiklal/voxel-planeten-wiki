@@ -14,5 +14,5 @@
 
 ## Verwendet für
 
-[Energiekristall](../gegenstaende/energiekristall.md), [Jetpack](../gegenstaende/jetpack.md), [Nanohelm](../gegenstaende/nanohelm.md), [Nanoharnisch](../gegenstaende/nanoharnisch.md), [Nanobeinschutz](../gegenstaende/nanobeinschutz.md), [Nanostiefel](../gegenstaende/nanostiefel.md), [Ladestation](../gegenstaende/ladestation.md), [Schiffsbatterie](../bloecke/schiffsbatterie.md), [Nano-Spitzhacke](../gegenstaende/nano_spitzhacke.md), [Nano-Axt](../gegenstaende/nano_axt.md), [Nanosäbel](../gegenstaende/nanosaebel.md), [Kettensäge](../gegenstaende/kettensaege.md)
+[Energiekristall](../gegenstaende/energiekristall.md), [Jetpack](../gegenstaende/jetpack.md), [Nanohelm](../gegenstaende/nanohelm.md), [Nanoharnisch](../gegenstaende/nanoharnisch.md), [Nanobeinschutz](../gegenstaende/nanobeinschutz.md), [Nanostiefel](../gegenstaende/nanostiefel.md), [Ladestation](../gegenstaende/ladestation.md), [Schiffsbatterie](../bloecke/schiffsbatterie.md), [Lieferdrohne](../gegenstaende/lieferdrohne.md), [Nano-Spitzhacke](../gegenstaende/nano_spitzhacke.md), [Nano-Axt](../gegenstaende/nano_axt.md), [Nanosäbel](../gegenstaende/nanosaebel.md), [Kettensäge](../gegenstaende/kettensaege.md)
 

@@ -36,5 +36,5 @@ Aus Goldbarren gibt es Werkzeuge, Waffen und Rüstung (Stufe 1):
 
 ## Verwendet für
 
-[Goldhelm](../gegenstaende/goldhelm.md), [Goldharnisch](../gegenstaende/goldharnisch.md), [Goldbeinschutz](../gegenstaende/goldbeinschutz.md), [Goldstiefel](../gegenstaende/goldstiefel.md), [Rotes Glas](../bloecke/rotes_glas.md), [Francium](../elemente/francium.md), [Elektrum](../legierungen/elektrum.md), [Weißgold](../legierungen/weissgold.md), [Rotgold](../legierungen/rotgold.md), [Goldblock](../bloecke/goldblock.md), [Goldener Apfel](../gegenstaende/goldener_apfel.md), [Goldene Karotte](../gegenstaende/goldene_karotte.md), [Feinwägeplatte](../bloecke/feinwaegeplatte.md), [Goldkabel](../gegenstaende/goldkabel.md)
+[Goldhelm](../gegenstaende/goldhelm.md), [Goldharnisch](../gegenstaende/goldharnisch.md), [Goldbeinschutz](../gegenstaende/goldbeinschutz.md), [Goldstiefel](../gegenstaende/goldstiefel.md), [Geldautomat](../bloecke/geldautomat.md), [Rotes Glas](../bloecke/rotes_glas.md), [Francium](../elemente/francium.md), [Elektrum](../legierungen/elektrum.md), [Weißgold](../legierungen/weissgold.md), [Rotgold](../legierungen/rotgold.md), [Goldblock](../bloecke/goldblock.md), [Goldener Apfel](../gegenstaende/goldener_apfel.md), [Goldene Karotte](../gegenstaende/goldene_karotte.md), [Feinwägeplatte](../bloecke/feinwaegeplatte.md), [Goldkabel](../gegenstaende/goldkabel.md)
 
