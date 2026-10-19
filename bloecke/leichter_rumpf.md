@@ -11,3 +11,7 @@
 
 - 3 × [Aluminiumblech](../gegenstaende/aluminiumblech.md) → 4 × [Leichter Rumpf](../bloecke/leichter_rumpf.md) (Werkbank, 4 s)
 
+## Verwendet für
+
+[Landeplattform](../bloecke/landeplattform.md)
+

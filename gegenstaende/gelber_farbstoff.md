@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Oranger Farbstoff](../gegenstaende/oranger_farbstoff.md), [Gelbe Wolle](../bloecke/gelbe_wolle.md), [Gelbe Keramik](../bloecke/gelbe_keramik.md), [Gelber Trockenbeton](../bloecke/gelber_trockenbeton.md)
+[Landeplattform](../bloecke/landeplattform.md), [Oranger Farbstoff](../gegenstaende/oranger_farbstoff.md), [Gelbe Wolle](../bloecke/gelbe_wolle.md), [Gelbe Keramik](../bloecke/gelbe_keramik.md), [Gelber Trockenbeton](../bloecke/gelber_trockenbeton.md)
 

@@ -222,6 +222,7 @@ bloecke/raketenwerfer_4.md	Raketenwerfer	Block
 bloecke/raketenwerfer_5.md	Raketenwerfer	Block
 bloecke/raketenwerfer_6.md	Raketenwerfer	Block
 bloecke/schildgenerator.md	Schildgenerator	Block
+bloecke/landeplattform.md	Landeplattform	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

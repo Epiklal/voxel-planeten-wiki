@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-659 Stück, sortiert wie im Inventar.
+660 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (406)
 
@@ -605,7 +605,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (66)
+## Raumfahrt (67)
 
 | | Name |
 |---|---|
@@ -675,4 +675,5 @@
 | ![](bilder/bloecke/raketenwerfer_5.png) | [Raketenwerfer](bloecke/raketenwerfer_5.md) |
 | ![](bilder/bloecke/raketenwerfer_6.png) | [Raketenwerfer](bloecke/raketenwerfer_6.md) |
 | ![](bilder/bloecke/schildgenerator.png) | [Schildgenerator](bloecke/schildgenerator.md) |
+| ![](bilder/bloecke/landeplattform.png) | [Landeplattform](bloecke/landeplattform.md) |
 
