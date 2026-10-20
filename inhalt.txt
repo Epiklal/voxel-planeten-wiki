@@ -2035,6 +2035,7 @@ himmelskoerper/xiangliu.md	Xiangliu	Mond
 himmelskoerper/weywot.md	Weywot	Mond
 himmelskoerper/vanth.md	Vanth	Mond
 sonnensystem.md	Sonnensystem	Übersicht
+exoplaneten.md	Echte Exoplaneten	Übersicht
 monde.md	Alle Monde	Übersicht
 bloecke.md	Alle Blöcke	Übersicht
 gegenstaende.md	Alle Gegenstände	Übersicht
