@@ -2,6 +2,8 @@
 
 Um einige der eingebauten Sterne kreisen echte Planeten, die Astronomen schon gefunden haben (Daten: NASA Exoplanet Archive). Im Spiel sind sie so groß und kreisen so schnell wie gemessen; wie sie aussehen, welches Wetter und welche Luft sie haben, rechnet das Spiel selbst aus. Wie man zu fremden Sternen fliegt, steht in [Milchstraße, Sternsysteme und fremde Planeten](anleitungen/milchstrasse.md).
 
+Im Suchfeld der Galaxiekarte kann man auch nach Eigenschaften fragen, zum Beispiel „größte Ringe“, „nächster“, „fernster“, „erdähnlich“, „bewohnbar“, „heißester“, „kältester“, „schwerster“, „kleinster“, „kürzestes Jahr“ oder „neuester“ (auf Englisch genauso: „largest rings“, „nearest“). Dann steht da eine Rangliste der echten Planeten mit ihrem Wert; ein Klick fliegt die Karte hin.
+
 ## Proxima Centauri (4,2 Lichtjahre)
 
 | Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
@@ -45,6 +47,16 @@ Um einige der eingebauten Sterne kreisen echte Planeten, die Astronomen schon ge
 | TRAPPIST-1 g | 1,32 Erdmassen | 1,13 Erdradien | 12,4 Tage | 2017 · Transit | In der bewohnbaren Zone |
 | TRAPPIST-1 h | 0,33 Erdmassen | 0,76 Erdradien | 18,8 Tage | 2017 · Transit | Der äußerste und kälteste der sieben |
 
+## 55 Cancri (41 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| 55 Cancri e | 7,74 Erdmassen | 1,86 Erdradien | 0,74 Tage | 2004 · Radialgeschwindigkeit | Lavaozean; sein Jahr dauert keine 18 Stunden |
+| 55 Cancri b | mindestens 0,80 Jupitermassen | etwa 1,01 Jupiterradien | 14,7 Tage | 1996 · Radialgeschwindigkeit |  |
+| 55 Cancri c | mindestens 0,16 Jupitermassen | etwa 0,66 Jupiterradien | 44,4 Tage | 2004 · Radialgeschwindigkeit |  |
+| 55 Cancri f | mindestens 48,50 Erdmassen | etwa 0,64 Jupiterradien | 260,6 Tage | 2007 · Radialgeschwindigkeit |  |
+| 55 Cancri d | mindestens 3,23 Jupitermassen | etwa 0,95 Jupiterradien | 13,9 Jahre | 2002 · Radialgeschwindigkeit |  |
+
 ## LHS 1140 (48,8 Lichtjahre)
 
 | Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
@@ -58,6 +70,21 @@ Um einige der eingebauten Sterne kreisen echte Planeten, die Astronomen schon ge
 |---|---|---|---|---|---|
 | 51 Pegasi b | mindestens 0,46 Jupitermassen | etwa 1,03 Jupiterradien | 4,23 Tage | 1995 · Radialgeschwindigkeit | Erster Planet um einen sonnenähnlichen Stern, ein heißer Jupiter (Nobelpreis 2019) |
 
+## HD 189733 (64,5 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| HD 189733 b | 1,12 Jupitermassen | 1,14 Jupiterradien | 2,22 Tage | 2005 · Transit | Tiefblau; es regnet Glas, seitwärts mit 8700 km/h |
+
+## TOI-700 (101,6 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| TOI-700 b | etwa 0,81 Erdmassen | 0,94 Erdradien | 9,98 Tage | 2020 · Transit |  |
+| TOI-700 c | 2,50 Erdmassen | 2,65 Erdradien | 16,1 Tage | 2020 · Transit |  |
+| TOI-700 e | etwa 0,77 Erdmassen | 0,93 Erdradien | 27,8 Tage | 2023 · Transit | In der bewohnbaren Zone |
+| TOI-700 d | 2,40 Erdmassen | 1,16 Erdradien | 37,4 Tage | 2020 · Transit | Erster erdgroßer Planet in einer bewohnbaren Zone, den TESS gefunden hat |
+
 ## K2-18 (124 Lichtjahre)
 
 | Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
@@ -69,6 +96,18 @@ Um einige der eingebauten Sterne kreisen echte Planeten, die Astronomen schon ge
 | Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
 |---|---|---|---|---|---|
 | HD 209458 b | 0,69 Jupitermassen | 1,38 Jupiterradien | 3,52 Tage | 1999 · Radialgeschwindigkeit | Als erster beim Vorbeiziehen gesehen; verliert Gas wie ein Komet |
+
+## Kepler-16 (245,4 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| Kepler-16 b | 0,33 Jupitermassen | 0,75 Jupiterradien | 228,8 Tage | 2011 · Transit | Kreist wie Tatooine um zwei Sonnen: der erste, den man vor zwei Sternen vorbeiziehen sah |
+
+## J1407 (451 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| J1407 b | 9,44 Jupitermassen | etwa 0,91 Jupiterradien | 16,7 Jahre | 2012 · Ringfinsternis | Riesige Ringe: über 37 Stück bis 90 Millionen km weit, 200-mal größer als Saturns; verdunkelten 2007 ihren Stern 56 Tage lang |
 
 ## Kepler-186 (580 Lichtjahre)
 
@@ -85,6 +124,12 @@ Um einige der eingebauten Sterne kreisen echte Planeten, die Astronomen schon ge
 | Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
 |---|---|---|---|---|---|
 | Kepler-22 b | etwa 6,26 Erdmassen | 2,38 Erdradien | 289,9 Tage | 2011 · Transit | Erster Kepler-Planet in einer bewohnbaren Zone |
+
+## WASP-12 (1347 Lichtjahre)
+
+| Planet | Masse | Radius | Umlauf | Entdeckt | Besonderes |
+|---|---|---|---|---|---|
+| WASP-12 b | 1,47 Jupitermassen | 1,94 Jupiterradien | 1,09 Tage | 2008 · Transit | Eiförmig verzogen und wird von seinem Stern gefressen: in etwa 3 Millionen Jahren ist er weg |
 
 ## Kepler-452 (1800 Lichtjahre)
 

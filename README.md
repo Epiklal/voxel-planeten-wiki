@@ -37,7 +37,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 ## Nachschlagen
 
 - [Sonnensystem](sonnensystem.md) – Sonne, 8 Planeten, 9 Zwergplaneten
-- [Echte Exoplaneten](exoplaneten.md) – 30 Planeten um 12 fremde Sterne
+- [Echte Exoplaneten](exoplaneten.md) – 43 Planeten um 18 fremde Sterne
 - [Alle Monde](monde.md) – 466 Monde
 - [Alle Blöcke](bloecke.md) – 663 Blöcke
 - [Alle Gegenstände](gegenstaende.md) – 703 Gegenstände, Maschinen und Bauteile
