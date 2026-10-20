@@ -11,3 +11,7 @@
 
 - 8 × [Titanplatte](../gegenstaende/titanplatte.md) + 4 × [Modularer Rahmen](../gegenstaende/modularer_rahmen.md) + 2 × [Energiekristall](../gegenstaende/energiekristall.md) + 10 × [Kabel](../gegenstaende/kabel.md) → 1 × [Fusionsreaktor](../bloecke/fusionsreaktor.md) (Werkbank, 60 s)
 
+## Verwendet für
+
+[Drohnen-Fusionsantrieb](../gegenstaende/drohnen_fusionsantrieb.md)
+

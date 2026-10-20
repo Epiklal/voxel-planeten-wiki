@@ -225,6 +225,7 @@ bloecke/schildgenerator.md	Schildgenerator	Block
 bloecke/landeplattform.md	Landeplattform	Block
 bloecke/geldautomat.md	Geldautomat	Block
 bloecke/handelsterminal.md	Handelsterminal	Block
+bloecke/frachthafen.md	Frachthafen	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -474,6 +475,13 @@ gegenstaende/10er_schein.md	10er-Schein	Gegenstand
 gegenstaende/100er_schein.md	100er-Schein	Gegenstand
 gegenstaende/1000er_schein.md	1000er-Schein	Gegenstand
 gegenstaende/lieferdrohne.md	Lieferdrohne	Gegenstand
+gegenstaende/kleine_frachtdrohne.md	Kleine Frachtdrohne	Gegenstand
+gegenstaende/mittlere_frachtdrohne.md	Mittlere Frachtdrohne	Gegenstand
+gegenstaende/grosse_frachtdrohne.md	Große Frachtdrohne	Gegenstand
+gegenstaende/drohnen_elektroantrieb.md	Drohnen-Elektroantrieb	Gegenstand
+gegenstaende/drohnen_raketenantrieb.md	Drohnen-Raketenantrieb	Gegenstand
+gegenstaende/drohnen_fusionsantrieb.md	Drohnen-Fusionsantrieb	Gegenstand
+gegenstaende/drohnen_warpantrieb.md	Drohnen-Warpantrieb	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

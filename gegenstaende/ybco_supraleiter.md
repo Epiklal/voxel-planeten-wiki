@@ -10,5 +10,5 @@ Leitet Strom ganz ohne Verlust – schon bei −181 °C, gekühlt mit billigem f
 
 ## Verwendet für
 
-[Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
+[Drohnen-Fusionsantrieb](../gegenstaende/drohnen_fusionsantrieb.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
 

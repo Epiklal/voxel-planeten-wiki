@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Uranbrennstab](../gegenstaende/uranbrennstab.md), [Kernkraftwerk](../gegenstaende/kernkraftwerk.md), [Kreisel](../bloecke/kreisel.md), [Fusionsreaktor](../bloecke/fusionsreaktor.md), [Plasmatriebwerk](../bloecke/plasmatriebwerk.md), [Schwerkraftkern](../bloecke/schwerkraftkern.md), [Warpantrieb](../bloecke/warpantrieb.md), [Schildgenerator](../bloecke/schildgenerator.md), [Forschungsreaktor](../gegenstaende/forschungsreaktor.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
+[Uranbrennstab](../gegenstaende/uranbrennstab.md), [Kernkraftwerk](../gegenstaende/kernkraftwerk.md), [Kreisel](../bloecke/kreisel.md), [Fusionsreaktor](../bloecke/fusionsreaktor.md), [Plasmatriebwerk](../bloecke/plasmatriebwerk.md), [Schwerkraftkern](../bloecke/schwerkraftkern.md), [Warpantrieb](../bloecke/warpantrieb.md), [Schildgenerator](../bloecke/schildgenerator.md), [Mittlere Frachtdrohne](../gegenstaende/mittlere_frachtdrohne.md), [Große Frachtdrohne](../gegenstaende/grosse_frachtdrohne.md), [Forschungsreaktor](../gegenstaende/forschungsreaktor.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
 

@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-696 Stück, sortiert wie im Inventar.
+703 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -84,7 +84,7 @@
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 
-## Werkzeuge (40)
+## Werkzeuge (47)
 
 | | Name |
 |---|---|
@@ -128,6 +128,13 @@
 | ![](bilder/gegenstaende/griff.png) | [Griff](gegenstaende/griff.md) |
 | ![](bilder/gegenstaende/laservisier.png) | [Laservisier](gegenstaende/laservisier.md) |
 | ![](bilder/gegenstaende/lieferdrohne.png) | [Lieferdrohne](gegenstaende/lieferdrohne.md) |
+| ![](bilder/gegenstaende/kleine_frachtdrohne.png) | [Kleine Frachtdrohne](gegenstaende/kleine_frachtdrohne.md) |
+| ![](bilder/gegenstaende/mittlere_frachtdrohne.png) | [Mittlere Frachtdrohne](gegenstaende/mittlere_frachtdrohne.md) |
+| ![](bilder/gegenstaende/grosse_frachtdrohne.png) | [Große Frachtdrohne](gegenstaende/grosse_frachtdrohne.md) |
+| ![](bilder/gegenstaende/drohnen_elektroantrieb.png) | [Drohnen-Elektroantrieb](gegenstaende/drohnen_elektroantrieb.md) |
+| ![](bilder/gegenstaende/drohnen_raketenantrieb.png) | [Drohnen-Raketenantrieb](gegenstaende/drohnen_raketenantrieb.md) |
+| ![](bilder/gegenstaende/drohnen_fusionsantrieb.png) | [Drohnen-Fusionsantrieb](gegenstaende/drohnen_fusionsantrieb.md) |
+| ![](bilder/gegenstaende/drohnen_warpantrieb.png) | [Drohnen-Warpantrieb](gegenstaende/drohnen_warpantrieb.md) |
 
 ## Rüstung (461)
 
