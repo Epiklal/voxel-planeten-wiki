@@ -21,6 +21,7 @@ Hier wehen die schnellsten Winde des Sonnensystems – über 2000 km/h. Gefunden
 | Abstand zur Sonne | 30,07 AE (4498 Mio. km) |
 | Exzentrizität | 0,009 |
 | Atmosphäre | bis 800 km hoch, nicht atembar (Raumanzug), Wolken |
+| Ringe | von 40 900 km bis 63 000 km vom Mittelpunkt |
 | Strahlung am Boden | 350 mSv/h |
 | Oberfläche | Gasriese – Wolkenbänder aus [Wolken (blau)](../bloecke/wolken_blau.md), [Wolken (dunkelblau)](../bloecke/wolken_dunkelblau.md), [Wolken (weiß)](../bloecke/wolken_weiss.md) |
 
