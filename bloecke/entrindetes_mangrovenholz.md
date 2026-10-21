@@ -11,3 +11,7 @@
 
 - 4 × [Entrindeter Mangrovenstamm](../bloecke/entrindeter_mangrovenstamm.md) → 3 × [Entrindetes Mangrovenholz](../bloecke/entrindetes_mangrovenholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Mangrovenholzbretter](../bloecke/mangrovenholzbretter.md)
+

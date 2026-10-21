@@ -11,3 +11,7 @@
 
 - 4 × [Entrindeter Fichtenstamm](../bloecke/entrindeter_fichtenstamm.md) → 3 × [Entrindetes Fichtenholz](../bloecke/entrindetes_fichtenholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Fichtenholzbretter](../bloecke/fichtenholzbretter.md)
+

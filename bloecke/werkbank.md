@@ -9,5 +9,5 @@
 
 ## Herstellen
 
-- 8 × [Bretter](../bloecke/bretter.md) → 1 × [Werkbank](../bloecke/werkbank.md) (von Hand, 3 s)
+- 8 × [Bretter](../bloecke/bretter.md) oder [Fichtenholzbretter](../bloecke/fichtenholzbretter.md) oder [Birkenholzbretter](../bloecke/birkenholzbretter.md) (oder eins von 6 weiteren) → 1 × [Werkbank](../bloecke/werkbank.md) (von Hand, 3 s)
 

@@ -9,8 +9,7 @@
 
 ## Herstellen
 
-- 1 × [Eichenstamm](../bloecke/eichenstamm.md) oder [Birkenstamm](../bloecke/birkenstamm.md) oder [Fichtenstamm](../bloecke/fichtenstamm.md) (oder eins von 2 weiteren) → 4 × [Bretter](../bloecke/bretter.md) (von Hand, 1 s)
-- 1 × [Eichenstamm](../bloecke/eichenstamm.md) → 4 × [Bretter](../bloecke/bretter.md) (von Hand, 1 s)
+- 1 × [Eichenstamm](../bloecke/eichenstamm.md) oder [Eichenholz](../bloecke/eichenholz.md) oder [Entrindeter Eichenstamm](../bloecke/entrindeter_eichenstamm.md) (oder eins von 1 weiteren) → 4 × [Bretter](../bloecke/bretter.md) (von Hand, 1 s)
 
 ## Verwendet für
 

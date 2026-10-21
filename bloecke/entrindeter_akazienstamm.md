@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Entrindetes Akazienholz](../bloecke/entrindetes_akazienholz.md)
+[Akazienholzbretter](../bloecke/akazienholzbretter.md), [Entrindetes Akazienholz](../bloecke/entrindetes_akazienholz.md)
 

@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Entrindetes Kirschholz](../bloecke/entrindetes_kirschholz.md)
+[Kirschholzbretter](../bloecke/kirschholzbretter.md), [Entrindetes Kirschholz](../bloecke/entrindetes_kirschholz.md)
 

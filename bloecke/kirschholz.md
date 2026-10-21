@@ -11,3 +11,7 @@
 
 - 4 × [Kirschstamm](../bloecke/kirschstamm.md) → 3 × [Kirschholz](../bloecke/kirschholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Kirschholzbretter](../bloecke/kirschholzbretter.md)
+
