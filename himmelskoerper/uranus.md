@@ -21,6 +21,7 @@ Er rollt auf seiner Bahn: Seine Achse liegt fast waagrecht. Darum dauert ein Pol
 | Abstand zur Sonne | 19,189 AE (2871 Mio. km) |
 | Exzentrizität | 0,047 |
 | Atmosphäre | bis 800 km hoch, nicht atembar (Raumanzug), Wolken |
+| Ringe | von 37 800 km bis 51 400 km vom Mittelpunkt |
 | Strahlung am Boden | 351 mSv/h |
 | Oberfläche | Gasriese – Wolkenbänder aus [Wolken (türkis)](../bloecke/wolken_tuerkis.md), [Wolken (weiß)](../bloecke/wolken_weiss.md) |
 
