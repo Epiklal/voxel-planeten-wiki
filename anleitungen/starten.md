@@ -3,7 +3,7 @@
 Das Spiel braucht keine Installation:
 
 1. Die ZIP-Datei für dein System herunterladen (Windows oder Linux) und entpacken.
-2. Starten: unter Windows **Voxel-Planeten.exe** doppelklicken, unter Linux **Voxel-Planeten**.
+2. Starten: unter Windows **ExoGrid-Industry.exe** doppelklicken, unter Linux **ExoGrid-Industry**.
 3. Im Hauptmenü **Einzelspieler** wählen, eine neue Welt anlegen und losspielen.
 
 Der Ordner `ressourcen` muss neben dem Spiel liegen (darin sind Texturen, Geräusche und Musik),

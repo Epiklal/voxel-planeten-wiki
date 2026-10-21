@@ -1,4 +1,4 @@
-# Voxel-Planeten-Wiki
+# ExoGrid-Industry-Wiki
 
 Blockspiel im echten Sonnensystem: runde Planeten und Monde in echter Größe und echtem Abstand, nahtlos vom Boden ins All und zum nächsten Himmelskörper.
 
