@@ -19,11 +19,11 @@ Glüht dauerhaft bei 1400 °C – Heizdraht in Brennöfen.
 
 Aus Kanthal gibt es Werkzeuge, Waffen und Rüstung (Stufe 2):
 
-- ![](../bilder/ausruestung/siliziumcarbidspitzhacke.png) [Siliziumcarbidspitzhacke](../legierungen/kanthal.md): 3 × Kanthal + 2 × Bretter
-- ![](../bilder/ausruestung/siliziumcarbidaxt.png) [Siliziumcarbidaxt](../legierungen/kanthal.md): 3 × Kanthal + 2 × Bretter
-- ![](../bilder/ausruestung/siliziumcarbidschwert.png) [Siliziumcarbidschwert](../legierungen/kanthal.md): 2 × Kanthal + 1 × Bretter
-- ![](../bilder/gegenstaende/siliziumcarbidhelm.png) [Siliziumcarbidhelm](../gegenstaende/siliziumcarbidhelm.md): 5 × Kanthal
-- ![](../bilder/gegenstaende/siliziumcarbidharnisch.png) [Siliziumcarbidharnisch](../gegenstaende/siliziumcarbidharnisch.md): 8 × Kanthal
-- ![](../bilder/gegenstaende/siliziumcarbidbeinschutz.png) [Siliziumcarbidbeinschutz](../gegenstaende/siliziumcarbidbeinschutz.md): 7 × Kanthal
-- ![](../bilder/gegenstaende/siliziumcarbidstiefel.png) [Siliziumcarbidstiefel](../gegenstaende/siliziumcarbidstiefel.md): 4 × Kanthal
+- ![](../bilder/ausruestung/kanthalspitzhacke.png) [Kanthalspitzhacke](../legierungen/kanthal.md): 3 × Kanthal + 2 × Bretter
+- ![](../bilder/ausruestung/kanthalaxt.png) [Kanthalaxt](../legierungen/kanthal.md): 3 × Kanthal + 2 × Bretter
+- ![](../bilder/ausruestung/kanthalschwert.png) [Kanthalschwert](../legierungen/kanthal.md): 2 × Kanthal + 1 × Bretter
+- ![](../bilder/gegenstaende/kanthalhelm.png) [Kanthalhelm](../gegenstaende/kanthalhelm.md): 5 × Kanthal
+- ![](../bilder/gegenstaende/kanthalharnisch.png) [Kanthalharnisch](../gegenstaende/kanthalharnisch.md): 8 × Kanthal
+- ![](../bilder/gegenstaende/kanthalbeinschutz.png) [Kanthalbeinschutz](../gegenstaende/kanthalbeinschutz.md): 7 × Kanthal
+- ![](../bilder/gegenstaende/kanthalstiefel.png) [Kanthalstiefel](../gegenstaende/kanthalstiefel.md): 4 × Kanthal
 
