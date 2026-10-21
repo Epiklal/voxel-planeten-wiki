@@ -15,10 +15,10 @@ anleitungen/raumfahrt.md	Raumfahrt	Anleitung
 anleitungen/autos_und_boote.md	Autos und Boote	Anleitung
 anleitungen/raumschiffe.md	Raumschiffe bauen und fliegen	Anleitung
 anleitungen/himmelskoerper.md	Himmelskörper	Anleitung
-anleitungen/minecraft_bloecke.md	Blöcke aus Minecraft	Anleitung
+anleitungen/weitere_bloecke.md	Weitere Blöcke	Anleitung
 anleitungen/essen.md	Essen und Ackerbau	Anleitung
 anleitungen/tiere.md	Tiere und Monster	Anleitung
-anleitungen/redstone.md	Redstone	Anleitung
+anleitungen/signaltechnik.md	Signaltechnik	Anleitung
 anleitungen/rohstoffe.md	Rohstoffe	Anleitung
 anleitungen/chemie.md	Periodensystem und Chemie	Anleitung
 anleitungen/grafik.md	Grafik und Einstellungen	Anleitung
@@ -1177,7 +1177,7 @@ bloecke/kirschholzstufe.md	Kirschholzstufe	Block
 bloecke/kirschholztreppe.md	Kirschholztreppe	Block
 bloecke/kirschholzfalltuer.md	Kirschholzfalltür	Block
 bloecke/kirschholz.md	Kirschholz	Block
-bloecke/gemeisselter_tiefenschiefer.md	Gemeißelter Tiefenschiefer	Block
+bloecke/gemeisselter_gneis.md	Gemeißelter Gneis	Block
 bloecke/gemeisselter_quarzblock.md	Gemeißelter Quarzblock	Block
 bloecke/gemeisselter_roter_sandstein.md	Gemeißelter roter Sandstein	Block
 bloecke/gemeisselter_sandstein.md	Gemeißelter Sandstein	Block
@@ -1185,10 +1185,10 @@ bloecke/gemeisselte_steinziegel.md	Gemeißelte Steinziegel	Block
 bloecke/ton.md	Ton	Block
 bloecke/kohleblock.md	Kohleblock	Block
 bloecke/grobe_erde.md	Grobe Erde	Block
-bloecke/bruchtiefenschiefer.md	Bruchtiefenschiefer	Block
-bloecke/bruchtiefenschieferstufe.md	Bruchtiefenschieferstufe	Block
-bloecke/bruchtiefenschiefertreppe.md	Bruchtiefenschiefertreppe	Block
-bloecke/bruchtiefenschiefermauer.md	Bruchtiefenschiefermauer	Block
+bloecke/bruchgneis.md	Bruchgneis	Block
+bloecke/bruchgneisstufe.md	Bruchgneisstufe	Block
+bloecke/bruchgneistreppe.md	Bruchgneistreppe	Block
+bloecke/bruchgneismauer.md	Bruchgneismauer	Block
 bloecke/bruchstein.md	Bruchstein	Block
 bloecke/bruchsteinstufe.md	Bruchsteinstufe	Block
 bloecke/bruchsteintreppe.md	Bruchsteintreppe	Block
@@ -1196,8 +1196,8 @@ bloecke/bruchsteinmauer.md	Bruchsteinmauer	Block
 bloecke/spinnennetz.md	Spinnennetz	Block
 bloecke/kupferblock.md	Kupferblock	Block
 bloecke/kornblume.md	Kornblume	Block
-bloecke/rissige_tiefenschieferziegel.md	Rissige Tiefenschieferziegel	Block
-bloecke/rissige_tiefenschieferfliesen.md	Rissige Tiefenschieferfliesen	Block
+bloecke/rissige_gneisziegel.md	Rissige Gneisziegel	Block
+bloecke/rissige_gneisfliesen.md	Rissige Gneisfliesen	Block
 bloecke/rissige_steinziegel.md	Rissige Steinziegel	Block
 bloecke/geschnittener_kupferblock.md	Geschnittener Kupferblock	Block
 bloecke/geschnittene_kupferstufe.md	Geschnittene Kupferstufe	Block
@@ -1226,26 +1226,26 @@ bloecke/schwarzeichenholzstufe.md	Schwarzeichenholzstufe	Block
 bloecke/schwarzeichenholztreppe.md	Schwarzeichenholztreppe	Block
 bloecke/schwarzeichenholzfalltuer.md	Schwarzeichenholzfalltür	Block
 bloecke/schwarzeichenholz.md	Schwarzeichenholz	Block
-bloecke/dunkler_prismarin.md	Dunkler Prismarin	Block
-bloecke/dunkle_prismarinstufe.md	Dunkle Prismarinstufe	Block
-bloecke/dunkle_prismarintreppe.md	Dunkle Prismarintreppe	Block
+bloecke/dunkler_riffstein.md	Dunkler Riffstein	Block
+bloecke/dunkle_riffsteinstufe.md	Dunkle Riffsteinstufe	Block
+bloecke/dunkle_riffsteintreppe.md	Dunkle Riffsteintreppe	Block
 bloecke/toter_busch.md	Toter Busch	Block
-bloecke/tiefenschiefer.md	Tiefenschiefer	Block
-bloecke/tiefenschieferziegelstufe.md	Tiefenschieferziegelstufe	Block
-bloecke/tiefenschieferziegeltreppe.md	Tiefenschieferziegeltreppe	Block
-bloecke/tiefenschieferziegelmauer.md	Tiefenschieferziegelmauer	Block
-bloecke/tiefenschieferziegel.md	Tiefenschieferziegel	Block
-bloecke/tiefenschiefer_steinkohle.md	Tiefenschiefer-Steinkohle	Block
-bloecke/tiefenschiefer_kupfererz.md	Tiefenschiefer-Kupfererz	Block
-bloecke/tiefenschiefer_diamanterz.md	Tiefenschiefer-Diamanterz	Block
-bloecke/tiefenschiefer_smaragderz.md	Tiefenschiefer-Smaragderz	Block
-bloecke/tiefenschiefer_golderz.md	Tiefenschiefer-Golderz	Block
-bloecke/tiefenschiefer_eisenerz.md	Tiefenschiefer-Eisenerz	Block
-bloecke/tiefenschiefer_lapislazulierz.md	Tiefenschiefer-Lapislazulierz	Block
-bloecke/tiefenschieferfliesenstufe.md	Tiefenschieferfliesenstufe	Block
-bloecke/tiefenschieferfliesentreppe.md	Tiefenschieferfliesentreppe	Block
-bloecke/tiefenschieferfliesenmauer.md	Tiefenschieferfliesenmauer	Block
-bloecke/tiefenschieferfliesen.md	Tiefenschieferfliesen	Block
+bloecke/gneis.md	Gneis	Block
+bloecke/gneisziegelstufe.md	Gneisziegelstufe	Block
+bloecke/gneisziegeltreppe.md	Gneisziegeltreppe	Block
+bloecke/gneisziegelmauer.md	Gneisziegelmauer	Block
+bloecke/gneisziegel.md	Gneisziegel	Block
+bloecke/gneis_steinkohle.md	Gneis-Steinkohle	Block
+bloecke/gneis_kupfererz.md	Gneis-Kupfererz	Block
+bloecke/gneis_diamanterz.md	Gneis-Diamanterz	Block
+bloecke/gneis_smaragderz.md	Gneis-Smaragderz	Block
+bloecke/gneis_golderz.md	Gneis-Golderz	Block
+bloecke/gneis_eisenerz.md	Gneis-Eisenerz	Block
+bloecke/gneis_lapislazulierz.md	Gneis-Lapislazulierz	Block
+bloecke/gneisfliesenstufe.md	Gneisfliesenstufe	Block
+bloecke/gneisfliesentreppe.md	Gneisfliesentreppe	Block
+bloecke/gneisfliesenmauer.md	Gneisfliesenmauer	Block
+bloecke/gneisfliesen.md	Gneisfliesen	Block
 bloecke/diamantblock.md	Diamantblock	Block
 bloecke/diorit.md	Diorit	Block
 bloecke/dioritstufe.md	Dioritstufe	Block
@@ -1402,10 +1402,10 @@ bloecke/podsol.md	Podsol	Block
 bloecke/polierter_andesit.md	Polierter Andesit	Block
 bloecke/polierte_andesitstufe.md	Polierte Andesitstufe	Block
 bloecke/polierte_andesittreppe.md	Polierte Andesittreppe	Block
-bloecke/polierter_tiefenschiefer.md	Polierter Tiefenschiefer	Block
-bloecke/polierte_tiefenschieferstufe.md	Polierte Tiefenschieferstufe	Block
-bloecke/polierte_tiefenschiefertreppe.md	Polierte Tiefenschiefertreppe	Block
-bloecke/polierte_tiefenschiefermauer.md	Polierte Tiefenschiefermauer	Block
+bloecke/polierter_gneis.md	Polierter Gneis	Block
+bloecke/polierte_gneisstufe.md	Polierte Gneisstufe	Block
+bloecke/polierte_gneistreppe.md	Polierte Gneistreppe	Block
+bloecke/polierte_gneismauer.md	Polierte Gneismauer	Block
 bloecke/polierter_diorit.md	Polierter Diorit	Block
 bloecke/polierte_dioritstufe.md	Polierte Dioritstufe	Block
 bloecke/polierte_diorittreppe.md	Polierte Diorittreppe	Block
@@ -1413,13 +1413,13 @@ bloecke/polierter_granit.md	Polierter Granit	Block
 bloecke/polierte_granitstufe.md	Polierte Granitstufe	Block
 bloecke/polierte_granittreppe.md	Polierte Granittreppe	Block
 bloecke/mohn.md	Mohn	Block
-bloecke/prismarin.md	Prismarin	Block
-bloecke/prismarinziegelstufe.md	Prismarinziegelstufe	Block
-bloecke/prismarinziegeltreppe.md	Prismarinziegeltreppe	Block
-bloecke/prismarinziegel.md	Prismarinziegel	Block
-bloecke/prismarinstufe.md	Prismarinstufe	Block
-bloecke/prismarintreppe.md	Prismarintreppe	Block
-bloecke/prismarinmauer.md	Prismarinmauer	Block
+bloecke/riffstein.md	Riffstein	Block
+bloecke/riffsteinziegelstufe.md	Riffsteinziegelstufe	Block
+bloecke/riffsteinziegeltreppe.md	Riffsteinziegeltreppe	Block
+bloecke/riffsteinziegel.md	Riffsteinziegel	Block
+bloecke/riffsteinstufe.md	Riffsteinstufe	Block
+bloecke/riffsteintreppe.md	Riffsteintreppe	Block
+bloecke/riffsteinmauer.md	Riffsteinmauer	Block
 bloecke/kuerbis.md	Kürbis	Block
 bloecke/violettes_bett.md	Violettes Bett	Block
 bloecke/violetter_teppich.md	Violetter Teppich	Block
@@ -1458,7 +1458,7 @@ bloecke/sandstein.md	Sandstein	Block
 bloecke/sandsteinstufe.md	Sandsteinstufe	Block
 bloecke/sandsteintreppe.md	Sandsteintreppe	Block
 bloecke/sandsteinmauer.md	Sandsteinmauer	Block
-bloecke/seelaterne.md	Seelaterne	Block
+bloecke/riffleuchte.md	Riffleuchte	Block
 bloecke/glatter_quarzblock.md	Glatter Quarzblock	Block
 bloecke/glatte_quarzstufe.md	Glatte Quarzstufe	Block
 bloecke/glatte_quarztreppe.md	Glatte Quarztreppe	Block
@@ -1533,8 +1533,8 @@ bloecke/gelbe_wolle.md	Gelbe Wolle	Block
 bloecke/ackerboden.md	Ackerboden	Block
 bloecke/suessbeerstrauch.md	Süßbeerstrauch	Block
 bloecke/kuchen.md	Kuchen	Block
-bloecke/redstone_staub.md	Redstone-Staub	Block
-bloecke/redstone_fackel.md	Redstone-Fackel	Block
+bloecke/signalstaub.md	Signalstaub	Block
+bloecke/signalfackel.md	Signalfackel	Block
 bloecke/hebel.md	Hebel	Block
 bloecke/steinknopf.md	Steinknopf	Block
 bloecke/eichenholzknopf.md	Eichenholzknopf	Block
@@ -1542,12 +1542,12 @@ bloecke/steindruckplatte.md	Steindruckplatte	Block
 bloecke/eichenholzdruckplatte.md	Eichenholzdruckplatte	Block
 bloecke/feinwaegeplatte.md	Feinwägeplatte	Block
 bloecke/grobwaegeplatte.md	Grobwägeplatte	Block
-bloecke/redstone_verstaerker.md	Redstone-Verstärker	Block
-bloecke/redstone_komparator.md	Redstone-Komparator	Block
-bloecke/redstone_lampe.md	Redstone-Lampe	Block
-bloecke/redstone_block.md	Redstone-Block	Block
-bloecke/redstone_erz.md	Redstone-Erz	Block
-bloecke/tiefenschiefer_redstone_erz.md	Tiefenschiefer-Redstone-Erz	Block
+bloecke/signalverstaerker.md	Signalverstärker	Block
+bloecke/signalvergleicher.md	Signalvergleicher	Block
+bloecke/signallampe.md	Signallampe	Block
+bloecke/signalblock.md	Signalblock	Block
+bloecke/signalerz.md	Signalerz	Block
+bloecke/gneis_signalerz.md	Gneis-Signalerz	Block
 bloecke/kolben.md	Kolben	Block
 bloecke/klebriger_kolben.md	Klebriger Kolben	Block
 bloecke/beobachter.md	Beobachter	Block

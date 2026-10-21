@@ -18,5 +18,5 @@
 
 ## Verwendet für
 
-[Steinspitzhacke](../gegenstaende/steinspitzhacke.md), [Steinaxt](../gegenstaende/steinaxt.md), [Ofen](../gegenstaende/ofen.md), [Steinziegel](../bloecke/steinziegel.md), [Steinschwert](../gegenstaende/steinschwert.md), [Steinstufe](../bloecke/steinstufe.md), [Steintreppe](../bloecke/steintreppe.md), [Bruchstein](../bloecke/bruchstein.md), [Glatter Stein](../bloecke/glatter_stein.md), [Steinknopf](../bloecke/steinknopf.md), [Steindruckplatte](../bloecke/steindruckplatte.md), [Redstone-Verstärker](../bloecke/redstone_verstaerker.md), [Redstone-Komparator](../bloecke/redstone_komparator.md)
+[Steinspitzhacke](../gegenstaende/steinspitzhacke.md), [Steinaxt](../gegenstaende/steinaxt.md), [Ofen](../gegenstaende/ofen.md), [Steinziegel](../bloecke/steinziegel.md), [Steinschwert](../gegenstaende/steinschwert.md), [Steinstufe](../bloecke/steinstufe.md), [Steintreppe](../bloecke/steintreppe.md), [Bruchstein](../bloecke/bruchstein.md), [Glatter Stein](../bloecke/glatter_stein.md), [Steinknopf](../bloecke/steinknopf.md), [Steindruckplatte](../bloecke/steindruckplatte.md), [Signalverstärker](../bloecke/signalverstaerker.md), [Signalvergleicher](../bloecke/signalvergleicher.md)
 

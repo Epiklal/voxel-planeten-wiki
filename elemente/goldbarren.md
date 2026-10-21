@@ -20,7 +20,7 @@ Alles je geförderte Gold passt in einen Würfel mit 22 m Kante. Es entstand, al
 
 - 1 × [Golderz](../bloecke/golderz.md) → 1 × [Goldbarren](../elemente/goldbarren.md) (Ofen, 8 s)
 - 1 × [Goldblock](../bloecke/goldblock.md) → 9 × [Goldbarren](../elemente/goldbarren.md) (von Hand, 1 s)
-- 1 × [Tiefenschiefer-Golderz](../bloecke/tiefenschiefer_golderz.md) → 1 × [Goldbarren](../elemente/goldbarren.md) (Ofen, 8 s)
+- 1 × [Gneis-Golderz](../bloecke/gneis_golderz.md) → 1 × [Goldbarren](../elemente/goldbarren.md) (Ofen, 8 s)
 
 ## Ausrüstung
 

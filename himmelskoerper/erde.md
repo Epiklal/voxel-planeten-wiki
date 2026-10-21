@@ -75,7 +75,7 @@ Erzadern im Gestein (je mehr Adern, desto häufiger):
 | ![](../bilder/bloecke/tuffstein.png) [Tuffstein](../bloecke/tuffstein.md) | 0,3 | −128 bis −40 |
 | ![](../bilder/bloecke/lapislazulierz.png) [Lapislazulierz](../bloecke/lapislazulierz.md) | 0,1 | −110 bis 20 |
 | ![](../bilder/bloecke/smaragderz.png) [Smaragderz](../bloecke/smaragderz.md) | 0,06 | 40 bis 160 |
-| ![](../bilder/bloecke/redstone_erz.png) [Redstone-Erz](../bloecke/redstone_erz.md) | 0,16 | −128 bis −16 |
+| ![](../bilder/bloecke/signalerz.png) [Signalerz](../bloecke/signalerz.md) | 0,16 | −128 bis −16 |
 
 Tiefe in Blöcken über dem Meeresspiegel (0); das Grundgestein liegt bei −128.
 

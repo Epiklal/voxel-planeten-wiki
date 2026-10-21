@@ -21,7 +21,7 @@ Der Erdkern ist größtenteils Eisen – deshalb hat die Erde ein Magnetfeld. Je
 - 1 × [Eisenerz](../bloecke/eisenerz.md) → 1 × [Eisenbarren](../elemente/eisenbarren.md) (Ofen, 5 s)
 - 1 × [Hämatit](../bloecke/haematit.md) → 2 × [Eisenbarren](../elemente/eisenbarren.md) (Ofen, 6 s)
 - 1 × [Eisenblock](../bloecke/eisenblock.md) → 9 × [Eisenbarren](../elemente/eisenbarren.md) (von Hand, 1 s)
-- 1 × [Tiefenschiefer-Eisenerz](../bloecke/tiefenschiefer_eisenerz.md) → 1 × [Eisenbarren](../elemente/eisenbarren.md) (Ofen, 5 s)
+- 1 × [Gneis-Eisenerz](../bloecke/gneis_eisenerz.md) → 1 × [Eisenbarren](../elemente/eisenbarren.md) (Ofen, 5 s)
 
 ## Ausrüstung
 

@@ -1,6 +1,6 @@
 # Rüstung
 
-**Rüstung** wie in Minecraft: Helm, Harnisch, Beinschutz und Stiefel, im Inventar links auf ihre Plätze legen (oder mit Shift anklicken). Die Materialien verhalten sich wie in echt:
+**Rüstung**: Helm, Harnisch, Beinschutz und Stiefel, im Inventar links auf ihre Plätze legen (oder mit Shift anklicken). Die Materialien verhalten sich wie in echt:
 
 | Material  | Rüstung | Gewicht | Strom              | Strahlung    | Besonderes                                          |
 | --------- | ------: | ------: | ------------------ | ------------ | --------------------------------------------------- |
@@ -17,10 +17,10 @@ Jeder Rüstungspunkt hält 4 % von Schlägen und Kakteen ab (höchstens 80 %, di
 
 **Tech-Rüstung** (wie in IndustrialCraft) braucht Strom. Jedes Teil speichert seinen eigenen (grüner Balken unter dem Bild, im Spiel rechts neben den Rüstungspunkten mit Blitz und Prozent); leer schützt sie nicht, und was sie abfängt, kostet Strom (10 kJ je Lebenspunkt):
 
-| Art     | Punkte | Speicher je Teil | Strom                | Strahlung    | Besonderes                                                             |
-| ------- | -----: | ---------------: | -------------------- | ------------ | ---------------------------------------------------------------------- |
-| Nano    |     20 |            1 kWh | isoliert bis 30 kV   | hält 30 % ab | leicht (10 kg), Stiefel halbieren den Fallschaden                      |
-| Quanten |     26 |           10 kWh | hält auch K5 aus     | hält 90 % ab | Helm gibt Luft wie ein Raumanzug (50 W), Stiefel fangen jeden Sturz ab |
+| Art     | Punkte | Speicher je Teil | Strom              | Strahlung    | Besonderes                                                             |
+| ------- | -----: | ---------------: | ------------------ | ------------ | ---------------------------------------------------------------------- |
+| Nano    |     20 |            1 kWh | isoliert bis 30 kV | hält 30 % ab | leicht (10 kg), Stiefel halbieren den Fallschaden                      |
+| Quanten |     26 |           10 kWh | hält auch K5 aus   | hält 90 % ab | Helm gibt Luft wie ein Raumanzug (50 W), Stiefel fangen jeden Sturz ab |
 
 Aufladen:
 - **Akkus** (1 kWh) und **Energiekristalle** (10 kWh) im Inventar laden die angezogene Rüstung von selbst nach (bis 50 kW).
@@ -28,7 +28,7 @@ Aufladen:
 - **Kabellos** an einer **Ladestation** (braucht 0,5 MW aus dem Stromnetz): alle in 8 m Umkreis mit 50 kW, dazu 4 Plätze, in die man Akkus oder Rüstung zum Laden legt.
 - **Solar**: Nano- und Quantenhelm lassen sich mit einem Solarmodul aufrüsten (300 W in voller Sonne, im Weltall mehr, je näher an der Sonne desto mehr, nachts und unter einem Dach nichts).
 
-Erst wird die Rüstung voll, dann die Akkus. **Jetpack**: Nano- und Quantenharnisch lassen sich mit einem Jetpack aufrüsten – in der Luft hält die Leertaste einen oben (steigt bis 6 m/s, 30 kW; 1 kWh reicht für 2 Minuten). Beim Aufrüsten (und wenn ein Akku in einem Rezept steckt) bleibt der Strom erhalten. Wer stirbt, wacht mit "Wiederbeleben" am Startpunkt der Welt auf. Neue Spieler und Wiederbelebungen am Startpunkt beginnen möglichst nahe an der Mitte einer Würfelseite, nicht an einer Kante. Unter den sechs Seiten wird der trocken und möglichst eben erreichbare Platz mit dem geringsten Abstand zur Seitenmitte gewählt; bei Gleichstand wird die morgendliche Seite bevorzugt. Spieler starten wenige Meter versetzt. Das gilt auch in Minecraft. Gespeicherte Spielerpositionen und Wiederbeleben im eigenen Bett bleiben unverändert. Was dabei mit dem Inventar passiert, hängt von der **Schwierigkeit** ab, die man beim Anlegen einer Welt wählt – und lässt sich daneben einzeln einstellen:
+Erst wird die Rüstung voll, dann die Akkus. **Jetpack**: Nano- und Quantenharnisch lassen sich mit einem Jetpack aufrüsten – in der Luft hält die Leertaste einen oben (steigt bis 6 m/s, 30 kW; 1 kWh reicht für 2 Minuten). Beim Aufrüsten (und wenn ein Akku in einem Rezept steckt) bleibt der Strom erhalten. Wer stirbt, wacht mit "Wiederbeleben" am Startpunkt der Welt auf. Neue Spieler und Wiederbelebungen am Startpunkt beginnen möglichst nahe an der Mitte einer Würfelseite, nicht an einer Kante. Unter den sechs Seiten wird der trocken und möglichst eben erreichbare Platz mit dem geringsten Abstand zur Seitenmitte gewählt; bei Gleichstand wird die morgendliche Seite bevorzugt. Spieler starten wenige Meter versetzt. Gespeicherte Spielerpositionen und Wiederbeleben im eigenen Bett bleiben unverändert. Was dabei mit dem Inventar passiert, hängt von der **Schwierigkeit** ab, die man beim Anlegen einer Welt wählt – und lässt sich daneben einzeln einstellen:
 
 | Schwierigkeit | Schaden | Erholung        | Beim Tod (Vorschlag)   |
 | ------------- | ------- | --------------- | ---------------------- |

@@ -32,16 +32,16 @@ Diese erste Stufe umfasst noch nicht Folgen, Warten, Landen oder Sterne/ schwarz
 
 **Treibstoff und Strom**: Bauteile, die sich berühren (oder über Leitungen verbunden sind), bilden ein Netz. Ein Triebwerk schiebt nur, wenn sein Netz etwas hat – ein Tank am anderen Ende des Schiffs nützt ohne Leitung nichts. Treibstoff ist schwer (das Schiff wird beim Fliegen leichter).
 
-| Bauteil           | Netz               | Was es tut                                                                  |
-| ----------------- | ------------------ | --------------------------------------------------------------------------- |
-| Treibstofftank    | Treibstoff         | hält 500 kg; Rechtsklick mit Raketentreibstoff in der Hand füllt das Netz   |
-| Treibstoffleitung | Treibstoff         | verbindet (dünnes Rohr)                                                     |
-| Raketentriebwerk  | Treibstoff         | verbrennt bei vollem Schub 20 kg/s                                          |
-| Schiffsgenerator  | Treibstoff → Strom | macht aus Treibstoff 5 MW, solange die Batterien nicht voll sind            |
-| Schiffsbatterie   | Strom              | speichert 55 kWh                                                            |
-| Solarzellen       | Strom              | 20 kW in voller Sonne (weiter weg weniger, im Schatten des Planeten nichts) |
+| Bauteil           | Netz               | Was es tut                                                                                                     |
+| ----------------- | ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Treibstofftank    | Treibstoff         | hält 500 kg; Rechtsklick mit Raketentreibstoff in der Hand füllt das Netz                                      |
+| Treibstoffleitung | Treibstoff         | verbindet (dünnes Rohr)                                                                                        |
+| Raketentriebwerk  | Treibstoff         | verbrennt bei vollem Schub 20 kg/s                                                                             |
+| Schiffsgenerator  | Treibstoff → Strom | macht aus Treibstoff 5 MW, solange die Batterien nicht voll sind                                               |
+| Schiffsbatterie   | Strom              | speichert 55 kWh                                                                                               |
+| Solarzellen       | Strom              | 20 kW in voller Sonne (weiter weg weniger, im Schatten des Planeten nichts)                                    |
 | Materialkabel     | Strom              | Normale Materialkabel verbinden das Netz; Rechtsklick mit gleichem Material verdickt sie (bis 4/5 Blockbreite) |
-| Ionentriebwerk    | Strom              | braucht bei vollem Schub 1 MW                                               |
+| Ionentriebwerk    | Strom              | braucht bei vollem Schub 1 MW                                                                                  |
 
 Schiffskabel dichten die Schiffswand luftdicht ab. Zum Verdicken ein vorhandenes Kabel mit einem weiteren Kabel desselben Materials anklicken; die drei Upgrades kosten 3, 5 und 7 zusätzliche Kabel. Beim Abbauen erhält man die Kabelmenge zurück, die im Querschnitt steckt.
 

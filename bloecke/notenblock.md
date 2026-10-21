@@ -9,5 +9,5 @@
 
 ## Herstellen
 
-- 8 × [Bretter](../bloecke/bretter.md) oder [Fichtenholzbretter](../bloecke/fichtenholzbretter.md) oder [Birkenholzbretter](../bloecke/birkenholzbretter.md) (oder eins von 6 weiteren) + 1 × [Redstone-Staub](../bloecke/redstone_staub.md) → 1 × [Notenblock](../bloecke/notenblock.md) (Werkbank, 2 s)
+- 8 × [Bretter](../bloecke/bretter.md) oder [Fichtenholzbretter](../bloecke/fichtenholzbretter.md) oder [Birkenholzbretter](../bloecke/birkenholzbretter.md) (oder eins von 6 weiteren) + 1 × [Signalstaub](../bloecke/signalstaub.md) → 1 × [Notenblock](../bloecke/notenblock.md) (Werkbank, 2 s)
 

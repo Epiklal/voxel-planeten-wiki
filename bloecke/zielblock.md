@@ -9,5 +9,5 @@
 
 ## Herstellen
 
-- 4 × [Redstone-Staub](../bloecke/redstone_staub.md) + 1 × [Strohballen](../bloecke/strohballen.md) → 1 × [Zielblock](../bloecke/zielblock.md) (Werkbank, 1,5 s)
+- 4 × [Signalstaub](../bloecke/signalstaub.md) + 1 × [Strohballen](../bloecke/strohballen.md) → 1 × [Zielblock](../bloecke/zielblock.md) (Werkbank, 1,5 s)
 

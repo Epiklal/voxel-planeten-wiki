@@ -20,7 +20,7 @@ Leitet Strom fast so gut wie Silber. Die Freiheitsstatue ist aus Kupfer – grü
 
 - 1 × [Kupfererz](../bloecke/kupfererz.md) → 1 × [Kupferbarren](../elemente/kupferbarren.md) (Ofen, 5 s)
 - 1 × [Kupferblock](../bloecke/kupferblock.md) → 9 × [Kupferbarren](../elemente/kupferbarren.md) (von Hand, 1 s)
-- 1 × [Tiefenschiefer-Kupfererz](../bloecke/tiefenschiefer_kupfererz.md) → 1 × [Kupferbarren](../elemente/kupferbarren.md) (Ofen, 5 s)
+- 1 × [Gneis-Kupfererz](../bloecke/gneis_kupfererz.md) → 1 × [Kupferbarren](../elemente/kupferbarren.md) (Ofen, 5 s)
 
 ## Ausrüstung
 

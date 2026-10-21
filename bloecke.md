@@ -104,23 +104,23 @@
 | ![](bilder/bloecke/kirschholzstufe.png) | [Kirschholzstufe](bloecke/kirschholzstufe.md) |
 | ![](bilder/bloecke/kirschholztreppe.png) | [Kirschholztreppe](bloecke/kirschholztreppe.md) |
 | ![](bilder/bloecke/kirschholzfalltuer.png) | [Kirschholzfalltür](bloecke/kirschholzfalltuer.md) |
-| ![](bilder/bloecke/gemeisselter_tiefenschiefer.png) | [Gemeißelter Tiefenschiefer](bloecke/gemeisselter_tiefenschiefer.md) |
+| ![](bilder/bloecke/gemeisselter_gneis.png) | [Gemeißelter Gneis](bloecke/gemeisselter_gneis.md) |
 | ![](bilder/bloecke/gemeisselter_quarzblock.png) | [Gemeißelter Quarzblock](bloecke/gemeisselter_quarzblock.md) |
 | ![](bilder/bloecke/gemeisselter_roter_sandstein.png) | [Gemeißelter roter Sandstein](bloecke/gemeisselter_roter_sandstein.md) |
 | ![](bilder/bloecke/gemeisselter_sandstein.png) | [Gemeißelter Sandstein](bloecke/gemeisselter_sandstein.md) |
 | ![](bilder/bloecke/gemeisselte_steinziegel.png) | [Gemeißelte Steinziegel](bloecke/gemeisselte_steinziegel.md) |
 | ![](bilder/bloecke/kohleblock.png) | [Kohleblock](bloecke/kohleblock.md) |
-| ![](bilder/bloecke/bruchtiefenschiefer.png) | [Bruchtiefenschiefer](bloecke/bruchtiefenschiefer.md) |
-| ![](bilder/bloecke/bruchtiefenschieferstufe.png) | [Bruchtiefenschieferstufe](bloecke/bruchtiefenschieferstufe.md) |
-| ![](bilder/bloecke/bruchtiefenschiefertreppe.png) | [Bruchtiefenschiefertreppe](bloecke/bruchtiefenschiefertreppe.md) |
-| ![](bilder/bloecke/bruchtiefenschiefermauer.png) | [Bruchtiefenschiefermauer](bloecke/bruchtiefenschiefermauer.md) |
+| ![](bilder/bloecke/bruchgneis.png) | [Bruchgneis](bloecke/bruchgneis.md) |
+| ![](bilder/bloecke/bruchgneisstufe.png) | [Bruchgneisstufe](bloecke/bruchgneisstufe.md) |
+| ![](bilder/bloecke/bruchgneistreppe.png) | [Bruchgneistreppe](bloecke/bruchgneistreppe.md) |
+| ![](bilder/bloecke/bruchgneismauer.png) | [Bruchgneismauer](bloecke/bruchgneismauer.md) |
 | ![](bilder/bloecke/bruchstein.png) | [Bruchstein](bloecke/bruchstein.md) |
 | ![](bilder/bloecke/bruchsteinstufe.png) | [Bruchsteinstufe](bloecke/bruchsteinstufe.md) |
 | ![](bilder/bloecke/bruchsteintreppe.png) | [Bruchsteintreppe](bloecke/bruchsteintreppe.md) |
 | ![](bilder/bloecke/bruchsteinmauer.png) | [Bruchsteinmauer](bloecke/bruchsteinmauer.md) |
 | ![](bilder/bloecke/kupferblock.png) | [Kupferblock](bloecke/kupferblock.md) |
-| ![](bilder/bloecke/rissige_tiefenschieferziegel.png) | [Rissige Tiefenschieferziegel](bloecke/rissige_tiefenschieferziegel.md) |
-| ![](bilder/bloecke/rissige_tiefenschieferfliesen.png) | [Rissige Tiefenschieferfliesen](bloecke/rissige_tiefenschieferfliesen.md) |
+| ![](bilder/bloecke/rissige_gneisziegel.png) | [Rissige Gneisziegel](bloecke/rissige_gneisziegel.md) |
+| ![](bilder/bloecke/rissige_gneisfliesen.png) | [Rissige Gneisfliesen](bloecke/rissige_gneisfliesen.md) |
 | ![](bilder/bloecke/rissige_steinziegel.png) | [Rissige Steinziegel](bloecke/rissige_steinziegel.md) |
 | ![](bilder/bloecke/geschnittener_kupferblock.png) | [Geschnittener Kupferblock](bloecke/geschnittener_kupferblock.md) |
 | ![](bilder/bloecke/geschnittene_kupferstufe.png) | [Geschnittene Kupferstufe](bloecke/geschnittene_kupferstufe.md) |
@@ -144,25 +144,25 @@
 | ![](bilder/bloecke/schwarzeichenholzstufe.png) | [Schwarzeichenholzstufe](bloecke/schwarzeichenholzstufe.md) |
 | ![](bilder/bloecke/schwarzeichenholztreppe.png) | [Schwarzeichenholztreppe](bloecke/schwarzeichenholztreppe.md) |
 | ![](bilder/bloecke/schwarzeichenholzfalltuer.png) | [Schwarzeichenholzfalltür](bloecke/schwarzeichenholzfalltuer.md) |
-| ![](bilder/bloecke/dunkler_prismarin.png) | [Dunkler Prismarin](bloecke/dunkler_prismarin.md) |
-| ![](bilder/bloecke/dunkle_prismarinstufe.png) | [Dunkle Prismarinstufe](bloecke/dunkle_prismarinstufe.md) |
-| ![](bilder/bloecke/dunkle_prismarintreppe.png) | [Dunkle Prismarintreppe](bloecke/dunkle_prismarintreppe.md) |
-| ![](bilder/bloecke/tiefenschiefer.png) | [Tiefenschiefer](bloecke/tiefenschiefer.md) |
-| ![](bilder/bloecke/tiefenschieferziegelstufe.png) | [Tiefenschieferziegelstufe](bloecke/tiefenschieferziegelstufe.md) |
-| ![](bilder/bloecke/tiefenschieferziegeltreppe.png) | [Tiefenschieferziegeltreppe](bloecke/tiefenschieferziegeltreppe.md) |
-| ![](bilder/bloecke/tiefenschieferziegelmauer.png) | [Tiefenschieferziegelmauer](bloecke/tiefenschieferziegelmauer.md) |
-| ![](bilder/bloecke/tiefenschieferziegel.png) | [Tiefenschieferziegel](bloecke/tiefenschieferziegel.md) |
-| ![](bilder/bloecke/tiefenschiefer_steinkohle.png) | [Tiefenschiefer-Steinkohle](bloecke/tiefenschiefer_steinkohle.md) |
-| ![](bilder/bloecke/tiefenschiefer_kupfererz.png) | [Tiefenschiefer-Kupfererz](bloecke/tiefenschiefer_kupfererz.md) |
-| ![](bilder/bloecke/tiefenschiefer_diamanterz.png) | [Tiefenschiefer-Diamanterz](bloecke/tiefenschiefer_diamanterz.md) |
-| ![](bilder/bloecke/tiefenschiefer_smaragderz.png) | [Tiefenschiefer-Smaragderz](bloecke/tiefenschiefer_smaragderz.md) |
-| ![](bilder/bloecke/tiefenschiefer_golderz.png) | [Tiefenschiefer-Golderz](bloecke/tiefenschiefer_golderz.md) |
-| ![](bilder/bloecke/tiefenschiefer_eisenerz.png) | [Tiefenschiefer-Eisenerz](bloecke/tiefenschiefer_eisenerz.md) |
-| ![](bilder/bloecke/tiefenschiefer_lapislazulierz.png) | [Tiefenschiefer-Lapislazulierz](bloecke/tiefenschiefer_lapislazulierz.md) |
-| ![](bilder/bloecke/tiefenschieferfliesenstufe.png) | [Tiefenschieferfliesenstufe](bloecke/tiefenschieferfliesenstufe.md) |
-| ![](bilder/bloecke/tiefenschieferfliesentreppe.png) | [Tiefenschieferfliesentreppe](bloecke/tiefenschieferfliesentreppe.md) |
-| ![](bilder/bloecke/tiefenschieferfliesenmauer.png) | [Tiefenschieferfliesenmauer](bloecke/tiefenschieferfliesenmauer.md) |
-| ![](bilder/bloecke/tiefenschieferfliesen.png) | [Tiefenschieferfliesen](bloecke/tiefenschieferfliesen.md) |
+| ![](bilder/bloecke/dunkler_riffstein.png) | [Dunkler Riffstein](bloecke/dunkler_riffstein.md) |
+| ![](bilder/bloecke/dunkle_riffsteinstufe.png) | [Dunkle Riffsteinstufe](bloecke/dunkle_riffsteinstufe.md) |
+| ![](bilder/bloecke/dunkle_riffsteintreppe.png) | [Dunkle Riffsteintreppe](bloecke/dunkle_riffsteintreppe.md) |
+| ![](bilder/bloecke/gneis.png) | [Gneis](bloecke/gneis.md) |
+| ![](bilder/bloecke/gneisziegelstufe.png) | [Gneisziegelstufe](bloecke/gneisziegelstufe.md) |
+| ![](bilder/bloecke/gneisziegeltreppe.png) | [Gneisziegeltreppe](bloecke/gneisziegeltreppe.md) |
+| ![](bilder/bloecke/gneisziegelmauer.png) | [Gneisziegelmauer](bloecke/gneisziegelmauer.md) |
+| ![](bilder/bloecke/gneisziegel.png) | [Gneisziegel](bloecke/gneisziegel.md) |
+| ![](bilder/bloecke/gneis_steinkohle.png) | [Gneis-Steinkohle](bloecke/gneis_steinkohle.md) |
+| ![](bilder/bloecke/gneis_kupfererz.png) | [Gneis-Kupfererz](bloecke/gneis_kupfererz.md) |
+| ![](bilder/bloecke/gneis_diamanterz.png) | [Gneis-Diamanterz](bloecke/gneis_diamanterz.md) |
+| ![](bilder/bloecke/gneis_smaragderz.png) | [Gneis-Smaragderz](bloecke/gneis_smaragderz.md) |
+| ![](bilder/bloecke/gneis_golderz.png) | [Gneis-Golderz](bloecke/gneis_golderz.md) |
+| ![](bilder/bloecke/gneis_eisenerz.png) | [Gneis-Eisenerz](bloecke/gneis_eisenerz.md) |
+| ![](bilder/bloecke/gneis_lapislazulierz.png) | [Gneis-Lapislazulierz](bloecke/gneis_lapislazulierz.md) |
+| ![](bilder/bloecke/gneisfliesenstufe.png) | [Gneisfliesenstufe](bloecke/gneisfliesenstufe.md) |
+| ![](bilder/bloecke/gneisfliesentreppe.png) | [Gneisfliesentreppe](bloecke/gneisfliesentreppe.md) |
+| ![](bilder/bloecke/gneisfliesenmauer.png) | [Gneisfliesenmauer](bloecke/gneisfliesenmauer.md) |
+| ![](bilder/bloecke/gneisfliesen.png) | [Gneisfliesen](bloecke/gneisfliesen.md) |
 | ![](bilder/bloecke/diamantblock.png) | [Diamantblock](bloecke/diamantblock.md) |
 | ![](bilder/bloecke/diorit.png) | [Diorit](bloecke/diorit.md) |
 | ![](bilder/bloecke/dioritstufe.png) | [Dioritstufe](bloecke/dioritstufe.md) |
@@ -294,23 +294,23 @@
 | ![](bilder/bloecke/polierter_andesit.png) | [Polierter Andesit](bloecke/polierter_andesit.md) |
 | ![](bilder/bloecke/polierte_andesitstufe.png) | [Polierte Andesitstufe](bloecke/polierte_andesitstufe.md) |
 | ![](bilder/bloecke/polierte_andesittreppe.png) | [Polierte Andesittreppe](bloecke/polierte_andesittreppe.md) |
-| ![](bilder/bloecke/polierter_tiefenschiefer.png) | [Polierter Tiefenschiefer](bloecke/polierter_tiefenschiefer.md) |
-| ![](bilder/bloecke/polierte_tiefenschieferstufe.png) | [Polierte Tiefenschieferstufe](bloecke/polierte_tiefenschieferstufe.md) |
-| ![](bilder/bloecke/polierte_tiefenschiefertreppe.png) | [Polierte Tiefenschiefertreppe](bloecke/polierte_tiefenschiefertreppe.md) |
-| ![](bilder/bloecke/polierte_tiefenschiefermauer.png) | [Polierte Tiefenschiefermauer](bloecke/polierte_tiefenschiefermauer.md) |
+| ![](bilder/bloecke/polierter_gneis.png) | [Polierter Gneis](bloecke/polierter_gneis.md) |
+| ![](bilder/bloecke/polierte_gneisstufe.png) | [Polierte Gneisstufe](bloecke/polierte_gneisstufe.md) |
+| ![](bilder/bloecke/polierte_gneistreppe.png) | [Polierte Gneistreppe](bloecke/polierte_gneistreppe.md) |
+| ![](bilder/bloecke/polierte_gneismauer.png) | [Polierte Gneismauer](bloecke/polierte_gneismauer.md) |
 | ![](bilder/bloecke/polierter_diorit.png) | [Polierter Diorit](bloecke/polierter_diorit.md) |
 | ![](bilder/bloecke/polierte_dioritstufe.png) | [Polierte Dioritstufe](bloecke/polierte_dioritstufe.md) |
 | ![](bilder/bloecke/polierte_diorittreppe.png) | [Polierte Diorittreppe](bloecke/polierte_diorittreppe.md) |
 | ![](bilder/bloecke/polierter_granit.png) | [Polierter Granit](bloecke/polierter_granit.md) |
 | ![](bilder/bloecke/polierte_granitstufe.png) | [Polierte Granitstufe](bloecke/polierte_granitstufe.md) |
 | ![](bilder/bloecke/polierte_granittreppe.png) | [Polierte Granittreppe](bloecke/polierte_granittreppe.md) |
-| ![](bilder/bloecke/prismarin.png) | [Prismarin](bloecke/prismarin.md) |
-| ![](bilder/bloecke/prismarinziegelstufe.png) | [Prismarinziegelstufe](bloecke/prismarinziegelstufe.md) |
-| ![](bilder/bloecke/prismarinziegeltreppe.png) | [Prismarinziegeltreppe](bloecke/prismarinziegeltreppe.md) |
-| ![](bilder/bloecke/prismarinziegel.png) | [Prismarinziegel](bloecke/prismarinziegel.md) |
-| ![](bilder/bloecke/prismarinstufe.png) | [Prismarinstufe](bloecke/prismarinstufe.md) |
-| ![](bilder/bloecke/prismarintreppe.png) | [Prismarintreppe](bloecke/prismarintreppe.md) |
-| ![](bilder/bloecke/prismarinmauer.png) | [Prismarinmauer](bloecke/prismarinmauer.md) |
+| ![](bilder/bloecke/riffstein.png) | [Riffstein](bloecke/riffstein.md) |
+| ![](bilder/bloecke/riffsteinziegelstufe.png) | [Riffsteinziegelstufe](bloecke/riffsteinziegelstufe.md) |
+| ![](bilder/bloecke/riffsteinziegeltreppe.png) | [Riffsteinziegeltreppe](bloecke/riffsteinziegeltreppe.md) |
+| ![](bilder/bloecke/riffsteinziegel.png) | [Riffsteinziegel](bloecke/riffsteinziegel.md) |
+| ![](bilder/bloecke/riffsteinstufe.png) | [Riffsteinstufe](bloecke/riffsteinstufe.md) |
+| ![](bilder/bloecke/riffsteintreppe.png) | [Riffsteintreppe](bloecke/riffsteintreppe.md) |
+| ![](bilder/bloecke/riffsteinmauer.png) | [Riffsteinmauer](bloecke/riffsteinmauer.md) |
 | ![](bilder/bloecke/kuerbis.png) | [Kürbis](bloecke/kuerbis.md) |
 | ![](bilder/bloecke/violettes_bett.png) | [Violettes Bett](bloecke/violettes_bett.md) |
 | ![](bilder/bloecke/violetter_teppich.png) | [Violetter Teppich](bloecke/violetter_teppich.md) |
@@ -344,7 +344,7 @@
 | ![](bilder/bloecke/sandsteinstufe.png) | [Sandsteinstufe](bloecke/sandsteinstufe.md) |
 | ![](bilder/bloecke/sandsteintreppe.png) | [Sandsteintreppe](bloecke/sandsteintreppe.md) |
 | ![](bilder/bloecke/sandsteinmauer.png) | [Sandsteinmauer](bloecke/sandsteinmauer.md) |
-| ![](bilder/bloecke/seelaterne.png) | [Seelaterne](bloecke/seelaterne.md) |
+| ![](bilder/bloecke/riffleuchte.png) | [Riffleuchte](bloecke/riffleuchte.md) |
 | ![](bilder/bloecke/glatter_quarzblock.png) | [Glatter Quarzblock](bloecke/glatter_quarzblock.md) |
 | ![](bilder/bloecke/glatte_quarzstufe.png) | [Glatte Quarzstufe](bloecke/glatte_quarzstufe.md) |
 | ![](bilder/bloecke/glatte_quarztreppe.png) | [Glatte Quarztreppe](bloecke/glatte_quarztreppe.md) |
@@ -393,8 +393,8 @@
 | ![](bilder/bloecke/gelbe_wolle.png) | [Gelbe Wolle](bloecke/gelbe_wolle.md) |
 | ![](bilder/bloecke/suessbeerstrauch.png) | [Süßbeerstrauch](bloecke/suessbeerstrauch.md) |
 | ![](bilder/bloecke/kuchen.png) | [Kuchen](bloecke/kuchen.md) |
-| ![](bilder/bloecke/redstone_staub.png) | [Redstone-Staub](bloecke/redstone_staub.md) |
-| ![](bilder/bloecke/redstone_fackel.png) | [Redstone-Fackel](bloecke/redstone_fackel.md) |
+| ![](bilder/bloecke/signalstaub.png) | [Signalstaub](bloecke/signalstaub.md) |
+| ![](bilder/bloecke/signalfackel.png) | [Signalfackel](bloecke/signalfackel.md) |
 | ![](bilder/bloecke/hebel.png) | [Hebel](bloecke/hebel.md) |
 | ![](bilder/bloecke/steinknopf.png) | [Steinknopf](bloecke/steinknopf.md) |
 | ![](bilder/bloecke/eichenholzknopf.png) | [Eichenholzknopf](bloecke/eichenholzknopf.md) |
@@ -402,12 +402,12 @@
 | ![](bilder/bloecke/eichenholzdruckplatte.png) | [Eichenholzdruckplatte](bloecke/eichenholzdruckplatte.md) |
 | ![](bilder/bloecke/feinwaegeplatte.png) | [Feinwägeplatte](bloecke/feinwaegeplatte.md) |
 | ![](bilder/bloecke/grobwaegeplatte.png) | [Grobwägeplatte](bloecke/grobwaegeplatte.md) |
-| ![](bilder/bloecke/redstone_verstaerker.png) | [Redstone-Verstärker](bloecke/redstone_verstaerker.md) |
-| ![](bilder/bloecke/redstone_komparator.png) | [Redstone-Komparator](bloecke/redstone_komparator.md) |
-| ![](bilder/bloecke/redstone_lampe.png) | [Redstone-Lampe](bloecke/redstone_lampe.md) |
-| ![](bilder/bloecke/redstone_block.png) | [Redstone-Block](bloecke/redstone_block.md) |
-| ![](bilder/bloecke/redstone_erz.png) | [Redstone-Erz](bloecke/redstone_erz.md) |
-| ![](bilder/bloecke/tiefenschiefer_redstone_erz.png) | [Tiefenschiefer-Redstone-Erz](bloecke/tiefenschiefer_redstone_erz.md) |
+| ![](bilder/bloecke/signalverstaerker.png) | [Signalverstärker](bloecke/signalverstaerker.md) |
+| ![](bilder/bloecke/signalvergleicher.png) | [Signalvergleicher](bloecke/signalvergleicher.md) |
+| ![](bilder/bloecke/signallampe.png) | [Signallampe](bloecke/signallampe.md) |
+| ![](bilder/bloecke/signalblock.png) | [Signalblock](bloecke/signalblock.md) |
+| ![](bilder/bloecke/signalerz.png) | [Signalerz](bloecke/signalerz.md) |
+| ![](bilder/bloecke/gneis_signalerz.png) | [Gneis-Signalerz](bloecke/gneis_signalerz.md) |
 | ![](bilder/bloecke/kolben.png) | [Kolben](bloecke/kolben.md) |
 | ![](bilder/bloecke/klebriger_kolben.png) | [Klebriger Kolben](bloecke/klebriger_kolben.md) |
 | ![](bilder/bloecke/beobachter.png) | [Beobachter](bloecke/beobachter.md) |

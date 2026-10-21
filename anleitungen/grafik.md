@@ -1,6 +1,6 @@
 # Grafik und Einstellungen
 
-**Einstellungen** gibt es im Hauptmenü und im Spiel im Pause-Menü (Esc) – dort gilt alles sofort. Oben wählt man den Bereich, ein Linksklick auf einen Knopf schaltet weiter, ein Rechtsklick zurück. **Zahlen sind Schieberegler** wie in Minecraft (anklicken und ziehen): Sichtweite (2–64 Chunks), Auflösung, Sichtfeld, Helligkeit, Bilder pro Sekunde, Threads, Maus, Lautstärken und die Chat-Werte. Unten steht, was der Knopf unter der Maus macht. Gespeichert in `einstellungen.txt` im Spielstand-Ordner, dort liegt auch `log.txt` (wird bei jedem Start neu geschrieben – bei Problemen mitschicken).
+**Einstellungen** gibt es im Hauptmenü und im Spiel im Pause-Menü (Esc) – dort gilt alles sofort. Oben wählt man den Bereich, ein Linksklick auf einen Knopf schaltet weiter, ein Rechtsklick zurück. **Zahlen sind Schieberegler** (anklicken und ziehen): Sichtweite (2–64 Chunks), Auflösung, Sichtfeld, Helligkeit, Bilder pro Sekunde, Threads, Maus, Lautstärken und die Chat-Werte. Unten steht, was der Knopf unter der Maus macht. Gespeichert in `einstellungen.txt` im Spielstand-Ordner, dort liegt auch `log.txt` (wird bei jedem Start neu geschrieben – bei Problemen mitschicken).
 
 **Grafik** hat drei Seiten: **Allgemein**, **Bildqualität** und **Leistung**. Die **Grafikstufe** stellt die Werte links (auf beiden Seiten) auf einmal ein; jeden kann man danach einzeln ändern ("angepasst"):
 

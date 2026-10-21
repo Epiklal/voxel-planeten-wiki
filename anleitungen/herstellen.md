@@ -84,7 +84,7 @@
 | 5 Uranzellen                                  | 10 Uranerz + 3 Beton (12 s)                                                                                             |
 | Uranbrennstab                                 | 20 Uranzellen + 2 modulare Rahmen (60 s)                                                                                |
 
-**Ofen**: Erz schmilzt man im Ofen (aufstellen mit Rechtsklick, öffnen mit Rechtsklick): oben Erz, unten Brennstoff, rechts kommen die Barren heraus – wie in Minecraft. Eisen und Kupfer brauchen 5 s pro Barren, Gold 8 s. Kohle brennt 40 s (8 Barren), ein Holzstamm 15 s, ein Brett 5 s. Nachgelegt wird nur, solange es etwas zu schmelzen gibt. Der Ofen arbeitet weiter, auch wenn man weggeht; man sieht das Feuer. **Kiste**: 27 Plätze zum Lagern.
+**Ofen**: Erz schmilzt man im Ofen (aufstellen mit Rechtsklick, öffnen mit Rechtsklick): oben Erz, unten Brennstoff, rechts kommen die Barren heraus. Eisen und Kupfer brauchen 5 s pro Barren, Gold 8 s. Kohle brennt 40 s (8 Barren), ein Holzstamm 15 s, ein Brett 5 s. Nachgelegt wird nur, solange es etwas zu schmelzen gibt. Der Ofen arbeitet weiter, auch wenn man weggeht; man sieht das Feuer. **Kiste**: 27 Plätze zum Lagern.
 
 **Glas**: Sand im Ofen (4 s) wird zu Glas – fest, aber durchsichtig (mit hellem Rahmen und Schlieren). **Farbiges Glas** (halb durchsichtig) an der Werkbank: 8 Glas + 1 Färbemittel → 8 farbige Gläser. Wie in echt färben vor allem Metalle das Glas:
 

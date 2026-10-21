@@ -10,7 +10,7 @@ Die neuen Werkbank-/Kreativvarianten heißen zum Beispiel **Silberkabel K5 4/5 B
 
 Jedes Material gibt es mit 1/5, 2/5, 3/5 und 4/5 der Blockbreite, in allen fünf Klassen, jeweils blank und isoliert. Die Größen bezeichnen die Leiterbreite. Isolierung trägt auf jeder Seite 1/10 Block auf: Die Außenbreiten sind dann 2/5, 3/5, 4/5 und 5/5 Block. Ein isoliertes 4/5-Kabel ist genau einen Block breit und hoch. Diese Außenmaße gelten auch für Kollision und Anvisieren; Leiterquerschnitt und elektrische Werte bleiben durch die Isolierung unverändert. Die elektrische Geometrie ist ein runder Leiter mit 0,2/0,4/0,6/0,8 m Durchmesser bei einem ungefähr einen Meter breiten Block (rund 31.416/125.664/282.743/502.655 mm²). Ein Meter Kabel kostet 4, 16, 36 bzw. 64 Materialgegenstände, die isolierte Version zusätzlich 1 Gummi. Barrenmassen und Hochspannungsisolierung sind dabei Spielvereinfachungen. Die Spannungsklasse bestimmt den Anschluss; Material und Querschnitt bestimmen Widerstand, sichtbare Dicke, Oberfläche und Wärmekapazität. Doppelte Breite: vierfacher Querschnitt, ein Viertel des Widerstands, vierfache Wärmekapazität und doppelte Oberfläche. Die bestehenden Materialkabel behalten ihre gespeicherten Nummern; die bisherigen drei Größen werden auf 1/5, 2/5 und 3/5 verbreitert, 4/5 kommt hinzu. Kabelblöcke verbinden sich automatisch in allen sechs Richtungen.
 
-**Einfacher Widerstandsvergleich:** Ein Kupferkabel mit **1/5 Leiterbreite hat Widerstand 1**. Alle anderen Kabel werden relativ dazu angezeigt: `Vergleichswert = echter Widerstand pro Block / Widerstand von Kupfer 1/5`. **Kleiner ist besser:** 0,5 bedeutet halb so viel Widerstand, 2 doppelt so viel. Silber 1/5 hat etwa 0,922, Wolfram 1/5 etwa 3,28. Kupfer mit 2/5, 3/5 und 4/5 Leiterbreite hat 0,25, 0,111 und 0,0625 (angezeigt gerundet auf etwa drei gültige Ziffern). Die Isolierung und Spannungsklasse ändern diesen Wert nicht. Die Zahl gilt **je Block**, nicht für eine ganze Leitung: Mehr Kabelblöcke bedeuten insgesamt mehr Widerstand. Weniger Widerstand bedeutet bei gleichem Strom weniger Verlust und Heizleistung, nicht automatisch dieselbe Temperatur. Im Kabelfenster stehen nur Leiterebene, Querschnitt, Temperatur, Widerstand und Brenngrenze. Der Schalter **„Ohm anzeigen: An/Aus“** blendet zusätzlich die echten Ohm-Werte ein; standardmäßig sind sie aus. Die Auswahl bleibt im nativen Client für die Spielsitzung erhalten; im Minecraft-Fenster bis zum Schließen. Die Außenbreite wird nicht mehr als Eigenschaft angezeigt. Gegenstandseigenschaften, Minecraft-Anzeige und Wiki verwenden denselben Vergleich. Supraleiter zeigen im Betrieb den aktuellen Wert: gekühlt etwa 0,0182, nach Quench den normalen Niob-Wert. Die Eigenschaften beschreiben beide Zustände. Intern wird weiterhin unverändert mit echten Ohm, Volt und Ampere gerechnet; der Vergleichswert ist nur eine verständlichere Anzeige.
+**Einfacher Widerstandsvergleich:** Ein Kupferkabel mit **1/5 Leiterbreite hat Widerstand 1**. Alle anderen Kabel werden relativ dazu angezeigt: `Vergleichswert = echter Widerstand pro Block / Widerstand von Kupfer 1/5`. **Kleiner ist besser:** 0,5 bedeutet halb so viel Widerstand, 2 doppelt so viel. Silber 1/5 hat etwa 0,922, Wolfram 1/5 etwa 3,28. Kupfer mit 2/5, 3/5 und 4/5 Leiterbreite hat 0,25, 0,111 und 0,0625 (angezeigt gerundet auf etwa drei gültige Ziffern). Die Isolierung und Spannungsklasse ändern diesen Wert nicht. Die Zahl gilt **je Block**, nicht für eine ganze Leitung: Mehr Kabelblöcke bedeuten insgesamt mehr Widerstand. Weniger Widerstand bedeutet bei gleichem Strom weniger Verlust und Heizleistung, nicht automatisch dieselbe Temperatur. Im Kabelfenster stehen nur Leiterebene, Querschnitt, Temperatur, Widerstand und Brenngrenze. Der Schalter **„Ohm anzeigen: An/Aus“** blendet zusätzlich die echten Ohm-Werte ein; standardmäßig sind sie aus. Die Auswahl bleibt für die Spielsitzung erhalten. Die Außenbreite wird nicht mehr als Eigenschaft angezeigt. Gegenstandseigenschaften und Wiki verwenden denselben Vergleich. Supraleiter zeigen im Betrieb den aktuellen Wert: gekühlt etwa 0,0182, nach Quench den normalen Niob-Wert. Die Eigenschaften beschreiben beide Zustände. Intern wird weiterhin unverändert mit echten Ohm, Volt und Ampere gerechnet; der Vergleichswert ist nur eine verständlichere Anzeige.
 
 Materialkabel erwärmen sich mit `P = I²R`. Die Wärmekapazität eines ungefähr einen Meter langen Blocks ist `Dichte * Querschnitt * Länge * spezifische Wärme`. Blanke Kabel brennen am Schmelzpunkt durch; isolierte spätestens bei 160 °C. Fertigungsunterschiede senken die tatsächliche Grenze um bis zu 5 °C. Pro Netz brennt je Takt die heißeste überlastete Stelle durch. Auch ohne Strom können Kabel auf einem zu heißen Planeten zerstört werden. Temperaturen werden mitgespeichert. Das Bauwerksfenster zeigt Querschnitt, Nennstrom, Temperatur, Brenngrenze, Kühlung, Widerstand und eine angenäherte Zeit bis zum Durchbrennen. Nennstrom bedeutet Dauerlast bis 90 °C, bei niedrig schmelzenden Materialien bis 10 °C unter ihrem Schmelzpunkt; es ist kein universelles Maximum.
 
@@ -28,14 +28,14 @@ Zum Anfahren den Kühler über eine normale, unabhängig versorgte K3-Leitung an
 
 Zwei Werte je Himmelskörper, auch in der Planetenkarte:
 
-| Umgebung | Kabel-Umgebungstemperatur | Kühlwert |
-| -------- | -----------------------: | -------: |
-| Erde | 20 °C | 100 % |
-| Mars | −65 °C | ca. 12,4 % |
-| Mond | −20 °C | 5 % |
-| Merkur | 167 °C | 5 % |
-| Venus | 464 °C | ca. 916 % |
-| Titan | −179 °C | ca. 119 % |
+| Umgebung | Kabel-Umgebungstemperatur | Kühlwert   |
+| -------- | ------------------------- | ---------- |
+| Erde     | 20 °C                     | 100 %      |
+| Mars     | −65 °C                    | ca. 12,4 % |
+| Mond     | −20 °C                    | 5 %        |
+| Merkur   | 167 °C                    | 5 %        |
+| Venus    | 464 °C                    | ca. 916 %  |
+| Titan    | −179 °C                   | ca. 119 %  |
 
 Die Druckabhängigkeit ist eine **Spielnäherung**: `Kühlwert = 5 % + 95 % * sqrt(Druck / Erddruck)`. Relativer Referenzdruck: Erde 1, Mars 0,006, Venus 92, Titan 1,45; ohne Atmosphäre 0. Für Gasriesen gilt die 1-bar-Referenzschicht. Andere Monde/Zwergplaneten erhalten eine einfache Gleichgewichtstemperatur `278 K / sqrt(Sonnenabstand in AE)`; für Monde zählt dabei der Abstand ihres Mutterplaneten. Lokales Wetter, Tageszeit und Höhe werden für Kabel noch nicht simuliert.
 
@@ -50,16 +50,16 @@ Quellen für die neuen Materialdaten:
 
 Es gibt vier einstellbare Transformatorversionen:
 
-| Version | Erlaubte Ebenenpaare (in beide Richtungen) |
-| --- | --- |
-| V1 | K1 ↔ K2, K2 ↔ K3 |
-| V2 | Alle verschiedenen Ebenenpaare bis K3 |
-| V3 | Alle verschiedenen Ebenenpaare bis K4 sowie K4 ↔ K5 |
-| V4 | Alle verschiedenen Ebenenpaare bis K5 |
+| Version | Erlaubte Ebenenpaare (in beide Richtungen)          |
+| ------- | --------------------------------------------------- |
+| V1      | K1 ↔ K2, K2 ↔ K3                                    |
+| V2      | Alle verschiedenen Ebenenpaare bis K3               |
+| V3      | Alle verschiedenen Ebenenpaare bis K4 sowie K4 ↔ K5 |
+| V4      | Alle verschiedenen Ebenenpaare bis K5               |
 
 An der Werkbank: 20 Eisenplatten + 30 Kupferdraht, 4 s je Version. Sie halten 1.000 MW aus und nehmen bis zu sechs gezogene Leitungen auf. Beim Öffnen wählt man Eingangs-/Ausgangsebene und zwei verschiedene Seiten: vorne, rechts, hinten, links (relativ zur Bauwerksdrehung), unten oder oben. Standard: K1 unten, K2 oben. Die Ebenen lassen sich auch direkt tauschen. **Eingang und Ausgang sind Anschlussnamen, keine Flussbegrenzung:** Strom kann in beide Richtungen fließen.
 
-Kabelblöcke schließen nur an die eingestellten Seiten mit passender Ebene an. Für gezogene Leitungen bestimmt die Richtung zum anderen Bauwerk die Seite; die Leitung beginnt an deren Mitte. Nicht konfigurierte Seiten leiten nicht. Änderungen gelten sofort beim nächsten Stromtakt und werden gespeichert. Bereits gezogene Leitungen bleiben bei einer Änderung erhalten, leiten aber nur, wenn Seiten und Ebenen weiter passen (sonst rot dargestellt). Eine durch die Unterbrechung ausgelöste Sicherung muss anschließend zurückgesetzt werden; Umstellen schaltet Sicherungen nicht automatisch wieder ein. Im nativen Client markieren Türkis (Eingang) und Orange (Ausgang) die gewählten Seiten.
+Kabelblöcke schließen nur an die eingestellten Seiten mit passender Ebene an. Für gezogene Leitungen bestimmt die Richtung zum anderen Bauwerk die Seite; die Leitung beginnt an deren Mitte. Nicht konfigurierte Seiten leiten nicht. Änderungen gelten sofort beim nächsten Stromtakt und werden gespeichert. Bereits gezogene Leitungen bleiben bei einer Änderung erhalten, leiten aber nur, wenn Seiten und Ebenen weiter passen (sonst rot dargestellt). Eine durch die Unterbrechung ausgelöste Sicherung muss anschließend zurückgesetzt werden; Umstellen schaltet Sicherungen nicht automatisch wieder ein. Im Spiel markieren Türkis (Eingang) und Orange (Ausgang) die gewählten Seiten.
 
 Die zehn alten festen Transformatorpaare und der bisherige K5–K3-Transformator werden auf Wunsch beim Laden gelöscht, auch aus gespeicherten Inventaren und Förderbändern. Ihre Nummern bleiben zum Lesen alter Dateien reserviert.
 
@@ -70,7 +70,7 @@ Die alten Kupfer-, Gold-, Hochspannungs- und Glasfaserkabel sowie ihre drei isol
 - **Biomasse-Brenner** (1 Block, 30 MW): verbrennt Holzstämme und Bretter. **Kohlekraftwerk** (3×3×3, 75 MW): verbrennt Kohle – per Band hinten in der Mitte oder von Hand. **Kernkraftwerk** (7 × 7, 9 hoch, mit zwei Kühltürmen, 2500 MW): verbrennt Uranbrennstäbe – per Band vorne in der Mitte oder von Hand. Es liefert **1 MV** (alles andere arbeitet mit 10 kV) – man braucht also einen Transformator. Uranerz liegt tief (mehr als 80 Blöcke unter dem Meeresspiegel) oder selten in einem Vorkommen; im Monteur wird es mit Beton zu Uranzellen, die mit modularen Rahmen zu Brennstäben. Kraftwerke verbrennen nur so viel, wie gebraucht wird (ein Stamm reicht bei voller Last 5 s, ein Stück Kohle 4 s, ein Brennstab 5 Minuten).
 - **Wasser** (ein Bonus): Eine **Wasserpumpe** (3 × 3, 20 MW) gehört ins Wasser – in einen See, Fluss oder ins Meer – und pumpt 120 m³ pro Minute. **Rohre** (je ein Block) verbinden sich von selbst mit allem daneben, auch nach oben und unten: anderen Rohren, Pumpen und Kohlekraftwerken. Was so zusammenhängt, ist ein Wassernetz. Bekommt ein Kohlekraftwerk seine 45 m³ pro Minute, liefert es aus derselben Kohle **120 statt 75 MW** (bei weniger Wasser entsprechend weniger mehr). Ohne Wasser läuft es wie bisher. Eine Pumpe reicht für zwei Kohlekraftwerke.
 - **Kabel**: Kabel (aus Kupferdraht) in die Hand nehmen, erst das eine Ende anklicken (Kraftwerk, Strommast oder Maschine), dann das andere. Pro angefangene 5 m ein Kabel; beim Abbauen gibt es die Kabel zurück. Ein **Strommast** (2 Blöcke hoch) nimmt 4 Kabel, Maschinen und Kraftwerke 2.
-- **Kabel als Blöcke** (wie in IndustrialCraft 2 für Minecraft 1.12.2): statt Kabel zu ziehen, legt man sie Block für Block – sie verbinden sich von selbst mit allem daneben (auch nach oben und unten), das dieselbe Spannung hat: Kabeln, Kraftwerken, Masten, Maschinen. Der bisherige Transformator nimmt beide (K5-Kabel oben, 10-kV-Kabel unten). Mit einem Kabel in der Hand legt Rechtsklick auf ein Kabel das nächste daneben; mit etwas anderem in der Hand öffnet es sein Fenster (Spannung, Strom, Belastung als Balken, Temperatur, Verlust im Block).
+- **Kabel als Blöcke**: statt Kabel zu ziehen, legt man sie Block für Block – sie verbinden sich von selbst mit allem daneben (auch nach oben und unten), das dieselbe Spannung hat: Kabeln, Kraftwerken, Masten, Maschinen. Der bisherige Transformator nimmt beide (K5-Kabel oben, 10-kV-Kabel unten). Mit einem Kabel in der Hand legt Rechtsklick auf ein Kabel das nächste daneben; mit etwas anderem in der Hand öffnet es sein Fenster (Spannung, Strom, Belastung als Balken, Temperatur, Verlust im Block).
 
   **Stromschlag**: Blanke Kabel unter Spannung darf man nicht anfassen – an 10 kV ist man nach gut einer Sekunde tot, an 1 MV sofort, und dort springt der Funke schon aus knapp einem Meter über. Isolierte Kabel (Gummi aus Dschungelholz drum herum, schwarz mit farbigem Ring) sind sicher. Kabel ohne Strom (kein Kraftwerk, Sicherung raus) sind ungefährlich.
 - **Spannung**: Maschinen, Biomasse-Brenner, Kohlekraftwerk und Strommast arbeiten mit **10 000 V** (10 kV, Kabel bis 30 m). Kernkraftwerk und **Hochspannungsmast** (8 hoch, dicke Leitungen bis 100 m, 4 Anschlüsse) mit **1 000 000 V** (K5). Beides direkt verbinden geht nicht – dazwischen gehört ein **Transformator** (3 × 3, bis 1000 MW, 6 Anschlüsse): K5-Leitungen kommen oben an, 10-kV-Kabel gehen unten ab. Er wählt die Seite von selbst.

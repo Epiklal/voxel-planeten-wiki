@@ -14,5 +14,5 @@
 
 ## Verwendet für
 
-[Laterne](../bloecke/laterne.md), [Kürbislaterne](../bloecke/kuerbislaterne.md), [Redstone-Lampe](../bloecke/redstone_lampe.md)
+[Laterne](../bloecke/laterne.md), [Kürbislaterne](../bloecke/kuerbislaterne.md), [Signallampe](../bloecke/signallampe.md)
 
