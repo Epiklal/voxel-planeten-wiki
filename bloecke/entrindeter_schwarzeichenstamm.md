@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Schwarzeichenholzbretter](../bloecke/schwarzeichenholzbretter.md), [Entrindetes Schwarzeichenholz](../bloecke/entrindetes_schwarzeichenholz.md)
+[Entrindetes Schwarzeichenholz](../bloecke/entrindetes_schwarzeichenholz.md)
 

@@ -11,7 +11,3 @@
 
 - 4 × [Eichenstamm](../bloecke/eichenstamm.md) → 3 × [Eichenholz](../bloecke/eichenholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Bretter](../bloecke/bretter.md)
-

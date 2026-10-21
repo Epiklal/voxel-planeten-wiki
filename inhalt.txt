@@ -1063,10 +1063,6 @@ gegenstaende/bornitridhelm.md	Bornitridhelm	Gegenstand
 gegenstaende/bornitridharnisch.md	Bornitridharnisch	Gegenstand
 gegenstaende/bornitridbeinschutz.md	Bornitridbeinschutz	Gegenstand
 gegenstaende/bornitridstiefel.md	Bornitridstiefel	Gegenstand
-gegenstaende/kanthalhelm.md	Kanthalhelm	Gegenstand
-gegenstaende/kanthalharnisch.md	Kanthalharnisch	Gegenstand
-gegenstaende/kanthalbeinschutz.md	Kanthalbeinschutz	Gegenstand
-gegenstaende/kanthalstiefel.md	Kanthalstiefel	Gegenstand
 gegenstaende/aluminiumkabel.md	Aluminiumkabel	Gegenstand
 gegenstaende/antimonkabel.md	Antimonkabel	Gegenstand
 gegenstaende/berylliumkabel.md	Berylliumkabel	Gegenstand

@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Akazienholzbretter](../bloecke/akazienholzbretter.md), [Akazienholz](../bloecke/akazienholz.md), [Entrindeter Akazienstamm](../bloecke/entrindeter_akazienstamm.md)
+[Bretter](../bloecke/bretter.md), [Akazienholzbretter](../bloecke/akazienholzbretter.md), [Akazienholz](../bloecke/akazienholz.md), [Entrindeter Akazienstamm](../bloecke/entrindeter_akazienstamm.md)
 

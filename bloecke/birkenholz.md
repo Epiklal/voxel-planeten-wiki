@@ -11,7 +11,3 @@
 
 - 4 × [Birkenstamm](../bloecke/birkenstamm.md) → 3 × [Birkenholz](../bloecke/birkenholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Birkenholzbretter](../bloecke/birkenholzbretter.md)
-

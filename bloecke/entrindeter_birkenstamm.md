@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Birkenholzbretter](../bloecke/birkenholzbretter.md), [Entrindetes Birkenholz](../bloecke/entrindetes_birkenholz.md)
+[Entrindetes Birkenholz](../bloecke/entrindetes_birkenholz.md)
 

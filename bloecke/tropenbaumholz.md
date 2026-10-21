@@ -11,7 +11,3 @@
 
 - 4 × [Tropenholz](../bloecke/tropenholz.md) → 3 × [Tropenbaumholz](../bloecke/tropenbaumholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Tropenholzbretter](../bloecke/tropenholzbretter.md)
-

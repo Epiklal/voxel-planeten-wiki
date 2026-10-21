@@ -11,7 +11,3 @@
 
 - 4 × [Entrindeter Schwarzeichenstamm](../bloecke/entrindeter_schwarzeichenstamm.md) → 3 × [Entrindetes Schwarzeichenholz](../bloecke/entrindetes_schwarzeichenholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Schwarzeichenholzbretter](../bloecke/schwarzeichenholzbretter.md)
-

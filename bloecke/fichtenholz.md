@@ -11,7 +11,3 @@
 
 - 4 × [Fichtenstamm](../bloecke/fichtenstamm.md) → 3 × [Fichtenholz](../bloecke/fichtenholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Fichtenholzbretter](../bloecke/fichtenholzbretter.md)
-

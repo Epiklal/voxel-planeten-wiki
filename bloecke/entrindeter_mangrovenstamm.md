@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Mangrovenholzbretter](../bloecke/mangrovenholzbretter.md), [Entrindetes Mangrovenholz](../bloecke/entrindetes_mangrovenholz.md)
+[Entrindetes Mangrovenholz](../bloecke/entrindetes_mangrovenholz.md)
 

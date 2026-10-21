@@ -11,7 +11,3 @@
 
 - 4 × [Mangrovenstamm](../bloecke/mangrovenstamm.md) → 3 × [Mangrovenholz](../bloecke/mangrovenholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Mangrovenholzbretter](../bloecke/mangrovenholzbretter.md)
-

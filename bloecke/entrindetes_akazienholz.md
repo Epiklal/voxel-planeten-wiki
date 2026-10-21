@@ -11,7 +11,3 @@
 
 - 4 × [Entrindeter Akazienstamm](../bloecke/entrindeter_akazienstamm.md) → 3 × [Entrindetes Akazienholz](../bloecke/entrindetes_akazienholz.md) (von Hand, 1 s)
 
-## Verwendet für
-
-[Akazienholzbretter](../bloecke/akazienholzbretter.md)
-

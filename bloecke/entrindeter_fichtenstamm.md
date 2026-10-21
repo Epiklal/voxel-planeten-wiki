@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Fichtenholzbretter](../bloecke/fichtenholzbretter.md), [Entrindetes Fichtenholz](../bloecke/entrindetes_fichtenholz.md)
+[Entrindetes Fichtenholz](../bloecke/entrindetes_fichtenholz.md)
 

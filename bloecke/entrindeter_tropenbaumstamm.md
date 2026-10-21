@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Tropenholzbretter](../bloecke/tropenholzbretter.md), [Entrindetes Tropenholz](../bloecke/entrindetes_tropenholz.md)
+[Entrindetes Tropenholz](../bloecke/entrindetes_tropenholz.md)
 

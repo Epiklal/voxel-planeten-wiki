@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Bretter](../bloecke/bretter.md), [Entrindetes Eichenholz](../bloecke/entrindetes_eichenholz.md)
+[Entrindetes Eichenholz](../bloecke/entrindetes_eichenholz.md)
 
