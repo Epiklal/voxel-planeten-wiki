@@ -5,5 +5,5 @@
 | Eigenschaft | Wert |
 |---|---|
 | Art | fester Block |
-| Abbauen | geht nicht |
+| Abbauen | nur mit dem Abbruchhammer (bringt nichts ein) |
 
