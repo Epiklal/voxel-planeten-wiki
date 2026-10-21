@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-708 Stück, sortiert wie im Inventar.
+706 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -607,7 +607,7 @@
 | ![](bilder/gegenstaende/kanthalbeinschutz.png) | [Kanthalbeinschutz](gegenstaende/kanthalbeinschutz.md) |
 | ![](bilder/gegenstaende/kanthalstiefel.png) | [Kanthalstiefel](gegenstaende/kanthalstiefel.md) |
 
-## Zutaten (93)
+## Zutaten (91)
 
 | | Name |
 |---|---|
@@ -687,8 +687,6 @@
 | ![](bilder/gegenstaende/verrottetes_fleisch.png) | [Verrottetes Fleisch](gegenstaende/verrottetes_fleisch.md) |
 | ![](bilder/gegenstaende/knochen.png) | [Knochen](gegenstaende/knochen.md) |
 | ![](bilder/gegenstaende/knochenmehl.png) | [Knochenmehl](gegenstaende/knochenmehl.md) |
-| ![](bilder/gegenstaende/pfeil.png) | [Pfeil](gegenstaende/pfeil.md) |
-| ![](bilder/gegenstaende/bogen.png) | [Bogen](gegenstaende/bogen.md) |
 | ![](bilder/gegenstaende/schwarzpulver.png) | [Schwarzpulver](gegenstaende/schwarzpulver.md) |
 | ![](bilder/gegenstaende/faden.png) | [Faden](gegenstaende/faden.md) |
 | ![](bilder/gegenstaende/spinnenauge.png) | [Spinnenauge](gegenstaende/spinnenauge.md) |

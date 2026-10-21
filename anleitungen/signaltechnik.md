@@ -2,7 +2,7 @@
 
 Schaltungen (der Server rechnet sie, 20 Ticks pro Sekunde):
 
-- **Stromquellen**: Hebel (umlegen mit Rechtsklick), Stein- und Holzknopf (1 bzw. 1,5 Sekunden), Druckplatten aus Stein (Spieler und Tiere), Holz (auch Gegenstände), Gold und Eisen (je mehr darauf liegt, desto stärker), Signalfackel, Signalblock, Tageslichtsensor (Rechtsklick: nachts statt tags), Zielblock (Pfeil in die Mitte = stärker), Beobachter.
+- **Stromquellen**: Hebel (umlegen mit Rechtsklick), Stein- und Holzknopf (1 bzw. 1,5 Sekunden), Druckplatten aus Stein (Spieler und Tiere), Holz (auch Gegenstände), Gold und Eisen (je mehr darauf liegt, desto stärker), Signalfackel, Signalblock, Tageslichtsensor (Rechtsklick: nachts statt tags), Zielblock (Schuss in die Mitte = stärker), Beobachter.
 - **Signalstaub** (aus Signalerz, tief unter der Erde; leuchtet, wenn man darauf tritt) leitet bis zu 15 Blöcke weit, wird je Block schwächer, steigt Stufen hinauf und hinunter, bildet Linien, Ecken und Kreuze.
 - **Feste Blöcke** leiten: von einer Fackel darunter, einem Hebel oder Verstärker „stark“ versorgt, schalten sie auch Staub daneben; von Staub „schwach“ versorgt nur Lampen, Kolben und Türen.
 - **Signalfackel**: aus, wenn ihr Block Strom hat (Umkehrer, Takte). Zu schnell umgeschaltet, brennt sie durch.

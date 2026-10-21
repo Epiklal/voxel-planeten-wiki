@@ -435,8 +435,6 @@ gegenstaende/ei.md	Ei	Gegenstand
 gegenstaende/verrottetes_fleisch.md	Verrottetes Fleisch	Gegenstand
 gegenstaende/knochen.md	Knochen	Gegenstand
 gegenstaende/knochenmehl.md	Knochenmehl	Gegenstand
-gegenstaende/pfeil.md	Pfeil	Gegenstand
-gegenstaende/bogen.md	Bogen	Gegenstand
 gegenstaende/schwarzpulver.md	Schwarzpulver	Gegenstand
 gegenstaende/faden.md	Faden	Gegenstand
 gegenstaende/spinnenauge.md	Spinnenauge	Gegenstand

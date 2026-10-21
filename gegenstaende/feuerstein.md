@@ -4,5 +4,5 @@
 
 ## Verwendet für
 
-[Pfeil](../gegenstaende/pfeil.md), [Feuerzeug](../gegenstaende/feuerzeug.md)
+[Feuerzeug](../gegenstaende/feuerzeug.md)
 
