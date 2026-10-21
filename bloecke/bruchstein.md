@@ -17,5 +17,5 @@
 
 ## Verwendet für
 
-[Bruchsteinstufe](../bloecke/bruchsteinstufe.md), [Bruchsteintreppe](../bloecke/bruchsteintreppe.md), [Bruchsteinmauer](../bloecke/bruchsteinmauer.md), [Stein](../bloecke/stein.md), [Bemooster Bruchstein](../bloecke/bemooster_bruchstein.md), [Diorit](../bloecke/diorit.md), [Andesit](../bloecke/andesit.md), [Steinhacke](../gegenstaende/steinhacke.md), [Hebel](../bloecke/hebel.md), [Kolben](../bloecke/kolben.md), [Beobachter](../bloecke/beobachter.md)
+[Steinspitzhacke](../gegenstaende/steinspitzhacke.md), [Steinaxt](../gegenstaende/steinaxt.md), [Ofen](../gegenstaende/ofen.md), [Steinschwert](../gegenstaende/steinschwert.md), [Bruchsteinstufe](../bloecke/bruchsteinstufe.md), [Bruchsteintreppe](../bloecke/bruchsteintreppe.md), [Bruchsteinmauer](../bloecke/bruchsteinmauer.md), [Stein](../bloecke/stein.md), [Bemooster Bruchstein](../bloecke/bemooster_bruchstein.md), [Diorit](../bloecke/diorit.md), [Andesit](../bloecke/andesit.md), [Steinhacke](../gegenstaende/steinhacke.md), [Hebel](../bloecke/hebel.md), [Kolben](../bloecke/kolben.md), [Beobachter](../bloecke/beobachter.md)
 

@@ -4,5 +4,5 @@
 
 ## Herstellen
 
-- 3 × [Stein](../bloecke/stein.md) + 2 × [Bretter](../bloecke/bretter.md) → 1 × [Steinspitzhacke](../gegenstaende/steinspitzhacke.md) (Werkbank, 3 s)
+- 3 × [Bruchstein](../bloecke/bruchstein.md) oder [Bruchtiefenschiefer](../bloecke/bruchtiefenschiefer.md) oder [Stein](../bloecke/stein.md) + 2 × [Bretter](../bloecke/bretter.md) → 1 × [Steinspitzhacke](../gegenstaende/steinspitzhacke.md) (Werkbank, 3 s)
 

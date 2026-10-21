@@ -4,10 +4,10 @@
 
 | Was                                           | Woraus                                                                                                                  |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Steinspitzhacke, Steinaxt                     | 3 Stein + 2 Bretter                                                                                                     |
+| Steinspitzhacke, Steinaxt                     | 3 Bruchstein + 2 Bretter                                                                                                |
 | Eisenspitzhacke, Eisenaxt                     | 3 Eisenbarren + 2 Bretter                                                                                               |
-| Stein-, Eisen-, Titanschwert                  | 2 Stein bzw. 2 Eisen- oder Titanbarren + 1 Brett                                                                        |
-| Ofen                                          | 8 Stein                                                                                                                 |
+| Stein-, Eisen-, Titanschwert                  | 2 Bruchstein bzw. 2 Eisen- oder Titanbarren + 1 Brett                                                                   |
+| Ofen                                          | 8 Bruchstein                                                                                                            |
 | Kiste                                         | 8 Bretter                                                                                                               |
 | 3 Förderbänder                                | 1 Eisenplatte + 1 Eisenstange                                                                                           |
 | Förderaufzug                                  | 2 Eisenplatten + 2 Eisenstangen                                                                                         |
