@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Bretter](../bloecke/bretter.md), [Gummi](../gegenstaende/gummi.md), [Tropenholzbretter](../bloecke/tropenholzbretter.md), [Tropenbaumholz](../bloecke/tropenbaumholz.md), [Entrindeter Tropenbaumstamm](../bloecke/entrindeter_tropenbaumstamm.md)
+[Gummi](../gegenstaende/gummi.md), [Tropenholzbretter](../bloecke/tropenholzbretter.md), [Tropenbaumholz](../bloecke/tropenbaumholz.md), [Entrindeter Tropenbaumstamm](../bloecke/entrindeter_tropenbaumstamm.md)
 

@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-703 Stück, sortiert wie im Inventar.
+707 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -136,7 +136,7 @@
 | ![](bilder/gegenstaende/drohnen_fusionsantrieb.png) | [Drohnen-Fusionsantrieb](gegenstaende/drohnen_fusionsantrieb.md) |
 | ![](bilder/gegenstaende/drohnen_warpantrieb.png) | [Drohnen-Warpantrieb](gegenstaende/drohnen_warpantrieb.md) |
 
-## Rüstung (461)
+## Rüstung (465)
 
 | | Name |
 |---|---|
@@ -601,6 +601,10 @@
 | ![](bilder/gegenstaende/bornitridharnisch.png) | [Bornitridharnisch](gegenstaende/bornitridharnisch.md) |
 | ![](bilder/gegenstaende/bornitridbeinschutz.png) | [Bornitridbeinschutz](gegenstaende/bornitridbeinschutz.md) |
 | ![](bilder/gegenstaende/bornitridstiefel.png) | [Bornitridstiefel](gegenstaende/bornitridstiefel.md) |
+| ![](bilder/gegenstaende/kanthalhelm.png) | [Kanthalhelm](gegenstaende/kanthalhelm.md) |
+| ![](bilder/gegenstaende/kanthalharnisch.png) | [Kanthalharnisch](gegenstaende/kanthalharnisch.md) |
+| ![](bilder/gegenstaende/kanthalbeinschutz.png) | [Kanthalbeinschutz](gegenstaende/kanthalbeinschutz.md) |
+| ![](bilder/gegenstaende/kanthalstiefel.png) | [Kanthalstiefel](gegenstaende/kanthalstiefel.md) |
 
 ## Zutaten (93)
 

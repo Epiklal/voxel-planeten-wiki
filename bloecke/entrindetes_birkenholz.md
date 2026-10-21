@@ -11,3 +11,7 @@
 
 - 4 × [Entrindeter Birkenstamm](../bloecke/entrindeter_birkenstamm.md) → 3 × [Entrindetes Birkenholz](../bloecke/entrindetes_birkenholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Birkenholzbretter](../bloecke/birkenholzbretter.md)
+

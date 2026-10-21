@@ -11,3 +11,7 @@
 
 - 4 × [Entrindeter Eichenstamm](../bloecke/entrindeter_eichenstamm.md) → 3 × [Entrindetes Eichenholz](../bloecke/entrindetes_eichenholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Bretter](../bloecke/bretter.md)
+

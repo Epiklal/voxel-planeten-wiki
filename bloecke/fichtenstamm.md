@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Bretter](../bloecke/bretter.md), [Fichtenholzbretter](../bloecke/fichtenholzbretter.md), [Fichtenholz](../bloecke/fichtenholz.md), [Entrindeter Fichtenstamm](../bloecke/entrindeter_fichtenstamm.md)
+[Fichtenholzbretter](../bloecke/fichtenholzbretter.md), [Fichtenholz](../bloecke/fichtenholz.md), [Entrindeter Fichtenstamm](../bloecke/entrindeter_fichtenstamm.md)
 

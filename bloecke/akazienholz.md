@@ -11,3 +11,7 @@
 
 - 4 × [Akazienstamm](../bloecke/akazienstamm.md) → 3 × [Akazienholz](../bloecke/akazienholz.md) (von Hand, 1 s)
 
+## Verwendet für
+
+[Akazienholzbretter](../bloecke/akazienholzbretter.md)
+

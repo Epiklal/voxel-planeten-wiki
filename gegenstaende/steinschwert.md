@@ -4,5 +4,5 @@
 
 ## Herstellen
 
-- 2 × [Bruchstein](../bloecke/bruchstein.md) oder [Bruchtiefenschiefer](../bloecke/bruchtiefenschiefer.md) oder [Stein](../bloecke/stein.md) + 1 × [Bretter](../bloecke/bretter.md) → 1 × [Steinschwert](../gegenstaende/steinschwert.md) (Werkbank, 3 s)
+- 2 × [Bruchstein](../bloecke/bruchstein.md) oder [Bruchtiefenschiefer](../bloecke/bruchtiefenschiefer.md) oder [Stein](../bloecke/stein.md) + 1 × [Bretter](../bloecke/bretter.md) oder [Fichtenholzbretter](../bloecke/fichtenholzbretter.md) oder [Birkenholzbretter](../bloecke/birkenholzbretter.md) (oder eins von 6 weiteren) → 1 × [Steinschwert](../gegenstaende/steinschwert.md) (Werkbank, 3 s)
 
