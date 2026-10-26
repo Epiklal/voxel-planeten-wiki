@@ -1092,6 +1092,7 @@ gegenstaende/transformator_v1.md	Transformator V1	Gegenstand
 gegenstaende/transformator_v2.md	Transformator V2	Gegenstand
 gegenstaende/transformator_v3.md	Transformator V3	Gegenstand
 gegenstaende/transformator_v4.md	Transformator V4	Gegenstand
+gegenstaende/mini_transformator.md	Mini-Transformator	Gegenstand
 bloecke/akazienholztuer.md	Akazienholztür	Block
 bloecke/akazienholzzaun.md	Akazienholzzaun	Block
 bloecke/akazienholzzauntor.md	Akazienholzzauntor	Block

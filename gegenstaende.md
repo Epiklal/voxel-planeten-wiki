@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-707 Stück, sortiert wie im Inventar.
+708 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -28,7 +28,7 @@
 | ![](bilder/gegenstaende/forschungsreaktor.png) | [Forschungsreaktor](gegenstaende/forschungsreaktor.md) |
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
 
-## Strom (35)
+## Strom (36)
 
 | | Name |
 |---|---|
@@ -67,6 +67,7 @@
 | ![](bilder/gegenstaende/transformator_v2.png) | [Transformator V2](gegenstaende/transformator_v2.md) |
 | ![](bilder/gegenstaende/transformator_v3.png) | [Transformator V3](gegenstaende/transformator_v3.md) |
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
+| ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
 ## Raumfahrt (11)
 
