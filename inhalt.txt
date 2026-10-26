@@ -481,6 +481,7 @@ gegenstaende/drohnen_raketenantrieb.md	Drohnen-Raketenantrieb	Gegenstand
 gegenstaende/drohnen_fusionsantrieb.md	Drohnen-Fusionsantrieb	Gegenstand
 gegenstaende/drohnen_warpantrieb.md	Drohnen-Warpantrieb	Gegenstand
 gegenstaende/abbruchhammer.md	Abbruchhammer	Gegenstand
+gegenstaende/taschenlampe.md	Taschenlampe	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

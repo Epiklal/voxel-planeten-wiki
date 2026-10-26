@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-706 Stück, sortiert wie im Inventar.
+707 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -84,7 +84,7 @@
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 
-## Werkzeuge (48)
+## Werkzeuge (49)
 
 | | Name |
 |---|---|
@@ -136,6 +136,7 @@
 | ![](bilder/gegenstaende/drohnen_fusionsantrieb.png) | [Drohnen-Fusionsantrieb](gegenstaende/drohnen_fusionsantrieb.md) |
 | ![](bilder/gegenstaende/drohnen_warpantrieb.png) | [Drohnen-Warpantrieb](gegenstaende/drohnen_warpantrieb.md) |
 | ![](bilder/gegenstaende/abbruchhammer.png) | [Abbruchhammer](gegenstaende/abbruchhammer.md) |
+| ![](bilder/gegenstaende/taschenlampe.png) | [Taschenlampe](gegenstaende/taschenlampe.md) |
 
 ## Rüstung (465)
 
