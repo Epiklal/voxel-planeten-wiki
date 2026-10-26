@@ -54,20 +54,29 @@ Das Dashboard bleibt erreichbar, auch wenn der Server gerade aus ist.
 - **Sicherungen**: von Hand oder automatisch (Standard: alle 60 Minuten, die letzten 10 automatischen bleiben), zurückspielen.
 - **Einstellungen**: Servername, Spiel-Port, Autostart, Neustart nach Absturz, Sicherungen, Dashboard-Zugriff und Passwort.
 
-Wer den Server aufmacht, entscheidet, wer das Dashboard sieht:
+Wer den Server aufmacht, entscheidet, wer das Dashboard sieht. Beim ersten Start im Terminal fragt der Verwalter danach und man **muss ein Passwort vergeben** (mindestens 6 Zeichen, die Eingabe bleibt unsichtbar, zweimal eintippen):
 
-| Zugriff    | Wer kommt drauf              | Passwort                     |
-| ---------- | ---------------------------- | ---------------------------- |
-| `lokal`    | nur dieser Rechner           | optional                     |
-| `netzwerk` | alle im Heimnetz             | nötig (mindestens 6 Zeichen) |
-| `internet` | alle, die den Port erreichen | nötig, dazu HTTPS empfohlen  |
-
-```bash
-ExoGrid-Industry-Verwalter --zugriff netzwerk --passwort geheim123
-# übers Internet mit HTTPS (ohne eigenes Zertifikat erzeugt der Verwalter eines selbst):
-ExoGrid-Industry-Verwalter --zugriff internet --passwort geheim123 --https
+```
+  Wer soll das Dashboard öffnen dürfen?
+    1) lokal       – nur dieser Rechner
+    2) LAN         – alle Rechner im Heimnetz
+    3) öffentlich  – übers Internet (Port 25610 am Router freigeben)
+  Auswahl [1–3, Enter = 1]:
 ```
 
-Diese Angaben merkt sich der Verwalter in `verwalter.json` (auch `--web-port`, `--kein-passwort`, `--kein-https`); nur für diesen Start gelten `--ordner` (Datenordner), `--server` (anderes Server-Programm) und `--kein-browser`. `--help` zeigt alles. Daten liegen unter `~/.local/share/voxel-planeten/server-verwalter` (Windows: `%APPDATA%\voxel-planeten\server-verwalter`) mit `welten/` und `sicherungen/`. Strg+C speichert die Welt, stoppt den Server und beendet den Verwalter (zweimal Strg+C: sofort). Ports: TCP 25610 fürs Dashboard, dazu wie oben TCP 25600 fürs Spiel.
+| Zugriff      | Wer kommt drauf              | Passwort                    |
+| ------------ | ---------------------------- | --------------------------- |
+| `lokal`      | nur dieser Rechner           | nötig                       |
+| `lan`        | alle im Heimnetz             | nötig                       |
+| `öffentlich` | alle, die den Port erreichen | nötig, dazu HTTPS empfohlen |
+
+Bei „öffentlich“ fragt er noch, ob HTTPS an sein soll (Standard: ja; ohne eigenes Zertifikat erzeugt der Verwalter eines selbst, der Browser warnt dann einmal). Später ändern: `ExoGrid-Industry-Verwalter --einrichten` oder im Dashboard unter Einstellungen. Ohne Terminal (z. B. als Dienst) wird nichts gefragt; dann gibt man es auf der Befehlszeile an:
+
+```bash
+ExoGrid-Industry-Verwalter --zugriff lan --passwort geheim123
+ExoGrid-Industry-Verwalter --zugriff öffentlich --passwort geheim123 --https
+```
+
+Diese Angaben merkt sich der Verwalter in `verwalter.json` (auch `--web-port`, `--kein-https`); nur für diesen Start gelten `--einrichten`, `--ordner` (Datenordner), `--server` (anderes Server-Programm) und `--kein-browser`. Ohne Passwort ist das Dashboard nur auf dem eigenen Rechner erreichbar. `--help` zeigt alles. Daten liegen unter `~/.local/share/voxel-planeten/server-verwalter` (Windows: `%APPDATA%\voxel-planeten\server-verwalter`) mit `welten/` und `sicherungen/`. Strg+C speichert die Welt, stoppt den Server und beendet den Verwalter (zweimal Strg+C: sofort). Ports: TCP 25610 fürs Dashboard, dazu wie oben TCP 25600 fürs Spiel.
 
 Was übers Netz geht: Jeder Client erzeugt das Gelände selbst aus dem Seed. Der Server schickt nur veränderte Chunks (pro Region von 512 × 512 m, sobald man in die Nähe kommt), Blockänderungen, die Spielzeit und 20-mal pro Sekunde die Positionen der anderen. Die Bewegung rechnet jeder Client selbst; Blockänderungen prüft der Server (Reichweite, Grundgestein, Platz frei).
