@@ -51,4 +51,4 @@ Für sehr schwache Rechner (Dual-Core): Grafikstufe **Minimal** – halbe Auflö
 
 "Automatisch" wählt nach Rechner: höchstens 2 Prozessor-Threads (Dual-Core ohne Hyperthreading) → Minimal; sonst nach Grafikkarte: eigene Grafikkarte → Hoch, alte Intel-Grafik (HD/UHD Graphics) und Software-Grafik → Niedrig, sonst Mittel.
 
-Beim Start probiert das Spiel alle Grafikkarten und Schnittstellen der Reihe nach (Vulkan → DirectX 12 → OpenGL) und nimmt die erste, die alle Shader des Spiels übersetzen kann. Alte Intel-Grafik hat unter Windows z. B. kein Vulkan, läuft aber mit DirectX 12 oder OpenGL. Im Hauptmenü steht unten, was gerade benutzt wird.
+Beim Start probiert das Spiel alle Grafikkarten und Schnittstellen der Reihe nach (Vulkan → OpenGL → DirectX 12) und nimmt die erste, die alle Shader des Spiels übersetzen kann. Alte Intel-Grafik hat unter Windows z. B. kein Vulkan, läuft aber mit OpenGL. DirectX 12 hat Darstellungsfehler: Es kommt nur dran, wenn sonst nichts geht, und lässt sich im Menü nicht auswählen. Dort stehen überhaupt nur Schnittstellen zur Wahl, die es auf dem Rechner gibt. Im Hauptmenü steht unten, was gerade benutzt wird.
