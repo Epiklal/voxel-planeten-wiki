@@ -43,4 +43,31 @@ Ports: TCP 25600 (Spiel), UDP 25601 (Spielsuche). Übers Internet: Am Router TCP
 
 In der Server-Konsole gehen alle Chat-Befehle (ohne `/`, die Konsole darf alles), dazu `stop` (speichern und beenden); Strg+C speichert auch. Zum Beispiel: `liste`, `speichern`, `zeit 100` (Zeitraffer ×100; `zeit 0` hält an, `zeit 0,5` halb so schnell), `zeit jetzt` (echte Zeit), `zeit vor 24` (Stunden), `setzerang Kim moderator`, `kick Max Spam`, `ban Max`. Wie früher geht auch `admin Kim`, `admin weg Kim` und `admins`; eine alte `admins.txt` wird übernommen. Mitspieler finden den Server im Mehrspieler-Menü (`--name` legt fest, wie er dort heißt).
 
+## Server-Verwalter mit Dashboard im Browser
+
+Das Dashboard bleibt erreichbar, auch wenn der Server gerade aus ist.
+
+- **Status**: läuft/aus, Welt, Spielzeit, Spieler online, Abstürze; Starten, Stoppen, Neustarten.
+- **Konsole**: die Ausgabe des Servers live, Befehle eingeben wie in der Konsole.
+- **Spieler**: wer online ist und wo (Position), Verwarnungen je Spieler (vom Spiel automatisch oder von Moderatoren), Sperren und Ränge.
+- **Welten**: alle Welten, neue anlegen, wechseln, löschen (gelöschte Welten landen im Ordner `welten-papierkorb`).
+- **Sicherungen**: von Hand oder automatisch (Standard: alle 60 Minuten, die letzten 10 automatischen bleiben), zurückspielen.
+- **Einstellungen**: Servername, Spiel-Port, Autostart, Neustart nach Absturz, Sicherungen, Dashboard-Zugriff und Passwort.
+
+Wer den Server aufmacht, entscheidet, wer das Dashboard sieht:
+
+| Zugriff    | Wer kommt drauf              | Passwort                     |
+| ---------- | ---------------------------- | ---------------------------- |
+| `lokal`    | nur dieser Rechner           | optional                     |
+| `netzwerk` | alle im Heimnetz             | nötig (mindestens 6 Zeichen) |
+| `internet` | alle, die den Port erreichen | nötig, dazu HTTPS empfohlen  |
+
+```bash
+ExoGrid-Industry-Verwalter --zugriff netzwerk --passwort geheim123
+# übers Internet mit HTTPS (ohne eigenes Zertifikat erzeugt der Verwalter eines selbst):
+ExoGrid-Industry-Verwalter --zugriff internet --passwort geheim123 --https
+```
+
+Diese Angaben merkt sich der Verwalter in `verwalter.json` (auch `--web-port`, `--kein-passwort`, `--kein-https`); nur für diesen Start gelten `--ordner` (Datenordner), `--server` (anderes Server-Programm) und `--kein-browser`. `--help` zeigt alles. Daten liegen unter `~/.local/share/voxel-planeten/server-verwalter` (Windows: `%APPDATA%\voxel-planeten\server-verwalter`) mit `welten/` und `sicherungen/`. Strg+C speichert die Welt, stoppt den Server und beendet den Verwalter (zweimal Strg+C: sofort). Ports: TCP 25610 fürs Dashboard, dazu wie oben TCP 25600 fürs Spiel.
+
 Was übers Netz geht: Jeder Client erzeugt das Gelände selbst aus dem Seed. Der Server schickt nur veränderte Chunks (pro Region von 512 × 512 m, sobald man in die Nähe kommt), Blockänderungen, die Spielzeit und 20-mal pro Sekunde die Positionen der anderen. Die Bewegung rechnet jeder Client selbst; Blockänderungen prüft der Server (Reichweite, Grundgestein, Platz frei).
