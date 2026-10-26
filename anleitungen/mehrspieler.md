@@ -49,7 +49,8 @@ Das Dashboard bleibt erreichbar, auch wenn der Server gerade aus ist.
 
 - **Status**: läuft/aus, Welt, Spielzeit, Spieler online, Abstürze; Starten, Stoppen, Neustarten.
 - **Konsole**: die Ausgabe des Servers live, Befehle eingeben wie in der Konsole.
-- **Spieler**: wer online ist und wo (Position), Verwarnungen je Spieler (vom Spiel automatisch oder von Moderatoren), Sperren und Ränge.
+- **Spieler**: wer online ist und auf welchem Himmelskörper (Erde, Mars, Mond …) mit Breite, Länge und Höhe, Verwarnungen je Spieler (vom Spiel automatisch oder von Moderatoren), Sperren und Ränge.
+- **Karte**: die Geländekarte eines Himmelskörpers (Norden oben, Raster 30°) mit allen Spielern darauf. Oben je ein Knopf für jeden Körper mit Spielern, daneben eine Liste mit allen anderen; „◎ Körper“ in der Spielertabelle springt zur Karte dieses Spielers. Die Karte rechnet der Server beim ersten Aufruf aus (ein paar Sekunden), danach bleibt sie bis zum nächsten Serverstart.
 - **Welten**: alle Welten, neue anlegen, wechseln, löschen (gelöschte Welten landen im Ordner `welten-papierkorb`).
 - **Sicherungen**: von Hand oder automatisch (Standard: alle 60 Minuten, die letzten 10 automatischen bleiben), zurückspielen.
 - **Einstellungen**: Servername, Spiel-Port, Autostart, Neustart nach Absturz, Sicherungen, Dashboard-Zugriff und Passwort.
@@ -70,7 +71,7 @@ Wer den Server aufmacht, entscheidet, wer das Dashboard sieht. Beim ersten Start
 | `lan`        | alle im Heimnetz             | nötig                       |
 | `öffentlich` | alle, die den Port erreichen | nötig, dazu HTTPS empfohlen |
 
-Bei „öffentlich“ fragt er noch, ob HTTPS an sein soll (Standard: ja; ohne eigenes Zertifikat erzeugt der Verwalter eines selbst, der Browser warnt dann einmal). Später ändern: `ExoGrid-Industry-Verwalter --einrichten` oder im Dashboard unter Einstellungen. Ohne Terminal (z. B. als Dienst) wird nichts gefragt; dann gibt man es auf der Befehlszeile an:
+Bei „öffentlich“ fragt er noch, ob HTTPS an sein soll (Standard: ja; ohne eigenes Zertifikat erzeugt der Verwalter eines selbst, der Browser warnt dann einmal – „Erweitert → trotzdem öffnen“). Die Adresse beginnt dann mit `https://`; wer `http://` eintippt, wird umgeleitet. Die Felder „Zertifikat“ und „Schlüssel“ in den Einstellungen sind **Dateipfade** zu einer eigenen PEM-Datei (z. B. von Let's Encrypt) – leer lassen fürs selbst unterschriebene, dort gehört kein Passwort hinein. Passt der Pfad nicht, nimmt der Verwalter mit einer Warnung das selbst unterschriebene. HTTPS an/aus wirkt erst nach einem Neustart des Verwalters. Später ändern: `ExoGrid-Industry-Verwalter --einrichten` oder im Dashboard unter Einstellungen. Ohne Terminal (z. B. als Dienst) wird nichts gefragt; dann gibt man es auf der Befehlszeile an:
 
 ```bash
 ExoGrid-Industry-Verwalter --zugriff lan --passwort geheim123
