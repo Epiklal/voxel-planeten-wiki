@@ -1,8 +1,8 @@
 # Alle Blöcke
 
-663 Stück, sortiert wie im Inventar.
+664 Stück, sortiert wie im Inventar.
 
-## Baublöcke (409)
+## Baublöcke (410)
 
 | | Name |
 |---|---|
@@ -36,6 +36,7 @@
 | ![](bilder/bloecke/geldautomat.png) | [Geldautomat](bloecke/geldautomat.md) |
 | ![](bilder/bloecke/handelsterminal.png) | [Handelsterminal](bloecke/handelsterminal.md) |
 | ![](bilder/bloecke/frachthafen.png) | [Frachthafen](bloecke/frachthafen.md) |
+| ![](bilder/bloecke/lift.png) | [Lift](bloecke/lift.md) |
 | ![](bilder/bloecke/akazienholztuer.png) | [Akazienholztür](bloecke/akazienholztuer.md) |
 | ![](bilder/bloecke/akazienholzzaun.png) | [Akazienholzzaun](bloecke/akazienholzzaun.md) |
 | ![](bilder/bloecke/akazienholzzauntor.png) | [Akazienholzzauntor](bloecke/akazienholzzauntor.md) |

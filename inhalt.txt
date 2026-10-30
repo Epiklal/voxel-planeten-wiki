@@ -226,6 +226,7 @@ bloecke/landeplattform.md	Landeplattform	Block
 bloecke/geldautomat.md	Geldautomat	Block
 bloecke/handelsterminal.md	Handelsterminal	Block
 bloecke/frachthafen.md	Frachthafen	Block
+bloecke/lift.md	Lift	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

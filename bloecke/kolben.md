@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Klebriger Kolben](../bloecke/klebriger_kolben.md)
+[Lift](../bloecke/lift.md), [Klebriger Kolben](../bloecke/klebriger_kolben.md)
 
