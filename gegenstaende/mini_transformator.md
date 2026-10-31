@@ -4,7 +4,7 @@
 
 | Eigenschaft | Wert |
 |---|---|
-| Alle Ebenenpaare bis K | 3 |
+|  | K1 ↔ K2 oder K2 ↔ K3 |
 |  | Beim Öffnen Ebenen und zwei verschiedene Anschlussseiten wählen |
 | Strom fließt in beide Richtungen · bis | 1000 MW |
 
