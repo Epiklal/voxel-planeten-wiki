@@ -5,7 +5,9 @@
 | Eigenschaft | Wert |
 |---|---|
 | Widerstand | 1 · kleiner ist besser |
-| Vergleich je Block | Kupfer 1/5 = 1 |
+| Vergleich je Block | Kupfer 1/5 K3 = 1 |
+|  | Leitet jede Klasse; höhere Klasse = weniger Widerstand |
+|  | K1 ×4 · K2 ×2 · K3 ×1 · K4 ×1/2 · K5 ×1/4 |
 | 1/5 Block dick; dicker | weitere Kabel draufklicken |
 | 2/5 | 4 Kabel, 3/5: 9, 4/5: 16 · Widerstand 1/4, 1/9, 1/16 |
 | Isolieren | mit Gummi draufklicken |

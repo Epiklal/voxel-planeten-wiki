@@ -5,7 +5,7 @@
 | Eigenschaft | Wert |
 |---|---|
 |  | K1 ↔ K2 oder K2 ↔ K3 |
-|  | Beim Öffnen Ebenen und zwei verschiedene Anschlussseiten wählen |
+|  | Beim Öffnen Klassen und zwei verschiedene Anschlussseiten wählen |
 | Strom fließt in beide Richtungen · bis | 1000 MW |
 
 ## Herstellen

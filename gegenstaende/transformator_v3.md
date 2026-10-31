@@ -4,8 +4,8 @@
 
 | Eigenschaft | Wert |
 |---|---|
-| Alle Ebenenpaare bis K | 4 sowie K4 ↔ K5 |
-|  | Beim Öffnen Ebenen und zwei verschiedene Anschlussseiten wählen |
+| Alle Klassenpaare bis K | 4 sowie K4 ↔ K5 |
+|  | Beim Öffnen Klassen und zwei verschiedene Anschlussseiten wählen |
 | Strom fließt in beide Richtungen · bis | 1000 MW |
 
 ## Herstellen

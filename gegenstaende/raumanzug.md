@@ -5,7 +5,7 @@
 | Eigenschaft | Wert |
 |---|---|
 | Luftdicht · | 35 kg (über der Rüstung) |
-| Strahlenschutz | 40 % · isoliert bis 20 kV |
+| Strahlenschutz | 40 % · isoliert bis K3 |
 
 ## Herstellen
 

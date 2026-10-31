@@ -4,8 +4,8 @@
 
 | Eigenschaft | Wert |
 |---|---|
-|  | K1 ↔ K2 oder K2 ↔ K3 |
-|  | Beim Öffnen Ebenen und zwei verschiedene Anschlussseiten wählen |
+|  | K1 ↔ K2, K1 ↔ K3 oder K2 ↔ K3 |
+|  | Anschlüsse nur vorne und hinten, Enden nicht tauschbar |
 | Strom fließt in beide Richtungen · bis | 1000 MW |
 
 ## Herstellen

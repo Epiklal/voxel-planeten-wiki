@@ -4,12 +4,12 @@
 
 | Material  | Rüstung | Gewicht | Strom              | Strahlung    | Besonderes                                          |
 | --------- | ------: | ------: | ------------------ | ------------ | --------------------------------------------------- |
-| Gummi     |       7 |    6 kg | isoliert bis 30 kV | hält 10 % ab | Gummistiefel federn Stürze ab (60 % Schaden)        |
+| Gummi     |       7 |    6 kg | isoliert bis K3 | hält 10 % ab | Gummistiefel federn Stürze ab (60 % Schaden)        |
 | Gold      |      11 |   75 kg | leitet             | hält 80 % ab | weich und sehr schwer, schirmt dicht wie Blei ab    |
 | Eisen     |      15 |   25 kg | leitet             | hält 50 % ab | Plattenrüstung aus Eisenplatten                     |
-| Diamant   |      20 |   12 kg | isoliert bis 20 kV | hält 40 % ab | das härteste Material, leicht                       |
+| Diamant   |      20 |   12 kg | isoliert bis K3 | hält 40 % ab | das härteste Material, leicht                       |
 | Titan     |      18 |   14 kg | leitet             | hält 30 % ab | fester als Eisen, gut halb so schwer (Mond, Merkur) |
-| Raumanzug |      +1 |   35 kg | isoliert bis 20 kV | hält 40 % ab | luftdicht, kommt **über** die Rüstung               |
+| Raumanzug |      +1 |   35 kg | isoliert bis K3 | hält 40 % ab | luftdicht, kommt **über** die Rüstung               |
 
 Das sind nicht alle Rüstungen: Aus den geeigneten **Metallen, Legierungen und Keramiken** gibt es ebenfalls Helm, Harnisch, Beinschutz und Stiefel. Dazu gehören zum Beispiel Aluminium, Kupfer, Wolfram, Stahl, Bronze, Messing, Siliziumcarbid und Bornitrid. Ihre Schutzwerte und ihr Gewicht folgen aus dem jeweiligen Material (siehe „Werkzeuge, Waffen und Rüstung aus jedem Metall“ unter „Periodensystem und Chemie“). An der Werkbank brauchen Helm/Harnisch/Beinschutz/Stiefel jeweils 5/8/7/4 Stück Material. Radioaktive Rüstungen strahlen selbst; reaktive Metalle können im Wasser gefährlich werden. Der Wiki-Bereich **Rüstung** zeigt alle Materialien mit den tatsächlichen Spielwerten und Links zu jedem einzelnen Teil.
 
@@ -19,7 +19,7 @@ Jeder Rüstungspunkt hält 4 % von Schlägen und Kakteen ab (höchstens 80 %, di
 
 | Art     | Punkte | Speicher je Teil | Strom              | Strahlung    | Besonderes                                                             |
 | ------- | -----: | ---------------: | ------------------ | ------------ | ---------------------------------------------------------------------- |
-| Nano    |     20 |            1 kWh | isoliert bis 30 kV | hält 30 % ab | leicht (10 kg), Stiefel halbieren den Fallschaden                      |
+| Nano    |     20 |            1 kWh | isoliert bis K3 | hält 30 % ab | leicht (10 kg), Stiefel halbieren den Fallschaden                      |
 | Quanten |     26 |           10 kWh | hält auch K5 aus   | hält 90 % ab | Helm gibt Luft wie ein Raumanzug (50 W), Stiefel fangen jeden Sturz ab |
 
 Aufladen:
@@ -47,12 +47,12 @@ Alle Rüstungsmaterialien im Spiel, einschließlich Metallen, Legierungen und Ke
 
 | Material | Helm | Harnisch | Beinschutz | Stiefel | Punkte | Gewicht | Strahlenschutz | Strom |
 |---|---|---|---|---|---|---|---|---|
-| Gummi | [Gummihaube](../gegenstaende/gummihaube.md) | [Gummijacke](../gegenstaende/gummijacke.md) | [Gummihose](../gegenstaende/gummihose.md) | [Gummistiefel](../gegenstaende/gummistiefel.md) | 7 | 6 kg | 10 % | isoliert bis 30 kV |
+| Gummi | [Gummihaube](../gegenstaende/gummihaube.md) | [Gummijacke](../gegenstaende/gummijacke.md) | [Gummihose](../gegenstaende/gummihose.md) | [Gummistiefel](../gegenstaende/gummistiefel.md) | 7 | 6 kg | 10 % | isoliert bis K3 |
 | Gold | [Goldhelm](../gegenstaende/goldhelm.md) | [Goldharnisch](../gegenstaende/goldharnisch.md) | [Goldbeinschutz](../gegenstaende/goldbeinschutz.md) | [Goldstiefel](../gegenstaende/goldstiefel.md) | 11 | 75 kg | 80 % | leitet Strom |
 | Eisen | [Eisenhelm](../gegenstaende/eisenhelm.md) | [Eisenharnisch](../gegenstaende/eisenharnisch.md) | [Eisenbeinschutz](../gegenstaende/eisenbeinschutz.md) | [Eisenstiefel](../gegenstaende/eisenstiefel.md) | 15 | 25 kg | 50 % | leitet Strom |
-| Diamant | [Diamanthelm](../gegenstaende/diamanthelm.md) | [Diamantharnisch](../gegenstaende/diamantharnisch.md) | [Diamantbeinschutz](../gegenstaende/diamantbeinschutz.md) | [Diamantstiefel](../gegenstaende/diamantstiefel.md) | 20 | 12 kg | 40 % | isoliert bis 20 kV |
-| Nano | [Nanohelm](../gegenstaende/nanohelm.md) | [Nanoharnisch](../gegenstaende/nanoharnisch.md) | [Nanobeinschutz](../gegenstaende/nanobeinschutz.md) | [Nanostiefel](../gegenstaende/nanostiefel.md) | 20 | 10 kg | 30 % | isoliert bis 30 kV |
-| Quanten | [Quantenhelm](../gegenstaende/quantenhelm.md) | [Quantenharnisch](../gegenstaende/quantenharnisch.md) | [Quantenbeinschutz](../gegenstaende/quantenbeinschutz.md) | [Quantenstiefel](../gegenstaende/quantenstiefel.md) | 26 | 18 kg | 90 % | isoliert bis 1250 kV |
+| Diamant | [Diamanthelm](../gegenstaende/diamanthelm.md) | [Diamantharnisch](../gegenstaende/diamantharnisch.md) | [Diamantbeinschutz](../gegenstaende/diamantbeinschutz.md) | [Diamantstiefel](../gegenstaende/diamantstiefel.md) | 20 | 12 kg | 40 % | isoliert bis K3 |
+| Nano | [Nanohelm](../gegenstaende/nanohelm.md) | [Nanoharnisch](../gegenstaende/nanoharnisch.md) | [Nanobeinschutz](../gegenstaende/nanobeinschutz.md) | [Nanostiefel](../gegenstaende/nanostiefel.md) | 20 | 10 kg | 30 % | isoliert bis K3 |
+| Quanten | [Quantenhelm](../gegenstaende/quantenhelm.md) | [Quantenharnisch](../gegenstaende/quantenharnisch.md) | [Quantenbeinschutz](../gegenstaende/quantenbeinschutz.md) | [Quantenstiefel](../gegenstaende/quantenstiefel.md) | 26 | 18 kg | 90 % | isoliert bis K5 |
 | Titan | [Titanhelm](../gegenstaende/titanhelm.md) | [Titanharnisch](../gegenstaende/titanharnisch.md) | [Titanbeinschutz](../gegenstaende/titanbeinschutz.md) | [Titanstiefel](../gegenstaende/titanstiefel.md) | 18 | 14 kg | 30 % | leitet Strom |
 
 ### Metalle, Legierungen und Keramik

@@ -9,7 +9,7 @@ Alle Materialien, weitere Rüstungsteile und die Regeln für Schaden, Strom und 
 | Eigenschaft | Wert |
 |---|---|
 | Rüstung + | 2 · 1,8 kg |
-| Strahlenschutz | 3 % · isoliert bis 30 kV |
+| Strahlenschutz | 3 % · isoliert bis K3 |
 
 ## Herstellen
 
