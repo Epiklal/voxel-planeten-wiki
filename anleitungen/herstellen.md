@@ -66,6 +66,7 @@
 | Fusionsreaktor                                | 8 Titanplatten + 4 modulare Rahmen + 2 Energiekristalle + 10 Kabel                                                      |
 | 4 Plasmaröhren                                | 2 Titanplatten + 1 Quarzkristall + 4 Kupferdraht                                                                        |
 | Plasmatriebwerk                               | 6 Titanplatten + 2 modulare Rahmen + 4 Quarzkristalle                                                                   |
+| Wasserstofftriebwerk                          | 6 verstärkte Platten + 2 Rotoren + 2 Titanplatten                                                                       |
 | Schwerkraftkern                               | 2 Energiekristalle + 4 modulare Rahmen + 4 Diamanten                                                                    |
 | Warpantrieb                                   | 6 Energiekristalle + 8 Diamanten + 12 Titanplatten + 4 modulare Rahmen                                                  |
 | Bauplan (jeder)                               | 2 Quarzkristalle + 4 Kupferdraht                                                                                        |

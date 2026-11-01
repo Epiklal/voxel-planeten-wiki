@@ -227,6 +227,12 @@ bloecke/geldautomat.md	Geldautomat	Block
 bloecke/handelsterminal.md	Handelsterminal	Block
 bloecke/frachthafen.md	Frachthafen	Block
 bloecke/lift.md	Lift	Block
+bloecke/wasserstofftriebwerk.md	Wasserstofftriebwerk	Block
+bloecke/wasserstofftriebwerk_2.md	Wasserstofftriebwerk	Block
+bloecke/wasserstofftriebwerk_3.md	Wasserstofftriebwerk	Block
+bloecke/wasserstofftriebwerk_4.md	Wasserstofftriebwerk	Block
+bloecke/wasserstofftriebwerk_5.md	Wasserstofftriebwerk	Block
+bloecke/wasserstofftriebwerk_6.md	Wasserstofftriebwerk	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
