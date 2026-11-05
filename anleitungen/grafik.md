@@ -5,18 +5,18 @@
 **Grafik** hat zwei Seiten:
 
 - **Bildschirm** – wie das Bild auf den Bildschirm kommt: links Auflösung, Kantenglättung, Schärfe, Texturen, Pixel-Look, Farbtiefe und Zwischenbilder, rechts Oberfläche, Sichtfeld, Helligkeit, Bilder pro Sekunde, VSync, kleine Karte, Grafik-Schnittstelle und "Hand einstellen …"
-- **Grafik** – was die Welt selbst verändert: links Sichtweite, Landschaft, Nebel, Lichtstreuung, Wolken, Niederschlag, Blätter und Raytracing, rechts Chunks pro Bild, Animationen, Raster an Ecken, Kartenschärfe und Threads
+- **Grafik** – was die Welt selbst verändert: links Sichtweite, Ferne Blöcke, Landschaft, Nebel, Lichtstreuung, Wolken, Niederschlag, Blätter und Raytracing, rechts Chunks pro Bild, Animationen, Raster an Ecken, Kartenschärfe und Threads
 
 Die **Grafikstufe** oben rechts stellt die Werte links (auf beiden Seiten) und Chunks pro Bild auf einmal ein; jeden kann man danach einzeln ändern ("angepasst"):
 
-| Stufe   | Auflösung der Welt | Pixel-Look | Sichtweite Blöcke | Landschaft | Lichtstreuung | Wolken  | Kantenglättung | Schärfe | Texturen      |
-| ------- | -----------------: | ---------- | ----------------- | ---------- | ------------- | ------- | -------------- | ------- | ------------- |
-| Minimal |               50 % | an         | 4 Chunks (64 m)   | Aus        | Einfach       | aus     | aus            | aus     | Pixel         |
-| Retro   |               50 % | an         | 6 Chunks (96 m)   | Kurz       | Einfach       | aus     | aus            | aus     | Pixel         |
-| Niedrig |               67 % | aus        | 8 Chunks (128 m)  | Mittel     | Niedrig       | Niedrig | FXAA           | aus     | Mipmaps       |
-| Mittel  |              100 % | aus        | 12 Chunks (192 m) | Weit       | Mittel        | Mittel  | FXAA           | aus     | Anisotrop 4×  |
-| Hoch    |              100 % | aus        | 16 Chunks (256 m) | Sehr weit  | Hoch          | Hoch    | TAA            | leicht  | Anisotrop 8×  |
-| Ultra   |              100 % | aus        | 24 Chunks (384 m) | Extrem     | Ultra         | Ultra   | TAA            | leicht  | Anisotrop 16× |
+| Stufe   | Auflösung der Welt | Pixel-Look | Sichtweite Blöcke | Ferne Blöcke | Landschaft | Lichtstreuung | Wolken  | Kantenglättung | Schärfe | Texturen      |
+| ------- | -----------------: | ---------- | ----------------- | ------------ | ---------- | ------------- | ------- | -------------- | ------- | ------------- |
+| Minimal |               50 % | an         | 4 Chunks (64 m)   | Sehr grob    | Aus        | Einfach       | aus     | aus            | aus     | Pixel         |
+| Retro   |               50 % | an         | 6 Chunks (96 m)   | Sehr grob    | Kurz       | Einfach       | aus     | aus            | aus     | Pixel         |
+| Niedrig |               67 % | aus        | 8 Chunks (128 m)  | Grob         | Mittel     | Niedrig       | Niedrig | FXAA           | aus     | Mipmaps       |
+| Mittel  |              100 % | aus        | 12 Chunks (192 m) | Mittel       | Weit       | Mittel        | Mittel  | FXAA           | aus     | Anisotrop 4×  |
+| Hoch    |              100 % | aus        | 16 Chunks (256 m) | Fein         | Sehr weit  | Hoch          | Hoch    | TAA            | leicht  | Anisotrop 8×  |
+| Ultra   |              100 % | aus        | 24 Chunks (384 m) | Sehr fein    | Extrem     | Ultra         | Ultra   | TAA            | leicht  | Anisotrop 16× |
 
 - Auflösung: 25–200 % der Fenstergröße (Menüs und Schrift bleiben scharf). Unter 100 % schneller; mit TAA holt das Spiel über mehrere Bilder Details zurück (Hochskalieren wie FSR/DLSS). Über 100 % **Supersampling**: größer zeichnen und verkleinern – sehr glatt, aber teuer (200 % = viermal so viele Pixel)
 - **Kantenglättung**: **FXAA** (schnell, sucht Kanten im fertigen Bild und glättet sie, etwas weich) oder **TAA** (jedes Bild wird um einen Bruchteil eines Pixels verschoben gezeichnet und mit den vorigen gemischt – die glattesten Kanten, kein Flimmern, kein Nachziehen dank Tiefe und Kamerabewegung)
@@ -24,7 +24,8 @@ Die **Grafikstufe** oben rechts stellt die Werte links (auf beiden Seiten) und C
 - **Zwischenbilder** (Frame Generation, bei allen Stufen aus): Die Welt wird nur jedes zweite Bild neu gezeichnet; jedes gezeigte Bild wird auf die neueste Blickrichtung verschoben. Gemessen etwa 35–45 % mehr Bilder pro Sekunde, gleichmäßig verteilt; an Rändern, die bei schneller Bewegung neu ins Bild kommen, leichte Schlieren
 - **Texturen**: Pixel (ohne Mipmaps – flimmert in der Ferne wie bei ganz alten Spielen), Mipmaps (in der Ferne weich), Anisotrop 4×/8×/16× (auch flach liegende Böden bleiben bis weit hinten scharf; nah bleiben die Texel trotzdem kantig)
 - Pixel-Look: verkleinertes Bild mit großen, scharfen Pixeln wie bei alten Spielen
-- Landschaft: wie weit und fein die vereinfachte Landschaft hinter den Blöcken reicht (Aus, Kurz … Extrem, **Maximal** für sehr starke Grafikkarten). **Gebautes ist darin auch in der Ferne zu sehen**: Häuser, Türme, Fabriken, Glas und Bäume, die Spieler gesetzt haben, als vereinfachte Klötze (Bauwerke betongrau) – auch aus der Luft, mit dem Teleskop und aus dem All (dort nur, was groß genug ist). Die Sichtweite der echten Blöcke geht bis 64 Chunks (1 km)
+- Landschaft: wie weit und fein die vereinfachte Landschaft hinter den Blöcken reicht (Aus, Kurz … Extrem, **Maximal** für sehr starke Grafikkarten). **Gebautes ist darin auch in der Ferne zu sehen**: Häuser, Türme, Fabriken, Glas und Bäume, die Spieler gesetzt haben, als vereinfachte Klötze (Bauwerke betongrau) – auch aus der Luft, mit dem Teleskop und aus dem All (dort nur, was groß genug ist). Die Sichtweite der echten Blöcke geht bis 64 Chunks (1 km). Die Landschaft richtet sich auch nach dem Bildschirm: Auf 4K und 8K wird sie von selbst feiner, in kleinen Fenstern gröber
+- **Ferne Blöcke** (Voll, Sehr fein, Fein, Mittel, Grob, Sehr grob): Weit weg fasst das Spiel 2×2×2, 4×4×4 oder 8×8×8 echte Blöcke zu einem großen zusammen – aber erst, wenn so ein großer Block auf dem Bildschirm höchstens 2 (Sehr fein) bis 6 Bildpunkte (Sehr grob) groß ist. Es bleiben echte Blöcke: Jede Seite zeigt den Block, der dort am häufigsten vorne liegt. Wie bei den Sternen hängt es am Bildschirm: Auf Full HD fasst Sehr fein erst ab gut 700 m zusammen, Grob ab etwa 280 m – auf 4K doppelt, auf 8K viermal so weit weg. Beim **Zoomen** zählt die Vergrößerung mit: Im Blickfeld werden die Blöcke so fein, als stünde man näher dran – bei starkem Zoom wieder voll aufgelöst. Wird der Flächenpuffer auf der Grafikkarte knapp, fasst das Spiel von selbst gröber zusammen und wieder feiner, sobald Platz ist. Lohnt sich bei großer Sichtweite – mit den Sichtweiten der Grafikstufen fasst auf Full HD noch nichts zusammen. Voll: nie zusammenfassen (auch nicht, wenn der Puffer knapp wird)
 - Lichtstreuung: wie genau Himmel, Dunst und Abendrot gerechnet werden
 - Wolken: aus bis Ultra (Wolken kosten viel Rechenzeit)
 - Niederschlag: Regen und Schnee als Effekt auf dem Bildschirm (bis Mittel) oder als echte Tropfen und Flocken in der Welt – "Teilchen" (Hoch, 12 000) bzw. "Viele Teilchen" (Ultra, 30 000): unterschiedlich lang, schnell und hell, in Böen dichter, Schnee taumelt; Dächer und Bäume halten sie ab, Blöcke davor verdecken sie. Kostet kaum etwas (gut 0,3 ms je Bild)
