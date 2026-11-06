@@ -39,3 +39,4 @@ Jeder Spieler hat einen **Rang**: Spieler, Unterstützer, Moderator oder Admin. 
 | /sonnensturm [aus\|einfach\|mittel\|schwer\|jetzt] | Admin        | Sonnenstürme einstellen oder sofort einen auslösen                                 |
 | /pvp [an\|aus]                                     | Admin        | Ob sich Spieler gegenseitig verletzen können                                       |
 | /speichern                                         | Admin        | Welt speichern                                                                     |
+| /absturztest panik\|faden\|abbruch\|speicher\|stapel\|haenger | alle | Absichtlicher Absturz ohne Speichern zum Ausprobieren des Fensters Bug Report: Panik, Hintergrundfaden stirbt, hartes Abbrechen, Speicherzugriffsfehler, Stapelüberlauf, Hänger (dann per Task-Manager beenden) |
