@@ -61,7 +61,19 @@ Fremde Planeten und Monde sind **begehbar** wie die des Sonnensystems: mit Gelä
 
 Ist man selbst in einem fremden System, zeigt die Weltall-Karte dieses System (mit „Du“, Entfernungen von dir, Aussehen und Klima der Planeten); Hinauszoomen führt zu den Sternen rund um diesen Stern, die Sternkarte schreibt „(du)“ an ihn.
 
-Grenzen: Je Planet werden höchstens die **300 größten Monde** begehbar (die Karte zeigt alle; Körper zählen mit 16 Bit). Schwarze Löcher und die Nachbargalaxien kann man nicht besuchen. Die Galaxie ist fest (Seed 42) – ändert sich ihre Erzeugung, sähen schon besuchte Systeme anders aus. Mit einem HYG-Katalog hat die Karte andere Sternnummern als das Spiel; Hinreisen geht dann nur zu Sternen, die in beiden gleich sind.
+Grenzen: Je Planet werden höchstens die **300 größten Monde** begehbar (die Karte zeigt alle; Körper zählen mit 16 Bit). Schwarze Löcher kann man nur im Kreativmodus anreisen (ohne begehbaren Körper). Die Galaxie ist fest (Seed 42) – ändert sich ihre Erzeugung, sähen schon besuchte Systeme anders aus. Mit einem HYG-Katalog hat die Karte andere Sternnummern als das Spiel; Hinreisen geht dann nur zu Sternen, die in beiden gleich sind.
+
+## Nachbargalaxien bereisen
+
+Außer der Milchstraße lassen sich ihre zehn bekannten Nachbarn bereisen: die Große und Kleine Magellansche Wolke, Andromeda, Triangulum, die Sculptor-Galaxie, M81, Centaurus A, M101, die Whirlpool- und die Sombrero-Galaxie. Sie stehen dort, wo man sie am Himmel sieht, in echter Entfernung (Andromeda 2,5 Mio. Lj). In der Galaxienübersicht der Karte steht rechts die Liste aller Galaxien mit Entfernung; anklicken (in der Liste oder auf der Karte) bzw. hineinzoomen zeigt ihre Sterne. Wie in der Milchstraße: Stern anklicken → sein System mit Planeten → **Hinreisen** (Kreativmodus) oder **Warpen** (aus dem Cockpit). Unten rechts gibt es **Ganz: …** und **Zentrum (…)** mit dem Schwarzen Loch in ihrer Mitte (z. B. M31* mit 140 Mio. Sonnenmassen). Die Suche kennt die Namen der Galaxien und ihrer zentralen Löcher.
+
+Jede Galaxie hat ein eigenes Sternmodell mit fester Sternzahl (Andromeda und M101 rund 1 Billion, die Kleine Magellansche Wolke 7 Mrd.) und ihrer Form: Spiralgalaxien wie die Milchstraße auf ihre Größe gestreckt, elliptische (Centaurus A, Sombrero) rundlich ohne Arme, die Magellanschen Wolken klumpig mit schiefem Balken. Ihre Planetensysteme entstehen wie die der Milchstraße. Die Lage der Scheiben im Raum ist gewürfelt, nicht gemessen.
+
+Sternnummern gelten über alle Galaxien: Die oberen Bits sagen die Galaxie (Nummer × 2⁴⁰), die unteren den Stern darin. Die Milchstraße ist Galaxie 0, ihre Nummern sind genau die von früher (ein Fingerabdruck-Test hält sie fest) – alte Welten, Wegpunkte und Frachthäfen bleiben, wie sie sind. Ein Stern in Andromeda heißt intern z. B. „Stern 3298658340117“.
+
+Warpen kostet wie bisher Helium-3 nach Strecke – nach Andromeda ist das 320 000-mal so weit wie zu Wolf 359.
+
+Wie ein Zustand aussieht, soll später ebenfalls aus dem Seed berechnet werden.
 
 ## Katalogpositionen in der Spielkarte
 
