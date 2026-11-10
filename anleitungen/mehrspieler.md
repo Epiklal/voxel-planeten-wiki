@@ -18,6 +18,16 @@ Gespielt wird immer über einen Server – im Einzelspieler läuft er unsichtbar
 
 Jeder Name kann nur einmal gleichzeitig spielen (Name im Mehrspieler-Menü).
 
+**Passwort**: Jeder Name gehört dem, der ihn zuerst mit Passwort benutzt – sonst könnte jeder unter deinem Namen beitreten und an dein Inventar, Geld und deinen Rang.
+
+- Beim ersten Beitreten mit einem Namen tippst du im Mehrspieler-Menü unter dem Namen ein Passwort ein (mindestens 8 Zeichen). Damit ist der Name auf diesem Server an das Passwort gebunden. Spieler aus alten Welten ohne Passwort werden beim nächsten Beitreten genauso gebunden.
+- Spielst du denselben Namen auf mehreren Rechnern (z. B. Hauptrechner, Laptop und Windows-PC): Auf jedem Rechner einmal dasselbe Passwort eintippen. Danach merkt sich der Rechner den Schlüssel (in `anmeldung.txt` im Spielstand-Ordner, nicht das Passwort selbst), und das Feld darf leer bleiben – es zeigt "gespeichert".
+- Falsches Passwort: Der Server lehnt ab und das Menü sagt es. Nach 5 falschen Versuchen für einen Namen von einer Adresse muss man dort 30 Sekunden warten (wer von woanders kommt, etwa du selbst, ist davon nicht ausgesperrt).
+- Der Rechner merkt sich auch, welcher Server zu welcher Anmeldung gehört (`server-anmeldungen.txt` daneben). Fragt ein anderer Server mit der Anmeldung eines bekannten Servers nach (so könnte er sich mit deinem Namen dort einloggen), bricht das Spiel ab: "Dieser Server benutzt die Anmeldung von …". Ist es wirklich derselbe Server (z. B. über eine andere Adresse), hilft im Menü "Trotzdem beitreten".
+- Passwort vergessen? Ein Admin löscht es mit `/passwortlöschen Kim` (in der Server-Konsole ohne `/`); beim nächsten Beitreten legt Kim ein neues fest.
+- Die eigene Welt (Einzelspieler und der Gastgeber selbst) braucht kein Passwort.
+- Der Server speichert keine Passwörter, nur einen öffentlichen Schlüssel je Name (`passwoerter.txt` im Weltordner). Das Passwort verlässt nie deinen Rechner.
+
 **Klappt es nicht?**
 
 | Meldung / Problem                                                | Ursache und Abhilfe                                                                                                                                                                                                                                                                                                                                                                                                                                               |
