@@ -45,23 +45,21 @@ Alle anderen Monde nach ihrer Größe: höchster Berg 3 % des Radius (200 m bis 
  
 ## Karte des Planeten
 
-Oben rechts ist immer eine **kleine Karte** (Taste K blendet sie aus): Norden oben, man selbst als roter Pfeil in Blickrichtung, dazu Bauwerke, Mitspieler, Todesorte, Markierungen und Fahrzeuge (siehe unten); je höher man ist, desto weiter reicht sie. Mit **M** öffnet sich die **große Karte**: Ziehen verschiebt, das Mausrad zoomt – von einzelnen Blöcken bis zur ganzen Kugel. Das Gelände kommt aus dem Weltgenerator: Meere (tiefes Wasser dunkler), Strände, Wüsten, Steppen, Wälder, Gebirge mit Schatten, Eis und Schnee.
+Oben rechts ist immer eine **kleine Karte** (Taste K blendet sie aus): Norden oben, man selbst als roter Pfeil in Blickrichtung, dazu Bauwerke, Mitspieler, Todesorte, Markierungen und deine Fahrzeuge (siehe unten); je höher man ist, desto weiter reicht sie. Mit **M** öffnet sich die **große Karte**: Ziehen verschiebt, das Mausrad zoomt – von einzelnen Blöcken bis zur ganzen Kugel. Das Gelände kommt aus dem Weltgenerator: Meere (tiefes Wasser dunkler), Strände, Wüsten, Steppen, Wälder, Gebirge mit Schatten, Eis und Schnee.
 
 **Zu sehen ist nur, wo man schon war**: am Boden ein paar hundert Meter um einen herum, je höher man fliegt, desto mehr (aus dem Orbit ein großes Stück des Planeten); der Rest ist dunkel. Im Kreativ- und Zuschauermodus sieht man alles. Was man aufgedeckt hat, merkt sich der Client je Welt (`karten/<seed>.txt` neben den Einstellungen).
 
 Zoomt man ganz hinaus und dreht das Mausrad weiter, wird daraus die **Weltall-Karte** (wenn man darf, siehe unten) – und umgekehrt: Zoomt man in der Weltall-Karte an einen Planeten oder Mond heran, wird er zur Kugel mit seinem Gelände und ganz nah zu genau derselben Karte.
 
-## Verlassene Fahrzeuge und Raumschiffe
+## Eigene Fahrzeuge auf der Karte finden
 
-Auf allen Planeten und Monden mit festem Boden stehen **verlassene Fahrzeuge und Raumschiffe** herum: Autos auf dem Land, Motorboote auf dem Meer nahe der Küste, dazu Mondfähren, Jäger, Raketen und selten ein Plasmakreuzer – im Schnitt etwa eins auf 100–300 km² (in 25 km Umkreis meist 5–15), halb leer getankt (10–60 %). Wo und was, hängt nur vom Seed der Welt ab; jede Welt hat ihre eigenen.
+Wo hab ich mein Auto stehen lassen? Die Karte zeigt **alle selbst gebauten Fahrzeuge und Schiffe** (Autos, Boote, Raumschiffe, Stationen) – eigene und die des Teams – als türkise Punkte mit Namen, auch in der Umlaufbahn. Auf der kleinen Karte stehen die, die weiter weg sind, am Rand in ihrer Richtung.
 
-- **Auf der Karte finden:** Die große Karte (M) fängt ihre Signale bis **25 km** um einen herum auf (Kreativ: 75 km) – gelb mit Fragezeichen, z. B. „? Auto“. Auf der kleinen Karte erscheinen sie, sobald sie auf ihr liegen.
-- **Hinkommen:** Ab 1,5 km Abstand steht das Fahrzeug wirklich da (aus der Luft bis 2 km über dem Boden). Danach zeigt die Karte es grün als „Verlassenes Auto“ usw. – für alle Spieler, auch wenn es noch keinem gehört.
-- **Nehmen:** Wer sich als Erster ins Cockpit setzt, dem gehört es; es heißt dann wie sein Bauplan („Auto“, „Jäger“ …). Tanken wie bei jedem Schiff.
-- **Eigene Fahrzeuge und Schiffe** (und die des Teams) zeigt die Karte immer, in Türkis mit Namen – auch in der Umlaufbahn.
-- Der Knopf **„Fahrzeuge: an/aus“** oben rechts in der großen Karte blendet all das aus und ein (gespeichert in den Einstellungen als `fahrzeugzeichen`).
+In der großen Karte (M) steht rechts oben der Kasten **„Deine Fahrzeuge“**: alle auf diesem Körper mit Entfernung, darunter, wie viele auf anderen Körpern sind.
 
-Was schon gefunden wurde, merkt sich der Server in `fundstuecke.txt` im Weltordner – ein Fundstück kommt nie ein zweites Mal, auch wenn es weggefahren oder zerlegt wurde.
+- **Name anklicken:** Die Karte richtet sich darauf aus.
+- **„Ziel“:** setzt einen Wegpunkt dorthin (so heißt er wie das Fahrzeug) – der zeigt dann auch im Bild den Weg.
+- Der Knopf **„Fahrzeuge: an/aus“** darüber blendet Punkte und Kasten aus und ein (gespeichert in den Einstellungen als `fahrzeugzeichen`).
 
 ## Wegpunkte
 
