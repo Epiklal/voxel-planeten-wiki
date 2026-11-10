@@ -71,7 +71,9 @@ Jede Galaxie hat ein eigenes Sternmodell mit fester Sternzahl (Andromeda und M10
 
 Sternnummern gelten über alle Galaxien: Die oberen Bits sagen die Galaxie (Nummer × 2⁴⁰), die unteren den Stern darin. Die Milchstraße ist Galaxie 0, ihre Nummern sind genau die von früher (ein Fingerabdruck-Test hält sie fest) – alte Welten, Wegpunkte und Frachthäfen bleiben, wie sie sind. Ein Stern in Andromeda heißt intern z. B. „Stern 3298658340117“.
 
-Warpen kostet wie bisher Helium-3 nach Strecke – nach Andromeda ist das 320 000-mal so weit wie zu Wolf 359.
+**Intergalaktischer Antrieb** (Schiffsblock, Werkbank: 2 Warpantriebe, 1 Schwerkraftkern, 2 Quantenkerne, 16 Energiekristalle): Am Plasmanetz springt er wie der Warpantrieb, kostet aber nicht nach Strecke, sondern nach ihrer Zehnerpotenz – `1,4·10⁸ J je kg × (1 + log₁₀ Lichtjahre)`. Ein Schiff von 57 t braucht zu Wolf 359 (8 Lj) gut 20 Helium-3 (drei Fusionsreaktoren), nach Andromeda gut 80 (neun Reaktoren); mit dem Warpantrieb allein wäre schon Wolf 359 unbezahlbar (Millionen Helium-3). Hat ein Schiff beide, nimmt jeder Sprung den billigeren (im Sonnensystem den Warpantrieb). Die Karte zeigt die Kosten.
+
+**Warp ins Leere – verstecken zwischen Sternen und Galaxien**: Im Cockpit zeigt die Galaxiekarte (Sterne und Galaxienübersicht) ein Fadenkreuz in der Mitte; rechts unten stehen Entfernung und Kosten und der Knopf **Warp ins Leere (Mitte)**. Karte so schieben, dass die gewünschte Stelle in der Mitte liegt, und springen: Das Schiff ruht dann dort im leeren Raum (im System eines Sektors, genau auf Zentimeter, auch 2,5 Mio. Lichtjahre draußen), kein Körper zieht es zu sich. Mitten in ein Sternsystem geht es nicht – dorthin zu einem Körper warpen.
 
 Wie ein Zustand aussieht, soll später ebenfalls aus dem Seed berechnet werden.
 

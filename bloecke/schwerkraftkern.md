@@ -11,3 +11,7 @@
 
 - 2 × [Energiekristall](../gegenstaende/energiekristall.md) + 4 × [Modularer Rahmen](../gegenstaende/modularer_rahmen.md) + 4 × [Diamant](../gegenstaende/diamant.md) → 1 × [Schwerkraftkern](../bloecke/schwerkraftkern.md) (Werkbank, 40 s)
 
+## Verwendet für
+
+[Intergalaktischer Antrieb](../bloecke/intergalaktischer_antrieb.md)
+

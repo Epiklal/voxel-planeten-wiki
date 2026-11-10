@@ -233,6 +233,7 @@ bloecke/wasserstofftriebwerk_3.md	Wasserstofftriebwerk	Block
 bloecke/wasserstofftriebwerk_4.md	Wasserstofftriebwerk	Block
 bloecke/wasserstofftriebwerk_5.md	Wasserstofftriebwerk	Block
 bloecke/wasserstofftriebwerk_6.md	Wasserstofftriebwerk	Block
+bloecke/intergalaktischer_antrieb.md	Intergalaktischer Antrieb	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

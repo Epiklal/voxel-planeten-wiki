@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Drohnen-Warpantrieb](../gegenstaende/drohnen_warpantrieb.md)
+[Intergalaktischer Antrieb](../bloecke/intergalaktischer_antrieb.md), [Drohnen-Warpantrieb](../gegenstaende/drohnen_warpantrieb.md)
 
