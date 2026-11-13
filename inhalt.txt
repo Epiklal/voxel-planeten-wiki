@@ -234,6 +234,18 @@ bloecke/wasserstofftriebwerk_4.md	Wasserstofftriebwerk	Block
 bloecke/wasserstofftriebwerk_5.md	Wasserstofftriebwerk	Block
 bloecke/wasserstofftriebwerk_6.md	Wasserstofftriebwerk	Block
 bloecke/intergalaktischer_antrieb.md	Intergalaktischer Antrieb	Block
+bloecke/fahnenmast.md	Fahnenmast	Block
+bloecke/fahnenmast_2.md	Fahnenmast	Block
+bloecke/fahnenmast_3.md	Fahnenmast	Block
+bloecke/fahnenmast_4.md	Fahnenmast	Block
+bloecke/wandbanner.md	Wandbanner	Block
+bloecke/wandbanner_2.md	Wandbanner	Block
+bloecke/wandbanner_3.md	Wandbanner	Block
+bloecke/wandbanner_4.md	Wandbanner	Block
+bloecke/flaggenlack.md	Flaggenlack	Block
+bloecke/flaggenlack_2.md	Flaggenlack	Block
+bloecke/flaggenlack_3.md	Flaggenlack	Block
+bloecke/flaggenlack_4.md	Flaggenlack	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

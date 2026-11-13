@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Grauer Farbstoff](../gegenstaende/grauer_farbstoff.md), [Schwarze Wolle](../bloecke/schwarze_wolle.md), [Schwarze Keramik](../bloecke/schwarze_keramik.md), [Schwarzer Trockenbeton](../bloecke/schwarzer_trockenbeton.md)
+[Grauer Farbstoff](../gegenstaende/grauer_farbstoff.md), [Schwarze Wolle](../bloecke/schwarze_wolle.md), [Schwarze Keramik](../bloecke/schwarze_keramik.md), [Schwarzer Trockenbeton](../bloecke/schwarzer_trockenbeton.md), [Flaggenlack](../bloecke/flaggenlack.md)
 

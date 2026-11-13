@@ -15,7 +15,7 @@ Jeder Spieler hat einen **Rang**: Spieler, Unterstützer, Moderator oder Admin. 
 | /rang [Spieler]                                    | alle         | Rang anzeigen                                                                      |
 | /regeln                                            | alle         | Spielmodus, Schwierigkeit, was beim Tod passiert                                   |
 | /zeit [query]                                      | alle         | Spielzeit anzeigen (/time)                                                         |
-| /team …                                            | alle         | Teams: gründen, einladen, beitreten, verlassen (siehe Teams)                       |
+| /team …                                            | alle         | Teams: gründen, einladen, beitreten, ablehnen, verlassen (auch Taste I)            |
 | /standort [an\|aus]                                | alle         | Standort für alle freigeben (Taste L)                                              |
 | /stumm Spieler [Minuten]                           | Unterstützer | Darf nicht mehr schreiben (Standard 10 Minuten)                                    |
 | /laut Spieler                                      | Unterstützer | Darf wieder schreiben                                                              |

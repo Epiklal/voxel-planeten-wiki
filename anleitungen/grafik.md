@@ -45,7 +45,7 @@ Dazu: Landschaft **Aus** (am Boden nur die echten Blöcke – spart viel Prozess
 
 Für sehr schwache Rechner (Dual-Core): Grafikstufe **Minimal** – halbe Auflösung, 4 Chunks Sicht mit Nebel, keine Landschaft dahinter, höchstens 8 Chunks pro Bild, 16 Bit Farben. Dazu Bilder pro Sekunde höchstens 30 und Animationen aus. Getestet mit 2 Prozessorkernen (`taskset -c 0,1`): wählt Minimal von selbst, 60 Bilder pro Sekunde. **Retro** sieht ähnlich alt aus, hat aber Landschaft und mehr Sichtweite.
 
-**Steuerung**: alle Tasten frei belegen (Linksklick auf die Taste, dann die neue drücken; Esc bricht ab; schon belegt → getauscht), Maus-Empfindlichkeit (10–300 %), Maus umgekehrt, "Standard-Tasten". Gespeichert werden nur geänderte Tasten (`taste.vorwaerts = KeyQ Q` – Taste und was draufsteht).
+**Steuerung**: alle Tasten frei belegen (Linksklick auf die Taste, dann die neue drücken; Esc bricht ab; schon belegt → getauscht), Maus-Empfindlichkeit (10–300 %), Maus umgekehrt, "Standard-Tasten", dazu für den Controller Blick-Empfindlichkeit (`controller = 100`), "Stick umgekehrt" (`controller_umgekehrt`) und die Belegung zum Nachlesen. Gespeichert werden nur geänderte Tasten (`taste.vorwaerts = KeyQ Q` – Taste und was draufsteht).
 
 **Ton**: Lautstärken für alles, Effekte (Abbauen, Bauen, Schritte, Landen, Schaden, Warpsprung), Umgebung (Wind, Triebwerke, Jetpack), Bedienung (Klicks, Inventar, Chat) und Musik (Standard 50 %). Die eingebauten Geräusche und die eingebaute Musik (ruhige Klänge) erzeugt das Spiel beim Start selbst; eigene Dateien im Ressourcen-Ordner ersetzen sie (siehe unten). Ohne Tongerät bleibt das Spiel einfach still.
 

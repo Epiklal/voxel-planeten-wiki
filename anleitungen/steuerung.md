@@ -35,6 +35,7 @@ So sind die Tasten am Anfang belegt. Ändern kann man sie unter **Einstellungen 
 | N              | Spieler-Zeichen ein/aus (wo Team, freigegebene Spieler bzw. als Admin alle sind – im Bild und auf der Karte; die Namen über den Figuren bleiben)                                                                                                                                                                                                                                                          |
 | K              | Kleine Karte oben rechts ein/aus                                                                                                                                                                                                                                                                                                                                                                          |
 | O              | Notizblock mit Taschenrechner (siehe unten)                                                                                                                                                                                                                                                                                                                                                               |
+| I              | Team-Fenster: Team gründen, Mitspieler einladen oder rauswerfen, Einladungen annehmen oder ablehnen                                                                                                                                                                                                                                                                                                       |
 
 Beim Spielerflug begrenzt die Nähe zu **festen Blöcken** das per Mausrad gewählte Tempo: maximal `max(100 m/s, 2 × Abstand in Metern pro Sekunde)`, einschließlich Sprint. Geladenes Gelände und Bauten zählen nach ihrer echten Blocklage, nicht nach der Höhe über einer idealen Planetenkugel. Ein hoher Berggipfel bremst daher in seiner Nähe, während eine breite, tiefe Schlucht mit viel Abstand zu Boden und Wänden schnelleres Fliegen erlaubt. Auch gedrehte Raumschiffe und Raumstationen bremsen nach Abstand zu ihren festen Blöcken; leere Bereiche ihrer Bounding-Box zählen nicht als Hindernis. Das Mausradtempo bleibt gespeichert und wird bei mehr Freiraum wieder nutzbar. Geländeabstände werden zehnmal pro Sekunde erneuert und zwischen den Abfragen um den zurückgelegten Weg konservativ verkleinert. Schiffe werden mit ihrer aktuellen Lage geprüft. Unbekannter ungeladener Nahraum gibt kein hohes Tempo frei; für ferne, nicht geladene Himmelskörper bleibt eine konservative Geländegrenze. Die Regel betrifft Spielerflug, nicht Cockpit-Schubantriebe oder die freie F6-Kamera; die bisherige Nahbereichs-Untergrenze bleibt 100 m/s.
 
@@ -50,5 +51,37 @@ Beim Spielerflug begrenzt die Nähe zu **festen Blöcken** das per Mausrad gewä
 Es gilt Punkt vor Strich, dazu Klammern, `^` (Potenz), `%` (Prozent), `sqrt`/`√`, `sin`/`cos`/`tan` in Grad, `round`, `min`, `max`, `hypot` und mehr, Konstanten `pi`, `e`, `tau`. Komma und Punkt gehen beide als Dezimalzeichen. Enter macht eine neue Zeile, Pfeil hoch/runter wechselt die Zeile, Rücktaste in einer leeren Zeile löscht sie.
 
 Oben wählt man zwischen zwei Büchern: **Alle Welten** (gespeichert in `notizen.txt` im Spielstand-Ordner, überall gleich) und **Diese Welt** (nur für die gerade gespielte Welt – im Einzelspieler `welten/<Welt>/notizen.txt`, auf einem Server `notizen/<Adresse>-<Seed>.txt`). Gespeichert wird beim Schließen. **Teilen** schickt die aktuelle Seite an andere Spieler: Namen eintippen und „Senden“, „An Team“ für das eigene Team, leeres Feld für alle; „Kopieren“ legt die Seite in die Zwischenablage. Wer eine Seite bekommt, findet sie als neue Seite in „Diese Welt“ mit der Zeile „# Geteilt von …“ obendrüber, im Chat steht ein Hinweis.
+
+## Controller
+
+Xbox-, PlayStation-, Switch-Pro- und andere Controller gehen ohne Einstellen (einfach anstecken oder per Bluetooth verbinden; unter Windows über Windows.Gaming.Input, unter Linux über evdev). Die Knöpfe lösen die Tasten aus, die unter **Einstellungen → Steuerung** belegt sind. Dort auch die Blick-Empfindlichkeit (10–300 %), "Stick umgekehrt" und die Belegung zum Nachlesen.
+
+| Knopf (PlayStation)    | Im Spiel                                                     | In Menüs                 |
+| ---------------------- | ------------------------------------------------------------ | ------------------------ |
+| Linker Stick           | Laufen, in jede Richtung (drücken: rennen, bis er ruht)      | Mauszeiger schieben      |
+| Rechter Stick          | Schauen bzw. Schiff lenken (drücken: markieren)              | Scrollen                 |
+| A (✕)                  | Springen; Fliegen, Schwimmen, Cockpit: hoch                  | Klicken                  |
+| B (○)                  | Schleichen; Fliegen, Schwimmen, Cockpit: runter              | Zurück (wie Esc)         |
+| X (□)                  | Nachladen                                                    | Rechtsklick              |
+| Y (△)                  | Inventar                                                     | Inventar schließen       |
+| RT / LT (R2 / L2)      | Abbauen, schießen / Bauen, benutzen                          | –                        |
+| RB / LB (R1 / L1)      | Schnellleiste weiter/zurück (beim Fliegen: Tempo); Cockpit: rollen | Liste scrollen     |
+| Steuerkreuz            | ↑ Fliegen bzw. aussteigen, ↓ fallen lassen, ← Ansicht, → Rakete | Pfeiltasten           |
+| Select (Share)         | Karte                                                        | Karte schließen          |
+| Start (Options)        | Pause                                                        | Zurück                   |
+
+Den Mauszeiger des Controllers zeichnet das Spiel selbst; sobald man die echte Maus bewegt, übernimmt wieder sie. Für Text (Chat, Namen) braucht es noch eine Tastatur.
+
+## Touch (Handy, Tablet)
+
+In Menüs ist der Finger die Maus (antippen = klicken, zwei Finger = scrollen); tippt man in ein Eingabefeld, kommt die Bildschirmtastatur. Im Spiel:
+
+- **linke Bildhälfte**: Stick, wo der Finger aufsetzt – laufen in jede Richtung
+- **rechte Bildhälfte**: ziehen = schauen, kurz antippen = bauen bzw. benutzen, lange halten = abbauen bzw. schießen (zielt aufs Fadenkreuz)
+- **Knöpfe rechts unten**: springen (▲), schleichen (▼), fliegen bzw. aussteigen, fallen lassen; im Cockpit stattdessen rollen links/rechts und Rakete
+- **oben links**: Pause, Inventar, Karte
+- **Schnellleiste** antippen: Platz wählen
+
+Schau-Empfindlichkeit und Umkehren gelten wie bei der Maus.
 
 Im Fenstertitel stehen FPS, der nächste Himmelskörper und die Höhe darüber, Geschwindigkeit, Zeitraffer, Statistik und die Zahl der Mitspieler. Unten im Bild steht der gewählte Block, links unten der Chat (auch, wer kommt und geht).

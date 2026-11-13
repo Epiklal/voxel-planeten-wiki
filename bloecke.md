@@ -1,8 +1,8 @@
 # Alle Blöcke
 
-671 Stück, sortiert wie im Inventar.
+683 Stück, sortiert wie im Inventar.
 
-## Baublöcke (410)
+## Baublöcke (413)
 
 | | Name |
 |---|---|
@@ -37,6 +37,9 @@
 | ![](bilder/bloecke/handelsterminal.png) | [Handelsterminal](bloecke/handelsterminal.md) |
 | ![](bilder/bloecke/frachthafen.png) | [Frachthafen](bloecke/frachthafen.md) |
 | ![](bilder/bloecke/lift.png) | [Lift](bloecke/lift.md) |
+| ![](bilder/bloecke/fahnenmast.png) | [Fahnenmast](bloecke/fahnenmast.md) |
+| ![](bilder/bloecke/wandbanner.png) | [Wandbanner](bloecke/wandbanner.md) |
+| ![](bilder/bloecke/flaggenlack.png) | [Flaggenlack](bloecke/flaggenlack.md) |
 | ![](bilder/bloecke/akazienholztuer.png) | [Akazienholztür](bloecke/akazienholztuer.md) |
 | ![](bilder/bloecke/akazienholzzaun.png) | [Akazienholzzaun](bloecke/akazienholzzaun.md) |
 | ![](bilder/bloecke/akazienholzzauntor.png) | [Akazienholzzauntor](bloecke/akazienholzzauntor.md) |
@@ -417,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (187)
+## Natur (196)
 
 | | Name |
 |---|---|
@@ -525,6 +528,15 @@
 | ![](bilder/bloecke/venus_metallfrost.png) | [Venus-Metallfrost](bloecke/venus_metallfrost.md) |
 | ![](bilder/bloecke/wolken_goldgelb.png) | [Wolken (goldgelb)](bloecke/wolken_goldgelb.md) |
 | ![](bilder/bloecke/flusswasser.png) | [Flusswasser](bloecke/flusswasser.md) |
+| ![](bilder/bloecke/fahnenmast_2.png) | [Fahnenmast](bloecke/fahnenmast_2.md) |
+| ![](bilder/bloecke/fahnenmast_3.png) | [Fahnenmast](bloecke/fahnenmast_3.md) |
+| ![](bilder/bloecke/fahnenmast_4.png) | [Fahnenmast](bloecke/fahnenmast_4.md) |
+| ![](bilder/bloecke/wandbanner_2.png) | [Wandbanner](bloecke/wandbanner_2.md) |
+| ![](bilder/bloecke/wandbanner_3.png) | [Wandbanner](bloecke/wandbanner_3.md) |
+| ![](bilder/bloecke/wandbanner_4.png) | [Wandbanner](bloecke/wandbanner_4.md) |
+| ![](bilder/bloecke/flaggenlack_2.png) | [Flaggenlack](bloecke/flaggenlack_2.md) |
+| ![](bilder/bloecke/flaggenlack_3.png) | [Flaggenlack](bloecke/flaggenlack_3.md) |
+| ![](bilder/bloecke/flaggenlack_4.png) | [Flaggenlack](bloecke/flaggenlack_4.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |
