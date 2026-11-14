@@ -37,6 +37,7 @@ Jeder Spieler hat einen **Rang**: Spieler, Unterstützer, Moderator oder Admin. 
 | /spielregel pvp\|keepInventory [true\|false]       | Admin        | Englisch: /gamerule                                                                |
 | /schwierigkeit Stufe, /beimtod Regel               | Admin        | Schwierigkeit bzw. was beim Tod passiert                                           |
 | /sonnensturm [aus\|einfach\|mittel\|schwer\|jetzt] | Admin        | Sonnenstürme einstellen oder sofort einen auslösen                                 |
+| /wracks [an\|aus\|jetzt\|namen\|liste\|sperren Nr\|entsperren Nr] | Admin | Verschollene Schiffe aus dem Steam-Workshop: an/aus, gleich eins vor dir, Erbauer verbergen, Baupläne zeigen oder sperren |
 | /pvp [an\|aus]                                     | Admin        | Ob sich Spieler gegenseitig verletzen können                                       |
 | /speichern                                         | Admin        | Welt speichern                                                                     |
 | /absturztest panik\|faden\|abbruch\|speicher\|stapel\|haenger | alle | Absichtlicher Absturz ohne Speichern zum Ausprobieren des Fensters Bug Report: Panik, Hintergrundfaden stirbt, hartes Abbrechen, Speicherzugriffsfehler, Stapelüberlauf, Hänger (dann per Task-Manager beenden) |

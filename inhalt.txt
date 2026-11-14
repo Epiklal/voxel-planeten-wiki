@@ -24,6 +24,7 @@ anleitungen/chemie.md	Periodensystem und Chemie	Anleitung
 anleitungen/grafik.md	Grafik und Einstellungen	Anleitung
 anleitungen/ressourcen.md	Eigene Texturen, Geräusche und Musik	Anleitung
 anleitungen/planetenklima.md	Planetenklima, grüne Umlaufbahnen und Wasser	Anleitung
+anleitungen/mods_und_plugins.md	Mods und Plugins	Anleitung
 anleitungen/wiki.md	Das Wiki	Anleitung
 bloecke/stein.md	Stein	Block
 bloecke/erde.md	Erde	Block
@@ -246,6 +247,12 @@ bloecke/flaggenlack.md	Flaggenlack	Block
 bloecke/flaggenlack_2.md	Flaggenlack	Block
 bloecke/flaggenlack_3.md	Flaggenlack	Block
 bloecke/flaggenlack_4.md	Flaggenlack	Block
+bloecke/fahnenmast_5.md	Fahnenmast	Block
+bloecke/fahnenmast_6.md	Fahnenmast	Block
+bloecke/flaggenlack_5.md	Flaggenlack	Block
+bloecke/flaggenlack_6.md	Flaggenlack	Block
+bloecke/flaggenlack_7.md	Flaggenlack	Block
+bloecke/flaggenlack_8.md	Flaggenlack	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

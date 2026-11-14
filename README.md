@@ -32,6 +32,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Grafik und Einstellungen](anleitungen/grafik.md)
 - [Eigene Texturen, Geräusche und Musik](anleitungen/ressourcen.md)
 - [Planetenklima, grüne Umlaufbahnen und Wasser](anleitungen/planetenklima.md)
+- [Mods und Plugins](anleitungen/mods_und_plugins.md)
 - [Das Wiki](anleitungen/wiki.md)
 
 ## Nachschlagen
@@ -39,7 +40,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Sonnensystem](sonnensystem.md) – Sonne, 8 Planeten, 9 Zwergplaneten
 - [Echte Exoplaneten](exoplaneten.md) – 43 Planeten um 18 fremde Sterne
 - [Alle Monde](monde.md) – 466 Monde
-- [Alle Blöcke](bloecke.md) – 683 Blöcke
+- [Alle Blöcke](bloecke.md) – 689 Blöcke
 - [Alle Gegenstände](gegenstaende.md) – 708 Gegenstände, Maschinen und Bauteile
 - [Periodensystem](periodensystem.md) – alle 118 Elemente
 - [Legierungen](legierungen.md) – 42 Legierungen

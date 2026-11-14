@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-683 Stück, sortiert wie im Inventar.
+689 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (196)
+## Natur (202)
 
 | | Name |
 |---|---|
@@ -537,6 +537,12 @@
 | ![](bilder/bloecke/flaggenlack_2.png) | [Flaggenlack](bloecke/flaggenlack_2.md) |
 | ![](bilder/bloecke/flaggenlack_3.png) | [Flaggenlack](bloecke/flaggenlack_3.md) |
 | ![](bilder/bloecke/flaggenlack_4.png) | [Flaggenlack](bloecke/flaggenlack_4.md) |
+| ![](bilder/bloecke/fahnenmast_5.png) | [Fahnenmast](bloecke/fahnenmast_5.md) |
+| ![](bilder/bloecke/fahnenmast_6.png) | [Fahnenmast](bloecke/fahnenmast_6.md) |
+| ![](bilder/bloecke/flaggenlack_5.png) | [Flaggenlack](bloecke/flaggenlack_5.md) |
+| ![](bilder/bloecke/flaggenlack_6.png) | [Flaggenlack](bloecke/flaggenlack_6.md) |
+| ![](bilder/bloecke/flaggenlack_7.png) | [Flaggenlack](bloecke/flaggenlack_7.md) |
+| ![](bilder/bloecke/flaggenlack_8.png) | [Flaggenlack](bloecke/flaggenlack_8.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |

@@ -74,14 +74,14 @@ Den Mauszeiger des Controllers zeichnet das Spiel selbst; sobald man die echte M
 
 ## Touch (Handy, Tablet)
 
-In Menüs ist der Finger die Maus (antippen = klicken, zwei Finger = scrollen); tippt man in ein Eingabefeld, kommt die Bildschirmtastatur. Im Spiel:
+In Menüs ist der Finger die Maus (antippen = klicken, zwei Finger = scrollen); tippt man in ein Eingabefeld, kommt die Bildschirmtastatur. Ein **X oben links** schließt Inventar, Karte und andere Fenster. Im Spiel:
 
-- **linke Bildhälfte**: Stick, wo der Finger aufsetzt – laufen in jede Richtung
-- **rechte Bildhälfte**: ziehen = schauen, kurz antippen = bauen bzw. benutzen, lange halten = abbauen bzw. schießen (zielt aufs Fadenkreuz)
+- **Stick unten links**: laufen in jede Richtung
+- **sonst überall**: ziehen = schauen, kurz antippen = **an dieser Stelle** bauen bzw. benutzen, halten = dort abbauen bzw. schießen (das Ziel folgt dem Finger); wer lieber am **Fadenkreuz** baut und abbaut, stellt das in den Einstellungen um
 - **Knöpfe rechts unten**: springen (▲), schleichen (▼), fliegen bzw. aussteigen, fallen lassen; im Cockpit stattdessen rollen links/rechts und Rakete
 - **oben links**: Pause, Inventar, Karte
 - **Schnellleiste** antippen: Platz wählen
 
-Schau-Empfindlichkeit und Umkehren gelten wie bei der Maus.
+Unter Einstellungen → Steuerung: **Touch-Knöpfe anpassen** (Knöpfe und Stick verschieben, größer oder kleiner machen; gespeichert als `touch_groesse` und `touch_knoepfe`), „Bauen/Abbauen: an der Fingerstelle / am Fadenkreuz“ (`touch_zielen`), Blick-Empfindlichkeit und Umkehren.
 
 Im Fenstertitel stehen FPS, der nächste Himmelskörper und die Höhe darüber, Geschwindigkeit, Zeitraffer, Statistik und die Zahl der Mitspieler. Unten im Bild steht der gewählte Block, links unten der Chat (auch, wer kommt und geht).
