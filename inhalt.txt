@@ -247,6 +247,7 @@ bloecke/flaggenlack.md	Flaggenlack	Block
 bloecke/flaggenlack_2.md	Flaggenlack	Block
 bloecke/flaggenlack_3.md	Flaggenlack	Block
 bloecke/flaggenlack_4.md	Flaggenlack	Block
+bloecke/kryobox.md	Kryobox	Block
 bloecke/fahnenmast_5.md	Fahnenmast	Block
 bloecke/fahnenmast_6.md	Fahnenmast	Block
 bloecke/flaggenlack_5.md	Flaggenlack	Block
