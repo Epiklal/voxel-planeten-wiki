@@ -1,0 +1,12 @@
+# Empfangsschüssel
+
+![Empfangsschüssel](../bilder/gegenstaende/empfangsschuessel.png)
+
+| Eigenschaft | Wert |
+|---|---|
+| Empfängt den Dyson-Schwarm im Sternsystem (bis | 2,5 GW) |
+
+## Herstellen
+
+- 40 × [Aluminiumblech](../gegenstaende/aluminiumblech.md) + 12 × [Modularer Rahmen](../gegenstaende/modularer_rahmen.md) + 40 × [Beton](../bloecke/beton.md) + 60 × [Kupferdraht](../gegenstaende/kupferdraht.md) + 8 × [Goldbarren](../elemente/goldbarren.md) → 1 × [Empfangsschüssel](../gegenstaende/empfangsschuessel.md) (Werkbank, 120 s)
+

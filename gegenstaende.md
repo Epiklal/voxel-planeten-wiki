@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-708 Stück, sortiert wie im Inventar.
+710 Stück, sortiert wie im Inventar.
 
 ## Fabrik (21)
 
@@ -28,7 +28,7 @@
 | ![](bilder/gegenstaende/forschungsreaktor.png) | [Forschungsreaktor](gegenstaende/forschungsreaktor.md) |
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
 
-## Strom (36)
+## Strom (37)
 
 | | Name |
 |---|---|
@@ -42,6 +42,7 @@
 | ![](bilder/gegenstaende/akku.png) | [Akku](gegenstaende/akku.md) |
 | ![](bilder/gegenstaende/energiekristall.png) | [Energiekristall](gegenstaende/energiekristall.md) |
 | ![](bilder/gegenstaende/ladestation.png) | [Ladestation](gegenstaende/ladestation.md) |
+| ![](bilder/gegenstaende/empfangsschuessel.png) | [Empfangsschüssel](gegenstaende/empfangsschuessel.md) |
 | ![](bilder/gegenstaende/aluminiumkabel.png) | [Aluminiumkabel](gegenstaende/aluminiumkabel.md) |
 | ![](bilder/gegenstaende/antimonkabel.png) | [Antimonkabel](gegenstaende/antimonkabel.md) |
 | ![](bilder/gegenstaende/berylliumkabel.png) | [Berylliumkabel](gegenstaende/berylliumkabel.md) |
@@ -69,7 +70,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (11)
+## Raumfahrt (12)
 
 | | Name |
 |---|---|
@@ -84,6 +85,7 @@
 | ![](bilder/gegenstaende/bauplan_auto.png) | [Bauplan: Auto](gegenstaende/bauplan_auto.md) |
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
+| ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
 
 ## Werkzeuge (49)
 

@@ -15,5 +15,5 @@
 
 ## Verwendet für
 
-[Solar-Nanohelm](../gegenstaende/solar_nanohelm.md), [Solar-Quantenhelm](../gegenstaende/solar_quantenhelm.md), [Solarzellen](../bloecke/solarzellen.md)
+[Solar-Nanohelm](../gegenstaende/solar_nanohelm.md), [Solar-Quantenhelm](../gegenstaende/solar_quantenhelm.md), [Solarzellen](../bloecke/solarzellen.md), [Dyson-Kollektor](../bloecke/dyson_kollektor.md)
 

@@ -11,3 +11,7 @@
 
 - 6 × [Aluminiumblech](../gegenstaende/aluminiumblech.md) + 20 × [Kupferdraht](../gegenstaende/kupferdraht.md) + 4 × [Quarzkristall](../gegenstaende/quarzkristall.md) → 1 × [Ionentriebwerk](../bloecke/ionentriebwerk.md) (Werkbank, 25 s)
 
+## Verwendet für
+
+[Dyson-Satellit](../gegenstaende/dyson_satellit.md)
+

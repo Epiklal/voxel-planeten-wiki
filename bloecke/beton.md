@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Strommast](../gegenstaende/strommast.md), [Kohlekraftwerk](../gegenstaende/kohlekraftwerk.md), [Bergbaumaschine](../gegenstaende/bergbaumaschine.md), [Uranzelle](../gegenstaende/uranzelle.md), [Kernkraftwerk](../gegenstaende/kernkraftwerk.md), [Hochspannungsmast](../gegenstaende/hochspannungsmast.md), [Forschungsreaktor](../gegenstaende/forschungsreaktor.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md)
+[Strommast](../gegenstaende/strommast.md), [Kohlekraftwerk](../gegenstaende/kohlekraftwerk.md), [Bergbaumaschine](../gegenstaende/bergbaumaschine.md), [Uranzelle](../gegenstaende/uranzelle.md), [Kernkraftwerk](../gegenstaende/kernkraftwerk.md), [Hochspannungsmast](../gegenstaende/hochspannungsmast.md), [Forschungsreaktor](../gegenstaende/forschungsreaktor.md), [Teilchenbeschleuniger](../gegenstaende/teilchenbeschleuniger.md), [Empfangsschüssel](../gegenstaende/empfangsschuessel.md)
 

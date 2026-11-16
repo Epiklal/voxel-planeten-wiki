@@ -254,6 +254,7 @@ bloecke/flaggenlack_5.md	Flaggenlack	Block
 bloecke/flaggenlack_6.md	Flaggenlack	Block
 bloecke/flaggenlack_7.md	Flaggenlack	Block
 bloecke/flaggenlack_8.md	Flaggenlack	Block
+bloecke/dyson_kollektor.md	Dyson-Kollektor	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -510,6 +511,8 @@ gegenstaende/drohnen_fusionsantrieb.md	Drohnen-Fusionsantrieb	Gegenstand
 gegenstaende/drohnen_warpantrieb.md	Drohnen-Warpantrieb	Gegenstand
 gegenstaende/abbruchhammer.md	Abbruchhammer	Gegenstand
 gegenstaende/taschenlampe.md	Taschenlampe	Gegenstand
+gegenstaende/dyson_satellit.md	Dyson-Satellit	Gegenstand
+gegenstaende/empfangsschuessel.md	Empfangsschüssel	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
