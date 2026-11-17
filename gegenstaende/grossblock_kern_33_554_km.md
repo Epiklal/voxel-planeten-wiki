@@ -12,3 +12,7 @@
 
 - 8 × [Großblock-Kern 4 194 km](../gegenstaende/grossblock_kern_4_194_km.md) → 1 × [Großblock-Kern 33 554 km](../gegenstaende/grossblock_kern_33_554_km.md) (Materieverdichter, 1024 s)
 
+## Verwendet für
+
+[Großblock-Kern 268 435 km](../gegenstaende/grossblock_kern_268_435_km.md)
+

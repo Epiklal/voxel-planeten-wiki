@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-720 Stück, sortiert wie im Inventar.
+732 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -88,7 +88,7 @@
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 | ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
 
-## Werkzeuge (58)
+## Werkzeuge (70)
 
 | | Name |
 |---|---|
@@ -150,6 +150,18 @@
 | ![](bilder/gegenstaende/grossblock_kern_524_km.png) | [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) |
 | ![](bilder/gegenstaende/grossblock_kern_4_194_km.png) | [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) |
 | ![](bilder/gegenstaende/grossblock_kern_33_554_km.png) | [Großblock-Kern 33 554 km](gegenstaende/grossblock_kern_33_554_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_268_435_km.png) | [Großblock-Kern 268 435 km](gegenstaende/grossblock_kern_268_435_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_2_147_484_km.png) | [Großblock-Kern 2 147 484 km](gegenstaende/grossblock_kern_2_147_484_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_17_179_869_km.png) | [Großblock-Kern 17 179 869 km](gegenstaende/grossblock_kern_17_179_869_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_0_9_ae.png) | [Großblock-Kern 0,9 AE](gegenstaende/grossblock_kern_0_9_ae.md) |
+| ![](bilder/gegenstaende/grossblock_kern_7_3_ae.png) | [Großblock-Kern 7,3 AE](gegenstaende/grossblock_kern_7_3_ae.md) |
+| ![](bilder/gegenstaende/grossblock_kern_58_8_ae.png) | [Großblock-Kern 58,8 AE](gegenstaende/grossblock_kern_58_8_ae.md) |
+| ![](bilder/gegenstaende/grossblock_kern_470_ae.png) | [Großblock-Kern 470 AE](gegenstaende/grossblock_kern_470_ae.md) |
+| ![](bilder/gegenstaende/grossblock_kern_3_763_ae.png) | [Großblock-Kern 3 763 AE](gegenstaende/grossblock_kern_3_763_ae.md) |
+| ![](bilder/gegenstaende/grossblock_kern_0_5_lj.png) | [Großblock-Kern 0,5 Lj](gegenstaende/grossblock_kern_0_5_lj.md) |
+| ![](bilder/gegenstaende/grossblock_kern_3_8_lj.png) | [Großblock-Kern 3,8 Lj](gegenstaende/grossblock_kern_3_8_lj.md) |
+| ![](bilder/gegenstaende/grossblock_kern_30_5_lj.png) | [Großblock-Kern 30,5 Lj](gegenstaende/grossblock_kern_30_5_lj.md) |
+| ![](bilder/gegenstaende/grossblock_kern_244_lj.png) | [Großblock-Kern 244 Lj](gegenstaende/grossblock_kern_244_lj.md) |
 
 ## Rüstung (465)
 

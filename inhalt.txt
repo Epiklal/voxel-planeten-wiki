@@ -523,6 +523,18 @@ gegenstaende/grossblock_kern_66_km.md	Großblock-Kern 66 km	Gegenstand
 gegenstaende/grossblock_kern_524_km.md	Großblock-Kern 524 km	Gegenstand
 gegenstaende/grossblock_kern_4_194_km.md	Großblock-Kern 4 194 km	Gegenstand
 gegenstaende/grossblock_kern_33_554_km.md	Großblock-Kern 33 554 km	Gegenstand
+gegenstaende/grossblock_kern_268_435_km.md	Großblock-Kern 268 435 km	Gegenstand
+gegenstaende/grossblock_kern_2_147_484_km.md	Großblock-Kern 2 147 484 km	Gegenstand
+gegenstaende/grossblock_kern_17_179_869_km.md	Großblock-Kern 17 179 869 km	Gegenstand
+gegenstaende/grossblock_kern_0_9_ae.md	Großblock-Kern 0,9 AE	Gegenstand
+gegenstaende/grossblock_kern_7_3_ae.md	Großblock-Kern 7,3 AE	Gegenstand
+gegenstaende/grossblock_kern_58_8_ae.md	Großblock-Kern 58,8 AE	Gegenstand
+gegenstaende/grossblock_kern_470_ae.md	Großblock-Kern 470 AE	Gegenstand
+gegenstaende/grossblock_kern_3_763_ae.md	Großblock-Kern 3 763 AE	Gegenstand
+gegenstaende/grossblock_kern_0_5_lj.md	Großblock-Kern 0,5 Lj	Gegenstand
+gegenstaende/grossblock_kern_3_8_lj.md	Großblock-Kern 3,8 Lj	Gegenstand
+gegenstaende/grossblock_kern_30_5_lj.md	Großblock-Kern 30,5 Lj	Gegenstand
+gegenstaende/grossblock_kern_244_lj.md	Großblock-Kern 244 Lj	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

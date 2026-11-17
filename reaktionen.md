@@ -252,7 +252,7 @@ Maschine: [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md)
 
 ## Materieverdichter
 
-Großblock-Kerne für das Großblock-Werkzeug: einer für 16 m aus 16 Rumpfblöcken, jeder größere aus acht der Stufe darunter (128 m, 1 km … 33 554 km). Braucht 500 MW an Hochspannung.
+Großblock-Kerne für das Großblock-Werkzeug: einer für 16 m aus 16 Rumpfblöcken, jeder größere aus acht der Stufe darunter (128 m, 1 km … 33 554 km; ab 268 000 km die riesigen über die Abschnitte einer Megastruktur, bis 244 Lichtjahre). Braucht 500 MW an Hochspannung.
 
 Maschine: [Materieverdichter](gegenstaende/materieverdichter.md)
 
@@ -264,4 +264,16 @@ Maschine: [Materieverdichter](gegenstaende/materieverdichter.md)
 - 8 × [Großblock-Kern 66 km](gegenstaende/grossblock_kern_66_km.md) → 1 × [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) (Materieverdichter, 256 s)
 - 8 × [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) → 1 × [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) (Materieverdichter, 512 s)
 - 8 × [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) → 1 × [Großblock-Kern 33 554 km](gegenstaende/grossblock_kern_33_554_km.md) (Materieverdichter, 1024 s)
+- 8 × [Großblock-Kern 33 554 km](gegenstaende/grossblock_kern_33_554_km.md) → 1 × [Großblock-Kern 268 435 km](gegenstaende/grossblock_kern_268_435_km.md) (Materieverdichter, 2048 s)
+- 8 × [Großblock-Kern 268 435 km](gegenstaende/grossblock_kern_268_435_km.md) → 1 × [Großblock-Kern 2 147 484 km](gegenstaende/grossblock_kern_2_147_484_km.md) (Materieverdichter, 4096 s)
+- 8 × [Großblock-Kern 2 147 484 km](gegenstaende/grossblock_kern_2_147_484_km.md) → 1 × [Großblock-Kern 17 179 869 km](gegenstaende/grossblock_kern_17_179_869_km.md) (Materieverdichter, 8192 s)
+- 8 × [Großblock-Kern 17 179 869 km](gegenstaende/grossblock_kern_17_179_869_km.md) → 1 × [Großblock-Kern 0,9 AE](gegenstaende/grossblock_kern_0_9_ae.md) (Materieverdichter, 16 384 s)
+- 8 × [Großblock-Kern 0,9 AE](gegenstaende/grossblock_kern_0_9_ae.md) → 1 × [Großblock-Kern 7,3 AE](gegenstaende/grossblock_kern_7_3_ae.md) (Materieverdichter, 32 768 s)
+- 8 × [Großblock-Kern 7,3 AE](gegenstaende/grossblock_kern_7_3_ae.md) → 1 × [Großblock-Kern 58,8 AE](gegenstaende/grossblock_kern_58_8_ae.md) (Materieverdichter, 65 536 s)
+- 8 × [Großblock-Kern 58,8 AE](gegenstaende/grossblock_kern_58_8_ae.md) → 1 × [Großblock-Kern 470 AE](gegenstaende/grossblock_kern_470_ae.md) (Materieverdichter, 131 072 s)
+- 8 × [Großblock-Kern 470 AE](gegenstaende/grossblock_kern_470_ae.md) → 1 × [Großblock-Kern 3 763 AE](gegenstaende/grossblock_kern_3_763_ae.md) (Materieverdichter, 262 144 s)
+- 8 × [Großblock-Kern 3 763 AE](gegenstaende/grossblock_kern_3_763_ae.md) → 1 × [Großblock-Kern 0,5 Lj](gegenstaende/grossblock_kern_0_5_lj.md) (Materieverdichter, 524 288 s)
+- 8 × [Großblock-Kern 0,5 Lj](gegenstaende/grossblock_kern_0_5_lj.md) → 1 × [Großblock-Kern 3,8 Lj](gegenstaende/grossblock_kern_3_8_lj.md) (Materieverdichter, 1 048 576 s)
+- 8 × [Großblock-Kern 3,8 Lj](gegenstaende/grossblock_kern_3_8_lj.md) → 1 × [Großblock-Kern 30,5 Lj](gegenstaende/grossblock_kern_30_5_lj.md) (Materieverdichter, 2 097 152 s)
+- 8 × [Großblock-Kern 30,5 Lj](gegenstaende/grossblock_kern_30_5_lj.md) → 1 × [Großblock-Kern 244 Lj](gegenstaende/grossblock_kern_244_lj.md) (Materieverdichter, 4 194 304 s)
 
