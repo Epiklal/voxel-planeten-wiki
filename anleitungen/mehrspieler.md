@@ -49,6 +49,8 @@ Ports: TCP 25600 (Spiel), UDP 25601 (Spielsuche). Übers Internet: Am Router TCP
 ./ExoGrid-Industry-Server --world harte-welt --schwierigkeit schwer --beim-tod kiste
 # Welttyp einer neuen Welt (Standard: realistisch):
 ./ExoGrid-Industry-Server --world alte-art --welttyp klassisch
+# großer Server: mehr Spieler gleichzeitig (Standard 100) und größere Teams (Standard 16):
+./ExoGrid-Industry-Server --world gross --spieler 200 --teamgroesse 20
 ```
 
 In der Server-Konsole gehen alle Chat-Befehle (ohne `/`, die Konsole darf alles), dazu `stop` (speichern und beenden); Strg+C speichert auch. Zum Beispiel: `liste`, `speichern`, `zeit 100` (Zeitraffer ×100; `zeit 0` hält an, `zeit 0,5` halb so schnell), `zeit jetzt` (echte Zeit), `zeit vor 24` (Stunden), `setzerang Kim moderator`, `kick Max Spam`, `ban Max`. Wie früher geht auch `admin Kim`, `admin weg Kim` und `admins`; eine alte `admins.txt` wird übernommen. Mitspieler finden den Server im Mehrspieler-Menü (`--name` legt fest, wie er dort heißt).
