@@ -13,5 +13,5 @@
 
 ## Verwendet für
 
-[Landeplattform](../bloecke/landeplattform.md)
+[Landeplattform](../bloecke/landeplattform.md), [Großblock-Kern 16 m](../gegenstaende/grossblock_kern_16_m.md)
 

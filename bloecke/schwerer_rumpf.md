@@ -11,3 +11,7 @@
 
 - 3 × [Titanplatte](../gegenstaende/titanplatte.md) → 4 × [Schwerer Rumpf](../bloecke/schwerer_rumpf.md) (Werkbank, 4 s)
 
+## Verwendet für
+
+[Großblock-Kern 16 m](../gegenstaende/grossblock_kern_16_m.md)
+

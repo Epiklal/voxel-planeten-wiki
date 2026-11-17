@@ -513,6 +513,16 @@ gegenstaende/abbruchhammer.md	Abbruchhammer	Gegenstand
 gegenstaende/taschenlampe.md	Taschenlampe	Gegenstand
 gegenstaende/dyson_satellit.md	Dyson-Satellit	Gegenstand
 gegenstaende/empfangsschuessel.md	Empfangsschüssel	Gegenstand
+gegenstaende/grossblock_werkzeug.md	Großblock-Werkzeug	Gegenstand
+gegenstaende/materieverdichter.md	Materieverdichter	Gegenstand
+gegenstaende/grossblock_kern_16_m.md	Großblock-Kern 16 m	Gegenstand
+gegenstaende/grossblock_kern_128_m.md	Großblock-Kern 128 m	Gegenstand
+gegenstaende/grossblock_kern_1_km.md	Großblock-Kern 1 km	Gegenstand
+gegenstaende/grossblock_kern_8_km.md	Großblock-Kern 8 km	Gegenstand
+gegenstaende/grossblock_kern_66_km.md	Großblock-Kern 66 km	Gegenstand
+gegenstaende/grossblock_kern_524_km.md	Großblock-Kern 524 km	Gegenstand
+gegenstaende/grossblock_kern_4_194_km.md	Großblock-Kern 4 194 km	Gegenstand
+gegenstaende/grossblock_kern_33_554_km.md	Großblock-Kern 33 554 km	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

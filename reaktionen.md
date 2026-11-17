@@ -250,3 +250,18 @@ Maschine: [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md)
 - 1 × [Berkelium](elemente/berkelium.md) + 8 × [Calcium](elemente/calcium.md) → 1 × [Tenness](elemente/tenness.md) (Teilchenbeschleuniger, 900 s)
 - 1 × [Californium](elemente/californium.md) + 8 × [Calcium](elemente/calcium.md) → 1 × [Oganesson](elemente/oganesson.md) (Teilchenbeschleuniger, 960 s)
 
+## Materieverdichter
+
+Großblock-Kerne für das Großblock-Werkzeug: einer für 16 m aus 16 Rumpfblöcken, jeder größere aus acht der Stufe darunter (128 m, 1 km … 33 554 km). Braucht 500 MW an Hochspannung.
+
+Maschine: [Materieverdichter](gegenstaende/materieverdichter.md)
+
+- 16 × [Leichter Rumpf](bloecke/leichter_rumpf.md) oder [Schwerer Rumpf](bloecke/schwerer_rumpf.md) → 1 × [Großblock-Kern 16 m](gegenstaende/grossblock_kern_16_m.md) (Materieverdichter, 8 s)
+- 8 × [Großblock-Kern 16 m](gegenstaende/grossblock_kern_16_m.md) → 1 × [Großblock-Kern 128 m](gegenstaende/grossblock_kern_128_m.md) (Materieverdichter, 16 s)
+- 8 × [Großblock-Kern 128 m](gegenstaende/grossblock_kern_128_m.md) → 1 × [Großblock-Kern 1 km](gegenstaende/grossblock_kern_1_km.md) (Materieverdichter, 32 s)
+- 8 × [Großblock-Kern 1 km](gegenstaende/grossblock_kern_1_km.md) → 1 × [Großblock-Kern 8 km](gegenstaende/grossblock_kern_8_km.md) (Materieverdichter, 64 s)
+- 8 × [Großblock-Kern 8 km](gegenstaende/grossblock_kern_8_km.md) → 1 × [Großblock-Kern 66 km](gegenstaende/grossblock_kern_66_km.md) (Materieverdichter, 128 s)
+- 8 × [Großblock-Kern 66 km](gegenstaende/grossblock_kern_66_km.md) → 1 × [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) (Materieverdichter, 256 s)
+- 8 × [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) → 1 × [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) (Materieverdichter, 512 s)
+- 8 × [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) → 1 × [Großblock-Kern 33 554 km](gegenstaende/grossblock_kern_33_554_km.md) (Materieverdichter, 1024 s)
+

@@ -1,8 +1,8 @@
 # Alle Gegenstände
 
-710 Stück, sortiert wie im Inventar.
+720 Stück, sortiert wie im Inventar.
 
-## Fabrik (21)
+## Fabrik (22)
 
 | | Name |
 |---|---|
@@ -27,6 +27,7 @@
 | ![](bilder/gegenstaende/induktionsofen.png) | [Induktionsofen](gegenstaende/induktionsofen.md) |
 | ![](bilder/gegenstaende/forschungsreaktor.png) | [Forschungsreaktor](gegenstaende/forschungsreaktor.md) |
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
+| ![](bilder/gegenstaende/materieverdichter.png) | [Materieverdichter](gegenstaende/materieverdichter.md) |
 
 ## Strom (37)
 
@@ -87,7 +88,7 @@
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 | ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
 
-## Werkzeuge (49)
+## Werkzeuge (58)
 
 | | Name |
 |---|---|
@@ -140,6 +141,15 @@
 | ![](bilder/gegenstaende/drohnen_warpantrieb.png) | [Drohnen-Warpantrieb](gegenstaende/drohnen_warpantrieb.md) |
 | ![](bilder/gegenstaende/abbruchhammer.png) | [Abbruchhammer](gegenstaende/abbruchhammer.md) |
 | ![](bilder/gegenstaende/taschenlampe.png) | [Taschenlampe](gegenstaende/taschenlampe.md) |
+| ![](bilder/gegenstaende/grossblock_werkzeug.png) | [Großblock-Werkzeug](gegenstaende/grossblock_werkzeug.md) |
+| ![](bilder/gegenstaende/grossblock_kern_16_m.png) | [Großblock-Kern 16 m](gegenstaende/grossblock_kern_16_m.md) |
+| ![](bilder/gegenstaende/grossblock_kern_128_m.png) | [Großblock-Kern 128 m](gegenstaende/grossblock_kern_128_m.md) |
+| ![](bilder/gegenstaende/grossblock_kern_1_km.png) | [Großblock-Kern 1 km](gegenstaende/grossblock_kern_1_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_8_km.png) | [Großblock-Kern 8 km](gegenstaende/grossblock_kern_8_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_66_km.png) | [Großblock-Kern 66 km](gegenstaende/grossblock_kern_66_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_524_km.png) | [Großblock-Kern 524 km](gegenstaende/grossblock_kern_524_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_4_194_km.png) | [Großblock-Kern 4 194 km](gegenstaende/grossblock_kern_4_194_km.md) |
+| ![](bilder/gegenstaende/grossblock_kern_33_554_km.png) | [Großblock-Kern 33 554 km](gegenstaende/grossblock_kern_33_554_km.md) |
 
 ## Rüstung (465)
 
