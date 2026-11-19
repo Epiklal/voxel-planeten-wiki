@@ -1,0 +1,13 @@
+# Flutlicht
+
+![Flutlicht](../bilder/gegenstaende/flutlicht.png)
+
+| Eigenschaft | Wert |
+|---|---|
+| Leuchtet | 80 m weit, solange es Strom hat |
+| Braucht | 100 kW am Stromnetz |
+
+## Herstellen
+
+- 2 × [Glas](../bloecke/glas.md) + 2 × [Aluminiumblech](../gegenstaende/aluminiumblech.md) + 4 × [Eisenplatte](../gegenstaende/eisenplatte.md) + 8 × [Kupferdraht](../gegenstaende/kupferdraht.md) → 1 × [Flutlicht](../gegenstaende/flutlicht.md) (Werkbank, 15 s)
+

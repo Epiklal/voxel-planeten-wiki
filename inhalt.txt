@@ -255,6 +255,7 @@ bloecke/flaggenlack_6.md	Flaggenlack	Block
 bloecke/flaggenlack_7.md	Flaggenlack	Block
 bloecke/flaggenlack_8.md	Flaggenlack	Block
 bloecke/dyson_kollektor.md	Dyson-Kollektor	Block
+bloecke/schiffsflutlicht.md	Schiffsflutlicht	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -535,6 +536,7 @@ gegenstaende/grossblock_kern_0_5_lj.md	Großblock-Kern 0,5 Lj	Gegenstand
 gegenstaende/grossblock_kern_3_8_lj.md	Großblock-Kern 3,8 Lj	Gegenstand
 gegenstaende/grossblock_kern_30_5_lj.md	Großblock-Kern 30,5 Lj	Gegenstand
 gegenstaende/grossblock_kern_244_lj.md	Großblock-Kern 244 Lj	Gegenstand
+gegenstaende/flutlicht.md	Flutlicht	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

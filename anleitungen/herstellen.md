@@ -50,6 +50,8 @@
 | Solar-Nano-/Quantenhelm                       | Helm + Solarmodul                                                                                                       |
 | Jetpack-Nano-/Quantenharnisch                 | Harnisch + Jetpack                                                                                                      |
 | Ladestation                                   | 4 verstärkte Eisenplatten + 10 Kabel + 2 Akkus + 2 Quarzkristalle                                                       |
+| Flutlicht                                     | 2 Glas + 2 Aluminiumbleche + 4 Eisenplatten + 8 Kupferdraht                                                             |
+| Schiffsflutlicht                              | 2 Glas + 2 Aluminiumbleche + 1 leichter Rumpf + 8 Kupferdraht                                                           |
 | Schiffskern                                   | 4 verstärkte Eisenplatten + 8 Kabel + 4 Quarzkristalle                                                                  |
 | Cockpit                                       | 4 verstärkte Eisenplatten + 6 Quarzkristalle + 6 Kabel                                                                  |
 | Raketentriebwerk                              | 8 verstärkte Eisenplatten + 2 Rotoren + 6 Eisenstangen                                                                  |
