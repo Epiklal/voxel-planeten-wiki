@@ -4,7 +4,7 @@
 
 | Eigenschaft | Wert |
 |---|---|
-| Leuchtet | 80 m weit, solange es Strom hat |
+| Leuchtet | 64 m weit, solange es Strom hat |
 | Braucht | 100 kW am Stromnetz |
 
 ## Herstellen

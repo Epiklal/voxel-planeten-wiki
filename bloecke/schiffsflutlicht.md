@@ -6,7 +6,7 @@
 |---|---|
 | Art | fester Block |
 | Abbauen | 7,5 s mit der Hand, schneller mit Spitzhacke |
-| Leuchtet | 80 m weit, solange es Strom hat |
+| Leuchtet | 64 m weit, solange es Strom hat |
 | Braucht | 100 kW aus den Schiffsbatterien |
 
 ## Herstellen
