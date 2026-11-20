@@ -265,6 +265,9 @@ bloecke/rohrkolben.md	Rohrkolben	Block
 bloecke/rohrkolben_2.md	Rohrkolben	Block
 bloecke/lupine.md	Lupine	Block
 bloecke/lupine_2.md	Lupine	Block
+bloecke/rotes_herbstlaub.md	Rotes Herbstlaub	Block
+bloecke/oranges_herbstlaub.md	Oranges Herbstlaub	Block
+bloecke/gelbes_herbstlaub.md	Gelbes Herbstlaub	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

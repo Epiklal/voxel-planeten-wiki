@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-701 Stück, sortiert wie im Inventar.
+704 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (212)
+## Natur (215)
 
 | | Name |
 |---|---|
@@ -553,6 +553,9 @@
 | ![](bilder/bloecke/rohrkolben_2.png) | [Rohrkolben](bloecke/rohrkolben_2.md) |
 | ![](bilder/bloecke/lupine.png) | [Lupine](bloecke/lupine.md) |
 | ![](bilder/bloecke/lupine_2.png) | [Lupine](bloecke/lupine_2.md) |
+| ![](bilder/bloecke/rotes_herbstlaub.png) | [Rotes Herbstlaub](bloecke/rotes_herbstlaub.md) |
+| ![](bilder/bloecke/oranges_herbstlaub.png) | [Oranges Herbstlaub](bloecke/oranges_herbstlaub.md) |
+| ![](bilder/bloecke/gelbes_herbstlaub.png) | [Gelbes Herbstlaub](bloecke/gelbes_herbstlaub.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |
