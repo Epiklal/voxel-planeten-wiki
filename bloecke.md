@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-692 Stück, sortiert wie im Inventar.
+701 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (203)
+## Natur (212)
 
 | | Name |
 |---|---|
@@ -544,6 +544,15 @@
 | ![](bilder/bloecke/flaggenlack_6.png) | [Flaggenlack](bloecke/flaggenlack_6.md) |
 | ![](bilder/bloecke/flaggenlack_7.png) | [Flaggenlack](bloecke/flaggenlack_7.md) |
 | ![](bilder/bloecke/flaggenlack_8.png) | [Flaggenlack](bloecke/flaggenlack_8.md) |
+| ![](bilder/bloecke/glockenblume.png) | [Glockenblume](bloecke/glockenblume.md) |
+| ![](bilder/bloecke/schafgarbe.png) | [Schafgarbe](bloecke/schafgarbe.md) |
+| ![](bilder/bloecke/distel.png) | [Distel](bloecke/distel.md) |
+| ![](bilder/bloecke/heidekraut.png) | [Heidekraut](bloecke/heidekraut.md) |
+| ![](bilder/bloecke/wollgras.png) | [Wollgras](bloecke/wollgras.md) |
+| ![](bilder/bloecke/rohrkolben.png) | [Rohrkolben](bloecke/rohrkolben.md) |
+| ![](bilder/bloecke/rohrkolben_2.png) | [Rohrkolben](bloecke/rohrkolben_2.md) |
+| ![](bilder/bloecke/lupine.png) | [Lupine](bloecke/lupine.md) |
+| ![](bilder/bloecke/lupine_2.png) | [Lupine](bloecke/lupine_2.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |

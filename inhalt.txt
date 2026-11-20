@@ -256,6 +256,15 @@ bloecke/flaggenlack_7.md	Flaggenlack	Block
 bloecke/flaggenlack_8.md	Flaggenlack	Block
 bloecke/dyson_kollektor.md	Dyson-Kollektor	Block
 bloecke/schiffsflutlicht.md	Schiffsflutlicht	Block
+bloecke/glockenblume.md	Glockenblume	Block
+bloecke/schafgarbe.md	Schafgarbe	Block
+bloecke/distel.md	Distel	Block
+bloecke/heidekraut.md	Heidekraut	Block
+bloecke/wollgras.md	Wollgras	Block
+bloecke/rohrkolben.md	Rohrkolben	Block
+bloecke/rohrkolben_2.md	Rohrkolben	Block
+bloecke/lupine.md	Lupine	Block
+bloecke/lupine_2.md	Lupine	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
