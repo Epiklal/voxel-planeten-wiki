@@ -1,6 +1,6 @@
 # Rohstoffe
 
-Erzadern im Gestein, die Tiefe zählt ab Meeresspiegel (was bis −128 reicht, gibt es auch darunter bis zum Grundgestein):
+Erzadern im Gestein, die Tiefe zählt ab Meeresspiegel (was bis −128 reicht, gibt es auch darunter bis zum Grundgestein). Im Welttyp Realistisch zählt sie ab dem Boden vor Ort (er gilt als 32 m über dem Meer – so liegt das Land im klassischen Welttyp), sonst läge im Hochland alles Hunderte Meter tief. Im Flachland liegen die Adern dort erst ab 8 m unter der Oberfläche (an der Oberfläche gibt es nur Erzvorkommen), im Gebirge auch im freiliegenden Fels. Den Weg zeigt der Erzscanner.
 
 | Himmelskörper     | Rohstoffe                                                                                                                                                                                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

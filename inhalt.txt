@@ -549,6 +549,7 @@ gegenstaende/grossblock_kern_3_8_lj.md	Großblock-Kern 3,8 Lj	Gegenstand
 gegenstaende/grossblock_kern_30_5_lj.md	Großblock-Kern 30,5 Lj	Gegenstand
 gegenstaende/grossblock_kern_244_lj.md	Großblock-Kern 244 Lj	Gegenstand
 gegenstaende/flutlicht.md	Flutlicht	Gegenstand
+gegenstaende/erzscanner.md	Erzscanner	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-733 Stück, sortiert wie im Inventar.
+734 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -89,7 +89,7 @@
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 | ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
 
-## Werkzeuge (70)
+## Werkzeuge (71)
 
 | | Name |
 |---|---|
@@ -163,6 +163,7 @@
 | ![](bilder/gegenstaende/grossblock_kern_3_8_lj.png) | [Großblock-Kern 3,8 Lj](gegenstaende/grossblock_kern_3_8_lj.md) |
 | ![](bilder/gegenstaende/grossblock_kern_30_5_lj.png) | [Großblock-Kern 30,5 Lj](gegenstaende/grossblock_kern_30_5_lj.md) |
 | ![](bilder/gegenstaende/grossblock_kern_244_lj.png) | [Großblock-Kern 244 Lj](gegenstaende/grossblock_kern_244_lj.md) |
+| ![](bilder/gegenstaende/erzscanner.png) | [Erzscanner](gegenstaende/erzscanner.md) |
 
 ## Rüstung (465)
 
