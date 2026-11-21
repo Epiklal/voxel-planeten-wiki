@@ -268,6 +268,7 @@ bloecke/lupine_2.md	Lupine	Block
 bloecke/rotes_herbstlaub.md	Rotes Herbstlaub	Block
 bloecke/oranges_herbstlaub.md	Oranges Herbstlaub	Block
 bloecke/gelbes_herbstlaub.md	Gelbes Herbstlaub	Block
+bloecke/hitzeschild.md	Hitzeschild	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -2115,4 +2116,5 @@ gegenstaende.md	Alle Gegenstände	Übersicht
 periodensystem.md	Periodensystem	Übersicht
 legierungen.md	Legierungen	Übersicht
 reaktionen.md	Reaktionen	Übersicht
+texturen-gesucht.md	Texturen gesucht	Übersicht
 README.md	Startseite	Übersicht

@@ -40,8 +40,9 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Sonnensystem](sonnensystem.md) – Sonne, 8 Planeten, 9 Zwergplaneten
 - [Echte Exoplaneten](exoplaneten.md) – 43 Planeten um 18 fremde Sterne
 - [Alle Monde](monde.md) – 466 Monde
-- [Alle Blöcke](bloecke.md) – 704 Blöcke
+- [Alle Blöcke](bloecke.md) – 705 Blöcke
 - [Alle Gegenstände](gegenstaende.md) – 734 Gegenstände, Maschinen und Bauteile
 - [Periodensystem](periodensystem.md) – alle 118 Elemente
 - [Legierungen](legierungen.md) – 42 Legierungen
 - [Reaktionen](reaktionen.md) – Chemie, Kernphysik und Metalle im Wasser
+- [Texturen gesucht](texturen-gesucht.md) – mal Texturen fürs Spiel

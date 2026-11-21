@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-704 Stück, sortiert wie im Inventar.
+705 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -640,7 +640,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (76)
+## Raumfahrt (77)
 
 | | Name |
 |---|---|
@@ -720,4 +720,5 @@
 | ![](bilder/bloecke/intergalaktischer_antrieb.png) | [Intergalaktischer Antrieb](bloecke/intergalaktischer_antrieb.md) |
 | ![](bilder/bloecke/dyson_kollektor.png) | [Dyson-Kollektor](bloecke/dyson_kollektor.md) |
 | ![](bilder/bloecke/schiffsflutlicht.png) | [Schiffsflutlicht](bloecke/schiffsflutlicht.md) |
+| ![](bilder/bloecke/hitzeschild.png) | [Hitzeschild](bloecke/hitzeschild.md) |
 

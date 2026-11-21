@@ -25,3 +25,7 @@ Aus Siliziumcarbid gibt es Werkzeuge, Waffen und Rüstung (Stufe 4):
 - ![](../bilder/gegenstaende/siliziumcarbidbeinschutz.png) [Siliziumcarbidbeinschutz](../gegenstaende/siliziumcarbidbeinschutz.md): 7 × Siliziumcarbid
 - ![](../bilder/gegenstaende/siliziumcarbidstiefel.png) [Siliziumcarbidstiefel](../gegenstaende/siliziumcarbidstiefel.md): 4 × Siliziumcarbid
 
+## Verwendet für
+
+[Hitzeschild](../bloecke/hitzeschild.md)
+
