@@ -11,3 +11,7 @@
 
 - 3 × [Eisenplatte](../gegenstaende/eisenplatte.md) + 1 × [Rotor](../gegenstaende/rotor.md) + 16 × [Kupferdraht](../gegenstaende/kupferdraht.md) → 1 × [Elektromotor](../bloecke/elektromotor.md) (Werkbank, 12 s)
 
+## Verwendet für
+
+[Drehkranz](../bloecke/drehkranz.md), [Scharnier](../bloecke/scharnier.md)
+

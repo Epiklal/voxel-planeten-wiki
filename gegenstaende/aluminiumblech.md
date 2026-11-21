@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Akku](../gegenstaende/akku.md), [Solarmodul](../gegenstaende/solarmodul.md), [Ionentriebwerk](../bloecke/ionentriebwerk.md), [Leichter Rumpf](../bloecke/leichter_rumpf.md), [Treibstofftank](../bloecke/treibstofftank.md), [Solarzellen](../bloecke/solarzellen.md), [Kleine Frachtdrohne](../gegenstaende/kleine_frachtdrohne.md), [Luftzerlegungsanlage](../gegenstaende/luftzerlegungsanlage.md), [Dyson-Kollektor](../bloecke/dyson_kollektor.md), [Flutlicht](../gegenstaende/flutlicht.md), [Schiffsflutlicht](../bloecke/schiffsflutlicht.md), [Empfangsschüssel](../gegenstaende/empfangsschuessel.md)
+[Akku](../gegenstaende/akku.md), [Solarmodul](../gegenstaende/solarmodul.md), [Ionentriebwerk](../bloecke/ionentriebwerk.md), [Leichter Rumpf](../bloecke/leichter_rumpf.md), [Treibstofftank](../bloecke/treibstofftank.md), [Solarzellen](../bloecke/solarzellen.md), [Kleine Frachtdrohne](../gegenstaende/kleine_frachtdrohne.md), [Luftzerlegungsanlage](../gegenstaende/luftzerlegungsanlage.md), [Dyson-Kollektor](../bloecke/dyson_kollektor.md), [Lebenserhaltung](../gegenstaende/lebenserhaltung.md), [Flutlicht](../gegenstaende/flutlicht.md), [Schiffsflutlicht](../bloecke/schiffsflutlicht.md), [Empfangsschüssel](../gegenstaende/empfangsschuessel.md)
 

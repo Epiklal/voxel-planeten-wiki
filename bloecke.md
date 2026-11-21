@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-707 Stück, sortiert wie im Inventar.
+744 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (215)
+## Natur (248)
 
 | | Name |
 |---|---|
@@ -556,6 +556,39 @@
 | ![](bilder/bloecke/rotes_herbstlaub.png) | [Rotes Herbstlaub](bloecke/rotes_herbstlaub.md) |
 | ![](bilder/bloecke/oranges_herbstlaub.png) | [Oranges Herbstlaub](bloecke/oranges_herbstlaub.md) |
 | ![](bilder/bloecke/gelbes_herbstlaub.png) | [Gelbes Herbstlaub](bloecke/gelbes_herbstlaub.md) |
+| ![](bilder/bloecke/drehkranz_2.png) | [Drehkranz](bloecke/drehkranz_2.md) |
+| ![](bilder/bloecke/drehkranz_3.png) | [Drehkranz](bloecke/drehkranz_3.md) |
+| ![](bilder/bloecke/drehkranz_4.png) | [Drehkranz](bloecke/drehkranz_4.md) |
+| ![](bilder/bloecke/drehkranz_5.png) | [Drehkranz](bloecke/drehkranz_5.md) |
+| ![](bilder/bloecke/drehkranz_6.png) | [Drehkranz](bloecke/drehkranz_6.md) |
+| ![](bilder/bloecke/hubzylinder_2.png) | [Hubzylinder](bloecke/hubzylinder_2.md) |
+| ![](bilder/bloecke/hubzylinder_3.png) | [Hubzylinder](bloecke/hubzylinder_3.md) |
+| ![](bilder/bloecke/hubzylinder_4.png) | [Hubzylinder](bloecke/hubzylinder_4.md) |
+| ![](bilder/bloecke/hubzylinder_5.png) | [Hubzylinder](bloecke/hubzylinder_5.md) |
+| ![](bilder/bloecke/hubzylinder_6.png) | [Hubzylinder](bloecke/hubzylinder_6.md) |
+| ![](bilder/bloecke/scharnier_2.png) | [Scharnier](bloecke/scharnier_2.md) |
+| ![](bilder/bloecke/scharnier_3.png) | [Scharnier](bloecke/scharnier_3.md) |
+| ![](bilder/bloecke/scharnier_4.png) | [Scharnier](bloecke/scharnier_4.md) |
+| ![](bilder/bloecke/scharnier_5.png) | [Scharnier](bloecke/scharnier_5.md) |
+| ![](bilder/bloecke/scharnier_6.png) | [Scharnier](bloecke/scharnier_6.md) |
+| ![](bilder/bloecke/scharnier_7.png) | [Scharnier](bloecke/scharnier_7.md) |
+| ![](bilder/bloecke/scharnier_8.png) | [Scharnier](bloecke/scharnier_8.md) |
+| ![](bilder/bloecke/scharnier_9.png) | [Scharnier](bloecke/scharnier_9.md) |
+| ![](bilder/bloecke/scharnier_10.png) | [Scharnier](bloecke/scharnier_10.md) |
+| ![](bilder/bloecke/scharnier_11.png) | [Scharnier](bloecke/scharnier_11.md) |
+| ![](bilder/bloecke/scharnier_12.png) | [Scharnier](bloecke/scharnier_12.md) |
+| ![](bilder/bloecke/scharnier_13.png) | [Scharnier](bloecke/scharnier_13.md) |
+| ![](bilder/bloecke/scharnier_14.png) | [Scharnier](bloecke/scharnier_14.md) |
+| ![](bilder/bloecke/scharnier_15.png) | [Scharnier](bloecke/scharnier_15.md) |
+| ![](bilder/bloecke/scharnier_16.png) | [Scharnier](bloecke/scharnier_16.md) |
+| ![](bilder/bloecke/scharnier_17.png) | [Scharnier](bloecke/scharnier_17.md) |
+| ![](bilder/bloecke/scharnier_18.png) | [Scharnier](bloecke/scharnier_18.md) |
+| ![](bilder/bloecke/scharnier_19.png) | [Scharnier](bloecke/scharnier_19.md) |
+| ![](bilder/bloecke/scharnier_20.png) | [Scharnier](bloecke/scharnier_20.md) |
+| ![](bilder/bloecke/scharnier_21.png) | [Scharnier](bloecke/scharnier_21.md) |
+| ![](bilder/bloecke/scharnier_22.png) | [Scharnier](bloecke/scharnier_22.md) |
+| ![](bilder/bloecke/scharnier_23.png) | [Scharnier](bloecke/scharnier_23.md) |
+| ![](bilder/bloecke/scharnier_24.png) | [Scharnier](bloecke/scharnier_24.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |
@@ -640,7 +673,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (79)
+## Raumfahrt (83)
 
 | | Name |
 |---|---|
@@ -723,4 +756,8 @@
 | ![](bilder/bloecke/hitzeschild.png) | [Hitzeschild](bloecke/hitzeschild.md) |
 | ![](bilder/bloecke/landefuss.png) | [Landefuß](bloecke/landefuss.md) |
 | ![](bilder/bloecke/andockklammer.png) | [Andockklammer](bloecke/andockklammer.md) |
+| ![](bilder/bloecke/drehkranz.png) | [Drehkranz](bloecke/drehkranz.md) |
+| ![](bilder/bloecke/steuerpult.png) | [Steuerpult](bloecke/steuerpult.md) |
+| ![](bilder/bloecke/hubzylinder.png) | [Hubzylinder](bloecke/hubzylinder.md) |
+| ![](bilder/bloecke/scharnier.png) | [Scharnier](bloecke/scharnier.md) |
 

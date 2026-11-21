@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2050 Texturen sind noch 2050 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2063 Texturen sind noch 2063 mit KI gemacht.
 
 ## So machst du mit
 
@@ -15,7 +15,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 - Mit dem Einschicken erlaubst du, dass die Textur im Spiel verwendet wird, auch in der kostenpflichtigen Version, und dass sie unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) weitergegeben werden darf. Dein Name wird dabei immer genannt.
 - Pixel-Look wie der Rest: klare Pixel, kein Weichzeichnen.
 
-## Blöcke (794)
+## Blöcke (806)
 
 | | Datei |
 |---|---|
@@ -133,6 +133,9 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/diorit.png" class="textur" width="48" height="48" alt=""> | `bloecke/diorit.png` |
 | <img src="bilder/texturen/bloecke/distel.png" class="textur" width="48" height="48" alt=""> | `bloecke/distel.png` |
 | <img src="bilder/texturen/bloecke/dolomit.png" class="textur" width="48" height="48" alt=""> | `bloecke/dolomit.png` |
+| <img src="bilder/texturen/bloecke/drehkranz_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/drehkranz_oben.png` |
+| <img src="bilder/texturen/bloecke/drehkranz_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/drehkranz_seite.png` |
+| <img src="bilder/texturen/bloecke/drehkranz_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/drehkranz_unten.png` |
 | <img src="bilder/texturen/bloecke/dschungelgras_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/dschungelgras_oben.png` |
 | <img src="bilder/texturen/bloecke/dschungelgras_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/dschungelgras_seite.png` |
 | <img src="bilder/texturen/bloecke/dschungelgras_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/dschungelgras_unten.png` |
@@ -347,6 +350,9 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/hohes_gras.png" class="textur" width="48" height="48" alt=""> | `bloecke/hohes_gras.png` |
 | <img src="bilder/texturen/bloecke/hohes_gras_spitze.png" class="textur" width="48" height="48" alt=""> | `bloecke/hohes_gras_spitze.png` |
 | <img src="bilder/texturen/bloecke/honigwabenblock.png" class="textur" width="48" height="48" alt=""> | `bloecke/honigwabenblock.png` |
+| <img src="bilder/texturen/bloecke/hubzylinder_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/hubzylinder_oben.png` |
+| <img src="bilder/texturen/bloecke/hubzylinder_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/hubzylinder_seite.png` |
+| <img src="bilder/texturen/bloecke/hubzylinder_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/hubzylinder_unten.png` |
 | <img src="bilder/texturen/bloecke/ilmenit.png" class="textur" width="48" height="48" alt=""> | `bloecke/ilmenit.png` |
 | <img src="bilder/texturen/bloecke/intergalaktischer_antrieb.png" class="textur" width="48" height="48" alt=""> | `bloecke/intergalaktischer_antrieb.png` |
 | <img src="bilder/texturen/bloecke/kakao.png" class="textur" width="48" height="48" alt=""> | `bloecke/kakao.png` |
@@ -609,6 +615,9 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/sandstein_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/sandstein_seite.png` |
 | <img src="bilder/texturen/bloecke/sandstein_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/sandstein_unten.png` |
 | <img src="bilder/texturen/bloecke/schafgarbe.png" class="textur" width="48" height="48" alt=""> | `bloecke/schafgarbe.png` |
+| <img src="bilder/texturen/bloecke/scharnier_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_oben.png` |
+| <img src="bilder/texturen/bloecke/scharnier_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_seite.png` |
+| <img src="bilder/texturen/bloecke/scharnier_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_unten.png` |
 | <img src="bilder/texturen/bloecke/schiffsbatterie_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/schiffsbatterie_oben.png` |
 | <img src="bilder/texturen/bloecke/schiffsbatterie_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/schiffsbatterie_seite.png` |
 | <img src="bilder/texturen/bloecke/schiffsbatterie_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/schiffsbatterie_unten.png` |
@@ -698,6 +707,9 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/steindruckplatte.png" class="textur" width="48" height="48" alt=""> | `bloecke/steindruckplatte.png` |
 | <img src="bilder/texturen/bloecke/steinknopf.png" class="textur" width="48" height="48" alt=""> | `bloecke/steinknopf.png` |
 | <img src="bilder/texturen/bloecke/steinziegel.png" class="textur" width="48" height="48" alt=""> | `bloecke/steinziegel.png` |
+| <img src="bilder/texturen/bloecke/steuerpult_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/steuerpult_oben.png` |
+| <img src="bilder/texturen/bloecke/steuerpult_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/steuerpult_seite.png` |
+| <img src="bilder/texturen/bloecke/steuerpult_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/steuerpult_unten.png` |
 | <img src="bilder/texturen/bloecke/stickstoffeis.png" class="textur" width="48" height="48" alt=""> | `bloecke/stickstoffeis.png` |
 | <img src="bilder/texturen/bloecke/strohballen_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/strohballen_oben.png` |
 | <img src="bilder/texturen/bloecke/strohballen_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/strohballen_seite.png` |
@@ -814,7 +826,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1222)
+## Gegenstände (1223)
 
 | | Datei |
 |---|---|
@@ -1378,6 +1390,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/items/lapislazuli_1162.png" class="textur" width="48" height="48" alt=""> | `items/lapislazuli_1162.png` |
 | <img src="bilder/texturen/items/laservisier_1251.png" class="textur" width="48" height="48" alt=""> | `items/laservisier_1251.png` |
 | <img src="bilder/texturen/items/lawrencium_2103.png" class="textur" width="48" height="48" alt=""> | `items/lawrencium_2103.png` |
+| <img src="bilder/texturen/items/lebenserhaltung_1295.png" class="textur" width="48" height="48" alt=""> | `items/lebenserhaltung_1295.png` |
 | <img src="bilder/texturen/items/leder_1211.png" class="textur" width="48" height="48" alt=""> | `items/leder_1211.png` |
 | <img src="bilder/texturen/items/lenkrakete_1231.png" class="textur" width="48" height="48" alt=""> | `items/lenkrakete_1231.png` |
 | <img src="bilder/texturen/items/lieferdrohne_1256.png" class="textur" width="48" height="48" alt=""> | `items/lieferdrohne_1256.png` |

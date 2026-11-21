@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-736 Stück, sortiert wie im Inventar.
+737 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -29,7 +29,7 @@
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
 | ![](bilder/gegenstaende/materieverdichter.png) | [Materieverdichter](gegenstaende/materieverdichter.md) |
 
-## Strom (38)
+## Strom (39)
 
 | | Name |
 |---|---|
@@ -45,6 +45,7 @@
 | ![](bilder/gegenstaende/ladestation.png) | [Ladestation](gegenstaende/ladestation.md) |
 | ![](bilder/gegenstaende/empfangsschuessel.png) | [Empfangsschüssel](gegenstaende/empfangsschuessel.md) |
 | ![](bilder/gegenstaende/flutlicht.png) | [Flutlicht](gegenstaende/flutlicht.md) |
+| ![](bilder/gegenstaende/lebenserhaltung.png) | [Lebenserhaltung](gegenstaende/lebenserhaltung.md) |
 | ![](bilder/gegenstaende/aluminiumkabel.png) | [Aluminiumkabel](gegenstaende/aluminiumkabel.md) |
 | ![](bilder/gegenstaende/antimonkabel.png) | [Antimonkabel](gegenstaende/antimonkabel.md) |
 | ![](bilder/gegenstaende/berylliumkabel.png) | [Berylliumkabel](gegenstaende/berylliumkabel.md) |

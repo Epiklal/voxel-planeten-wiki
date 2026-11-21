@@ -113,4 +113,4 @@
 | Rot + Weiß  | Rosa     | Grau + Weiß    | Hellgrau |
 | Rot + Grün  | Braun    |                |          |
 
-**Blätter** sind durchsichtig: Durch die Löcher sieht man in die Krone und den Himmel dahinter (Grafikeinstellung "Blätter", bei Retro und Niedrig voll).
+**Blätter** sind durchsichtig: Durch die Löcher sieht man in die Krone und den Himmel dahinter (Grafikeinstellung "Blätter", bei Retro und Niedrig voll). Am Rand der Kronen wachsen Blattbüschel über die Blöcke hinaus, so sehen Bäume rund statt eckig aus (Grafikeinstellung "Blätterform": buschig oder Würfel).
