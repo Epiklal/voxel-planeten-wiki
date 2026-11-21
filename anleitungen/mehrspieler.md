@@ -55,6 +55,28 @@ Ports: TCP 25600 (Spiel), UDP 25601 (Spielsuche). Übers Internet: Am Router TCP
 
 In der Server-Konsole gehen alle Chat-Befehle (ohne `/`, die Konsole darf alles), dazu `stop` (speichern und beenden); Strg+C speichert auch. Zum Beispiel: `liste`, `speichern`, `zeit 100` (Zeitraffer ×100; `zeit 0` hält an, `zeit 0,5` halb so schnell), `zeit jetzt` (echte Zeit), `zeit vor 24` (Stunden), `setzerang Kim moderator`, `kick Max Spam`, `ban Max`. Wie früher geht auch `admin Kim`, `admin weg Kim` und `admins`; eine alte `admins.txt` wird übernommen. Mitspieler finden den Server im Mehrspieler-Menü (`--name` legt fest, wie er dort heißt).
 
+## Serververbund (mehrere Server, nie alle aus)
+
+Mehrere dedizierte Server können sich eine Welt teilen. Einer ist **Hauptserver** und spielt die Welt, die anderen sind **Partner**: Sie halten einen Spiegel des Weltordners (nach jedem Speichern abgeglichen, nur geänderte Dateien) und spielen selbst nichts. Der Hauptserver bestimmt, welcher Partner sein **Stellvertreter** ist.
+
+- `stop` (oder Strg+C) am Hauptserver: Er bringt den Spiegel des Stellvertreters auf den letzten Stand und übergibt ihm die Rolle. Die Spieler verbinden sich von selbst neu und spielen an derselben Stelle weiter (ein, zwei Sekunden Ladebild).
+- Stürzt der Hauptserver ab, übernimmt der Stellvertreter nach 10 Sekunden ohne Lebenszeichen ab seinem Spiegel (verloren geht höchstens, was seit dem letzten Speichern passiert ist, alle 30 s). Die Spieler versuchen es 90 Sekunden lang reihum bei allen Servern des Verbunds.
+- Jeder Server lässt sich einzeln abschalten und wieder starten; ein Partner reiht sich von selbst wieder ein.
+
+Dafür bekommt jeder Server im Weltordner eine eigene `verbund.txt`:
+
+```text
+name: PC
+schluessel: ein-langes-gemeinsames-geheimnis
+partner: Laptop 192.168.178.161:25602
+# optional: port: 25602 (Verbund-Port, Standard Spielport + 2)
+# optional: spieladresse: spiel.example.org:25600 (so erreichen Spieler diesen Server)
+```
+
+Alle Server eines Verbunds brauchen denselben Schlüssel (mindestens 16 Zeichen) und je einen eigenen Namen. Wer Hauptserver wird, entscheidet der neueste Weltstand (steht in `verbund-stand.txt`); fehlt der Server mit dem neuesten Stand, warten die anderen – `verbund uebernehmen` in der Konsole macht trotzdem diesen zum Hauptserver. `verbund` zeigt Rollen, Spiegelstand und Last (Takt, Bandbreite, Spieler). Eine Welt mit anderer Geschichte wird nie überschrieben, sondern als `<Welt>.verbund-alt-<Zeit>` beiseitegelegt. Die Verbindung zwischen den Servern ist geprüft (niemand kann unterwegs etwas ändern), aber nicht verschlüsselt – übers Internet nur per VPN (z. B. Tailscale). Spieler über das Internet brauchen `spieladresse`, sonst bekommen sie die Adresse im eigenen Netz.
+
+Geplant: Ist ein Server ausgelastet, gibt er ganze Sternsysteme, dann Planeten und zuletzt Würfelseiten an Partner ab.
+
 ## Server-Verwalter mit Dashboard im Browser
 
 Das Dashboard bleibt erreichbar, auch wenn der Server gerade aus ist.
