@@ -325,6 +325,7 @@ bloecke/kirschzweig.md	Kirschzweig	Block
 bloecke/mangrovenast.md	Mangrovenast	Block
 bloecke/mangrovenzweig.md	Mangrovenzweig	Block
 bloecke/gummidichtung.md	Gummidichtung	Block
+bloecke/federbein.md	Federbein	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
