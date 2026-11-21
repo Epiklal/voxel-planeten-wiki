@@ -1,12 +1,12 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2047 Texturen sind noch 2047 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2049 Texturen sind noch 2049 mit KI gemacht.
 
 ## So machst du mit
 
 1. Such dir unten eine Textur aus und mal sie neu: PNG, so groß wie das Original (meist 16 × 16 Pixel), gleicher Dateiname.
 2. Probier sie im Spiel aus: Einstellungen → Credits → „Ressourcen-Ordner öffnen“, dort die Datei unter `texturen/<ordner>/` ersetzen. Das Spiel übernimmt geänderte Texturen sofort.
-3. Schick sie ein. Aus den Einsendungen werden die besten ausgewählt, und dann stimmt die Community ab, welche ins Spiel kommt.
+3. Schick sie auf der [Texturen-Seite](https://satis-server.tail58c9a6.ts.net/exogrid/texturen) ein (im Spiel: Einstellungen → Credits → „Texturen malen und abstimmen“). Aus den Einsendungen werden die besten ausgewählt, und dann stimmt die Community dort ab, welche ins Spiel kommt.
 4. Wer gewinnt, steht im Spiel unter Einstellungen → Credits.
 
 ## Regeln
@@ -813,7 +813,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1220)
+## Gegenstände (1222)
 
 | | Datei |
 |---|---|
@@ -821,6 +821,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/items/100er_schein_1254.png" class="textur" width="48" height="48" alt=""> | `items/100er_schein_1254.png` |
 | <img src="bilder/texturen/items/10er_schein_1253.png" class="textur" width="48" height="48" alt=""> | `items/10er_schein_1253.png` |
 | <img src="bilder/texturen/items/abbruchhammer_1264.png" class="textur" width="48" height="48" alt=""> | `items/abbruchhammer_1264.png` |
+| <img src="bilder/texturen/items/abgenutzter_raumanzug_1293.png" class="textur" width="48" height="48" alt=""> | `items/abgenutzter_raumanzug_1293.png` |
 | <img src="bilder/texturen/items/actinium_2089.png" class="textur" width="48" height="48" alt=""> | `items/actinium_2089.png` |
 | <img src="bilder/texturen/items/actiniumaxt_3713.png" class="textur" width="48" height="48" alt=""> | `items/actiniumaxt_3713.png` |
 | <img src="bilder/texturen/items/actiniumbeinschutz_3717.png" class="textur" width="48" height="48" alt=""> | `items/actiniumbeinschutz_3717.png` |
@@ -1324,6 +1325,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/items/kanthalschwert_5394.png" class="textur" width="48" height="48" alt=""> | `items/kanthalschwert_5394.png` |
 | <img src="bilder/texturen/items/kanthalspitzhacke_5392.png" class="textur" width="48" height="48" alt=""> | `items/kanthalspitzhacke_5392.png` |
 | <img src="bilder/texturen/items/kanthalstiefel_5398.png" class="textur" width="48" height="48" alt=""> | `items/kanthalstiefel_5398.png` |
+| <img src="bilder/texturen/items/kaputter_raumanzug_1294.png" class="textur" width="48" height="48" alt=""> | `items/kaputter_raumanzug_1294.png` |
 | <img src="bilder/texturen/items/karotte_1181.png" class="textur" width="48" height="48" alt=""> | `items/karotte_1181.png` |
 | <img src="bilder/texturen/items/kartoffel_1182.png" class="textur" width="48" height="48" alt=""> | `items/kartoffel_1182.png` |
 | <img src="bilder/texturen/items/keks_1196.png" class="textur" width="48" height="48" alt=""> | `items/keks_1196.png` |

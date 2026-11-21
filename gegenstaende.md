@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-734 Stück, sortiert wie im Inventar.
+736 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -72,7 +72,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (12)
+## Raumfahrt (14)
 
 | | Name |
 |---|---|
@@ -88,6 +88,8 @@
 | ![](bilder/gegenstaende/bauplan_motorboot.png) | [Bauplan: Motorboot](gegenstaende/bauplan_motorboot.md) |
 | ![](bilder/gegenstaende/bauplan_jaeger.png) | [Bauplan: Jäger](gegenstaende/bauplan_jaeger.md) |
 | ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
+| ![](bilder/gegenstaende/abgenutzter_raumanzug.png) | [Abgenutzter Raumanzug](gegenstaende/abgenutzter_raumanzug.md) |
+| ![](bilder/gegenstaende/kaputter_raumanzug.png) | [Kaputter Raumanzug](gegenstaende/kaputter_raumanzug.md) |
 
 ## Werkzeuge (71)
 
