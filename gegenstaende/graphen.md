@@ -10,5 +10,5 @@ Eine einzige Atomlage Kohlenstoff, 200-mal fester als Stahl. Entdeckt 2004 – m
 
 ## Verwendet für
 
-[Energiekristall](../gegenstaende/energiekristall.md)
+[Lagerimplantat](../gegenstaende/lagerimplantat.md), [Energiekristall](../gegenstaende/energiekristall.md)
 

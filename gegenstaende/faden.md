@@ -4,5 +4,5 @@
 
 ## Verwendet für
 
-[Weiße Wolle](../bloecke/weisse_wolle.md), [Spinnennetz](../bloecke/spinnennetz.md)
+[Stoffrucksack](../gegenstaende/stoffrucksack.md), [Weiße Wolle](../bloecke/weisse_wolle.md), [Spinnennetz](../bloecke/spinnennetz.md)
 

@@ -10,5 +10,5 @@ Nobelpreis 2019 – ohne sie gäbe es weder Handys noch E-Autos.
 
 ## Verwendet für
 
-[Akku](../gegenstaende/akku.md), [Energiekristall](../gegenstaende/energiekristall.md)
+[Lagerimplantat](../gegenstaende/lagerimplantat.md), [Akku](../gegenstaende/akku.md), [Energiekristall](../gegenstaende/energiekristall.md)
 

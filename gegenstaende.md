@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-739 Stück, sortiert wie im Inventar.
+747 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -29,7 +29,7 @@
 | ![](bilder/gegenstaende/teilchenbeschleuniger.png) | [Teilchenbeschleuniger](gegenstaende/teilchenbeschleuniger.md) |
 | ![](bilder/gegenstaende/materieverdichter.png) | [Materieverdichter](gegenstaende/materieverdichter.md) |
 
-## Strom (39)
+## Strom (40)
 
 | | Name |
 |---|---|
@@ -46,6 +46,7 @@
 | ![](bilder/gegenstaende/empfangsschuessel.png) | [Empfangsschüssel](gegenstaende/empfangsschuessel.md) |
 | ![](bilder/gegenstaende/flutlicht.png) | [Flutlicht](gegenstaende/flutlicht.md) |
 | ![](bilder/gegenstaende/lebenserhaltung.png) | [Lebenserhaltung](gegenstaende/lebenserhaltung.md) |
+| ![](bilder/gegenstaende/implantatstation.png) | [Implantatstation](gegenstaende/implantatstation.md) |
 | ![](bilder/gegenstaende/aluminiumkabel.png) | [Aluminiumkabel](gegenstaende/aluminiumkabel.md) |
 | ![](bilder/gegenstaende/antimonkabel.png) | [Antimonkabel](gegenstaende/antimonkabel.md) |
 | ![](bilder/gegenstaende/berylliumkabel.png) | [Berylliumkabel](gegenstaende/berylliumkabel.md) |
@@ -640,7 +641,7 @@
 | ![](bilder/gegenstaende/kanthalbeinschutz.png) | [Kanthalbeinschutz](gegenstaende/kanthalbeinschutz.md) |
 | ![](bilder/gegenstaende/kanthalstiefel.png) | [Kanthalstiefel](gegenstaende/kanthalstiefel.md) |
 
-## Zutaten (91)
+## Zutaten (98)
 
 | | Name |
 |---|---|
@@ -735,6 +736,13 @@
 | ![](bilder/gegenstaende/10er_schein.png) | [10er-Schein](gegenstaende/10er_schein.md) |
 | ![](bilder/gegenstaende/100er_schein.png) | [100er-Schein](gegenstaende/100er_schein.md) |
 | ![](bilder/gegenstaende/1000er_schein.png) | [1000er-Schein](gegenstaende/1000er_schein.md) |
+| ![](bilder/gegenstaende/stoffrucksack.png) | [Stoffrucksack](gegenstaende/stoffrucksack.md) |
+| ![](bilder/gegenstaende/verstaerkter_rucksack.png) | [Verstärkter Rucksack](gegenstaende/verstaerkter_rucksack.md) |
+| ![](bilder/gegenstaende/hightech_rucksack.png) | [Hightech-Rucksack](gegenstaende/hightech_rucksack.md) |
+| ![](bilder/gegenstaende/lagermodul.png) | [Lagermodul](gegenstaende/lagermodul.md) |
+| ![](bilder/gegenstaende/stapelmodul.png) | [Stapelmodul](gegenstaende/stapelmodul.md) |
+| ![](bilder/gegenstaende/lagerimplantat.png) | [Lagerimplantat](gegenstaende/lagerimplantat.md) |
+| ![](bilder/gegenstaende/stapelimplantat.png) | [Stapelimplantat](gegenstaende/stapelimplantat.md) |
 
 ## Chemie (35)
 

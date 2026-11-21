@@ -32,10 +32,10 @@ Erst wird die Rüstung voll, dann die Akkus. **Jetpack**: Nano- und Quantenharni
 
 | Schwierigkeit | Schaden | Erholung        | Beim Tod (Vorschlag)   |
 | ------------- | ------- | --------------- | ---------------------- |
-| Leicht        | halb    | ½ Herz alle 2 s | Alles behalten         |
-| Normal        | normal  | ½ Herz alle 4 s | Kiste am Todesort      |
-| Schwer        | 1,5×    | ½ Herz alle 8 s | Nur Werkzeuge behalten |
-| Hardcore      | 1,5×    | ½ Herz alle 8 s | Alles weg (fest)       |
+| Leicht        | halb    | 5 LP alle 2 s   | Alles behalten         |
+| Normal        | normal  | 5 LP alle 4 s   | Kiste am Todesort      |
+| Schwer        | 1,5×    | 5 LP alle 8 s   | Nur Werkzeuge behalten |
+| Hardcore      | 1,5×    | 5 LP alle 8 s   | Alles weg (fest)       |
 
 "Kiste am Todesort": Alles, was man dabei hatte, liegt in einer Kiste (bei viel Zeug in zweien) dort, wo man gestorben ist. Ist dort kein Platz, behält man es. Wer tot das Spiel verlässt, bekommt beim nächsten Mal wieder den Knopf "Wiederbeleben". Welten von vorher sind "Normal" mit Kiste.
 

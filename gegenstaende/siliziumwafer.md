@@ -10,5 +10,5 @@
 
 ## Verwendet für
 
-[Solarmodul](../gegenstaende/solarmodul.md)
+[Lagerimplantat](../gegenstaende/lagerimplantat.md), [Stapelimplantat](../gegenstaende/stapelimplantat.md), [Implantatstation](../gegenstaende/implantatstation.md), [Solarmodul](../gegenstaende/solarmodul.md)
 

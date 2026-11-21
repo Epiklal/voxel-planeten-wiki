@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Frachthafen](../bloecke/frachthafen.md)
+[Frachthafen](../bloecke/frachthafen.md), [Lagermodul](../gegenstaende/lagermodul.md)
 

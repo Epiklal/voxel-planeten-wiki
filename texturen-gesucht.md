@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2093 Texturen sind noch 2093 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2117 Texturen sind noch 2117 mit KI gemacht.
 
 ## So machst du mit
 
@@ -33,7 +33,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/gui/platz.png" style="width:54px;height:54px" alt=""> | `gui/platz.png` | Platz im Inventar und in der Schnellleiste | 18 × 18 | 2 | – |
 | <img src="bilder/texturen/gui/platz_auswahl.png" style="width:60px;height:60px" alt=""> | `gui/platz_auswahl.png` | Gewählter Platz der Schnellleiste | 20 × 20 | 3 | – |
 
-## Blöcke (834)
+## Blöcke (850)
 
 | | Datei |
 |---|---|
@@ -54,6 +54,22 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/akazienstamm_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/akazienstamm_oben.png` |
 | <img src="bilder/texturen/bloecke/akazienstamm_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/akazienstamm_seite.png` |
 | <img src="bilder/texturen/bloecke/akazienstamm_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/akazienstamm_unten.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_1.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_10.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_10.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_11.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_11.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_12.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_12.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_13.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_13.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_14.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_14.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_15.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_15.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_2.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_2.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_3.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_3.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_4.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_4.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_5.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_5.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_6.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_6.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_7.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_7.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_8.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_8.png` |
+| <img src="bilder/texturen/bloecke/altes_bodenkabel_stufe_9.png" class="textur" width="48" height="48" alt=""> | `bloecke/altes_bodenkabel_stufe_9.png` |
 | <img src="bilder/texturen/bloecke/aluminiumblock_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/aluminiumblock_oben.png` |
 | <img src="bilder/texturen/bloecke/aluminiumblock_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/aluminiumblock_seite.png` |
 | <img src="bilder/texturen/bloecke/aluminiumblock_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/aluminiumblock_unten.png` |
@@ -872,7 +888,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1225)
+## Gegenstände (1233)
 
 | | Datei |
 |---|---|
@@ -1317,6 +1333,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/hellblauer_farbstoff_1166.png" class="textur" width="48" height="48" alt=""> | `items/hellblauer_farbstoff_1166.png` |
 | <img src="bilder/texturen/items/hellgrauer_farbstoff_1171.png" class="textur" width="48" height="48" alt=""> | `items/hellgrauer_farbstoff_1171.png` |
 | <img src="bilder/texturen/items/hellgruener_farbstoff_1168.png" class="textur" width="48" height="48" alt=""> | `items/hellgruener_farbstoff_1168.png` |
+| <img src="bilder/texturen/items/hightech_rucksack_1300.png" class="textur" width="48" height="48" alt=""> | `items/hightech_rucksack_1300.png` |
 | <img src="bilder/texturen/items/hochspannungsmast_1039.png" class="textur" width="48" height="48" alt=""> | `items/hochspannungsmast_1039.png` |
 | <img src="bilder/texturen/items/hohlspitzpatronen_1239.png" class="textur" width="48" height="48" alt=""> | `items/hohlspitzpatronen_1239.png` |
 | <img src="bilder/texturen/items/holmium_2067.png" class="textur" width="48" height="48" alt=""> | `items/holmium_2067.png` |
@@ -1328,6 +1345,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/holmiumspitzhacke_3536.png" class="textur" width="48" height="48" alt=""> | `items/holmiumspitzhacke_3536.png` |
 | <img src="bilder/texturen/items/holmiumstiefel_3542.png" class="textur" width="48" height="48" alt=""> | `items/holmiumstiefel_3542.png` |
 | <img src="bilder/texturen/items/hydrazin_1143.png" class="textur" width="48" height="48" alt=""> | `items/hydrazin_1143.png` |
+| <img src="bilder/texturen/items/implantatstation_1305.png" class="textur" width="48" height="48" alt=""> | `items/implantatstation_1305.png` |
 | <img src="bilder/texturen/items/inconel_2213.png" class="textur" width="48" height="48" alt=""> | `items/inconel_2213.png` |
 | <img src="bilder/texturen/items/inconelaxt_4305.png" class="textur" width="48" height="48" alt=""> | `items/inconelaxt_4305.png` |
 | <img src="bilder/texturen/items/inconelbeinschutz_4309.png" class="textur" width="48" height="48" alt=""> | `items/inconelbeinschutz_4309.png` |
@@ -1424,6 +1442,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/kupferspitzhacke_3232.png" class="textur" width="48" height="48" alt=""> | `items/kupferspitzhacke_3232.png` |
 | <img src="bilder/texturen/items/kupferstiefel_3238.png" class="textur" width="48" height="48" alt=""> | `items/kupferstiefel_3238.png` |
 | <img src="bilder/texturen/items/ladestation_1083.png" class="textur" width="48" height="48" alt=""> | `items/ladestation_1083.png` |
+| <img src="bilder/texturen/items/lagerimplantat_1303.png" class="textur" width="48" height="48" alt=""> | `items/lagerimplantat_1303.png` |
+| <img src="bilder/texturen/items/lagermodul_1301.png" class="textur" width="48" height="48" alt=""> | `items/lagermodul_1301.png` |
 | <img src="bilder/texturen/items/langer_lauf_1247.png" class="textur" width="48" height="48" alt=""> | `items/langer_lauf_1247.png` |
 | <img src="bilder/texturen/items/lanthan_2057.png" class="textur" width="48" height="48" alt=""> | `items/lanthan_2057.png` |
 | <img src="bilder/texturen/items/lanthanaxt_3457.png" class="textur" width="48" height="48" alt=""> | `items/lanthanaxt_3457.png` |
@@ -1868,6 +1888,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/stahlschwert_4202.png" class="textur" width="48" height="48" alt=""> | `items/stahlschwert_4202.png` |
 | <img src="bilder/texturen/items/stahlspitzhacke_4200.png" class="textur" width="48" height="48" alt=""> | `items/stahlspitzhacke_4200.png` |
 | <img src="bilder/texturen/items/stahlstiefel_4206.png" class="textur" width="48" height="48" alt=""> | `items/stahlstiefel_4206.png` |
+| <img src="bilder/texturen/items/stapelimplantat_1304.png" class="textur" width="48" height="48" alt=""> | `items/stapelimplantat_1304.png` |
+| <img src="bilder/texturen/items/stapelmodul_1302.png" class="textur" width="48" height="48" alt=""> | `items/stapelmodul_1302.png` |
 | <img src="bilder/texturen/items/steak_1204.png" class="textur" width="48" height="48" alt=""> | `items/steak_1204.png` |
 | <img src="bilder/texturen/items/steinaxt_1012.png" class="textur" width="48" height="48" alt=""> | `items/steinaxt_1012.png` |
 | <img src="bilder/texturen/items/steinhacke_1201.png" class="textur" width="48" height="48" alt=""> | `items/steinhacke_1201.png` |
@@ -1891,6 +1913,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/sterlingsilberstiefel_4414.png" class="textur" width="48" height="48" alt=""> | `items/sterlingsilberstiefel_4414.png` |
 | <img src="bilder/texturen/items/stickstoff_2007.png" class="textur" width="48" height="48" alt=""> | `items/stickstoff_2007.png` |
 | <img src="bilder/texturen/items/stock_1158.png" class="textur" width="48" height="48" alt=""> | `items/stock_1158.png` |
+| <img src="bilder/texturen/items/stoffrucksack_1298.png" class="textur" width="48" height="48" alt=""> | `items/stoffrucksack_1298.png` |
 | <img src="bilder/texturen/items/strommast_1020.png" class="textur" width="48" height="48" alt=""> | `items/strommast_1020.png` |
 | <img src="bilder/texturen/items/strontium_2038.png" class="textur" width="48" height="48" alt=""> | `items/strontium_2038.png` |
 | <img src="bilder/texturen/items/strontiumaxt_3305.png" class="textur" width="48" height="48" alt=""> | `items/strontiumaxt_3305.png` |
@@ -2003,6 +2026,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/vanadiumstiefel_3190.png" class="textur" width="48" height="48" alt=""> | `items/vanadiumstiefel_3190.png` |
 | <img src="bilder/texturen/items/verrottetes_fleisch_1214.png" class="textur" width="48" height="48" alt=""> | `items/verrottetes_fleisch_1214.png` |
 | <img src="bilder/texturen/items/verstaerkte_eisenplatte_1027.png" class="textur" width="48" height="48" alt=""> | `items/verstaerkte_eisenplatte_1027.png` |
+| <img src="bilder/texturen/items/verstaerkter_rucksack_1299.png" class="textur" width="48" height="48" alt=""> | `items/verstaerkter_rucksack_1299.png` |
 | <img src="bilder/texturen/items/verteiler_1018.png" class="textur" width="48" height="48" alt=""> | `items/verteiler_1018.png` |
 | <img src="bilder/texturen/items/violetter_farbstoff_1173.png" class="textur" width="48" height="48" alt=""> | `items/violetter_farbstoff_1173.png` |
 | <img src="bilder/texturen/items/wasserpumpe_1036.png" class="textur" width="48" height="48" alt=""> | `items/wasserpumpe_1036.png` |

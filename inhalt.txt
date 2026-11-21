@@ -619,6 +619,14 @@ gegenstaende/kaputter_raumanzug.md	Kaputter Raumanzug	Gegenstand
 gegenstaende/lebenserhaltung.md	Lebenserhaltung	Gegenstand
 gegenstaende/leere_trinkflasche.md	Leere Trinkflasche	Gegenstand
 gegenstaende/trinkflasche.md	Trinkflasche	Gegenstand
+gegenstaende/stoffrucksack.md	Stoffrucksack	Gegenstand
+gegenstaende/verstaerkter_rucksack.md	Verstärkter Rucksack	Gegenstand
+gegenstaende/hightech_rucksack.md	Hightech-Rucksack	Gegenstand
+gegenstaende/lagermodul.md	Lagermodul	Gegenstand
+gegenstaende/stapelmodul.md	Stapelmodul	Gegenstand
+gegenstaende/lagerimplantat.md	Lagerimplantat	Gegenstand
+gegenstaende/stapelimplantat.md	Stapelimplantat	Gegenstand
+gegenstaende/implantatstation.md	Implantatstation	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

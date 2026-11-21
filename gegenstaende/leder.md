@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Sitz](../bloecke/sitz.md), [Buch](../gegenstaende/buch.md)
+[Sitz](../bloecke/sitz.md), [Stoffrucksack](../gegenstaende/stoffrucksack.md), [Buch](../gegenstaende/buch.md)
 
