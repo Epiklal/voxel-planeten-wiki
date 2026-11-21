@@ -1,0 +1,9 @@
+# Tropenbaumast
+
+![Tropenbaumast](../bilder/bloecke/tropenbaumast.png)
+
+| Eigenschaft | Wert |
+|---|---|
+| Art | fest, eigene Form |
+| Abbauen | 1,5 s mit der Hand, schneller mit Axt |
+

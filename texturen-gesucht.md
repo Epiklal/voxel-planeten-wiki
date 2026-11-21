@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2063 Texturen sind noch 2063 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2064 Texturen sind noch 2064 mit KI gemacht.
 
 ## So machst du mit
 
@@ -15,7 +15,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 - Mit dem Einschicken erlaubst du, dass die Textur im Spiel verwendet wird, auch in der kostenpflichtigen Version, und dass sie unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) weitergegeben werden darf. Dein Name wird dabei immer genannt.
 - Pixel-Look wie der Rest: klare Pixel, kein Weichzeichnen.
 
-## Blöcke (806)
+## Blöcke (807)
 
 | | Datei |
 |---|---|
@@ -315,6 +315,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/gruenes_bett.png" class="textur" width="48" height="48" alt=""> | `bloecke/gruenes_bett.png` |
 | <img src="bilder/texturen/bloecke/gruenes_glas.png" class="textur" width="48" height="48" alt=""> | `bloecke/gruenes_glas.png` |
 | <img src="bilder/texturen/bloecke/grundgestein.png" class="textur" width="48" height="48" alt=""> | `bloecke/grundgestein.png` |
+| <img src="bilder/texturen/bloecke/gummidichtung.png" class="textur" width="48" height="48" alt=""> | `bloecke/gummidichtung.png` |
 | <img src="bilder/texturen/bloecke/haematit.png" class="textur" width="48" height="48" alt=""> | `bloecke/haematit.png` |
 | <img src="bilder/texturen/bloecke/haengende_wurzeln.png" class="textur" width="48" height="48" alt=""> | `bloecke/haengende_wurzeln.png` |
 | <img src="bilder/texturen/bloecke/handelsterminal.png" class="textur" width="48" height="48" alt=""> | `bloecke/handelsterminal.png` |

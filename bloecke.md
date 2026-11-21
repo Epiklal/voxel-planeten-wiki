@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-744 Stück, sortiert wie im Inventar.
+761 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (248)
+## Natur (264)
 
 | | Name |
 |---|---|
@@ -589,6 +589,22 @@
 | ![](bilder/bloecke/scharnier_22.png) | [Scharnier](bloecke/scharnier_22.md) |
 | ![](bilder/bloecke/scharnier_23.png) | [Scharnier](bloecke/scharnier_23.md) |
 | ![](bilder/bloecke/scharnier_24.png) | [Scharnier](bloecke/scharnier_24.md) |
+| ![](bilder/bloecke/eichenast.png) | [Eichenast](bloecke/eichenast.md) |
+| ![](bilder/bloecke/eichenzweig.png) | [Eichenzweig](bloecke/eichenzweig.md) |
+| ![](bilder/bloecke/birkenast.png) | [Birkenast](bloecke/birkenast.md) |
+| ![](bilder/bloecke/birkenzweig.png) | [Birkenzweig](bloecke/birkenzweig.md) |
+| ![](bilder/bloecke/fichtenast.png) | [Fichtenast](bloecke/fichtenast.md) |
+| ![](bilder/bloecke/fichtenzweig.png) | [Fichtenzweig](bloecke/fichtenzweig.md) |
+| ![](bilder/bloecke/tropenbaumast.png) | [Tropenbaumast](bloecke/tropenbaumast.md) |
+| ![](bilder/bloecke/tropenbaumzweig.png) | [Tropenbaumzweig](bloecke/tropenbaumzweig.md) |
+| ![](bilder/bloecke/akazienast.png) | [Akazienast](bloecke/akazienast.md) |
+| ![](bilder/bloecke/akazienzweig.png) | [Akazienzweig](bloecke/akazienzweig.md) |
+| ![](bilder/bloecke/schwarzeichenast.png) | [Schwarzeichenast](bloecke/schwarzeichenast.md) |
+| ![](bilder/bloecke/schwarzeichenzweig.png) | [Schwarzeichenzweig](bloecke/schwarzeichenzweig.md) |
+| ![](bilder/bloecke/kirschast.png) | [Kirschast](bloecke/kirschast.md) |
+| ![](bilder/bloecke/kirschzweig.png) | [Kirschzweig](bloecke/kirschzweig.md) |
+| ![](bilder/bloecke/mangrovenast.png) | [Mangrovenast](bloecke/mangrovenast.md) |
+| ![](bilder/bloecke/mangrovenzweig.png) | [Mangrovenzweig](bloecke/mangrovenzweig.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |
@@ -673,7 +689,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (83)
+## Raumfahrt (84)
 
 | | Name |
 |---|---|
@@ -760,4 +776,5 @@
 | ![](bilder/bloecke/steuerpult.png) | [Steuerpult](bloecke/steuerpult.md) |
 | ![](bilder/bloecke/hubzylinder.png) | [Hubzylinder](bloecke/hubzylinder.md) |
 | ![](bilder/bloecke/scharnier.png) | [Scharnier](bloecke/scharnier.md) |
+| ![](bilder/bloecke/gummidichtung.png) | [Gummidichtung](bloecke/gummidichtung.md) |
 

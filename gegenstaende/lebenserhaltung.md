@@ -8,6 +8,8 @@
 | Reicht für | 2000 m³, größere Räume brauchen mehrere |
 | Braucht | 50 kW am Stromnetz |
 |  | Nur, wo draußen keine Atemluft ist (Mond, Mars, Weltall) |
+|  | Dicht halten Gestein, Metall, Glas, Beton und Eisentüren |
+|  | Holz, Erde, Sand, Regolith, Wolle und Holztüren lassen Luft durch |
 
 ## Herstellen
 
