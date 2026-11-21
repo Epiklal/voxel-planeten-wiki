@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2117 Texturen sind noch 2117 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2101 Texturen sind noch 2101 mit KI gemacht.
 
 ## So machst du mit
 
@@ -33,7 +33,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/gui/platz.png" style="width:54px;height:54px" alt=""> | `gui/platz.png` | Platz im Inventar und in der Schnellleiste | 18 × 18 | 2 | – |
 | <img src="bilder/texturen/gui/platz_auswahl.png" style="width:60px;height:60px" alt=""> | `gui/platz_auswahl.png` | Gewählter Platz der Schnellleiste | 20 × 20 | 3 | – |
 
-## Blöcke (850)
+## Blöcke (834)
 
 | | Datei |
 |---|---|
@@ -165,22 +165,6 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/chromkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/chromkabel.png` |
 | <img src="bilder/texturen/bloecke/coelestin.png" class="textur" width="48" height="48" alt=""> | `bloecke/coelestin.png` |
 | <img src="bilder/texturen/bloecke/coltan.png" class="textur" width="48" height="48" alt=""> | `bloecke/coltan.png` |
-| <img src="bilder/texturen/bloecke/datenkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_1.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_10.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_10.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_11.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_11.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_12.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_12.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_13.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_13.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_14.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_14.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_15.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_15.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_2.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_2.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_3.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_3.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_4.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_4.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_5.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_5.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_6.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_6.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_7.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_7.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_8.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_8.png` |
-| <img src="bilder/texturen/bloecke/datenkabel_stufe_9.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_9.png` |
 | <img src="bilder/texturen/bloecke/diamantblock.png" class="textur" width="48" height="48" alt=""> | `bloecke/diamantblock.png` |
 | <img src="bilder/texturen/bloecke/diamanterz.png" class="textur" width="48" height="48" alt=""> | `bloecke/diamanterz.png` |
 | <img src="bilder/texturen/bloecke/diorit.png" class="textur" width="48" height="48" alt=""> | `bloecke/diorit.png` |
