@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2071 Texturen sind noch 2071 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2073 Texturen sind noch 2073 mit KI gemacht.
 
 ## So machst du mit
 
@@ -834,7 +834,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1223)
+## Gegenstände (1225)
 
 | | Datei |
 |---|---|
@@ -1400,6 +1400,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/items/lawrencium_2103.png" class="textur" width="48" height="48" alt=""> | `items/lawrencium_2103.png` |
 | <img src="bilder/texturen/items/lebenserhaltung_1295.png" class="textur" width="48" height="48" alt=""> | `items/lebenserhaltung_1295.png` |
 | <img src="bilder/texturen/items/leder_1211.png" class="textur" width="48" height="48" alt=""> | `items/leder_1211.png` |
+| <img src="bilder/texturen/items/leere_trinkflasche_1296.png" class="textur" width="48" height="48" alt=""> | `items/leere_trinkflasche_1296.png` |
 | <img src="bilder/texturen/items/lenkrakete_1231.png" class="textur" width="48" height="48" alt=""> | `items/lenkrakete_1231.png` |
 | <img src="bilder/texturen/items/lieferdrohne_1256.png" class="textur" width="48" height="48" alt=""> | `items/lieferdrohne_1256.png` |
 | <img src="bilder/texturen/items/lithium_2003.png" class="textur" width="48" height="48" alt=""> | `items/lithium_2003.png` |
@@ -1940,6 +1941,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/items/transformator_v3_6813.png" class="textur" width="48" height="48" alt=""> | `items/transformator_v3_6813.png` |
 | <img src="bilder/texturen/items/transformator_v4_6814.png" class="textur" width="48" height="48" alt=""> | `items/transformator_v4_6814.png` |
 | <img src="bilder/texturen/items/trennanlage_1123.png" class="textur" width="48" height="48" alt=""> | `items/trennanlage_1123.png` |
+| <img src="bilder/texturen/items/trinkflasche_1297.png" class="textur" width="48" height="48" alt=""> | `items/trinkflasche_1297.png` |
 | <img src="bilder/texturen/items/trommelmagazin_1249.png" class="textur" width="48" height="48" alt=""> | `items/trommelmagazin_1249.png` |
 | <img src="bilder/texturen/items/tuerkiser_farbstoff_1172.png" class="textur" width="48" height="48" alt=""> | `items/tuerkiser_farbstoff_1172.png` |
 | <img src="bilder/texturen/items/uran_2092.png" class="textur" width="48" height="48" alt=""> | `items/uran_2092.png` |

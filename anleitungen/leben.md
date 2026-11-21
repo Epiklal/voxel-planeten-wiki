@@ -1,9 +1,9 @@
 # Leben, Schaden und Teams
 
-**Lebenspunkte** (beim Überleben und im Abenteuer): 10 Herzen über der Schnellleiste. Wer eine Weile nichts abbekommt, erholt sich. Schaden gibt es durch:
+**Lebenspunkte** (beim Überleben und im Abenteuer): Über der Schnellleiste stehen die Vitalwerte als Balken mit Zahl – links Lebenspunkte (rot), Rüstung (grau) und der Akku der Tech-Rüstung, rechts Nahrung (orange), Wasser (blau) und unter Wasser oder ohne Atemluft die Luft. Fast leer wird der Balken rot umrandet. Wer eine Weile nichts abbekommt, erholt sich. Schaden gibt es durch:
 
 - **Fallen**: ein Lebenspunkt je Block über 3, den man auf der Erde fallen müsste, um so schnell aufzuschlagen. Es zählt die Aufprallgeschwindigkeit wie in echt – auf dem Mond (wenig Schwerkraft) fällt man viel weiter ohne Schaden. Ins Wasser fallen tut nicht weh.
-- **Keine Luft**: Unter Wasser hält man 15 Sekunden die Luft an (blaue Blasen rechts über der Schnellleiste), danach ertrinkt man langsam. Atemluft gibt es nur auf der Erde und nur bis 8 km Höhe – im Weltall und auf allen anderen Himmelskörpern braucht man einen **Raumanzug**, sonst erstickt man nach 15 Sekunden (schneller als beim Ertrinken). Der Anzug ist luftdicht, schützt also auch unter Wasser. Angezogen wird er im Inventar: auf den Platz "A" rechts oben legen oder mit Shift anklicken – er kommt über die Rüstung (siehe unten).
+- **Keine Luft**: Unter Wasser hält man 15 Sekunden die Luft an (Luftbalken rechts über der Schnellleiste), danach ertrinkt man langsam. Atemluft gibt es nur auf der Erde und nur bis 8 km Höhe – im Weltall und auf allen anderen Himmelskörpern braucht man einen **Raumanzug**, sonst erstickt man nach 15 Sekunden (schneller als beim Ertrinken). Der Anzug ist luftdicht, schützt also auch unter Wasser. Angezogen wird er im Inventar: auf den Platz "A" rechts oben legen oder mit Shift anklicken – er kommt über die Rüstung (siehe unten).
 - **Ersticken im Block** (Kopf in einem festen Block) und **Kakteen** (anfassen).
 - **Stromschläge** (blanke Kabel unter Spannung, siehe Strom).
 - **Schläge** anderer Spieler (Linksklick auf sie): Faust 1, Spitzhacke 2–4, Axt 3–6, **Schwert** 4–7 Lebenspunkte (Stein, Eisen, Titan), der Getroffene fliegt ein Stück zurück. Nur in **PvP-Welten** (beim Anlegen wählbar, später `/pvp an|aus`; alte Welten haben PvP an).

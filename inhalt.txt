@@ -617,6 +617,8 @@ gegenstaende/erzscanner.md	Erzscanner	Gegenstand
 gegenstaende/abgenutzter_raumanzug.md	Abgenutzter Raumanzug	Gegenstand
 gegenstaende/kaputter_raumanzug.md	Kaputter Raumanzug	Gegenstand
 gegenstaende/lebenserhaltung.md	Lebenserhaltung	Gegenstand
+gegenstaende/leere_trinkflasche.md	Leere Trinkflasche	Gegenstand
+gegenstaende/trinkflasche.md	Trinkflasche	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
