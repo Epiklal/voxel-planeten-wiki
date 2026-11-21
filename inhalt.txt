@@ -326,6 +326,12 @@ bloecke/mangrovenast.md	Mangrovenast	Block
 bloecke/mangrovenzweig.md	Mangrovenzweig	Block
 bloecke/gummidichtung.md	Gummidichtung	Block
 bloecke/federbein.md	Federbein	Block
+bloecke/datenkabel.md	Datenkabel	Block
+bloecke/schalter.md	Schalter	Block
+bloecke/schalter_2.md	Schalter	Block
+bloecke/taster.md	Taster	Block
+bloecke/taster_2.md	Taster	Block
+bloecke/ablaufsteuerung.md	Ablaufsteuerung	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

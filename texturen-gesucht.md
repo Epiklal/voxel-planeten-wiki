@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2064 Texturen sind noch 2064 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2071 Texturen sind noch 2071 mit KI gemacht.
 
 ## So machst du mit
 
@@ -15,10 +15,13 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 - Mit dem Einschicken erlaubst du, dass die Textur im Spiel verwendet wird, auch in der kostenpflichtigen Version, und dass sie unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) weitergegeben werden darf. Dein Name wird dabei immer genannt.
 - Pixel-Look wie der Rest: klare Pixel, kein Weichzeichnen.
 
-## Blöcke (807)
+## Blöcke (814)
 
 | | Datei |
 |---|---|
+| <img src="bilder/texturen/bloecke/ablaufsteuerung_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/ablaufsteuerung_oben.png` |
+| <img src="bilder/texturen/bloecke/ablaufsteuerung_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/ablaufsteuerung_seite.png` |
+| <img src="bilder/texturen/bloecke/ablaufsteuerung_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/ablaufsteuerung_unten.png` |
 | <img src="bilder/texturen/bloecke/ackerboden_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/ackerboden_oben.png` |
 | <img src="bilder/texturen/bloecke/ackerboden_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/ackerboden_seite.png` |
 | <img src="bilder/texturen/bloecke/ackerboden_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/ackerboden_unten.png` |
@@ -616,6 +619,8 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/sandstein_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/sandstein_seite.png` |
 | <img src="bilder/texturen/bloecke/sandstein_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/sandstein_unten.png` |
 | <img src="bilder/texturen/bloecke/schafgarbe.png" class="textur" width="48" height="48" alt=""> | `bloecke/schafgarbe.png` |
+| <img src="bilder/texturen/bloecke/schalter.png" class="textur" width="48" height="48" alt=""> | `bloecke/schalter.png` |
+| <img src="bilder/texturen/bloecke/schalter_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/schalter_stufe_1.png` |
 | <img src="bilder/texturen/bloecke/scharnier_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_oben.png` |
 | <img src="bilder/texturen/bloecke/scharnier_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_seite.png` |
 | <img src="bilder/texturen/bloecke/scharnier_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/scharnier_unten.png` |
@@ -723,6 +728,8 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/tageslichtsensor_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/tageslichtsensor_oben.png` |
 | <img src="bilder/texturen/bloecke/tageslichtsensor_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/tageslichtsensor_seite.png` |
 | <img src="bilder/texturen/bloecke/tageslichtsensor_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/tageslichtsensor_unten.png` |
+| <img src="bilder/texturen/bloecke/taster.png" class="textur" width="48" height="48" alt=""> | `bloecke/taster.png` |
+| <img src="bilder/texturen/bloecke/taster_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/taster_stufe_1.png` |
 | <img src="bilder/texturen/bloecke/tholin.png" class="textur" width="48" height="48" alt=""> | `bloecke/tholin.png` |
 | <img src="bilder/texturen/bloecke/titanblock_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/titanblock_oben.png` |
 | <img src="bilder/texturen/bloecke/titanblock_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/titanblock_seite.png` |

@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-762 Stück, sortiert wie im Inventar.
+768 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (413)
 
@@ -420,7 +420,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (264)
+## Natur (266)
 
 | | Name |
 |---|---|
@@ -605,6 +605,8 @@
 | ![](bilder/bloecke/kirschzweig.png) | [Kirschzweig](bloecke/kirschzweig.md) |
 | ![](bilder/bloecke/mangrovenast.png) | [Mangrovenast](bloecke/mangrovenast.md) |
 | ![](bilder/bloecke/mangrovenzweig.png) | [Mangrovenzweig](bloecke/mangrovenzweig.md) |
+| ![](bilder/bloecke/schalter_2.png) | [Schalter](bloecke/schalter_2.md) |
+| ![](bilder/bloecke/taster_2.png) | [Taster](bloecke/taster_2.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |
@@ -689,7 +691,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (85)
+## Raumfahrt (89)
 
 | | Name |
 |---|---|
@@ -778,4 +780,8 @@
 | ![](bilder/bloecke/scharnier.png) | [Scharnier](bloecke/scharnier.md) |
 | ![](bilder/bloecke/gummidichtung.png) | [Gummidichtung](bloecke/gummidichtung.md) |
 | ![](bilder/bloecke/federbein.png) | [Federbein](bloecke/federbein.md) |
+| ![](bilder/bloecke/datenkabel.png) | [Datenkabel](bloecke/datenkabel.md) |
+| ![](bilder/bloecke/schalter.png) | [Schalter](bloecke/schalter.md) |
+| ![](bilder/bloecke/taster.png) | [Taster](bloecke/taster.md) |
+| ![](bilder/bloecke/ablaufsteuerung.png) | [Ablaufsteuerung](bloecke/ablaufsteuerung.md) |
 
