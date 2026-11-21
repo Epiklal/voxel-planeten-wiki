@@ -9,5 +9,5 @@
 
 ## Herstellen
 
-- 6 × [Bruchstein](../bloecke/bruchstein.md) + 2 × [Signalstaub](../bloecke/signalstaub.md) + 1 × [Quarzkristall](../gegenstaende/quarzkristall.md) → 1 × [Beobachter](../bloecke/beobachter.md) (Werkbank, 2 s)
+- 6 × [Bruchstein](../bloecke/bruchstein.md) + 2 × [Datenkabel](../bloecke/datenkabel.md) + 1 × [Quarzkristall](../gegenstaende/quarzkristall.md) → 1 × [Beobachter](../bloecke/beobachter.md) (Werkbank, 2 s)
 

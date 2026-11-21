@@ -1,6 +1,6 @@
-# Gneis-Signalerz
+# Gneis-Kupferkies
 
-![Gneis-Signalerz](../bilder/bloecke/gneis_signalerz.png)
+![Gneis-Kupferkies](../bilder/bloecke/gneis_kupferkies.png)
 
 | Eigenschaft | Wert |
 |---|---|

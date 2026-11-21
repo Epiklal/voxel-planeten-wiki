@@ -9,5 +9,5 @@
 
 ## Herstellen
 
-- 4 × [Signalstaub](../bloecke/signalstaub.md) + 1 × [Fackel](../bloecke/fackel.md) → 1 × [Signallampe](../bloecke/signallampe.md) (Werkbank, 1,5 s)
+- 4 × [Datenkabel](../bloecke/datenkabel.md) + 1 × [Fackel](../bloecke/fackel.md) → 1 × [Signallampe](../bloecke/signallampe.md) (Werkbank, 1,5 s)
 

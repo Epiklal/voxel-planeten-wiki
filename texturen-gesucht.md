@@ -1,10 +1,10 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2073 Texturen sind noch 2073 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2093 Texturen sind noch 2093 mit KI gemacht.
 
 ## So machst du mit
 
-1. Such dir unten eine Textur aus und mal sie neu: PNG, so groß wie das Original (meist 16 × 16 Pixel), gleicher Dateiname.
+1. Such dir unten eine Textur aus und mal sie neu: PNG, so groß wie das Original (meist 16 × 16 Pixel), gleicher Dateiname. Auch die Oberfläche (Fenster, Knöpfe, Felder, Regler, Inventarplätze) kannst du malen, siehe [Oberfläche](#oberfläche-gui).
 2. Probier sie im Spiel aus: Einstellungen → Credits → „Ressourcen-Ordner öffnen“, dort die Datei unter `texturen/<ordner>/` ersetzen. Das Spiel übernimmt geänderte Texturen sofort.
 3. Schick sie auf der [Texturen-Seite](https://satis-server.tail58c9a6.ts.net/exogrid/texturen) ein (im Spiel: Einstellungen → Credits → „Texturen malen und abstimmen“). Aus den Einsendungen werden die besten ausgewählt, und dann stimmt die Community dort ab, welche ins Spiel kommt.
 4. Wer gewinnt, steht im Spiel unter Einstellungen → Credits.
@@ -15,7 +15,25 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 - Mit dem Einschicken erlaubst du, dass die Textur im Spiel verwendet wird, auch in der kostenpflichtigen Version, und dass sie unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) weitergegeben werden darf. Dein Name wird dabei immer genannt.
 - Pixel-Look wie der Rest: klare Pixel, kein Weichzeichnen.
 
-## Blöcke (814)
+## Oberfläche (GUI)
+
+Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das Spiel im Code. Liegt ein Bild unter `texturen/gui/<datei>`, nimmt es stattdessen das Bild. Das Bild wird gestreckt wie ein 9-Slice: Die Ecken (so viele Pixel wie „Rand“) bleiben, wie sie sind, die Kanten und die Mitte werden auf die nötige Größe gezogen. Ein Bildpixel ist ein Pixel der Oberfläche. Durchsichtige Pixel bleiben durchsichtig. Die Bilder unten zeigen, wie es ohne eigenes Bild aussieht.
+
+| | Datei | Wofür | Größe | Rand | Von |
+|---|---|---|---|---|---|
+| <img src="bilder/texturen/gui/fenster.png" style="width:96px;height:96px" alt=""> | `gui/fenster.png` | Fenster und Tafeln der Menüs | 32 × 32 | 4 | – |
+| <img src="bilder/texturen/gui/knopf.png" style="width:96px;height:48px" alt=""> | `gui/knopf.png` | Knopf | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/knopf_hover.png" style="width:96px;height:48px" alt=""> | `gui/knopf_hover.png` | Knopf unter der Maus | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/knopf_aus.png" style="width:96px;height:48px" alt=""> | `gui/knopf_aus.png` | Ausgegrauter Knopf | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/feld.png" style="width:96px;height:48px" alt=""> | `gui/feld.png` | Eingabefeld | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/feld_aktiv.png" style="width:96px;height:48px" alt=""> | `gui/feld_aktiv.png` | Eingabefeld, in das man gerade tippt | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/regler.png" style="width:96px;height:48px" alt=""> | `gui/regler.png` | Schieberegler (leer) | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/regler_voll.png" style="width:96px;height:48px" alt=""> | `gui/regler_voll.png` | Gefüllter Teil des Schiebereglers | 32 × 16 | 3 | – |
+| <img src="bilder/texturen/gui/regler_griff.png" style="width:18px;height:48px" alt=""> | `gui/regler_griff.png` | Griff des Schiebereglers | 6 × 16 | 2 | – |
+| <img src="bilder/texturen/gui/platz.png" style="width:54px;height:54px" alt=""> | `gui/platz.png` | Platz im Inventar und in der Schnellleiste | 18 × 18 | 2 | – |
+| <img src="bilder/texturen/gui/platz_auswahl.png" style="width:60px;height:60px" alt=""> | `gui/platz_auswahl.png` | Gewählter Platz der Schnellleiste | 20 × 20 | 3 | – |
+
+## Blöcke (834)
 
 | | Datei |
 |---|---|
@@ -131,6 +149,22 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/chromkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/chromkabel.png` |
 | <img src="bilder/texturen/bloecke/coelestin.png" class="textur" width="48" height="48" alt=""> | `bloecke/coelestin.png` |
 | <img src="bilder/texturen/bloecke/coltan.png" class="textur" width="48" height="48" alt=""> | `bloecke/coltan.png` |
+| <img src="bilder/texturen/bloecke/datenkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_1.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_10.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_10.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_11.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_11.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_12.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_12.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_13.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_13.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_14.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_14.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_15.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_15.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_2.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_2.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_3.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_3.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_4.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_4.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_5.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_5.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_6.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_6.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_7.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_7.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_8.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_8.png` |
+| <img src="bilder/texturen/bloecke/datenkabel_stufe_9.png" class="textur" width="48" height="48" alt=""> | `bloecke/datenkabel_stufe_9.png` |
 | <img src="bilder/texturen/bloecke/diamantblock.png" class="textur" width="48" height="48" alt=""> | `bloecke/diamantblock.png` |
 | <img src="bilder/texturen/bloecke/diamanterz.png" class="textur" width="48" height="48" alt=""> | `bloecke/diamanterz.png` |
 | <img src="bilder/texturen/bloecke/diorit.png" class="textur" width="48" height="48" alt=""> | `bloecke/diorit.png` |
@@ -275,6 +309,8 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/gneis_eisenerz.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_eisenerz.png` |
 | <img src="bilder/texturen/bloecke/gneis_golderz.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_golderz.png` |
 | <img src="bilder/texturen/bloecke/gneis_kupfererz.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_kupfererz.png` |
+| <img src="bilder/texturen/bloecke/gneis_kupferkies.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_kupferkies.png` |
+| <img src="bilder/texturen/bloecke/gneis_kupferkies_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_kupferkies_stufe_1.png` |
 | <img src="bilder/texturen/bloecke/gneis_lapislazulierz.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_lapislazulierz.png` |
 | <img src="bilder/texturen/bloecke/gneis_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_oben.png` |
 | <img src="bilder/texturen/bloecke/gneis_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/gneis_seite.png` |
@@ -452,6 +488,8 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/kupferblock.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupferblock.png` |
 | <img src="bilder/texturen/bloecke/kupfererz.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupfererz.png` |
 | <img src="bilder/texturen/bloecke/kupferkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupferkabel.png` |
+| <img src="bilder/texturen/bloecke/kupferkies.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupferkies.png` |
+| <img src="bilder/texturen/bloecke/kupferkies_stufe_1.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupferkies_stufe_1.png` |
 | <img src="bilder/texturen/bloecke/kupfervorkommen.png" class="textur" width="48" height="48" alt=""> | `bloecke/kupfervorkommen.png` |
 | <img src="bilder/texturen/bloecke/kurzes_gras.png" class="textur" width="48" height="48" alt=""> | `bloecke/kurzes_gras.png` |
 | <img src="bilder/texturen/bloecke/landeplattform_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/landeplattform_oben.png` |

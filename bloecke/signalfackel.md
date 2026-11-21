@@ -10,7 +10,7 @@
 
 ## Herstellen
 
-- 1 × [Signalstaub](../bloecke/signalstaub.md) + 1 × [Stock](../gegenstaende/stock.md) → 1 × [Signalfackel](../bloecke/signalfackel.md) (von Hand, 0,5 s)
+- 1 × [Datenkabel](../bloecke/datenkabel.md) + 1 × [Stock](../gegenstaende/stock.md) → 1 × [Signalfackel](../bloecke/signalfackel.md) (von Hand, 0,5 s)
 
 ## Verwendet für
 

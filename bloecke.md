@@ -1,8 +1,8 @@
 # Alle Blöcke
 
-768 Stück, sortiert wie im Inventar.
+763 Stück, sortiert wie im Inventar.
 
-## Baublöcke (413)
+## Baublöcke (408)
 
 | | Name |
 |---|---|
@@ -397,11 +397,7 @@
 | ![](bilder/bloecke/gelbe_wolle.png) | [Gelbe Wolle](bloecke/gelbe_wolle.md) |
 | ![](bilder/bloecke/suessbeerstrauch.png) | [Süßbeerstrauch](bloecke/suessbeerstrauch.md) |
 | ![](bilder/bloecke/kuchen.png) | [Kuchen](bloecke/kuchen.md) |
-| ![](bilder/bloecke/signalstaub.png) | [Signalstaub](bloecke/signalstaub.md) |
 | ![](bilder/bloecke/signalfackel.png) | [Signalfackel](bloecke/signalfackel.md) |
-| ![](bilder/bloecke/hebel.png) | [Hebel](bloecke/hebel.md) |
-| ![](bilder/bloecke/steinknopf.png) | [Steinknopf](bloecke/steinknopf.md) |
-| ![](bilder/bloecke/eichenholzknopf.png) | [Eichenholzknopf](bloecke/eichenholzknopf.md) |
 | ![](bilder/bloecke/steindruckplatte.png) | [Steindruckplatte](bloecke/steindruckplatte.md) |
 | ![](bilder/bloecke/eichenholzdruckplatte.png) | [Eichenholzdruckplatte](bloecke/eichenholzdruckplatte.md) |
 | ![](bilder/bloecke/feinwaegeplatte.png) | [Feinwägeplatte](bloecke/feinwaegeplatte.md) |
@@ -409,9 +405,8 @@
 | ![](bilder/bloecke/signalverstaerker.png) | [Signalverstärker](bloecke/signalverstaerker.md) |
 | ![](bilder/bloecke/signalvergleicher.png) | [Signalvergleicher](bloecke/signalvergleicher.md) |
 | ![](bilder/bloecke/signallampe.png) | [Signallampe](bloecke/signallampe.md) |
-| ![](bilder/bloecke/signalblock.png) | [Signalblock](bloecke/signalblock.md) |
-| ![](bilder/bloecke/signalerz.png) | [Signalerz](bloecke/signalerz.md) |
-| ![](bilder/bloecke/gneis_signalerz.png) | [Gneis-Signalerz](bloecke/gneis_signalerz.md) |
+| ![](bilder/bloecke/kupferkies.png) | [Kupferkies](bloecke/kupferkies.md) |
+| ![](bilder/bloecke/gneis_kupferkies.png) | [Gneis-Kupferkies](bloecke/gneis_kupferkies.md) |
 | ![](bilder/bloecke/kolben.png) | [Kolben](bloecke/kolben.md) |
 | ![](bilder/bloecke/klebriger_kolben.png) | [Klebriger Kolben](bloecke/klebriger_kolben.md) |
 | ![](bilder/bloecke/beobachter.png) | [Beobachter](bloecke/beobachter.md) |

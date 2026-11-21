@@ -1670,11 +1670,7 @@ bloecke/gelbe_wolle.md	Gelbe Wolle	Block
 bloecke/ackerboden.md	Ackerboden	Block
 bloecke/suessbeerstrauch.md	Süßbeerstrauch	Block
 bloecke/kuchen.md	Kuchen	Block
-bloecke/signalstaub.md	Signalstaub	Block
 bloecke/signalfackel.md	Signalfackel	Block
-bloecke/hebel.md	Hebel	Block
-bloecke/steinknopf.md	Steinknopf	Block
-bloecke/eichenholzknopf.md	Eichenholzknopf	Block
 bloecke/steindruckplatte.md	Steindruckplatte	Block
 bloecke/eichenholzdruckplatte.md	Eichenholzdruckplatte	Block
 bloecke/feinwaegeplatte.md	Feinwägeplatte	Block
@@ -1682,9 +1678,8 @@ bloecke/grobwaegeplatte.md	Grobwägeplatte	Block
 bloecke/signalverstaerker.md	Signalverstärker	Block
 bloecke/signalvergleicher.md	Signalvergleicher	Block
 bloecke/signallampe.md	Signallampe	Block
-bloecke/signalblock.md	Signalblock	Block
-bloecke/signalerz.md	Signalerz	Block
-bloecke/gneis_signalerz.md	Gneis-Signalerz	Block
+bloecke/kupferkies.md	Kupferkies	Block
+bloecke/gneis_kupferkies.md	Gneis-Kupferkies	Block
 bloecke/kolben.md	Kolben	Block
 bloecke/klebriger_kolben.md	Klebriger Kolben	Block
 bloecke/beobachter.md	Beobachter	Block
