@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2049 Texturen sind noch 2049 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2050 Texturen sind noch 2050 mit KI gemacht.
 
 ## So machst du mit
 
@@ -15,7 +15,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 - Mit dem Einschicken erlaubst du, dass die Textur im Spiel verwendet wird, auch in der kostenpflichtigen Version, und dass sie unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) weitergegeben werden darf. Dein Name wird dabei immer genannt.
 - Pixel-Look wie der Rest: klare Pixel, kein Weichzeichnen.
 
-## Blöcke (793)
+## Blöcke (794)
 
 | | Datei |
 |---|---|
@@ -39,6 +39,7 @@ Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nac
 | <img src="bilder/texturen/bloecke/aluminiumkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/aluminiumkabel.png` |
 | <img src="bilder/texturen/bloecke/aluminiumkabel_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/aluminiumkabel_seite.png` |
 | <img src="bilder/texturen/bloecke/andesit.png" class="textur" width="48" height="48" alt=""> | `bloecke/andesit.png` |
+| <img src="bilder/texturen/bloecke/andockklammer.png" class="textur" width="48" height="48" alt=""> | `bloecke/andockklammer.png` |
 | <img src="bilder/texturen/bloecke/anorthosit.png" class="textur" width="48" height="48" alt=""> | `bloecke/anorthosit.png` |
 | <img src="bilder/texturen/bloecke/antimonit.png" class="textur" width="48" height="48" alt=""> | `bloecke/antimonit.png` |
 | <img src="bilder/texturen/bloecke/antimonkabel.png" class="textur" width="48" height="48" alt=""> | `bloecke/antimonkabel.png` |

@@ -269,6 +269,8 @@ bloecke/rotes_herbstlaub.md	Rotes Herbstlaub	Block
 bloecke/oranges_herbstlaub.md	Oranges Herbstlaub	Block
 bloecke/gelbes_herbstlaub.md	Gelbes Herbstlaub	Block
 bloecke/hitzeschild.md	Hitzeschild	Block
+bloecke/landefuss.md	Landefuß	Block
+bloecke/andockklammer.md	Andockklammer	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element

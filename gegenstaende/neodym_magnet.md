@@ -10,5 +10,5 @@ So stark, dass zwei davon einen Finger quetschen können. In jedem E-Auto-Motor.
 
 ## Verwendet für
 
-[Rotor](../gegenstaende/rotor.md)
+[Andockklammer](../bloecke/andockklammer.md), [Rotor](../gegenstaende/rotor.md)
 
