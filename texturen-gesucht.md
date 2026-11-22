@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2163 Texturen sind noch 2163 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2167 Texturen sind noch 2167 mit KI gemacht.
 
 ## So machst du mit
 
@@ -33,7 +33,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/gui/platz.png" style="width:54px;height:54px" alt=""> | `gui/platz.png` | Platz im Inventar und in der Schnellleiste | 18 × 18 | 2 | – |
 | <img src="bilder/texturen/gui/platz_auswahl.png" style="width:60px;height:60px" alt=""> | `gui/platz_auswahl.png` | Gewählter Platz der Schnellleiste | 20 × 20 | 3 | – |
 
-## Blöcke (834)
+## Blöcke (837)
 
 | | Datei |
 |---|---|
@@ -588,6 +588,9 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/pentlandit.png" class="textur" width="48" height="48" alt=""> | `bloecke/pentlandit.png` |
 | <img src="bilder/texturen/bloecke/pfingstrose.png" class="textur" width="48" height="48" alt=""> | `bloecke/pfingstrose.png` |
 | <img src="bilder/texturen/bloecke/pfingstrose_spitze.png" class="textur" width="48" height="48" alt=""> | `bloecke/pfingstrose_spitze.png` |
+| <img src="bilder/texturen/bloecke/platinenwerkbank_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/platinenwerkbank_oben.png` |
+| <img src="bilder/texturen/bloecke/platinenwerkbank_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/platinenwerkbank_seite.png` |
+| <img src="bilder/texturen/bloecke/platinenwerkbank_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/platinenwerkbank_unten.png` |
 | <img src="bilder/texturen/bloecke/podsol_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/podsol_oben.png` |
 | <img src="bilder/texturen/bloecke/podsol_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/podsol_seite.png` |
 | <img src="bilder/texturen/bloecke/podsol_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/podsol_unten.png` |
@@ -872,7 +875,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1295)
+## Gegenstände (1296)
 
 | | Datei |
 |---|---|
@@ -1158,6 +1161,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/edelstahlspitzhacke_4208.png" class="textur" width="48" height="48" alt=""> | `items/edelstahlspitzhacke_4208.png` |
 | <img src="bilder/texturen/items/edelstahlstiefel_4214.png" class="textur" width="48" height="48" alt=""> | `items/edelstahlstiefel_4214.png` |
 | <img src="bilder/texturen/items/ei_1213.png" class="textur" width="48" height="48" alt=""> | `items/ei_1213.png` |
+| <img src="bilder/texturen/items/eigene_platine_1368.png" class="textur" width="48" height="48" alt=""> | `items/eigene_platine_1368.png` |
 | <img src="bilder/texturen/items/einsteinium_2099.png" class="textur" width="48" height="48" alt=""> | `items/einsteinium_2099.png` |
 | <img src="bilder/texturen/items/einsteiniumaxt_3793.png" class="textur" width="48" height="48" alt=""> | `items/einsteiniumaxt_3793.png` |
 | <img src="bilder/texturen/items/einsteiniumbeinschutz_3797.png" class="textur" width="48" height="48" alt=""> | `items/einsteiniumbeinschutz_3797.png` |

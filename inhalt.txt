@@ -332,6 +332,7 @@ bloecke/schalter_2.md	Schalter	Block
 bloecke/taster.md	Taster	Block
 bloecke/taster_2.md	Taster	Block
 bloecke/ablaufsteuerung.md	Ablaufsteuerung	Block
+bloecke/platinenwerkbank.md	Platinenwerkbank	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
@@ -689,6 +690,7 @@ gegenstaende/ziffernanzeige.md	Ziffernanzeige	Gegenstand
 gegenstaende/lichtsensor.md	Lichtsensor	Gegenstand
 gegenstaende/regensensor.md	Regensensor	Gegenstand
 gegenstaende/bewegungsmelder.md	Bewegungsmelder	Gegenstand
+gegenstaende/eigene_platine.md	Eigene Platine	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-763 Stück, sortiert wie im Inventar.
+764 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (408)
 
@@ -686,7 +686,7 @@
 | ![](bilder/bloecke/weisse_tulpe.png) | [Weiße Tulpe](bloecke/weisse_tulpe.md) |
 | ![](bilder/bloecke/ackerboden.png) | [Ackerboden](bloecke/ackerboden.md) |
 
-## Raumfahrt (89)
+## Raumfahrt (90)
 
 | | Name |
 |---|---|
@@ -779,4 +779,5 @@
 | ![](bilder/bloecke/schalter.png) | [Schalter](bloecke/schalter.md) |
 | ![](bilder/bloecke/taster.png) | [Taster](bloecke/taster.md) |
 | ![](bilder/bloecke/ablaufsteuerung.png) | [Ablaufsteuerung](bloecke/ablaufsteuerung.md) |
+| ![](bilder/bloecke/platinenwerkbank.png) | [Platinenwerkbank](bloecke/platinenwerkbank.md) |
 

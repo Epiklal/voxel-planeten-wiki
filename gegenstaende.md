@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-809 Stück, sortiert wie im Inventar.
+810 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -74,7 +74,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (72)
+## Raumfahrt (73)
 
 | | Name |
 |---|---|
@@ -150,6 +150,7 @@
 | ![](bilder/gegenstaende/lichtsensor.png) | [Lichtsensor](gegenstaende/lichtsensor.md) |
 | ![](bilder/gegenstaende/regensensor.png) | [Regensensor](gegenstaende/regensensor.md) |
 | ![](bilder/gegenstaende/bewegungsmelder.png) | [Bewegungsmelder](gegenstaende/bewegungsmelder.md) |
+| ![](bilder/gegenstaende/eigene_platine.png) | [Eigene Platine](gegenstaende/eigene_platine.md) |
 
 ## Werkzeuge (73)
 
