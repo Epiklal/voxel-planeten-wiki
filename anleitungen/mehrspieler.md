@@ -77,6 +77,8 @@ Alle Server eines Verbunds brauchen denselben Schlüssel (mindestens 16 Zeichen)
 
 **Sternsysteme an Partner abgeben:** Der Hauptserver kann ein fremdes Sternsystem an einen Partner abgeben, der es dann selbst spielt (Konsole: `zone abgeben <Stern-Nummer> <Partner>`, zurück mit `zone zurueck <Stern-Nummer>`, `zone` zeigt, wer was spielt). Der Partner startet dafür einen **Zonenserver** auf seinem Spielport, mit eigenem Weltordner `<Welt>.zone`. Das System zieht mit allem um: Gelände und Bauten, Schiffe, Tiere, Luft – und die Spieler, die dort sind. Wer danach in das System warpt (oder sonst hingelangt), zieht samt Schiff, Angedocktem und Besatzung zum Partner um; wer es verlässt, zurück zum Hauptserver. Meldet sich jemand beim falschen Server an, wird er weitergeleitet. Auch das geht ohne Ladebild. Schaltet man den Partner ab, gibt er seine Systeme erst zurück (mit den Spielern) und geht dann aus; wird er selbst Hauptserver, nimmt er sie in sein Spiel. Von einem abgegebenen System aus geht es nur zurück ins Sonnensystem oder zu anderen Körpern dort, nicht direkt zu einem weiteren Stern. Systeme mit Frachthäfen oder Dyson-Empfängern bleiben vorerst beim Hauptserver. Hat ein Zonenserver kein System mehr, geht er aus (bis zum nächsten).
 
+**Fällt ein Zonenserver aus:** Er schickt seine Welt laufend an den Hauptserver (alle paar Sekunden nur, was sich geändert hat; liegt dort in `<Welt>.rueckspiegel/<Partner>/`). Ist er 10 s lang weg (Absturz, Netz weg), spielt der Hauptserver seine Sternsysteme selbst weiter, mit dem Stand vom letzten Speichern des Zonenservers. Die Spieler dort verbinden sich von selbst neu und landen beim Hauptserver. Kommt der Zonenserver später wieder, legt er diese Systeme beiseite (`<Welt>.zone.verworfen/`), statt sie doppelt zu spielen.
+
 **Für alle Server gemeinsam:** Der Chat geht an alle Spieler im Verbund, eine private Nachricht (`/msg`) findet den Empfänger auf jedem Server, und `/liste` zeigt auch, wer auf den anderen Servern spielt. Teams, Einladungen, Ränge, Sperren, Stummschaltungen und Anmeldungen gelten überall: Ändert man sie auf einem Server, übernehmen die anderen sie innerhalb einer Sekunde (wer gesperrt wird, fliegt überall raus). Das Konto zieht mit dem Spieler um; Geld für jemanden, der gerade woanders spielt (z. B. aus einem Frachthafen), landet dort, abbuchen geht erst wieder, wenn er zurück ist.
 
 **Von selbst abgeben (Automatik):** Der Hauptserver misst laufend seine Last (Takt im Mittel über etwa 30 s, auf Wunsch auch die Bandbreite). Ist er 30 s lang ausgelastet, gibt er von selbst das fremde Sternsystem ab, das am meisten kostet (Spieler, Schiffe, Bauten), an den Partner mit der wenigsten Last; ist er danach 5 Minuten lang ruhig, holt er das System mit den wenigsten Spielern zurück. Zwischen zwei Wechseln liegen mindestens 2 Minuten (beim Zurückholen 10), damit nichts hin und her springt. Einstellbar in `verbund.txt`:
@@ -90,7 +92,7 @@ auto-ruhe: 120                 # s zwischen zwei Wechseln, alle anderen Zeiten r
 
 In der Konsole zeigt `zone auto` die gemessene Last, `zone auto aus` / `an` schaltet die Automatik vorübergehend ab. `zone testlast <ms>` bremst zum Ausprobieren jeden Takt künstlich.
 
-Geplant: Ausfallschutz auch für Zonenserver, statt ganzer Sternsysteme auch einzelne Planeten und zuletzt Würfelseiten abgeben.
+Geplant: statt ganzer Sternsysteme auch einzelne Planeten und zuletzt Würfelseiten abgeben.
 
 ## Server-Verwalter mit Dashboard im Browser
 

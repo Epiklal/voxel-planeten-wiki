@@ -2,6 +2,8 @@
 
 ![Flutlicht](../bilder/gegenstaende/flutlicht.png)
 
+Eine LED macht aus Strom fünf- bis zehnmal so viel Licht wie eine Glühlampe – bei der war fast alles Wärme.
+
 | Eigenschaft | Wert |
 |---|---|
 | Leuchtet | 64 m weit, solange es Strom hat |

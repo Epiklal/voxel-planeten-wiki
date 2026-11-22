@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2147 Texturen sind noch 2147 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2154 Texturen sind noch 2154 mit KI gemacht.
 
 ## So machst du mit
 
@@ -872,7 +872,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1279)
+## Gegenstände (1286)
 
 | | Datei |
 |---|---|
@@ -1364,6 +1364,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/holmiumstiefel_3542.png" class="textur" width="48" height="48" alt=""> | `items/holmiumstiefel_3542.png` |
 | <img src="bilder/texturen/items/hydrazin_1143.png" class="textur" width="48" height="48" alt=""> | `items/hydrazin_1143.png` |
 | <img src="bilder/texturen/items/implantatstation_1305.png" class="textur" width="48" height="48" alt=""> | `items/implantatstation_1305.png` |
+| <img src="bilder/texturen/items/impulsformer_1355.png" class="textur" width="48" height="48" alt=""> | `items/impulsformer_1355.png` |
 | <img src="bilder/texturen/items/inconel_2213.png" class="textur" width="48" height="48" alt=""> | `items/inconel_2213.png` |
 | <img src="bilder/texturen/items/inconelaxt_4305.png" class="textur" width="48" height="48" alt=""> | `items/inconelaxt_4305.png` |
 | <img src="bilder/texturen/items/inconelbeinschutz_4309.png" class="textur" width="48" height="48" alt=""> | `items/inconelbeinschutz_4309.png` |
@@ -1879,6 +1880,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/seaborgium_2106.png" class="textur" width="48" height="48" alt=""> | `items/seaborgium_2106.png` |
 | <img src="bilder/texturen/items/selen_2034.png" class="textur" width="48" height="48" alt=""> | `items/selen_2034.png` |
 | <img src="bilder/texturen/items/seltenerd_konzentrat_1118.png" class="textur" width="48" height="48" alt=""> | `items/seltenerd_konzentrat_1118.png` |
+| <img src="bilder/texturen/items/sequenzer_1353.png" class="textur" width="48" height="48" alt=""> | `items/sequenzer_1353.png` |
 | <img src="bilder/texturen/items/silber_2047.png" class="textur" width="48" height="48" alt=""> | `items/silber_2047.png` |
 | <img src="bilder/texturen/items/silberaxt_3377.png" class="textur" width="48" height="48" alt=""> | `items/silberaxt_3377.png` |
 | <img src="bilder/texturen/items/silberbeinschutz_3381.png" class="textur" width="48" height="48" alt=""> | `items/silberbeinschutz_3381.png` |
@@ -1950,6 +1952,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/strontiumstiefel_3310.png" class="textur" width="48" height="48" alt=""> | `items/strontiumstiefel_3310.png` |
 | <img src="bilder/texturen/items/suessbeeren_1194.png" class="textur" width="48" height="48" alt=""> | `items/suessbeeren_1194.png` |
 | <img src="bilder/texturen/items/superionisches_eis_1139.png" class="textur" width="48" height="48" alt=""> | `items/superionisches_eis_1139.png` |
+| <img src="bilder/texturen/items/synchronisierer_1358.png" class="textur" width="48" height="48" alt=""> | `items/synchronisierer_1358.png` |
+| <img src="bilder/texturen/items/taktgeber_1352.png" class="textur" width="48" height="48" alt=""> | `items/taktgeber_1352.png` |
 | <img src="bilder/texturen/items/tantal_2073.png" class="textur" width="48" height="48" alt=""> | `items/tantal_2073.png` |
 | <img src="bilder/texturen/items/tantalaxt_3585.png" class="textur" width="48" height="48" alt=""> | `items/tantalaxt_3585.png` |
 | <img src="bilder/texturen/items/tantalbeinschutz_3589.png" class="textur" width="48" height="48" alt=""> | `items/tantalbeinschutz_3589.png` |
@@ -2055,6 +2059,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/verstaerkte_eisenplatte_1027.png" class="textur" width="48" height="48" alt=""> | `items/verstaerkte_eisenplatte_1027.png` |
 | <img src="bilder/texturen/items/verstaerkter_rucksack_1299.png" class="textur" width="48" height="48" alt=""> | `items/verstaerkter_rucksack_1299.png` |
 | <img src="bilder/texturen/items/verteiler_1018.png" class="textur" width="48" height="48" alt=""> | `items/verteiler_1018.png` |
+| <img src="bilder/texturen/items/verzoegerer_1356.png" class="textur" width="48" height="48" alt=""> | `items/verzoegerer_1356.png` |
 | <img src="bilder/texturen/items/violetter_farbstoff_1173.png" class="textur" width="48" height="48" alt=""> | `items/violetter_farbstoff_1173.png` |
 | <img src="bilder/texturen/items/waehler_1347.png" class="textur" width="48" height="48" alt=""> | `items/waehler_1347.png` |
 | <img src="bilder/texturen/items/wasserpumpe_1036.png" class="textur" width="48" height="48" alt=""> | `items/wasserpumpe_1036.png` |
@@ -2107,6 +2112,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/yttriumschwert_3314.png" class="textur" width="48" height="48" alt=""> | `items/yttriumschwert_3314.png` |
 | <img src="bilder/texturen/items/yttriumspitzhacke_3312.png" class="textur" width="48" height="48" alt=""> | `items/yttriumspitzhacke_3312.png` |
 | <img src="bilder/texturen/items/yttriumstiefel_3318.png" class="textur" width="48" height="48" alt=""> | `items/yttriumstiefel_3318.png` |
+| <img src="bilder/texturen/items/zaehler_1354.png" class="textur" width="48" height="48" alt=""> | `items/zaehler_1354.png` |
 | <img src="bilder/texturen/items/zamak_2232.png" class="textur" width="48" height="48" alt=""> | `items/zamak_2232.png` |
 | <img src="bilder/texturen/items/zamakaxt_4457.png" class="textur" width="48" height="48" alt=""> | `items/zamakaxt_4457.png` |
 | <img src="bilder/texturen/items/zamakbeinschutz_4461.png" class="textur" width="48" height="48" alt=""> | `items/zamakbeinschutz_4461.png` |
@@ -2154,6 +2160,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/zirkaloyspitzhacke_4320.png" class="textur" width="48" height="48" alt=""> | `items/zirkaloyspitzhacke_4320.png` |
 | <img src="bilder/texturen/items/zirkaloystiefel_4326.png" class="textur" width="48" height="48" alt=""> | `items/zirkaloystiefel_4326.png` |
 | <img src="bilder/texturen/items/zucker_1193.png" class="textur" width="48" height="48" alt=""> | `items/zucker_1193.png` |
+| <img src="bilder/texturen/items/zufallsgeber_1357.png" class="textur" width="48" height="48" alt=""> | `items/zufallsgeber_1357.png` |
 | <img src="bilder/texturen/items/zusammenfuehrer_1019.png" class="textur" width="48" height="48" alt=""> | `items/zusammenfuehrer_1019.png` |
 
 ## Getragene Rüstung (32)

@@ -2,6 +2,8 @@
 
 ![Materieverdichter](../bilder/gegenstaende/materieverdichter.png)
 
+Ein Teelöffel Neutronenstern wiegt rund eine Milliarde Tonnen.
+
 | Eigenschaft | Wert |
 |---|---|
 |  | Verdichtet Rumpfblöcke zu Großblock-Kernen |

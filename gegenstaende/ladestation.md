@@ -2,6 +2,8 @@
 
 ![Ladestation](../bilder/gegenstaende/ladestation.png)
 
+Akkus altern schneller, wenn sie oft ganz voll oder ganz leer sind – darum laden viele Geräte nur bis 80 %.
+
 | Eigenschaft | Wert |
 |---|---|
 | Lädt kabellos in | 8 m Umkreis (braucht Strom) |

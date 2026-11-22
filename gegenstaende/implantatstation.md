@@ -2,6 +2,8 @@
 
 ![Implantatstation](../bilder/gegenstaende/implantatstation.png)
 
+Den ersten Herzschrittmacher bekam 1958 Arne Larsson. Er trug im Leben 26 Stück und wurde 86 Jahre alt.
+
 | Eigenschaft | Wert |
 |---|---|
 |  | Hier setzt man Cyborg-Implantate ein |

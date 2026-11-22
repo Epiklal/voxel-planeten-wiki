@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-793 Stück, sortiert wie im Inventar.
+800 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -74,7 +74,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (60)
+## Raumfahrt (67)
 
 | | Name |
 |---|---|
@@ -138,6 +138,13 @@
 | ![](bilder/gegenstaende/umschalt_speicher.png) | [Umschalt-Speicher](gegenstaende/umschalt_speicher.md) |
 | ![](bilder/gegenstaende/d_speicher.png) | [D-Speicher](gegenstaende/d_speicher.md) |
 | ![](bilder/gegenstaende/logikplatte.png) | [Logikplatte](gegenstaende/logikplatte.md) |
+| ![](bilder/gegenstaende/taktgeber.png) | [Taktgeber](gegenstaende/taktgeber.md) |
+| ![](bilder/gegenstaende/sequenzer.png) | [Sequenzer](gegenstaende/sequenzer.md) |
+| ![](bilder/gegenstaende/zaehler.png) | [Zähler](gegenstaende/zaehler.md) |
+| ![](bilder/gegenstaende/impulsformer.png) | [Impulsformer](gegenstaende/impulsformer.md) |
+| ![](bilder/gegenstaende/verzoegerer.png) | [Verzögerer](gegenstaende/verzoegerer.md) |
+| ![](bilder/gegenstaende/zufallsgeber.png) | [Zufallsgeber](gegenstaende/zufallsgeber.md) |
+| ![](bilder/gegenstaende/synchronisierer.png) | [Synchronisierer](gegenstaende/synchronisierer.md) |
 
 ## Werkzeuge (73)
 

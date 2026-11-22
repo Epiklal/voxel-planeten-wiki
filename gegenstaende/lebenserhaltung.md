@@ -2,6 +2,8 @@
 
 ![Lebenserhaltung](../bilder/gegenstaende/lebenserhaltung.png)
 
+Auf der ISS kommen rund 98 % des Wassers zurück – auch aus Schweiß und Urin.
+
 | Eigenschaft | Wert |
 |---|---|
 |  | Füllt den geschlossenen Raum, in dem sie steht, mit Atemluft |

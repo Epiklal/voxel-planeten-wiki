@@ -673,6 +673,13 @@ gegenstaende/rs_speicher.md	RS-Speicher	Gegenstand
 gegenstaende/umschalt_speicher.md	Umschalt-Speicher	Gegenstand
 gegenstaende/d_speicher.md	D-Speicher	Gegenstand
 gegenstaende/logikplatte.md	Logikplatte	Gegenstand
+gegenstaende/taktgeber.md	Taktgeber	Gegenstand
+gegenstaende/sequenzer.md	Sequenzer	Gegenstand
+gegenstaende/zaehler.md	Zähler	Gegenstand
+gegenstaende/impulsformer.md	Impulsformer	Gegenstand
+gegenstaende/verzoegerer.md	Verzögerer	Gegenstand
+gegenstaende/zufallsgeber.md	Zufallsgeber	Gegenstand
+gegenstaende/synchronisierer.md	Synchronisierer	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
