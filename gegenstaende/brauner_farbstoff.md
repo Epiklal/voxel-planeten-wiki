@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Braune Wolle](../bloecke/braune_wolle.md), [Braune Keramik](../bloecke/braune_keramik.md), [Brauner Trockenbeton](../bloecke/brauner_trockenbeton.md)
+[Braune Wolle](../bloecke/braune_wolle.md), [Braune Keramik](../bloecke/braune_keramik.md), [Brauner Trockenbeton](../bloecke/brauner_trockenbeton.md), [Farbkabel Braun](../gegenstaende/farbkabel_braun.md), [Bündelkabel Braun](../gegenstaende/buendelkabel_braun.md)
 

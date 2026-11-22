@@ -10,5 +10,5 @@
 
 ## Verwendet für
 
-[Orange Wolle](../bloecke/orange_wolle.md), [Orange Keramik](../bloecke/orange_keramik.md), [Oranger Trockenbeton](../bloecke/oranger_trockenbeton.md)
+[Orange Wolle](../bloecke/orange_wolle.md), [Orange Keramik](../bloecke/orange_keramik.md), [Oranger Trockenbeton](../bloecke/oranger_trockenbeton.md), [Farbkabel Orange](../gegenstaende/farbkabel_orange.md), [Bündelkabel Orange](../gegenstaende/buendelkabel_orange.md)
 

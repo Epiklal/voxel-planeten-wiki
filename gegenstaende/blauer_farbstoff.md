@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Hellblauer Farbstoff](../gegenstaende/hellblauer_farbstoff.md), [Violetter Farbstoff](../gegenstaende/violetter_farbstoff.md), [Türkiser Farbstoff](../gegenstaende/tuerkiser_farbstoff.md), [Blaue Wolle](../bloecke/blaue_wolle.md), [Blaue Keramik](../bloecke/blaue_keramik.md), [Blauer Trockenbeton](../bloecke/blauer_trockenbeton.md)
+[Hellblauer Farbstoff](../gegenstaende/hellblauer_farbstoff.md), [Violetter Farbstoff](../gegenstaende/violetter_farbstoff.md), [Türkiser Farbstoff](../gegenstaende/tuerkiser_farbstoff.md), [Blaue Wolle](../bloecke/blaue_wolle.md), [Blaue Keramik](../bloecke/blaue_keramik.md), [Blauer Trockenbeton](../bloecke/blauer_trockenbeton.md), [Farbkabel Blau](../gegenstaende/farbkabel_blau.md), [Bündelkabel Blau](../gegenstaende/buendelkabel_blau.md)
 

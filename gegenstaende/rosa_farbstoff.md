@@ -10,5 +10,5 @@
 
 ## Verwendet für
 
-[Magenta Farbstoff](../gegenstaende/magenta_farbstoff.md), [Rosa Wolle](../bloecke/rosa_wolle.md), [Rosa Keramik](../bloecke/rosa_keramik.md), [Rosa Trockenbeton](../bloecke/rosa_trockenbeton.md)
+[Magenta Farbstoff](../gegenstaende/magenta_farbstoff.md), [Rosa Wolle](../bloecke/rosa_wolle.md), [Rosa Keramik](../bloecke/rosa_keramik.md), [Rosa Trockenbeton](../bloecke/rosa_trockenbeton.md), [Farbkabel Rosa](../gegenstaende/farbkabel_rosa.md), [Bündelkabel Rosa](../gegenstaende/buendelkabel_rosa.md)
 

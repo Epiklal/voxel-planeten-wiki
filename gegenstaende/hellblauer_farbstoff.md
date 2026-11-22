@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Hellblaue Wolle](../bloecke/hellblaue_wolle.md), [Hellblaue Keramik](../bloecke/hellblaue_keramik.md), [Hellblauer Trockenbeton](../bloecke/hellblauer_trockenbeton.md)
+[Hellblaue Wolle](../bloecke/hellblaue_wolle.md), [Hellblaue Keramik](../bloecke/hellblaue_keramik.md), [Hellblauer Trockenbeton](../bloecke/hellblauer_trockenbeton.md), [Farbkabel Hellblau](../gegenstaende/farbkabel_hellblau.md), [Bündelkabel Hellblau](../gegenstaende/buendelkabel_hellblau.md)
 

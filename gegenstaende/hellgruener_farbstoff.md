@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Hellgrüne Wolle](../bloecke/hellgruene_wolle.md), [Hellgrüne Keramik](../bloecke/hellgruene_keramik.md), [Hellgrüner Trockenbeton](../bloecke/hellgruener_trockenbeton.md)
+[Hellgrüne Wolle](../bloecke/hellgruene_wolle.md), [Hellgrüne Keramik](../bloecke/hellgruene_keramik.md), [Hellgrüner Trockenbeton](../bloecke/hellgruener_trockenbeton.md), [Farbkabel Hellgrün](../gegenstaende/farbkabel_hellgruen.md), [Bündelkabel Hellgrün](../gegenstaende/buendelkabel_hellgruen.md)
 

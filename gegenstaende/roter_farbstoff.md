@@ -11,5 +11,5 @@
 
 ## Verwendet für
 
-[Brauner Farbstoff](../gegenstaende/brauner_farbstoff.md), [Rosa Farbstoff](../gegenstaende/rosa_farbstoff.md), [Oranger Farbstoff](../gegenstaende/oranger_farbstoff.md), [Violetter Farbstoff](../gegenstaende/violetter_farbstoff.md), [Rote Wolle](../bloecke/rote_wolle.md), [Rote Keramik](../bloecke/rote_keramik.md), [Roter Trockenbeton](../bloecke/roter_trockenbeton.md)
+[Brauner Farbstoff](../gegenstaende/brauner_farbstoff.md), [Rosa Farbstoff](../gegenstaende/rosa_farbstoff.md), [Oranger Farbstoff](../gegenstaende/oranger_farbstoff.md), [Violetter Farbstoff](../gegenstaende/violetter_farbstoff.md), [Rote Wolle](../bloecke/rote_wolle.md), [Rote Keramik](../bloecke/rote_keramik.md), [Roter Trockenbeton](../bloecke/roter_trockenbeton.md), [Farbkabel Rot](../gegenstaende/farbkabel_rot.md), [Bündelkabel Rot](../gegenstaende/buendelkabel_rot.md)
 

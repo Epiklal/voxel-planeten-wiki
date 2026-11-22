@@ -627,6 +627,39 @@ gegenstaende/stapelmodul.md	Stapelmodul	Gegenstand
 gegenstaende/lagerimplantat.md	Lagerimplantat	Gegenstand
 gegenstaende/stapelimplantat.md	Stapelimplantat	Gegenstand
 gegenstaende/implantatstation.md	Implantatstation	Gegenstand
+gegenstaende/farbkabel_weiss.md	Farbkabel Weiß	Gegenstand
+gegenstaende/farbkabel_orange.md	Farbkabel Orange	Gegenstand
+gegenstaende/farbkabel_magenta.md	Farbkabel Magenta	Gegenstand
+gegenstaende/farbkabel_hellblau.md	Farbkabel Hellblau	Gegenstand
+gegenstaende/farbkabel_gelb.md	Farbkabel Gelb	Gegenstand
+gegenstaende/farbkabel_hellgruen.md	Farbkabel Hellgrün	Gegenstand
+gegenstaende/farbkabel_rosa.md	Farbkabel Rosa	Gegenstand
+gegenstaende/farbkabel_grau.md	Farbkabel Grau	Gegenstand
+gegenstaende/farbkabel_hellgrau.md	Farbkabel Hellgrau	Gegenstand
+gegenstaende/farbkabel_tuerkis.md	Farbkabel Türkis	Gegenstand
+gegenstaende/farbkabel_lila.md	Farbkabel Lila	Gegenstand
+gegenstaende/farbkabel_blau.md	Farbkabel Blau	Gegenstand
+gegenstaende/farbkabel_braun.md	Farbkabel Braun	Gegenstand
+gegenstaende/farbkabel_gruen.md	Farbkabel Grün	Gegenstand
+gegenstaende/farbkabel_rot.md	Farbkabel Rot	Gegenstand
+gegenstaende/farbkabel_schwarz.md	Farbkabel Schwarz	Gegenstand
+gegenstaende/buendelkabel.md	Bündelkabel	Gegenstand
+gegenstaende/buendelkabel_weiss.md	Bündelkabel Weiß	Gegenstand
+gegenstaende/buendelkabel_orange.md	Bündelkabel Orange	Gegenstand
+gegenstaende/buendelkabel_magenta.md	Bündelkabel Magenta	Gegenstand
+gegenstaende/buendelkabel_hellblau.md	Bündelkabel Hellblau	Gegenstand
+gegenstaende/buendelkabel_gelb.md	Bündelkabel Gelb	Gegenstand
+gegenstaende/buendelkabel_hellgruen.md	Bündelkabel Hellgrün	Gegenstand
+gegenstaende/buendelkabel_rosa.md	Bündelkabel Rosa	Gegenstand
+gegenstaende/buendelkabel_grau.md	Bündelkabel Grau	Gegenstand
+gegenstaende/buendelkabel_hellgrau.md	Bündelkabel Hellgrau	Gegenstand
+gegenstaende/buendelkabel_tuerkis.md	Bündelkabel Türkis	Gegenstand
+gegenstaende/buendelkabel_lila.md	Bündelkabel Lila	Gegenstand
+gegenstaende/buendelkabel_blau.md	Bündelkabel Blau	Gegenstand
+gegenstaende/buendelkabel_braun.md	Bündelkabel Braun	Gegenstand
+gegenstaende/buendelkabel_gruen.md	Bündelkabel Grün	Gegenstand
+gegenstaende/buendelkabel_rot.md	Bündelkabel Rot	Gegenstand
+gegenstaende/buendelkabel_schwarz.md	Bündelkabel Schwarz	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

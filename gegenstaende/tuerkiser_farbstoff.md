@@ -9,5 +9,5 @@
 
 ## Verwendet für
 
-[Türkise Wolle](../bloecke/tuerkise_wolle.md), [Türkise Keramik](../bloecke/tuerkise_keramik.md), [Türkiser Trockenbeton](../bloecke/tuerkiser_trockenbeton.md)
+[Türkise Wolle](../bloecke/tuerkise_wolle.md), [Türkise Keramik](../bloecke/tuerkise_keramik.md), [Türkiser Trockenbeton](../bloecke/tuerkiser_trockenbeton.md), [Farbkabel Türkis](../gegenstaende/farbkabel_tuerkis.md), [Bündelkabel Türkis](../gegenstaende/buendelkabel_tuerkis.md)
 

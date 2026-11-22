@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Magenta Farbstoff](../gegenstaende/magenta_farbstoff.md), [Violette Wolle](../bloecke/violette_wolle.md), [Violette Keramik](../bloecke/violette_keramik.md), [Violetter Trockenbeton](../bloecke/violetter_trockenbeton.md)
+[Magenta Farbstoff](../gegenstaende/magenta_farbstoff.md), [Violette Wolle](../bloecke/violette_wolle.md), [Violette Keramik](../bloecke/violette_keramik.md), [Violetter Trockenbeton](../bloecke/violetter_trockenbeton.md), [Farbkabel Lila](../gegenstaende/farbkabel_lila.md), [Bündelkabel Lila](../gegenstaende/buendelkabel_lila.md)
 

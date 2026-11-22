@@ -8,5 +8,5 @@
 
 ## Verwendet für
 
-[Hellgrauer Farbstoff](../gegenstaende/hellgrauer_farbstoff.md), [Graue Wolle](../bloecke/graue_wolle.md), [Graue Keramik](../bloecke/graue_keramik.md), [Grauer Trockenbeton](../bloecke/grauer_trockenbeton.md)
+[Hellgrauer Farbstoff](../gegenstaende/hellgrauer_farbstoff.md), [Graue Wolle](../bloecke/graue_wolle.md), [Graue Keramik](../bloecke/graue_keramik.md), [Grauer Trockenbeton](../bloecke/grauer_trockenbeton.md), [Farbkabel Grau](../gegenstaende/farbkabel_grau.md), [Bündelkabel Grau](../gegenstaende/buendelkabel_grau.md)
 

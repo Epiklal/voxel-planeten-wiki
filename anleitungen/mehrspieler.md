@@ -77,7 +77,20 @@ Alle Server eines Verbunds brauchen denselben Schlüssel (mindestens 16 Zeichen)
 
 **Sternsysteme an Partner abgeben:** Der Hauptserver kann ein fremdes Sternsystem an einen Partner abgeben, der es dann selbst spielt (Konsole: `zone abgeben <Stern-Nummer> <Partner>`, zurück mit `zone zurueck <Stern-Nummer>`, `zone` zeigt, wer was spielt). Der Partner startet dafür einen **Zonenserver** auf seinem Spielport, mit eigenem Weltordner `<Welt>.zone`. Das System zieht mit allem um: Gelände und Bauten, Schiffe, Tiere, Luft – und die Spieler, die dort sind. Wer danach in das System warpt (oder sonst hingelangt), zieht samt Schiff, Angedocktem und Besatzung zum Partner um; wer es verlässt, zurück zum Hauptserver. Meldet sich jemand beim falschen Server an, wird er weitergeleitet. Der Spieler sieht dabei kurz das Ladebild. Schaltet man den Partner ab, gibt er seine Systeme erst zurück (mit den Spielern) und geht dann aus; wird er selbst Hauptserver, nimmt er sie in sein Spiel. Von einem abgegebenen System aus geht es nur zurück ins Sonnensystem oder zu anderen Körpern dort, nicht direkt zu einem weiteren Stern. Systeme mit Frachthäfen oder Dyson-Empfängern bleiben vorerst beim Hauptserver.
 
-Geplant: Chat, Geld und Teams über alle Server; ein ausgelasteter Server gibt von selbst ab (erst Sternsysteme, dann Planeten, zuletzt Würfelseiten).
+**Für alle Server gemeinsam:** Der Chat geht an alle Spieler im Verbund, eine private Nachricht (`/msg`) findet den Empfänger auf jedem Server, und `/liste` zeigt auch, wer auf den anderen Servern spielt. Teams, Einladungen, Ränge, Sperren, Stummschaltungen und Anmeldungen gelten überall: Ändert man sie auf einem Server, übernehmen die anderen sie innerhalb einer Sekunde (wer gesperrt wird, fliegt überall raus). Das Konto zieht mit dem Spieler um; Geld für jemanden, der gerade woanders spielt (z. B. aus einem Frachthafen), landet dort, abbuchen geht erst wieder, wenn er zurück ist.
+
+**Von selbst abgeben (Automatik):** Der Hauptserver misst laufend seine Last (Takt im Mittel über etwa 30 s, auf Wunsch auch die Bandbreite). Ist er 30 s lang ausgelastet, gibt er von selbst das fremde Sternsystem ab, das am meisten kostet (Spieler, Schiffe, Bauten), an den Partner mit der wenigsten Last; ist er danach 5 Minuten lang ruhig, holt er das System mit den wenigsten Spielern zurück. Zwischen zwei Wechseln liegen mindestens 2 Minuten (beim Zurückholen 10), damit nichts hin und her springt. Einstellbar in `verbund.txt`:
+
+```text
+automatisch: ja                # oder nein
+takt-grenze: 35                # ms, darüber gilt er als ausgelastet (ein Takt hat 50 ms)
+bandbreite-grenze: 40          # MB/s an alle Spieler zusammen (ohne: nur der Takt zählt)
+auto-ruhe: 120                 # s zwischen zwei Wechseln, alle anderen Zeiten richten sich danach
+```
+
+In der Konsole zeigt `zone auto` die gemessene Last, `zone auto aus` / `an` schaltet die Automatik vorübergehend ab. `zone testlast <ms>` bremst zum Ausprobieren jeden Takt künstlich.
+
+Geplant: Statt ganzer Sternsysteme auch einzelne Planeten und zuletzt Würfelseiten abgeben – und der Wechsel ohne Ladebild.
 
 ## Server-Verwalter mit Dashboard im Browser
 

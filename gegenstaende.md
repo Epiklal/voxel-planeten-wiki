@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-747 Stück, sortiert wie im Inventar.
+780 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -74,7 +74,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (14)
+## Raumfahrt (47)
 
 | | Name |
 |---|---|
@@ -92,6 +92,39 @@
 | ![](bilder/gegenstaende/dyson_satellit.png) | [Dyson-Satellit](gegenstaende/dyson_satellit.md) |
 | ![](bilder/gegenstaende/abgenutzter_raumanzug.png) | [Abgenutzter Raumanzug](gegenstaende/abgenutzter_raumanzug.md) |
 | ![](bilder/gegenstaende/kaputter_raumanzug.png) | [Kaputter Raumanzug](gegenstaende/kaputter_raumanzug.md) |
+| ![](bilder/gegenstaende/farbkabel_weiss.png) | [Farbkabel Weiß](gegenstaende/farbkabel_weiss.md) |
+| ![](bilder/gegenstaende/farbkabel_orange.png) | [Farbkabel Orange](gegenstaende/farbkabel_orange.md) |
+| ![](bilder/gegenstaende/farbkabel_magenta.png) | [Farbkabel Magenta](gegenstaende/farbkabel_magenta.md) |
+| ![](bilder/gegenstaende/farbkabel_hellblau.png) | [Farbkabel Hellblau](gegenstaende/farbkabel_hellblau.md) |
+| ![](bilder/gegenstaende/farbkabel_gelb.png) | [Farbkabel Gelb](gegenstaende/farbkabel_gelb.md) |
+| ![](bilder/gegenstaende/farbkabel_hellgruen.png) | [Farbkabel Hellgrün](gegenstaende/farbkabel_hellgruen.md) |
+| ![](bilder/gegenstaende/farbkabel_rosa.png) | [Farbkabel Rosa](gegenstaende/farbkabel_rosa.md) |
+| ![](bilder/gegenstaende/farbkabel_grau.png) | [Farbkabel Grau](gegenstaende/farbkabel_grau.md) |
+| ![](bilder/gegenstaende/farbkabel_hellgrau.png) | [Farbkabel Hellgrau](gegenstaende/farbkabel_hellgrau.md) |
+| ![](bilder/gegenstaende/farbkabel_tuerkis.png) | [Farbkabel Türkis](gegenstaende/farbkabel_tuerkis.md) |
+| ![](bilder/gegenstaende/farbkabel_lila.png) | [Farbkabel Lila](gegenstaende/farbkabel_lila.md) |
+| ![](bilder/gegenstaende/farbkabel_blau.png) | [Farbkabel Blau](gegenstaende/farbkabel_blau.md) |
+| ![](bilder/gegenstaende/farbkabel_braun.png) | [Farbkabel Braun](gegenstaende/farbkabel_braun.md) |
+| ![](bilder/gegenstaende/farbkabel_gruen.png) | [Farbkabel Grün](gegenstaende/farbkabel_gruen.md) |
+| ![](bilder/gegenstaende/farbkabel_rot.png) | [Farbkabel Rot](gegenstaende/farbkabel_rot.md) |
+| ![](bilder/gegenstaende/farbkabel_schwarz.png) | [Farbkabel Schwarz](gegenstaende/farbkabel_schwarz.md) |
+| ![](bilder/gegenstaende/buendelkabel.png) | [Bündelkabel](gegenstaende/buendelkabel.md) |
+| ![](bilder/gegenstaende/buendelkabel_weiss.png) | [Bündelkabel Weiß](gegenstaende/buendelkabel_weiss.md) |
+| ![](bilder/gegenstaende/buendelkabel_orange.png) | [Bündelkabel Orange](gegenstaende/buendelkabel_orange.md) |
+| ![](bilder/gegenstaende/buendelkabel_magenta.png) | [Bündelkabel Magenta](gegenstaende/buendelkabel_magenta.md) |
+| ![](bilder/gegenstaende/buendelkabel_hellblau.png) | [Bündelkabel Hellblau](gegenstaende/buendelkabel_hellblau.md) |
+| ![](bilder/gegenstaende/buendelkabel_gelb.png) | [Bündelkabel Gelb](gegenstaende/buendelkabel_gelb.md) |
+| ![](bilder/gegenstaende/buendelkabel_hellgruen.png) | [Bündelkabel Hellgrün](gegenstaende/buendelkabel_hellgruen.md) |
+| ![](bilder/gegenstaende/buendelkabel_rosa.png) | [Bündelkabel Rosa](gegenstaende/buendelkabel_rosa.md) |
+| ![](bilder/gegenstaende/buendelkabel_grau.png) | [Bündelkabel Grau](gegenstaende/buendelkabel_grau.md) |
+| ![](bilder/gegenstaende/buendelkabel_hellgrau.png) | [Bündelkabel Hellgrau](gegenstaende/buendelkabel_hellgrau.md) |
+| ![](bilder/gegenstaende/buendelkabel_tuerkis.png) | [Bündelkabel Türkis](gegenstaende/buendelkabel_tuerkis.md) |
+| ![](bilder/gegenstaende/buendelkabel_lila.png) | [Bündelkabel Lila](gegenstaende/buendelkabel_lila.md) |
+| ![](bilder/gegenstaende/buendelkabel_blau.png) | [Bündelkabel Blau](gegenstaende/buendelkabel_blau.md) |
+| ![](bilder/gegenstaende/buendelkabel_braun.png) | [Bündelkabel Braun](gegenstaende/buendelkabel_braun.md) |
+| ![](bilder/gegenstaende/buendelkabel_gruen.png) | [Bündelkabel Grün](gegenstaende/buendelkabel_gruen.md) |
+| ![](bilder/gegenstaende/buendelkabel_rot.png) | [Bündelkabel Rot](gegenstaende/buendelkabel_rot.md) |
+| ![](bilder/gegenstaende/buendelkabel_schwarz.png) | [Bündelkabel Schwarz](gegenstaende/buendelkabel_schwarz.md) |
 
 ## Werkzeuge (73)
 

@@ -11,5 +11,5 @@
 
 ## Verwendet für
 
-[Hellgraue Wolle](../bloecke/hellgraue_wolle.md), [Hellgraue Keramik](../bloecke/hellgraue_keramik.md), [Hellgrauer Trockenbeton](../bloecke/hellgrauer_trockenbeton.md)
+[Hellgraue Wolle](../bloecke/hellgraue_wolle.md), [Hellgraue Keramik](../bloecke/hellgraue_keramik.md), [Hellgrauer Trockenbeton](../bloecke/hellgrauer_trockenbeton.md), [Farbkabel Hellgrau](../gegenstaende/farbkabel_hellgrau.md), [Bündelkabel Hellgrau](../gegenstaende/buendelkabel_hellgrau.md)
 

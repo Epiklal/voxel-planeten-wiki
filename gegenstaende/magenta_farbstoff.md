@@ -10,5 +10,5 @@
 
 ## Verwendet für
 
-[Magenta Wolle](../bloecke/magenta_wolle.md), [Magenta Keramik](../bloecke/magenta_keramik.md), [Magenta Trockenbeton](../bloecke/magenta_trockenbeton.md)
+[Magenta Wolle](../bloecke/magenta_wolle.md), [Magenta Keramik](../bloecke/magenta_keramik.md), [Magenta Trockenbeton](../bloecke/magenta_trockenbeton.md), [Farbkabel Magenta](../gegenstaende/farbkabel_magenta.md), [Bündelkabel Magenta](../gegenstaende/buendelkabel_magenta.md)
 

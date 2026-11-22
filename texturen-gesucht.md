@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2101 Texturen sind noch 2101 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2134 Texturen sind noch 2134 mit KI gemacht.
 
 ## So machst du mit
 
@@ -872,7 +872,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1233)
+## Gegenstände (1266)
 
 | | Datei |
 |---|---|
@@ -1029,6 +1029,23 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/bronzestiefel_4222.png" class="textur" width="48" height="48" alt=""> | `items/bronzestiefel_4222.png` |
 | <img src="bilder/texturen/items/brot_1187.png" class="textur" width="48" height="48" alt=""> | `items/brot_1187.png` |
 | <img src="bilder/texturen/items/buch_1225.png" class="textur" width="48" height="48" alt=""> | `items/buch_1225.png` |
+| <img src="bilder/texturen/items/buendelkabel_1322.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_1322.png` |
+| <img src="bilder/texturen/items/buendelkabel_blau_1334.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_blau_1334.png` |
+| <img src="bilder/texturen/items/buendelkabel_braun_1335.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_braun_1335.png` |
+| <img src="bilder/texturen/items/buendelkabel_gelb_1327.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_gelb_1327.png` |
+| <img src="bilder/texturen/items/buendelkabel_grau_1330.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_grau_1330.png` |
+| <img src="bilder/texturen/items/buendelkabel_gruen_1336.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_gruen_1336.png` |
+| <img src="bilder/texturen/items/buendelkabel_hellblau_1326.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_hellblau_1326.png` |
+| <img src="bilder/texturen/items/buendelkabel_hellgrau_1331.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_hellgrau_1331.png` |
+| <img src="bilder/texturen/items/buendelkabel_hellgruen_1328.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_hellgruen_1328.png` |
+| <img src="bilder/texturen/items/buendelkabel_lila_1333.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_lila_1333.png` |
+| <img src="bilder/texturen/items/buendelkabel_magenta_1325.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_magenta_1325.png` |
+| <img src="bilder/texturen/items/buendelkabel_orange_1324.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_orange_1324.png` |
+| <img src="bilder/texturen/items/buendelkabel_rosa_1329.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_rosa_1329.png` |
+| <img src="bilder/texturen/items/buendelkabel_rot_1337.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_rot_1337.png` |
+| <img src="bilder/texturen/items/buendelkabel_schwarz_1338.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_schwarz_1338.png` |
+| <img src="bilder/texturen/items/buendelkabel_tuerkis_1332.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_tuerkis_1332.png` |
+| <img src="bilder/texturen/items/buendelkabel_weiss_1323.png" class="textur" width="48" height="48" alt=""> | `items/buendelkabel_weiss_1323.png` |
 | <img src="bilder/texturen/items/cadmium_2048.png" class="textur" width="48" height="48" alt=""> | `items/cadmium_2048.png` |
 | <img src="bilder/texturen/items/cadmiumaxt_3385.png" class="textur" width="48" height="48" alt=""> | `items/cadmiumaxt_3385.png` |
 | <img src="bilder/texturen/items/cadmiumbeinschutz_3389.png" class="textur" width="48" height="48" alt=""> | `items/cadmiumbeinschutz_3389.png` |
@@ -1189,6 +1206,22 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/europiumstiefel_3510.png" class="textur" width="48" height="48" alt=""> | `items/europiumstiefel_3510.png` |
 | <img src="bilder/texturen/items/faden_1220.png" class="textur" width="48" height="48" alt=""> | `items/faden_1220.png` |
 | <img src="bilder/texturen/items/fallschacht_1032.png" class="textur" width="48" height="48" alt=""> | `items/fallschacht_1032.png` |
+| <img src="bilder/texturen/items/farbkabel_blau_1317.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_blau_1317.png` |
+| <img src="bilder/texturen/items/farbkabel_braun_1318.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_braun_1318.png` |
+| <img src="bilder/texturen/items/farbkabel_gelb_1310.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_gelb_1310.png` |
+| <img src="bilder/texturen/items/farbkabel_grau_1313.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_grau_1313.png` |
+| <img src="bilder/texturen/items/farbkabel_gruen_1319.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_gruen_1319.png` |
+| <img src="bilder/texturen/items/farbkabel_hellblau_1309.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_hellblau_1309.png` |
+| <img src="bilder/texturen/items/farbkabel_hellgrau_1314.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_hellgrau_1314.png` |
+| <img src="bilder/texturen/items/farbkabel_hellgruen_1311.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_hellgruen_1311.png` |
+| <img src="bilder/texturen/items/farbkabel_lila_1316.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_lila_1316.png` |
+| <img src="bilder/texturen/items/farbkabel_magenta_1308.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_magenta_1308.png` |
+| <img src="bilder/texturen/items/farbkabel_orange_1307.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_orange_1307.png` |
+| <img src="bilder/texturen/items/farbkabel_rosa_1312.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_rosa_1312.png` |
+| <img src="bilder/texturen/items/farbkabel_rot_1320.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_rot_1320.png` |
+| <img src="bilder/texturen/items/farbkabel_schwarz_1321.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_schwarz_1321.png` |
+| <img src="bilder/texturen/items/farbkabel_tuerkis_1315.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_tuerkis_1315.png` |
+| <img src="bilder/texturen/items/farbkabel_weiss_1306.png" class="textur" width="48" height="48" alt=""> | `items/farbkabel_weiss_1306.png` |
 | <img src="bilder/texturen/items/feder_1212.png" class="textur" width="48" height="48" alt=""> | `items/feder_1212.png` |
 | <img src="bilder/texturen/items/fermium_2100.png" class="textur" width="48" height="48" alt=""> | `items/fermium_2100.png` |
 | <img src="bilder/texturen/items/feuerstein_1223.png" class="textur" width="48" height="48" alt=""> | `items/feuerstein_1223.png` |
