@@ -10,5 +10,5 @@ Aufgerollte Atomlagen aus Kohlenstoff: zugfester als alles andere. Ein Faden so 
 
 ## Verwendet für
 
-[Nanohelm](../gegenstaende/nanohelm.md), [Nanoharnisch](../gegenstaende/nanoharnisch.md), [Nanobeinschutz](../gegenstaende/nanobeinschutz.md), [Nanostiefel](../gegenstaende/nanostiefel.md), [Hightech-Rucksack](../gegenstaende/hightech_rucksack.md), [Nano-Spitzhacke](../gegenstaende/nano_spitzhacke.md), [Nano-Axt](../gegenstaende/nano_axt.md), [Nanosäbel](../gegenstaende/nanosaebel.md)
+[Nanohelm](../gegenstaende/nanohelm.md), [Nanoharnisch](../gegenstaende/nanoharnisch.md), [Nanobeinschutz](../gegenstaende/nanobeinschutz.md), [Nanostiefel](../gegenstaende/nanostiefel.md), [Hightech-Rucksack](../gegenstaende/hightech_rucksack.md), [Panzerhaut-Implantat](../gegenstaende/panzerhaut_implantat.md), [Bio-Filter](../gegenstaende/bio_filter.md), [Nano-Spitzhacke](../gegenstaende/nano_spitzhacke.md), [Nano-Axt](../gegenstaende/nano_axt.md), [Nanosäbel](../gegenstaende/nanosaebel.md)
 

@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2154 Texturen sind noch 2154 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2163 Texturen sind noch 2163 mit KI gemacht.
 
 ## So machst du mit
 
@@ -872,7 +872,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1286)
+## Gegenstände (1295)
 
 | | Datei |
 |---|---|
@@ -938,6 +938,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/anodenschlamm_1116.png" class="textur" width="48" height="48" alt=""> | `items/anodenschlamm_1116.png` |
 | <img src="bilder/texturen/items/antimon_2051.png" class="textur" width="48" height="48" alt=""> | `items/antimon_2051.png` |
 | <img src="bilder/texturen/items/antimonkabel_6030.png" class="textur" width="48" height="48" alt=""> | `items/antimonkabel_6030.png` |
+| <img src="bilder/texturen/items/anzeigelampe_1363.png" class="textur" width="48" height="48" alt=""> | `items/anzeigelampe_1363.png` |
 | <img src="bilder/texturen/items/apfel_1188.png" class="textur" width="48" height="48" alt=""> | `items/apfel_1188.png` |
 | <img src="bilder/texturen/items/argon_2018.png" class="textur" width="48" height="48" alt=""> | `items/argon_2018.png` |
 | <img src="bilder/texturen/items/arsen_2033.png" class="textur" width="48" height="48" alt=""> | `items/arsen_2033.png` |
@@ -986,6 +987,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/berylliumschwert_3034.png" class="textur" width="48" height="48" alt=""> | `items/berylliumschwert_3034.png` |
 | <img src="bilder/texturen/items/berylliumspitzhacke_3032.png" class="textur" width="48" height="48" alt=""> | `items/berylliumspitzhacke_3032.png` |
 | <img src="bilder/texturen/items/berylliumstiefel_3038.png" class="textur" width="48" height="48" alt=""> | `items/berylliumstiefel_3038.png` |
+| <img src="bilder/texturen/items/bewegungsmelder_1367.png" class="textur" width="48" height="48" alt=""> | `items/bewegungsmelder_1367.png` |
+| <img src="bilder/texturen/items/bio_filter_1362.png" class="textur" width="48" height="48" alt=""> | `items/bio_filter_1362.png` |
 | <img src="bilder/texturen/items/biomasse_brenner_1021.png" class="textur" width="48" height="48" alt=""> | `items/biomasse_brenner_1021.png` |
 | <img src="bilder/texturen/items/bismut_2083.png" class="textur" width="48" height="48" alt=""> | `items/bismut_2083.png` |
 | <img src="bilder/texturen/items/bismutaxt_3665.png" class="textur" width="48" height="48" alt=""> | `items/bismutaxt_3665.png` |
@@ -1449,6 +1452,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/kubisches_bornitrid_1157.png" class="textur" width="48" height="48" alt=""> | `items/kubisches_bornitrid_1157.png` |
 | <img src="bilder/texturen/items/kuerbiskerne_1190.png" class="textur" width="48" height="48" alt=""> | `items/kuerbiskerne_1190.png` |
 | <img src="bilder/texturen/items/kuerbiskuchen_1192.png" class="textur" width="48" height="48" alt=""> | `items/kuerbiskuchen_1192.png` |
+| <img src="bilder/texturen/items/kunstherz_1361.png" class="textur" width="48" height="48" alt=""> | `items/kunstherz_1361.png` |
 | <img src="bilder/texturen/items/kunststoff_1089.png" class="textur" width="48" height="48" alt=""> | `items/kunststoff_1089.png` |
 | <img src="bilder/texturen/items/kupferaxt_3233.png" class="textur" width="48" height="48" alt=""> | `items/kupferaxt_3233.png` |
 | <img src="bilder/texturen/items/kupferbarren_1002.png" class="textur" width="48" height="48" alt=""> | `items/kupferbarren_1002.png` |
@@ -1479,6 +1483,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/leder_1211.png" class="textur" width="48" height="48" alt=""> | `items/leder_1211.png` |
 | <img src="bilder/texturen/items/leere_trinkflasche_1296.png" class="textur" width="48" height="48" alt=""> | `items/leere_trinkflasche_1296.png` |
 | <img src="bilder/texturen/items/lenkrakete_1231.png" class="textur" width="48" height="48" alt=""> | `items/lenkrakete_1231.png` |
+| <img src="bilder/texturen/items/lichtsensor_1365.png" class="textur" width="48" height="48" alt=""> | `items/lichtsensor_1365.png` |
 | <img src="bilder/texturen/items/lieferdrohne_1256.png" class="textur" width="48" height="48" alt=""> | `items/lieferdrohne_1256.png` |
 | <img src="bilder/texturen/items/lithium_2003.png" class="textur" width="48" height="48" alt=""> | `items/lithium_2003.png` |
 | <img src="bilder/texturen/items/lithium_ionen_zelle_1149.png" class="textur" width="48" height="48" alt=""> | `items/lithium_ionen_zelle_1149.png` |
@@ -1501,6 +1506,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/loetzinnstiefel_4286.png" class="textur" width="48" height="48" alt=""> | `items/loetzinnstiefel_4286.png` |
 | <img src="bilder/texturen/items/logikplatte_1351.png" class="textur" width="48" height="48" alt=""> | `items/logikplatte_1351.png` |
 | <img src="bilder/texturen/items/luftzerlegungsanlage_1122.png" class="textur" width="48" height="48" alt=""> | `items/luftzerlegungsanlage_1122.png` |
+| <img src="bilder/texturen/items/lungenimplantat_1360.png" class="textur" width="48" height="48" alt=""> | `items/lungenimplantat_1360.png` |
 | <img src="bilder/texturen/items/lutetium_2071.png" class="textur" width="48" height="48" alt=""> | `items/lutetium_2071.png` |
 | <img src="bilder/texturen/items/lutetiumaxt_3569.png" class="textur" width="48" height="48" alt=""> | `items/lutetiumaxt_3569.png` |
 | <img src="bilder/texturen/items/lutetiumbeinschutz_3573.png" class="textur" width="48" height="48" alt=""> | `items/lutetiumbeinschutz_3573.png` |
@@ -1686,6 +1692,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/palladiumspitzhacke_3368.png" class="textur" width="48" height="48" alt=""> | `items/palladiumspitzhacke_3368.png` |
 | <img src="bilder/texturen/items/palladiumstiefel_3374.png" class="textur" width="48" height="48" alt=""> | `items/palladiumstiefel_3374.png` |
 | <img src="bilder/texturen/items/panzerbrechende_patronen_1238.png" class="textur" width="48" height="48" alt=""> | `items/panzerbrechende_patronen_1238.png` |
+| <img src="bilder/texturen/items/panzerhaut_implantat_1359.png" class="textur" width="48" height="48" alt=""> | `items/panzerhaut_implantat_1359.png` |
 | <img src="bilder/texturen/items/papier_1224.png" class="textur" width="48" height="48" alt=""> | `items/papier_1224.png` |
 | <img src="bilder/texturen/items/patronen_1237.png" class="textur" width="48" height="48" alt=""> | `items/patronen_1237.png` |
 | <img src="bilder/texturen/items/permalloy_2230.png" class="textur" width="48" height="48" alt=""> | `items/permalloy_2230.png` |
@@ -1779,6 +1786,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/radon_2086.png" class="textur" width="48" height="48" alt=""> | `items/radon_2086.png` |
 | <img src="bilder/texturen/items/raketentreibstoff_1096.png" class="textur" width="48" height="48" alt=""> | `items/raketentreibstoff_1096.png` |
 | <img src="bilder/texturen/items/raumanzug_1048.png" class="textur" width="48" height="48" alt=""> | `items/raumanzug_1048.png` |
+| <img src="bilder/texturen/items/regensensor_1366.png" class="textur" width="48" height="48" alt=""> | `items/regensensor_1366.png` |
 | <img src="bilder/texturen/items/revolver_1234.png" class="textur" width="48" height="48" alt=""> | `items/revolver_1234.png` |
 | <img src="bilder/texturen/items/rhenium_2075.png" class="textur" width="48" height="48" alt=""> | `items/rhenium_2075.png` |
 | <img src="bilder/texturen/items/rheniumaxt_3601.png" class="textur" width="48" height="48" alt=""> | `items/rheniumaxt_3601.png` |
@@ -2124,6 +2132,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/ziegel_1160.png" class="textur" width="48" height="48" alt=""> | `items/ziegel_1160.png` |
 | <img src="bilder/texturen/items/zielfernrohr_4_1243.png" class="textur" width="48" height="48" alt=""> | `items/zielfernrohr_4_1243.png` |
 | <img src="bilder/texturen/items/zielfernrohr_8_1244.png" class="textur" width="48" height="48" alt=""> | `items/zielfernrohr_8_1244.png` |
+| <img src="bilder/texturen/items/ziffernanzeige_1364.png" class="textur" width="48" height="48" alt=""> | `items/ziffernanzeige_1364.png` |
 | <img src="bilder/texturen/items/zink_2030.png" class="textur" width="48" height="48" alt=""> | `items/zink_2030.png` |
 | <img src="bilder/texturen/items/zinkaxt_3241.png" class="textur" width="48" height="48" alt=""> | `items/zinkaxt_3241.png` |
 | <img src="bilder/texturen/items/zinkbeinschutz_3245.png" class="textur" width="48" height="48" alt=""> | `items/zinkbeinschutz_3245.png` |

@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-800 Stück, sortiert wie im Inventar.
+809 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -74,7 +74,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (67)
+## Raumfahrt (72)
 
 | | Name |
 |---|---|
@@ -145,6 +145,11 @@
 | ![](bilder/gegenstaende/verzoegerer.png) | [Verzögerer](gegenstaende/verzoegerer.md) |
 | ![](bilder/gegenstaende/zufallsgeber.png) | [Zufallsgeber](gegenstaende/zufallsgeber.md) |
 | ![](bilder/gegenstaende/synchronisierer.png) | [Synchronisierer](gegenstaende/synchronisierer.md) |
+| ![](bilder/gegenstaende/anzeigelampe.png) | [Anzeigelampe](gegenstaende/anzeigelampe.md) |
+| ![](bilder/gegenstaende/ziffernanzeige.png) | [Ziffernanzeige](gegenstaende/ziffernanzeige.md) |
+| ![](bilder/gegenstaende/lichtsensor.png) | [Lichtsensor](gegenstaende/lichtsensor.md) |
+| ![](bilder/gegenstaende/regensensor.png) | [Regensensor](gegenstaende/regensensor.md) |
+| ![](bilder/gegenstaende/bewegungsmelder.png) | [Bewegungsmelder](gegenstaende/bewegungsmelder.md) |
 
 ## Werkzeuge (73)
 
@@ -694,7 +699,7 @@
 | ![](bilder/gegenstaende/kanthalbeinschutz.png) | [Kanthalbeinschutz](gegenstaende/kanthalbeinschutz.md) |
 | ![](bilder/gegenstaende/kanthalstiefel.png) | [Kanthalstiefel](gegenstaende/kanthalstiefel.md) |
 
-## Zutaten (98)
+## Zutaten (102)
 
 | | Name |
 |---|---|
@@ -796,6 +801,10 @@
 | ![](bilder/gegenstaende/stapelmodul.png) | [Stapelmodul](gegenstaende/stapelmodul.md) |
 | ![](bilder/gegenstaende/lagerimplantat.png) | [Lagerimplantat](gegenstaende/lagerimplantat.md) |
 | ![](bilder/gegenstaende/stapelimplantat.png) | [Stapelimplantat](gegenstaende/stapelimplantat.md) |
+| ![](bilder/gegenstaende/panzerhaut_implantat.png) | [Panzerhaut-Implantat](gegenstaende/panzerhaut_implantat.md) |
+| ![](bilder/gegenstaende/lungenimplantat.png) | [Lungenimplantat](gegenstaende/lungenimplantat.md) |
+| ![](bilder/gegenstaende/kunstherz.png) | [Kunstherz](gegenstaende/kunstherz.md) |
+| ![](bilder/gegenstaende/bio_filter.png) | [Bio-Filter](gegenstaende/bio_filter.md) |
 
 ## Chemie (35)
 

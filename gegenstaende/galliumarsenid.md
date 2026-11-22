@@ -10,5 +10,5 @@ Daraus sind die besten Solarzellen – auf Satelliten und den Mars-Rovern.
 
 ## Verwendet für
 
-[Stapelimplantat](../gegenstaende/stapelimplantat.md), [Solarmodul](../gegenstaende/solarmodul.md)
+[Stapelimplantat](../gegenstaende/stapelimplantat.md), [Kunstherz](../gegenstaende/kunstherz.md), [Solarmodul](../gegenstaende/solarmodul.md)
 

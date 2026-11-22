@@ -41,7 +41,7 @@ Dieses Wiki wird aus den Daten des Spiels erzeugt – was hier steht, gilt genau
 - [Echte Exoplaneten](exoplaneten.md) – 43 Planeten um 18 fremde Sterne
 - [Alle Monde](monde.md) – 466 Monde
 - [Alle Blöcke](bloecke.md) – 763 Blöcke
-- [Alle Gegenstände](gegenstaende.md) – 800 Gegenstände, Maschinen und Bauteile
+- [Alle Gegenstände](gegenstaende.md) – 809 Gegenstände, Maschinen und Bauteile
 - [Periodensystem](periodensystem.md) – alle 118 Elemente
 - [Legierungen](legierungen.md) – 42 Legierungen
 - [Reaktionen](reaktionen.md) – Chemie, Kernphysik und Metalle im Wasser

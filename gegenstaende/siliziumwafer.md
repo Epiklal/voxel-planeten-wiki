@@ -10,5 +10,5 @@
 
 ## Verwendet für
 
-[Lagerimplantat](../gegenstaende/lagerimplantat.md), [Stapelimplantat](../gegenstaende/stapelimplantat.md), [Implantatstation](../gegenstaende/implantatstation.md), [Solarmodul](../gegenstaende/solarmodul.md)
+[Lagerimplantat](../gegenstaende/lagerimplantat.md), [Stapelimplantat](../gegenstaende/stapelimplantat.md), [Panzerhaut-Implantat](../gegenstaende/panzerhaut_implantat.md), [Lungenimplantat](../gegenstaende/lungenimplantat.md), [Kunstherz](../gegenstaende/kunstherz.md), [Bio-Filter](../gegenstaende/bio_filter.md), [Implantatstation](../gegenstaende/implantatstation.md), [Solarmodul](../gegenstaende/solarmodul.md)
 

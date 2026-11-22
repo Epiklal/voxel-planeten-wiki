@@ -680,6 +680,15 @@ gegenstaende/impulsformer.md	Impulsformer	Gegenstand
 gegenstaende/verzoegerer.md	Verzögerer	Gegenstand
 gegenstaende/zufallsgeber.md	Zufallsgeber	Gegenstand
 gegenstaende/synchronisierer.md	Synchronisierer	Gegenstand
+gegenstaende/panzerhaut_implantat.md	Panzerhaut-Implantat	Gegenstand
+gegenstaende/lungenimplantat.md	Lungenimplantat	Gegenstand
+gegenstaende/kunstherz.md	Kunstherz	Gegenstand
+gegenstaende/bio_filter.md	Bio-Filter	Gegenstand
+gegenstaende/anzeigelampe.md	Anzeigelampe	Gegenstand
+gegenstaende/ziffernanzeige.md	Ziffernanzeige	Gegenstand
+gegenstaende/lichtsensor.md	Lichtsensor	Gegenstand
+gegenstaende/regensensor.md	Regensensor	Gegenstand
+gegenstaende/bewegungsmelder.md	Bewegungsmelder	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
