@@ -11,3 +11,7 @@
 
 - 3 × [Stein](../bloecke/stein.md) → 6 × [Steinstufe](../bloecke/steinstufe.md) (Werkbank, 1,5 s)
 
+## Verwendet für
+
+[Logikplatte](../gegenstaende/logikplatte.md)
+

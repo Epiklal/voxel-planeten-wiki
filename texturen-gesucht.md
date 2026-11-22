@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2134 Texturen sind noch 2134 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2147 Texturen sind noch 2147 mit KI gemacht.
 
 ## So machst du mit
 
@@ -872,7 +872,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1266)
+## Gegenstände (1279)
 
 | | Datei |
 |---|---|
@@ -1108,6 +1108,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/curiumschwert_3770.png" class="textur" width="48" height="48" alt=""> | `items/curiumschwert_3770.png` |
 | <img src="bilder/texturen/items/curiumspitzhacke_3768.png" class="textur" width="48" height="48" alt=""> | `items/curiumspitzhacke_3768.png` |
 | <img src="bilder/texturen/items/curiumstiefel_3774.png" class="textur" width="48" height="48" alt=""> | `items/curiumstiefel_3774.png` |
+| <img src="bilder/texturen/items/d_speicher_1350.png" class="textur" width="48" height="48" alt=""> | `items/d_speicher_1350.png` |
 | <img src="bilder/texturen/items/damaszener_stahl_2222.png" class="textur" width="48" height="48" alt=""> | `items/damaszener_stahl_2222.png` |
 | <img src="bilder/texturen/items/damaszener_stahlaxt_4377.png" class="textur" width="48" height="48" alt=""> | `items/damaszener_stahlaxt_4377.png` |
 | <img src="bilder/texturen/items/damaszener_stahlbeinschutz_4381.png" class="textur" width="48" height="48" alt=""> | `items/damaszener_stahlbeinschutz_4381.png` |
@@ -1497,6 +1498,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/loetzinnschwert_4282.png" class="textur" width="48" height="48" alt=""> | `items/loetzinnschwert_4282.png` |
 | <img src="bilder/texturen/items/loetzinnspitzhacke_4280.png" class="textur" width="48" height="48" alt=""> | `items/loetzinnspitzhacke_4280.png` |
 | <img src="bilder/texturen/items/loetzinnstiefel_4286.png" class="textur" width="48" height="48" alt=""> | `items/loetzinnstiefel_4286.png` |
+| <img src="bilder/texturen/items/logikplatte_1351.png" class="textur" width="48" height="48" alt=""> | `items/logikplatte_1351.png` |
 | <img src="bilder/texturen/items/luftzerlegungsanlage_1122.png" class="textur" width="48" height="48" alt=""> | `items/luftzerlegungsanlage_1122.png` |
 | <img src="bilder/texturen/items/lutetium_2071.png" class="textur" width="48" height="48" alt=""> | `items/lutetium_2071.png` |
 | <img src="bilder/texturen/items/lutetiumaxt_3569.png" class="textur" width="48" height="48" alt=""> | `items/lutetiumaxt_3569.png` |
@@ -1580,6 +1582,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/moscovium_2115.png" class="textur" width="48" height="48" alt=""> | `items/moscovium_2115.png` |
 | <img src="bilder/texturen/items/muenze_1252.png" class="textur" width="48" height="48" alt=""> | `items/muenze_1252.png` |
 | <img src="bilder/texturen/items/nak_2241.png" class="textur" width="48" height="48" alt=""> | `items/nak_2241.png` |
+| <img src="bilder/texturen/items/nand_gatter_1343.png" class="textur" width="48" height="48" alt=""> | `items/nand_gatter_1343.png` |
 | <img src="bilder/texturen/items/nano_axt_1128.png" class="textur" width="48" height="48" alt=""> | `items/nano_axt_1128.png` |
 | <img src="bilder/texturen/items/nano_spitzhacke_1127.png" class="textur" width="48" height="48" alt=""> | `items/nano_spitzhacke_1127.png` |
 | <img src="bilder/texturen/items/nanobeinschutz_1068.png" class="textur" width="48" height="48" alt=""> | `items/nanobeinschutz_1068.png` |
@@ -1631,6 +1634,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/nichromschwert_4266.png" class="textur" width="48" height="48" alt=""> | `items/nichromschwert_4266.png` |
 | <img src="bilder/texturen/items/nichromspitzhacke_4264.png" class="textur" width="48" height="48" alt=""> | `items/nichromspitzhacke_4264.png` |
 | <img src="bilder/texturen/items/nichromstiefel_4270.png" class="textur" width="48" height="48" alt=""> | `items/nichromstiefel_4270.png` |
+| <img src="bilder/texturen/items/nicht_gatter_1341.png" class="textur" width="48" height="48" alt=""> | `items/nicht_gatter_1341.png` |
 | <img src="bilder/texturen/items/nickel_2028.png" class="textur" width="48" height="48" alt=""> | `items/nickel_2028.png` |
 | <img src="bilder/texturen/items/nickelaxt_3225.png" class="textur" width="48" height="48" alt=""> | `items/nickelaxt_3225.png` |
 | <img src="bilder/texturen/items/nickelbeinschutz_3229.png" class="textur" width="48" height="48" alt=""> | `items/nickelbeinschutz_3229.png` |
@@ -1658,6 +1662,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/nitinolspitzhacke_4344.png" class="textur" width="48" height="48" alt=""> | `items/nitinolspitzhacke_4344.png` |
 | <img src="bilder/texturen/items/nitinolstiefel_4350.png" class="textur" width="48" height="48" alt=""> | `items/nitinolstiefel_4350.png` |
 | <img src="bilder/texturen/items/nobelium_2102.png" class="textur" width="48" height="48" alt=""> | `items/nobelium_2102.png` |
+| <img src="bilder/texturen/items/nor_gatter_1340.png" class="textur" width="48" height="48" alt=""> | `items/nor_gatter_1340.png` |
+| <img src="bilder/texturen/items/oder_gatter_1339.png" class="textur" width="48" height="48" alt=""> | `items/oder_gatter_1339.png` |
 | <img src="bilder/texturen/items/ofen_1014.png" class="textur" width="48" height="48" alt=""> | `items/ofen_1014.png` |
 | <img src="bilder/texturen/items/ofenkartoffel_1183.png" class="textur" width="48" height="48" alt=""> | `items/ofenkartoffel_1183.png` |
 | <img src="bilder/texturen/items/oganesson_2118.png" class="textur" width="48" height="48" alt=""> | `items/oganesson_2118.png` |
@@ -1750,6 +1756,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/protactiniumschwert_3730.png" class="textur" width="48" height="48" alt=""> | `items/protactiniumschwert_3730.png` |
 | <img src="bilder/texturen/items/protactiniumspitzhacke_3728.png" class="textur" width="48" height="48" alt=""> | `items/protactiniumspitzhacke_3728.png` |
 | <img src="bilder/texturen/items/protactiniumstiefel_3734.png" class="textur" width="48" height="48" alt=""> | `items/protactiniumstiefel_3734.png` |
+| <img src="bilder/texturen/items/puffer_gatter_1346.png" class="textur" width="48" height="48" alt=""> | `items/puffer_gatter_1346.png` |
 | <img src="bilder/texturen/items/quanten_axt_1131.png" class="textur" width="48" height="48" alt=""> | `items/quanten_axt_1131.png` |
 | <img src="bilder/texturen/items/quanten_spitzhacke_1130.png" class="textur" width="48" height="48" alt=""> | `items/quanten_spitzhacke_1130.png` |
 | <img src="bilder/texturen/items/quantenbeinschutz_1072.png" class="textur" width="48" height="48" alt=""> | `items/quantenbeinschutz_1072.png` |
@@ -1809,6 +1816,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/rotor_1028.png" class="textur" width="48" height="48" alt=""> | `items/rotor_1028.png` |
 | <img src="bilder/texturen/items/rotpunktvisier_1242.png" class="textur" width="48" height="48" alt=""> | `items/rotpunktvisier_1242.png` |
 | <img src="bilder/texturen/items/rotschlamm_1115.png" class="textur" width="48" height="48" alt=""> | `items/rotschlamm_1115.png` |
+| <img src="bilder/texturen/items/rs_speicher_1348.png" class="textur" width="48" height="48" alt=""> | `items/rs_speicher_1348.png` |
 | <img src="bilder/texturen/items/rubidium_2037.png" class="textur" width="48" height="48" alt=""> | `items/rubidium_2037.png` |
 | <img src="bilder/texturen/items/ruthenium_2044.png" class="textur" width="48" height="48" alt=""> | `items/ruthenium_2044.png` |
 | <img src="bilder/texturen/items/rutheniumaxt_3353.png" class="textur" width="48" height="48" alt=""> | `items/rutheniumaxt_3353.png` |
@@ -2022,6 +2030,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/trinkflasche_1297.png" class="textur" width="48" height="48" alt=""> | `items/trinkflasche_1297.png` |
 | <img src="bilder/texturen/items/trommelmagazin_1249.png" class="textur" width="48" height="48" alt=""> | `items/trommelmagazin_1249.png` |
 | <img src="bilder/texturen/items/tuerkiser_farbstoff_1172.png" class="textur" width="48" height="48" alt=""> | `items/tuerkiser_farbstoff_1172.png` |
+| <img src="bilder/texturen/items/umschalt_speicher_1349.png" class="textur" width="48" height="48" alt=""> | `items/umschalt_speicher_1349.png` |
+| <img src="bilder/texturen/items/und_gatter_1342.png" class="textur" width="48" height="48" alt=""> | `items/und_gatter_1342.png` |
 | <img src="bilder/texturen/items/uran_2092.png" class="textur" width="48" height="48" alt=""> | `items/uran_2092.png` |
 | <img src="bilder/texturen/items/uranaxt_3737.png" class="textur" width="48" height="48" alt=""> | `items/uranaxt_3737.png` |
 | <img src="bilder/texturen/items/uranbeinschutz_3741.png" class="textur" width="48" height="48" alt=""> | `items/uranbeinschutz_3741.png` |
@@ -2046,6 +2056,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/verstaerkter_rucksack_1299.png" class="textur" width="48" height="48" alt=""> | `items/verstaerkter_rucksack_1299.png` |
 | <img src="bilder/texturen/items/verteiler_1018.png" class="textur" width="48" height="48" alt=""> | `items/verteiler_1018.png` |
 | <img src="bilder/texturen/items/violetter_farbstoff_1173.png" class="textur" width="48" height="48" alt=""> | `items/violetter_farbstoff_1173.png` |
+| <img src="bilder/texturen/items/waehler_1347.png" class="textur" width="48" height="48" alt=""> | `items/waehler_1347.png` |
 | <img src="bilder/texturen/items/wasserpumpe_1036.png" class="textur" width="48" height="48" alt=""> | `items/wasserpumpe_1036.png` |
 | <img src="bilder/texturen/items/wasserstoff_2001.png" class="textur" width="48" height="48" alt=""> | `items/wasserstoff_2001.png` |
 | <img src="bilder/texturen/items/weisser_farbstoff_1163.png" class="textur" width="48" height="48" alt=""> | `items/weisser_farbstoff_1163.png` |
@@ -2077,6 +2088,8 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/woodsches_metallspitzhacke_4416.png" class="textur" width="48" height="48" alt=""> | `items/woodsches_metallspitzhacke_4416.png` |
 | <img src="bilder/texturen/items/woodsches_metallstiefel_4422.png" class="textur" width="48" height="48" alt=""> | `items/woodsches_metallstiefel_4422.png` |
 | <img src="bilder/texturen/items/xenon_2054.png" class="textur" width="48" height="48" alt=""> | `items/xenon_2054.png` |
+| <img src="bilder/texturen/items/xnor_gatter_1345.png" class="textur" width="48" height="48" alt=""> | `items/xnor_gatter_1345.png` |
+| <img src="bilder/texturen/items/xor_gatter_1344.png" class="textur" width="48" height="48" alt=""> | `items/xor_gatter_1344.png` |
 | <img src="bilder/texturen/items/ybco_supraleiter_1150.png" class="textur" width="48" height="48" alt=""> | `items/ybco_supraleiter_1150.png` |
 | <img src="bilder/texturen/items/ytterbium_2070.png" class="textur" width="48" height="48" alt=""> | `items/ytterbium_2070.png` |
 | <img src="bilder/texturen/items/ytterbiumaxt_3561.png" class="textur" width="48" height="48" alt=""> | `items/ytterbiumaxt_3561.png` |

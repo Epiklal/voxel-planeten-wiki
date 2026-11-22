@@ -11,3 +11,7 @@
 
 - 3 × [Glatter Stein](../bloecke/glatter_stein.md) → 6 × [Glatte Steinstufe](../bloecke/glatte_steinstufe.md) (Werkbank, 1,5 s)
 
+## Verwendet für
+
+[Logikplatte](../gegenstaende/logikplatte.md)
+

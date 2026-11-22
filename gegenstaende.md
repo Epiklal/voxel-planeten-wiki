@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-780 Stück, sortiert wie im Inventar.
+793 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -74,7 +74,7 @@
 | ![](bilder/gegenstaende/transformator_v4.png) | [Transformator V4](gegenstaende/transformator_v4.md) |
 | ![](bilder/gegenstaende/mini_transformator.png) | [Mini-Transformator](gegenstaende/mini_transformator.md) |
 
-## Raumfahrt (47)
+## Raumfahrt (60)
 
 | | Name |
 |---|---|
@@ -125,6 +125,19 @@
 | ![](bilder/gegenstaende/buendelkabel_gruen.png) | [Bündelkabel Grün](gegenstaende/buendelkabel_gruen.md) |
 | ![](bilder/gegenstaende/buendelkabel_rot.png) | [Bündelkabel Rot](gegenstaende/buendelkabel_rot.md) |
 | ![](bilder/gegenstaende/buendelkabel_schwarz.png) | [Bündelkabel Schwarz](gegenstaende/buendelkabel_schwarz.md) |
+| ![](bilder/gegenstaende/oder_gatter.png) | [ODER-Gatter](gegenstaende/oder_gatter.md) |
+| ![](bilder/gegenstaende/nor_gatter.png) | [NOR-Gatter](gegenstaende/nor_gatter.md) |
+| ![](bilder/gegenstaende/nicht_gatter.png) | [NICHT-Gatter](gegenstaende/nicht_gatter.md) |
+| ![](bilder/gegenstaende/und_gatter.png) | [UND-Gatter](gegenstaende/und_gatter.md) |
+| ![](bilder/gegenstaende/nand_gatter.png) | [NAND-Gatter](gegenstaende/nand_gatter.md) |
+| ![](bilder/gegenstaende/xor_gatter.png) | [XOR-Gatter](gegenstaende/xor_gatter.md) |
+| ![](bilder/gegenstaende/xnor_gatter.png) | [XNOR-Gatter](gegenstaende/xnor_gatter.md) |
+| ![](bilder/gegenstaende/puffer_gatter.png) | [Puffer-Gatter](gegenstaende/puffer_gatter.md) |
+| ![](bilder/gegenstaende/waehler.png) | [Wähler](gegenstaende/waehler.md) |
+| ![](bilder/gegenstaende/rs_speicher.png) | [RS-Speicher](gegenstaende/rs_speicher.md) |
+| ![](bilder/gegenstaende/umschalt_speicher.png) | [Umschalt-Speicher](gegenstaende/umschalt_speicher.md) |
+| ![](bilder/gegenstaende/d_speicher.png) | [D-Speicher](gegenstaende/d_speicher.md) |
+| ![](bilder/gegenstaende/logikplatte.png) | [Logikplatte](gegenstaende/logikplatte.md) |
 
 ## Werkzeuge (73)
 

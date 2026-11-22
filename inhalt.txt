@@ -660,6 +660,19 @@ gegenstaende/buendelkabel_braun.md	Bündelkabel Braun	Gegenstand
 gegenstaende/buendelkabel_gruen.md	Bündelkabel Grün	Gegenstand
 gegenstaende/buendelkabel_rot.md	Bündelkabel Rot	Gegenstand
 gegenstaende/buendelkabel_schwarz.md	Bündelkabel Schwarz	Gegenstand
+gegenstaende/oder_gatter.md	ODER-Gatter	Gegenstand
+gegenstaende/nor_gatter.md	NOR-Gatter	Gegenstand
+gegenstaende/nicht_gatter.md	NICHT-Gatter	Gegenstand
+gegenstaende/und_gatter.md	UND-Gatter	Gegenstand
+gegenstaende/nand_gatter.md	NAND-Gatter	Gegenstand
+gegenstaende/xor_gatter.md	XOR-Gatter	Gegenstand
+gegenstaende/xnor_gatter.md	XNOR-Gatter	Gegenstand
+gegenstaende/puffer_gatter.md	Puffer-Gatter	Gegenstand
+gegenstaende/waehler.md	Wähler	Gegenstand
+gegenstaende/rs_speicher.md	RS-Speicher	Gegenstand
+gegenstaende/umschalt_speicher.md	Umschalt-Speicher	Gegenstand
+gegenstaende/d_speicher.md	D-Speicher	Gegenstand
+gegenstaende/logikplatte.md	Logikplatte	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element
