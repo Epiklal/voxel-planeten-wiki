@@ -5,4 +5,4 @@
 - **Beute**: Rindfleisch und Leder, Schweine- und Hammelfleisch, Hühnchen und Federn, Schwarzpulver, Faden und Spinnenaugen. Brennend gestorben: schon gebraten. Knochen und verrottetes Fleisch gibt es am Handelsterminal.
 - **Kämpfen**: Linksklick auf ein Wesen (oder mit den Schusswaffen). Rechtsklick auf ein Tier füttert bzw. schert es.
 - Neu herzustellen: gebratenes Fleisch (Ofen), Knochenmehl (Dünger: Rechtsklick lässt Pflanzen wachsen, auf Gras sprießen Blumen), Wolle aus Faden, Schere, Papier, Bücher, Bücherregal, Kuchen.
-- `/beschwören <Wesen> [Anzahl]` (wie `/summon`, Admin) lässt Wesen vor einem erscheinen (auch `Fremdtier` – der Reihe nach alle Arten dieser Welt – und `Fremdräuber`).
+- `/beschwören <Wesen> [Anzahl]` (wie `/summon`, Admin) lässt Wesen vor einem erscheinen (auch `Fremdtier` und `Fremdräuber` – der Reihe nach alle Arten dieser Welt).
