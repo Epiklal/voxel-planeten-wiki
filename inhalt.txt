@@ -693,6 +693,9 @@ gegenstaende/lichtsensor.md	Lichtsensor	Gegenstand
 gegenstaende/regensensor.md	Regensensor	Gegenstand
 gegenstaende/bewegungsmelder.md	Bewegungsmelder	Gegenstand
 gegenstaende/eigene_platine.md	Eigene Platine	Gegenstand
+gegenstaende/rohes_fremdfleisch.md	Rohes Fremdfleisch	Gegenstand
+gegenstaende/gebratenes_fremdfleisch.md	Gebratenes Fremdfleisch	Gegenstand
+gegenstaende/fremdhaut.md	Fremdhaut	Gegenstand
 elemente/wasserstoff.md	Wasserstoff	Element
 elemente/helium.md	Helium	Element
 elemente/lithium.md	Lithium	Element

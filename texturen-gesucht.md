@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2185 Texturen sind noch 2185 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2188 Texturen sind noch 2188 mit KI gemacht.
 
 ## So machst du mit
 
@@ -893,7 +893,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/zirkon.png" class="textur" width="48" height="48" alt=""> | `bloecke/zirkon.png` |
 | <img src="bilder/texturen/bloecke/zuckerrohr.png" class="textur" width="48" height="48" alt=""> | `bloecke/zuckerrohr.png` |
 
-## Gegenstände (1296)
+## Gegenstände (1299)
 
 | | Datei |
 |---|---|
@@ -1260,6 +1260,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/foerderband_1016.png" class="textur" width="48" height="48" alt=""> | `items/foerderband_1016.png` |
 | <img src="bilder/texturen/items/forschungsreaktor_1125.png" class="textur" width="48" height="48" alt=""> | `items/forschungsreaktor_1125.png` |
 | <img src="bilder/texturen/items/francium_2087.png" class="textur" width="48" height="48" alt=""> | `items/francium_2087.png` |
+| <img src="bilder/texturen/items/fremdhaut_1371.png" class="textur" width="48" height="48" alt=""> | `items/fremdhaut_1371.png` |
 | <img src="bilder/texturen/items/fulleren_1154.png" class="textur" width="48" height="48" alt=""> | `items/fulleren_1154.png` |
 | <img src="bilder/texturen/items/gadolinium_2064.png" class="textur" width="48" height="48" alt=""> | `items/gadolinium_2064.png` |
 | <img src="bilder/texturen/items/gadoliniumaxt_3513.png" class="textur" width="48" height="48" alt=""> | `items/gadoliniumaxt_3513.png` |
@@ -1272,6 +1273,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/galinstan_2228.png" class="textur" width="48" height="48" alt=""> | `items/galinstan_2228.png` |
 | <img src="bilder/texturen/items/gallium_2031.png" class="textur" width="48" height="48" alt=""> | `items/gallium_2031.png` |
 | <img src="bilder/texturen/items/galliumarsenid_1147.png" class="textur" width="48" height="48" alt=""> | `items/galliumarsenid_1147.png` |
+| <img src="bilder/texturen/items/gebratenes_fremdfleisch_1370.png" class="textur" width="48" height="48" alt=""> | `items/gebratenes_fremdfleisch_1370.png` |
 | <img src="bilder/texturen/items/gebratenes_hammelfleisch_1208.png" class="textur" width="48" height="48" alt=""> | `items/gebratenes_hammelfleisch_1208.png` |
 | <img src="bilder/texturen/items/gebratenes_huehnchen_1210.png" class="textur" width="48" height="48" alt=""> | `items/gebratenes_huehnchen_1210.png` |
 | <img src="bilder/texturen/items/gebratenes_schweinefleisch_1206.png" class="textur" width="48" height="48" alt=""> | `items/gebratenes_schweinefleisch_1206.png` |
@@ -1827,6 +1829,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/items/rhodiumspitzhacke_3360.png" class="textur" width="48" height="48" alt=""> | `items/rhodiumspitzhacke_3360.png` |
 | <img src="bilder/texturen/items/rhodiumstiefel_3366.png" class="textur" width="48" height="48" alt=""> | `items/rhodiumstiefel_3366.png` |
 | <img src="bilder/texturen/items/roentgenium_2111.png" class="textur" width="48" height="48" alt=""> | `items/roentgenium_2111.png` |
+| <img src="bilder/texturen/items/rohes_fremdfleisch_1369.png" class="textur" width="48" height="48" alt=""> | `items/rohes_fremdfleisch_1369.png` |
 | <img src="bilder/texturen/items/rohes_hammelfleisch_1207.png" class="textur" width="48" height="48" alt=""> | `items/rohes_hammelfleisch_1207.png` |
 | <img src="bilder/texturen/items/rohes_huehnchen_1209.png" class="textur" width="48" height="48" alt=""> | `items/rohes_huehnchen_1209.png` |
 | <img src="bilder/texturen/items/rohes_rindfleisch_1203.png" class="textur" width="48" height="48" alt=""> | `items/rohes_rindfleisch_1203.png` |

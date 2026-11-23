@@ -1,6 +1,6 @@
 # Alle Gegenstände
 
-810 Stück, sortiert wie im Inventar.
+813 Stück, sortiert wie im Inventar.
 
 ## Fabrik (22)
 
@@ -700,7 +700,7 @@
 | ![](bilder/gegenstaende/kanthalbeinschutz.png) | [Kanthalbeinschutz](gegenstaende/kanthalbeinschutz.md) |
 | ![](bilder/gegenstaende/kanthalstiefel.png) | [Kanthalstiefel](gegenstaende/kanthalstiefel.md) |
 
-## Zutaten (102)
+## Zutaten (105)
 
 | | Name |
 |---|---|
@@ -806,6 +806,9 @@
 | ![](bilder/gegenstaende/lungenimplantat.png) | [Lungenimplantat](gegenstaende/lungenimplantat.md) |
 | ![](bilder/gegenstaende/kunstherz.png) | [Kunstherz](gegenstaende/kunstherz.md) |
 | ![](bilder/gegenstaende/bio_filter.png) | [Bio-Filter](gegenstaende/bio_filter.md) |
+| ![](bilder/gegenstaende/rohes_fremdfleisch.png) | [Rohes Fremdfleisch](gegenstaende/rohes_fremdfleisch.md) |
+| ![](bilder/gegenstaende/gebratenes_fremdfleisch.png) | [Gebratenes Fremdfleisch](gegenstaende/gebratenes_fremdfleisch.md) |
+| ![](bilder/gegenstaende/fremdhaut.png) | [Fremdhaut](gegenstaende/fremdhaut.md) |
 
 ## Chemie (35)
 

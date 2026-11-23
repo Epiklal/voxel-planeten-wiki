@@ -5,6 +5,7 @@
 ## Herstellen
 
 - 4 × [Verrottetes Fleisch](../gegenstaende/verrottetes_fleisch.md) → 1 × [Leder](../gegenstaende/leder.md) (Ofen, 8 s)
+- 1 × [Fremdhaut](../gegenstaende/fremdhaut.md) → 1 × [Leder](../gegenstaende/leder.md) (Werkbank, 2 s)
 
 ## Verwendet für
 
