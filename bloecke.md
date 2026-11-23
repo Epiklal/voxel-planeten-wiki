@@ -1,6 +1,6 @@
 # Alle Blöcke
 
-764 Stück, sortiert wie im Inventar.
+766 Stück, sortiert wie im Inventar.
 
 ## Baublöcke (408)
 
@@ -415,7 +415,7 @@
 | ![](bilder/bloecke/notenblock.png) | [Notenblock](bloecke/notenblock.md) |
 | ![](bilder/bloecke/zielblock.png) | [Zielblock](bloecke/zielblock.md) |
 
-## Natur (266)
+## Natur (268)
 
 | | Name |
 |---|---|
@@ -602,6 +602,8 @@
 | ![](bilder/bloecke/mangrovenzweig.png) | [Mangrovenzweig](bloecke/mangrovenzweig.md) |
 | ![](bilder/bloecke/schalter_2.png) | [Schalter](bloecke/schalter_2.md) |
 | ![](bilder/bloecke/taster_2.png) | [Taster](bloecke/taster_2.md) |
+| ![](bilder/bloecke/fremdkristall.png) | [Fremdkristall](bloecke/fremdkristall.md) |
+| ![](bilder/bloecke/leuchtkristall.png) | [Leuchtkristall](bloecke/leuchtkristall.md) |
 | ![](bilder/bloecke/akaziensetzling.png) | [Akaziensetzling](bloecke/akaziensetzling.md) |
 | ![](bilder/bloecke/akazienholz.png) | [Akazienholz](bloecke/akazienholz.md) |
 | ![](bilder/bloecke/zierlauch.png) | [Zierlauch](bloecke/zierlauch.md) |

@@ -1,6 +1,6 @@
 # Texturen gesucht
 
-Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2183 Texturen sind noch 2183 mit KI gemacht.
+Viele Texturen in ExoGrid Industry sind noch mit KI erstellt. Wir wollen sie nach und nach durch gemalte Pixel-Texturen ersetzen und dabei auf die Community hören: Von 2185 Texturen sind noch 2185 mit KI gemacht.
 
 ## So machst du mit
 
@@ -33,7 +33,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/gui/platz.png" style="width:54px;height:54px" alt=""> | `gui/platz.png` | Platz im Inventar und in der Schnellleiste | 18 × 18 | 2 | – |
 | <img src="bilder/texturen/gui/platz_auswahl.png" style="width:60px;height:60px" alt=""> | `gui/platz_auswahl.png` | Gewählter Platz der Schnellleiste | 20 × 20 | 3 | – |
 
-## Blöcke (853)
+## Blöcke (855)
 
 | | Datei |
 |---|---|
@@ -274,6 +274,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/frachthafen_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/frachthafen_oben.png` |
 | <img src="bilder/texturen/bloecke/frachthafen_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/frachthafen_seite.png` |
 | <img src="bilder/texturen/bloecke/frachthafen_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/frachthafen_unten.png` |
+| <img src="bilder/texturen/bloecke/fremdkristall.png" class="textur" width="48" height="48" alt=""> | `bloecke/fremdkristall.png` |
 | <img src="bilder/texturen/bloecke/fusionsreaktor_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/fusionsreaktor_oben.png` |
 | <img src="bilder/texturen/bloecke/fusionsreaktor_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/fusionsreaktor_seite.png` |
 | <img src="bilder/texturen/bloecke/fusionsreaktor_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/fusionsreaktor_unten.png` |
@@ -519,6 +520,7 @@ Fenster, Knöpfe, Eingabefelder, Schieberegler und Inventarplätze zeichnet das 
 | <img src="bilder/texturen/bloecke/leichter_rumpf_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/leichter_rumpf_unten.png` |
 | <img src="bilder/texturen/bloecke/leiter.png" class="textur" width="48" height="48" alt=""> | `bloecke/leiter.png` |
 | <img src="bilder/texturen/bloecke/lepidolith.png" class="textur" width="48" height="48" alt=""> | `bloecke/lepidolith.png` |
+| <img src="bilder/texturen/bloecke/leuchtkristall.png" class="textur" width="48" height="48" alt=""> | `bloecke/leuchtkristall.png` |
 | <img src="bilder/texturen/bloecke/lift_oben.png" class="textur" width="48" height="48" alt=""> | `bloecke/lift_oben.png` |
 | <img src="bilder/texturen/bloecke/lift_seite.png" class="textur" width="48" height="48" alt=""> | `bloecke/lift_seite.png` |
 | <img src="bilder/texturen/bloecke/lift_unten.png" class="textur" width="48" height="48" alt=""> | `bloecke/lift_unten.png` |

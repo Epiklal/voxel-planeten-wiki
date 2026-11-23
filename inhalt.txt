@@ -333,6 +333,8 @@ bloecke/taster.md	Taster	Block
 bloecke/taster_2.md	Taster	Block
 bloecke/ablaufsteuerung.md	Ablaufsteuerung	Block
 bloecke/platinenwerkbank.md	Platinenwerkbank	Block
+bloecke/fremdkristall.md	Fremdkristall	Block
+bloecke/leuchtkristall.md	Leuchtkristall	Block
 gegenstaende/kohle.md	Kohle	Gegenstand
 elemente/eisenbarren.md	Eisenbarren	Element
 elemente/kupferbarren.md	Kupferbarren	Element
